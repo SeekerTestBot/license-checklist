@@ -1,32 +1,51 @@
-TAP = ENV["TAP"] || "homebrew/core"
+TAP = "homebrew/core"
+# TAP = ENV["TAP"] || "homebrew/core"
 
 # default: false, set to true to only print formulae missing a license, without links
-SIMPLE_LIST = ENV["SIMPLE_LIST"] || false
+# SIMPLE_LIST = false
+# SIMPLE_LIST = ENV["SIMPLE_LIST"].present?
+SIMPLE_LIST = ARGV.include? "simple_list"
 
 # default: true, set to true to print number of formulae with license
-PRINT_TOTAL = ENV["PRINT_TOTAL"] || true
+# PRINT_TOTAL = true
+# PRINT_TOTAL = ENV["NO_PRINT_TOTAL"].nil?
+PRINT_TOTAL = !ARGV.include?("no_print_total")
 
 # default: true
-PRINT_LIST = ENV["PRINT_LIST"] || true
+# PRINT_LIST = true
+# PRINT_LIST = ENV["NO_PRINT_LIST"].nil?
+PRINT_LIST = !ARGV.include?("no_print_list")
 
 # default: true, set to false to print all formulae as a single list
-PRINT_SECTIONS = ENV["PRINT_SECTIONS"] || true
+# PRINT_SECTIONS = true
+# PRINT_SECTIONS = ENV["NO_PRINT_SECTIONS"].nil?
+PRINT_SECTIONS = !ARGV.include?("no_print_sections")
 
 # default: "closed", possible values: "open" | "closed" | "headings"
-SPOILER_TYPE = ENV["SPOILER_TYPE"] || "closed"
+# SPOILER_TYPE = "closed"
+# SPOILER_TYPE = ENV["SPOILER_TYPE"] || "closed"
+SPOILER_TYPE = case
+when ARGV.include?("open_spoiler") then "open"
+when ARGV.include?("headings") then "headings"
+else "closed"
+end
 
 # default: true
-INCLUDE_LINKS = ENV["INCLUDE_LINKS"] || true
+# INCLUDE_LINKS = true
+# INCLUDE_LINKS = ENV["NO_INCLUDE_LINKS"].nil?
+INCLUDE_LINKS = !ARGV.include?("no_include_links")
 
 # default: false, set to false to include links only for formulae missing a license
-INCLUDE_LINKS_FOR_ALL = ENV["INCLUDE_LINKS_FOR_ALL"] || false
+# INCLUDE_LINKS_FOR_ALL = false
+# INCLUDE_LINKS_FOR_ALL = ENV["INCLUDE_LINKS_FOR_ALL"].present?
+INCLUDE_LINKS_FOR_ALL = ARGV.include? "include_links_for_all"
 
 total = 0
 licensed = 0
 
 current_letter = nil
 
-formulae = Formula.to_a.sort
+formulae = Tap.fetch(TAP).formula_files.map(&Formulary.method(:factory))
 
 formulae.each { |formula|
   next if formula.tap.name != TAP
