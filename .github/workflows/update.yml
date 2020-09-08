@@ -33,7 +33,7 @@ jobs:
       - name: Update simple.txt
         run: |
           cd $GITHUB_WORKSPACE
-          brew ruby print-license-checklist.rb simple_list > simple.txt
+          brew ruby print-license-checklist.rb simple_list no_print_total > simple.txt
           echo >> simple.txt
 
       - name: Commit checklists
