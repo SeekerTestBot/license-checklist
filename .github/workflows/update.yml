@@ -25,19 +25,16 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           brew ruby print-license-checklist.rb > readme.md
-          echo >> readme.md
 
-      - name: Update headings.md
+      - name: Update all.md
         run: |
           cd $GITHUB_WORKSPACE
-          brew ruby print-license-checklist.rb headings > headings.md
-          echo >> headings.md
+          brew ruby print-license-checklist.rb headings > all.md
 
-      - name: Update simple.txt
+      - name: Update remaining.txt
         run: |
           cd $GITHUB_WORKSPACE
-          brew ruby print-license-checklist.rb simple_list no_print_total > simple.txt
-          echo >> simple.txt
+          brew ruby print-license-checklist.rb simple_list no_print_total > remaining.txt
 
       - name: Commit checklists
         uses: stefanzweifel/git-auto-commit-action@v4
