@@ -26,7 +26,7 @@ licensed = 0
 
 current_letter = nil
 
-formulae = Formula.sort
+formulae = Formula.to_a.sort
 
 formulae.each { |formula|
   next if formula.tap.name != TAP
