@@ -45,7 +45,7 @@ licensed = 0
 
 current_letter = nil
 
-formulae = Tap.fetch(TAP).formula_files.map(&Formulary.method(:factory))
+formulae = Tap.fetch(TAP).formula_files.map(&Formulary.method(:factory)).sort
 
 formulae.each { |formula|
   next if formula.tap.name != TAP
