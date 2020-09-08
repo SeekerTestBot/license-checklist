@@ -1,10 +1,8 @@
 aacgain
 aalib
-abcl
 abnfgen
 abuse
 aces_container
-acme
 adwaita-icon-theme
 aescrypt
 aescrypt-packetizer
@@ -36,7 +34,6 @@ app-engine-java
 app-engine-python
 apparix
 aqbanking
-aravis
 archivemount
 argp-standalone
 argtable
@@ -63,12 +60,10 @@ avrdude
 aws-cfn-tools
 b43-fwcutter
 bacula-fd
-ballerina
 baobab
 bar
 baresip
 base64
-basex
 bash-completion
 bazaar
 bbcolors
@@ -82,14 +77,11 @@ berkeley-db@4
 bfg
 bibtex2html
 bigloo
-bind
 bioawk
 bison@2.7
 bitchx
-black
 blahtexml
 blazegraph
-bmake
 bnd
 bochs
 bogofilter
@@ -120,7 +112,6 @@ cabocha
 cadaver
 cafeobj
 calc
-calceph
 camellia
 cap-completion
 carton
@@ -202,7 +193,6 @@ dante
 daq
 darkhttpd
 darkstat
-dash
 davmail
 dbus
 dbus-glib
@@ -215,7 +205,6 @@ ddate
 ddd
 deark
 delta
-dependency-check
 deployer
 devtodo
 dgen
@@ -271,7 +260,6 @@ eccodes
 ecl
 ecm
 ed
-efl
 einstein
 ekhtml
 elb-tools
@@ -324,7 +312,6 @@ fmsx
 fondu
 foremost
 fortune
-fox
 fragroute
 freediameter
 freedink
@@ -398,6 +385,7 @@ gnu-go
 gnu-indent
 gnu-prolog
 gnu-typist
+gnupg
 gnupg@1.4
 gnuski
 gobject-introspection
@@ -420,13 +408,12 @@ graphene
 graphicsmagick
 griffon
 gromacs
-groovy
+groonga
 groovysdk
 groovyserv
 growly
 gsettings-desktop-schemas
 gsmartcontrol
-gspell
 gssdp
 gst-editing-services
 gst-plugins-bad
@@ -477,13 +464,11 @@ hevea
 hfsutils
 hilite
 hmmer
-homesick-completion
 hopenpgp-tools
 hornetq
 hostdb
 hping
 hspell
-htmlcleaner
 htmlcompressor
 htmlcxx
 htpdate
@@ -506,7 +491,6 @@ imap-uw
 inetutils
 inform6
 ioke
-ios-deploy
 iozone
 ip_relay
 ipbt
@@ -544,7 +528,6 @@ jove
 jpeginfo
 jpegrescan
 jrtplib
-jruby
 jslint4java
 jsmin
 json-glib
@@ -663,7 +646,6 @@ libprotoident
 libquicktime
 libquvi
 librasterlite
-libraw
 librcsc
 libre
 libreadline-java
@@ -694,7 +676,6 @@ libvoikko
 libwmf
 libwpd
 libwpg
-libwps
 libxml++
 libxmlsec1
 libxmp
@@ -758,7 +739,6 @@ midicsv
 mimic
 minbif
 minicom
-minidlna
 minimal-racket
 minimodem
 miniupnpc
@@ -783,7 +763,6 @@ monit
 monitoring-plugins
 monkeysphere
 montage
-moreutils
 morse
 most
 mp3gain
@@ -801,7 +780,6 @@ mscgen
 mtoc
 musepack
 mussh
-mvnvm
 mycli
 myman
 mysql++
@@ -821,7 +799,6 @@ ncview
 neatvi
 negfix8
 neon
-netpbm
 netperf
 newlisp
 nexus
@@ -922,7 +899,6 @@ pip-completion
 pkcrack
 pkg-config
 pktanon
-plantuml
 plod
 ploticus
 plotutils
@@ -1023,15 +999,11 @@ runit
 rxvt-unicode
 s-nail
 safe-rm
-sane-backends
 saxon
 saxon-b
 sbcl
 sblim-sfcc
-sbuild
-scala
 scala@2.11
-scala@2.12
 scalastyle
 sceptre
 scheme48
@@ -1080,7 +1052,6 @@ sng
 soci
 sofia-sip
 softhsm
-solarus
 solid
 sollya
 somagic
@@ -1094,7 +1065,6 @@ sparse
 speech-tools
 speex
 spice-gtk
-spigot
 spim
 spiped
 splint
@@ -1226,13 +1196,11 @@ vassh
 vbindiff
 vc4asm
 vcdimager
-vcpkg
 vcprompt
 vcs
 vdirsyncer
 vera++
 vert
-vert.x
 vf
 vfuse
 vgmstream
@@ -1262,7 +1230,6 @@ vsearch
 vsftpd
 vsts-cli
 vte3
-vtk
 vttest
 w-calc
 w3m
@@ -1338,7 +1305,6 @@ xtitle
 yaf
 yafc
 yamdi
-yarn
 yasm
 yazpp
 yconalyzer
@@ -1351,7 +1317,6 @@ z3
 z80asm
 zanata-client
 zbackup
-zbar
 zdelta
 zebra
 zelda-roth-se
