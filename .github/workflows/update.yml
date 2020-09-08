@@ -1,0 +1,41 @@
+name: Update checklists
+
+on:
+  workflow_dispatch:
+
+env:
+  HOMEBREW_NO_AUTO_UPDATE: 1
+
+jobs:
+
+  update:
+    if: ${{ !github.event.inputs.skip_core }}
+    runs-on: macos-latest
+    steps:
+      - name: Update Homebrew
+        run: brew update-reset
+
+      - name: Check out repository
+        uses: actions/checkout@main
+
+      - name: Update readme.md
+        run: |
+          brew ruby print-license-checklist.rb > readme.md || true
+          echo >> readme.md
+
+      - name: Update headings.md
+        run: |
+          export SPOILER_TYPE="headings"
+          brew ruby print-license-checklist.rb > headings.md || true
+          echo >> headings.md
+
+      - name: Update simple.txt
+        run: |
+          export SIMPLE_LIST=1
+          brew ruby print-license-checklist.rb > simple.txt || true
+          echo >> simple.txt
+
+      - name: Commit checklists
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update checklists
