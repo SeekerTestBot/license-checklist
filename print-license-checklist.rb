@@ -12,7 +12,7 @@ PRINT_LIST = ENV["PRINT_LIST"] || true
 # default: true, set to false to print all formulae as a single list
 PRINT_SECTIONS = ENV["PRINT_SECTIONS"] || true
 
-# default: "closed", possible values: "open" | "closed" | nil, set to nil to use headings instead of spoilers
+# default: "closed", possible values: "open" | "closed" | "headings"
 SPOILER_TYPE = ENV["SPOILER_TYPE"] || "closed"
 
 # default: true
@@ -63,13 +63,13 @@ formulae.each { |formula|
   end
 
   if first_letter != current_letter
-    if current_letter && SPOILER_TYPE
+    if current_letter && SPOILER_TYPE != "headings"
       puts
       puts "</details>"
     end
     if PRINT_SECTIONS
       puts
-      if SPOILER_TYPE
+      if SPOILER_TYPE != "headings"
         puts "<details#{" #{SPOILER_TYPE}" if SPOILER_TYPE == "open"}><summary>#{first_letter}</summary>"
       else
         puts "### #{first_letter}"
@@ -90,7 +90,7 @@ formulae.each { |formula|
   puts "- [#{checkmark}] #{description}"
 }
 
-if current_letter && SPOILER_TYPE && PRINT_LIST
+if current_letter && SPOILER_TYPE != "headings" && PRINT_LIST
   puts
   puts "</details>"
 end
