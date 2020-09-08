@@ -77,7 +77,7 @@ formulae.each { |formula|
 
   if SIMPLE_LIST
     next if license
-    puts "#{name} "
+    puts "#{name}"
     next
   end
 
