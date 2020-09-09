@@ -1,4 +1,4 @@
-2541 / 5214 (48.7%) of formulae have a valid `license` stanza as of 2020-09-09 08:42:34 UTC.
+2542 / 5214 (48.8%) of formulae have a valid `license` stanza as of 2020-09-09 12:01:34 UTC.
 
 1336 / 5214 (25.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -751,7 +751,7 @@
 - [x] comby: Apache-2.0
 - [ ] commandbox [[homepage](https://www.ortussolutions.com/products/commandbox)] [head] [[stable](https://downloads.ortussolutions.com/ortussolutions/commandbox/5.1.1/commandbox-bin-5.1.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/commandbox.rb)]
 - [ ] compface [[homepage](https://web.archive.org/web/20170720045032/freecode.com/projects/compface)] [head] [[stable](https://mirrorservice.org/sites/ftp.xemacs.org/pub/xemacs/aux/compface-1.5.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/compface.rb)]
-- [ ] composer [[homepage](https://getcomposer.org/)] [head] [[stable](https://getcomposer.org/download/1.10.12/composer.phar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/composer.rb)]
+- [x] composer: MIT
 - [x] conan: MIT
 - [x] concurrencykit: BSD-2-Clause
 - [x] confd: MIT

@@ -345,7 +345,6 @@ colorsvn
 colortail
 commandbox
 compface
-composer
 confluent-platform
 connect
 contacts
