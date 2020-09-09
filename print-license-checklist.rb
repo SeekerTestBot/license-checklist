@@ -98,7 +98,7 @@ formulae.each { |formula|
   end
   checkmark = license_val && deprecated_licenses.empty? ? "x" : " "
   description = name
-  description += ": #{license_val}" if license_val
+  description += ": #{license_val.is_a?(String) ? license_val : "`#{license_val}`"}" if license_val
   description += " (deprecated)" if deprecated_licenses.present?
   if INCLUDE_LINKS && (!license_val || deprecated_licenses.present? || INCLUDE_LINKS_FOR_ALL)
     description += " [#{optional_link("homepage", homepage)}]"
