@@ -1,4 +1,4 @@
-3876 / 5214 (74.3%) of formulae have a `license` stanza as of 2020-09-09 06:17:56 UTC
+3877 / 5214 (74.4%) of formulae have a `license` stanza as of 2020-09-09 08:40:23 UTC
 
 ### A
 
@@ -55,7 +55,7 @@
 - [x] ahoy: MIT
 - [x] aide: GPL-2.0
 - [x] aircrack-ng: GPL-2.0
-- [ ] airshare [[homepage](https://airshare.readthedocs.io/)] [head] [[stable](https://files.pythonhosted.org/packages/cb/a2/d59c18cd6a143bf860c29acb70552b7351fd7e0f56213be86b624601106b/Airshare-0.1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/airshare.rb)]
+- [x] airshare: MIT
 - [ ] airspy [[homepage](https://airspy.com/)] [[head](https://github.com/airspy/airspyone_host.git)] [[stable](https://github.com/airspy/airspyone_host/archive/v1.0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/airspy.rb)]
 - [x] akamai: Apache-2.0
 - [x] akka: Apache-2.0

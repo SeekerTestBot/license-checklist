@@ -21,20 +21,10 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@main
 
-      - name: Update readme.md
+      - name: Update checklists
         run: |
           cd $GITHUB_WORKSPACE
-          brew ruby print-license-checklist.rb > readme.md
-
-      - name: Update all.md
-        run: |
-          cd $GITHUB_WORKSPACE
-          brew ruby print-license-checklist.rb headings > all.md
-
-      - name: Update remaining.txt
-        run: |
-          cd $GITHUB_WORKSPACE
-          brew ruby print-license-checklist.rb simple_list no_print_total > remaining.txt
+          ./update-checklists.sh
 
       - name: Commit checklists
         uses: stefanzweifel/git-auto-commit-action@v4
