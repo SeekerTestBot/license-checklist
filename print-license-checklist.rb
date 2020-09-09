@@ -1,29 +1,20 @@
+require "utils/spdx"
+
 TAP = "homebrew/core"
-# TAP = ENV["TAP"] || "homebrew/core"
 
 # default: false, set to true to only print formulae missing a license, without links
-# SIMPLE_LIST = false
-# SIMPLE_LIST = ENV["SIMPLE_LIST"].present?
-SIMPLE_LIST = ARGV.include? "simple_list"
+SIMPLE_LIST = ARGV.include?("simple_list")
 
 # default: true, set to true to print number of formulae with license
-# PRINT_TOTAL = true
-# PRINT_TOTAL = ENV["NO_PRINT_TOTAL"].nil?
 PRINT_TOTAL = !ARGV.include?("no_print_total")
 
 # default: true
-# PRINT_LIST = true
-# PRINT_LIST = ENV["NO_PRINT_LIST"].nil?
 PRINT_LIST = !ARGV.include?("no_print_list")
 
 # default: true, set to false to print all formulae as a single list
-# PRINT_SECTIONS = true
-# PRINT_SECTIONS = ENV["NO_PRINT_SECTIONS"].nil?
 PRINT_SECTIONS = !ARGV.include?("no_print_sections")
 
 # default: "closed", possible values: "open" | "closed" | "headings"
-# SPOILER_TYPE = "closed"
-# SPOILER_TYPE = ENV["SPOILER_TYPE"] || "closed"
 SPOILER_TYPE = case
 when ARGV.include?("open_spoiler") then "open"
 when ARGV.include?("headings") then "headings"
@@ -31,17 +22,14 @@ else "closed"
 end
 
 # default: true
-# INCLUDE_LINKS = true
-# INCLUDE_LINKS = ENV["NO_INCLUDE_LINKS"].nil?
 INCLUDE_LINKS = !ARGV.include?("no_include_links")
 
 # default: false, set to false to include links only for formulae missing a license
-# INCLUDE_LINKS_FOR_ALL = false
-# INCLUDE_LINKS_FOR_ALL = ENV["INCLUDE_LINKS_FOR_ALL"].present?
-INCLUDE_LINKS_FOR_ALL = ARGV.include? "include_links_for_all"
+INCLUDE_LINKS_FOR_ALL = ARGV.include?("include_links_for_all")
 
-total = 0
-licensed = 0
+total_count = 0
+licensed_count = 0
+valid_count = 0
 
 current_letter = nil
 
@@ -49,13 +37,22 @@ formulae = Tap.fetch(TAP).formula_files.map(&Formulary.method(:factory)).sort
 
 formulae.each { |formula|
   next if formula.tap.name != TAP
-  total += 1
-  licensed += 1 if formula.license
+  total_count += 1
+  if formula.license
+    licensed_count += 1
+    licenses, = SPDX.parse_license_expression(formula.license)
+    deprecated_licenses = licenses.filter { |license| SPDX.deprecated_license?(license) }
+    valid_count += 1 if deprecated_licenses.empty?
+  end
 }
 
 if PRINT_TOTAL
-  percent = licensed.to_f / total.to_f * 100.0
-  puts "#{licensed} / #{total} (#{percent.round(1)}%) of formulae have a `license` stanza as of #{Time.now.utc}"
+  deprecated_count = licensed_count - valid_count
+  valid_percent = valid_count.to_f / total_count.to_f * 100.0
+  deprecated_percent = deprecated_count.to_f / total_count.to_f * 100.0
+  puts "#{valid_count} / #{total_count} (#{valid_percent.round(1)}%) of formulae have a valid `license` stanza as of #{Time.now.utc}."
+  puts
+  puts "#{deprecated_count} / #{total_count} (#{deprecated_percent.round(1)}%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`)."
 end
 
 return unless PRINT_LIST
@@ -67,16 +64,18 @@ end
 formulae.each { |formula|
   next if formula.tap.name != TAP
 
-  license = formula.license
+  license_val = formula.license
   name = formula.name
   first_letter = name[0].upcase
   homepage = formula.homepage
   head = formula.head&.url
   stable = formula.stable&.url
   formula_link = "https://github.com/Homebrew/homebrew-core/blob/master/Formula/#{name}.rb"
+  licenses, = license_val ? SPDX.parse_license_expression(license_val) : []
+  deprecated_licenses = licenses ? licenses.filter { |license| SPDX.deprecated_license?(license) } : []
 
   if SIMPLE_LIST
-    next if license
+    next if license_val && deprecated_licenses.empty?
     puts name
     next
   end
@@ -97,10 +96,11 @@ formulae.each { |formula|
     end
     current_letter = first_letter
   end
-  checkmark = license ? "x" : " "
+  checkmark = license_val && deprecated_licenses.empty? ? "x" : " "
   description = name
-  description += ": #{license}" if license
-  if INCLUDE_LINKS && (!license || INCLUDE_LINKS_FOR_ALL)
+  description += ": #{license_val}" if license_val
+  description += " (deprecated)" if deprecated_licenses.present?
+  if INCLUDE_LINKS && (!license_val || deprecated_licenses.present? || INCLUDE_LINKS_FOR_ALL)
     description += " [#{optional_link("homepage", homepage)}]"
     description += " [#{optional_link("head", head)}]"
     description += " [#{optional_link("stable", stable)}]"
