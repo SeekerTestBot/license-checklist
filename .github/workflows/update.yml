@@ -12,7 +12,6 @@ env:
 jobs:
 
   update:
-    if: ${{ !github.event.inputs.skip_core }}
     runs-on: macos-latest
     steps:
       - name: Update Homebrew
