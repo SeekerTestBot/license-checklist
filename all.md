@@ -1,4 +1,4 @@
-3872 / 5212 (74.3%) of formulae have a `license` stanza as of 2020-09-08 20:30:23 UTC
+3872 / 5212 (74.3%) of formulae have a `license` stanza as of 2020-09-09 00:44:40 UTC
 
 ### A
 
@@ -592,7 +592,7 @@
 - [x] cfr-decompiler: MIT
 - [x] cfssl: BSD-2-Clause
 - [x] cfv: GPL-2.0
-- [x] cgal: GPL-3.0
+- [x] cgal: GPL-3.0-or-later
 - [x] cgdb: GPL-2.0
 - [ ] cgit [[homepage](https://git.zx2c4.com/cgit/)] [head] [[stable](https://git.zx2c4.com/cgit/snapshot/cgit-1.2.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cgit.rb)]
 - [x] cgl: EPL-1.0
@@ -749,7 +749,7 @@
 - [x] comby: Apache-2.0
 - [ ] commandbox [[homepage](https://www.ortussolutions.com/products/commandbox)] [head] [[stable](https://downloads.ortussolutions.com/ortussolutions/commandbox/5.1.1/commandbox-bin-5.1.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/commandbox.rb)]
 - [ ] compface [[homepage](https://web.archive.org/web/20170720045032/freecode.com/projects/compface)] [head] [[stable](https://mirrorservice.org/sites/ftp.xemacs.org/pub/xemacs/aux/compface-1.5.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/compface.rb)]
-- [ ] composer [[homepage](https://getcomposer.org/)] [head] [[stable](https://getcomposer.org/download/1.10.10/composer.phar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/composer.rb)]
+- [ ] composer [[homepage](https://getcomposer.org/)] [head] [[stable](https://getcomposer.org/download/1.10.12/composer.phar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/composer.rb)]
 - [x] conan: MIT
 - [x] concurrencykit: BSD-2-Clause
 - [x] confd: MIT
