@@ -1,4 +1,4 @@
-3872 / 5212 (74.3%) of formulae have a `license` stanza as of 2020-09-09 00:44:40 UTC
+3876 / 5214 (74.3%) of formulae have a `license` stanza as of 2020-09-09 06:17:56 UTC
 
 ### A
 
@@ -140,7 +140,7 @@
 - [x] appium: Apache-2.0
 - [x] appledoc: Apache-2.0
 - [x] appscale-tools: Apache-2.0
-- [x] appstream-glib: LGPL-2.1
+- [x] appstream-glib: LGPL-2.1-or-later
 - [x] apr: Apache-2.0
 - [x] apr-util: Apache-2.0
 - [x] apt-dater: GPL-2.0
@@ -889,7 +889,7 @@
 - [ ] dafny [[homepage](https://github.com/dafny-lang/dafny/blob/master/README.md)] [head] [[stable](https://github.com/dafny-lang/dafny/archive/v2.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dafny.rb)]
 - [ ] dante [[homepage](https://www.inet.no/dante/)] [head] [[stable](https://www.inet.no/dante/files/dante-1.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dante.rb)]
 - [ ] daq [[homepage](https://www.snort.org/)] [head] [[stable](https://www.snort.org/downloads/snort/daq-2.0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/daq.rb)]
-- [x] dar: GPL-2.0
+- [x] dar: GPL-2.0-or-later
 - [x] darcs: GPL-2.0-or-later
 - [x] dark-mode: MIT
 - [ ] darkhttpd [[homepage](https://unix4lyfe.org/darkhttpd/)] [head] [[stable](https://unix4lyfe.org/darkhttpd/darkhttpd-1.12.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/darkhttpd.rb)]
@@ -910,6 +910,7 @@
 - [ ] davmail [[homepage](https://davmail.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/davmail/davmail/5.5.1/davmail-5.5.1-3299.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/davmail.rb)]
 - [x] db-vcs: MIT
 - [x] dbacl: GPL-3.0
+- [x] dbdeployer: Apache-2.0
 - [x] dbhash: blessing
 - [x] dbmate: MIT
 - [ ] dbus [[homepage](https://wiki.freedesktop.org/www/Software/dbus)] [[head](https://anongit.freedesktop.org/git/dbus/dbus.git)] [[stable](https://dbus.freedesktop.org/releases/dbus/dbus-1.12.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dbus.rb)]
@@ -1143,7 +1144,7 @@
 - [ ] easy-git [[homepage](https://people.gnome.org/~newren/eg/)] [head] [[stable](https://people.gnome.org/~newren/eg/download/1.7.5.2/eg)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/easy-git.rb)]
 - [ ] easy-tag [[homepage](https://projects.gnome.org/easytag)] [head] [[stable](https://download.gnome.org//sources/easytag/2.4/easytag-2.4.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/easy-tag.rb)]
 - [x] easyengine: MIT
-- [x] easyrpg-player: GPL-3.0
+- [x] easyrpg-player: GPL-3.0-or-later
 - [ ] ebook-tools [[homepage](https://sourceforge.net/projects/ebook-tools/)] [head] [[stable](https://downloads.sourceforge.net/project/ebook-tools/ebook-tools/0.2.2/ebook-tools-0.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ebook-tools.rb)]
 - [ ] ec2-ami-tools [[homepage](https://aws.amazon.com/developertools/368)] [head] [[stable](https://ec2-downloads.s3.amazonaws.com/ec2-ami-tools-1.5.7.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ec2-ami-tools.rb)]
 - [ ] ec2-api-tools [[homepage](https://aws.amazon.com/developertools/351)] [head] [[stable](https://ec2-downloads.s3.amazonaws.com/ec2-api-tools-1.7.5.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ec2-api-tools.rb)]
@@ -1182,7 +1183,7 @@
 - [x] emacs-clang-complete-async: GPL-3.0
 - [x] emacs-dracula: MIT
 - [x] embree: Apache-2.0
-- [ ] embulk [[homepage](https://www.embulk.org/)] [head] [[stable](https://bintray.com/artifact/download/embulk/maven/embulk-0.9.23.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/embulk.rb)]
+- [x] embulk: Apache-2.0
 - [x] emojify: MIT
 - [x] emp: BSD-2-Clause
 - [x] empty: BSD-3-Clause
@@ -1571,7 +1572,7 @@
 - [x] gistit: MIT
 - [x] git: GPL-2.0
 - [x] git-absorb: BSD-3-Clause
-- [ ] git-annex [[homepage](https://git-annex.branchable.com/)] [[head](git://git-annex.branchable.com/)] [[stable](https://hackage.haskell.org/package/git-annex-8.20200810/git-annex-8.20200810.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-annex.rb)]
+- [x] git-annex: {:all_of=>["AGPL-3.0-or-later", "BSD-2-Clause", "BSD-3-Clause", "GPL-2.0-only", "GPL-3.0-or-later", "MIT"]}
 - [x] git-annex-remote-rclone: GPL-3.0
 - [x] git-appraise: Apache-2.0
 - [x] git-archive-all: MIT
@@ -4681,6 +4682,7 @@
 - [x] terragrunt: MIT
 - [x] terrahelp: Apache-2.0
 - [x] terrahub: MPL-2.0
+- [x] terrascan: Apache-2.0
 - [x] tesseract: Apache-2.0
 - [x] tesseract-lang: Apache-2.0
 - [x] testdisk: GPL-2.0

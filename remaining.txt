@@ -264,7 +264,6 @@ einstein
 ekhtml
 elb-tools
 elinks
-embulk
 enscript
 ent
 ephemeralpg
@@ -358,7 +357,6 @@ ghex
 gibbslda
 gif2png
 giflib
-git-annex
 git-crypt
 git-hooks
 git-number
