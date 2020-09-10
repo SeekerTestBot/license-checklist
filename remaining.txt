@@ -1,7 +1,4 @@
-a2ps
 a52dec
-aacgain
-aalib
 aamath
 aardvark_shell_utils
 abcde
@@ -566,7 +563,6 @@ exact-image
 exempi
 exif
 exiftags
-exiftool
 exiftran
 exim
 exiv2
@@ -940,7 +936,6 @@ ht
 html2text
 htmlcompressor
 htmlcxx
-htmldoc
 htpdate
 http_load
 httpdiff
@@ -1133,7 +1128,6 @@ ledit
 leela-zero
 lemon
 lensfun
-less
 lesspipe
 lesstif
 lft
@@ -1163,7 +1157,6 @@ libbitcoin-node
 libbitcoin-protocol
 libbitcoin-server
 libbladerf
-libbluray
 libbpg
 libbtbb
 libcanberra
@@ -1237,7 +1230,6 @@ libgsf
 libgsm
 libgtop
 libgweather
-libhdhomerun
 libhid
 libhttpserver
 libical
@@ -1742,7 +1734,6 @@ opencbm
 openconnect
 opencsg
 opendbx
-openfortivpn
 openjazz
 openjdk
 openjdk@11
@@ -1837,8 +1828,6 @@ peg
 perceptualdiff
 percona-server
 percona-xtrabackup
-petsc
-petsc-complex
 pev
 pg_top
 pgbouncer
@@ -1964,7 +1953,6 @@ pyqt
 pyside
 python-markdown
 pytouhou
-q
 qalculate-gtk
 qbs
 qca
@@ -2091,7 +2079,6 @@ s-nail
 s3-backer
 s3cmd
 s3ql
-safe-rm
 saldl
 sampler
 savana
@@ -2214,7 +2201,6 @@ sparse
 spatialite-gui
 spatialite-tools
 speech-tools
-speex
 sphinx
 spice-gtk
 spim
@@ -2310,8 +2296,6 @@ teapot
 teem
 teensy_loader_cli
 telegram-cli
-telnet
-telnetd
 template-glib
 tepl
 term
@@ -2434,7 +2418,6 @@ uru
 urweb
 usbredir
 userspace-rcu
-utf8proc
 util-linux
 utimer
 uudeview
@@ -2525,7 +2508,6 @@ webfs
 webkit2png
 weboob
 weechat
-wget
 wgetpaste
 whatmask
 when
