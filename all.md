@@ -1,4 +1,4 @@
-2542 / 5214 (48.8%) of formulae have a valid `license` stanza as of 2020-09-09 12:01:34 UTC.
+2542 / 5214 (48.8%) of formulae have a valid `license` stanza as of 2020-09-10 00:01:58 UTC.
 
 1336 / 5214 (25.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -579,7 +579,7 @@
 - [ ] center-im [[homepage](https://www.centerim.org/index.php/Main_Page)] [head] [[stable](https://www.centerim.org/download/releases/centerim-4.22.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/center-im.rb)]
 - [x] cereal: BSD-3-Clause
 - [ ] ceres-solver [[homepage](http://ceres-solver.org/)] [[head](https://ceres-solver.googlesource.com/ceres-solver.git)] [[stable](http://ceres-solver.org/ceres-solver-1.14.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ceres-solver.rb)]
-- [ ] cern-ndiff [[homepage](https://mad.web.cern.ch/mad/)] [[head](https://github.com/MethodicalAcceleratorDesign/MAD-X.git)] [[stable](https://github.com/MethodicalAcceleratorDesign/MAD-X/archive/5.06.00.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cern-ndiff.rb)]
+- [ ] cern-ndiff [[homepage](https://mad.web.cern.ch/mad/)] [[head](https://github.com/MethodicalAcceleratorDesign/MAD-X.git)] [[stable](https://github.com/MethodicalAcceleratorDesign/MAD-X/archive/5.06.01.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cern-ndiff.rb)]
 - [x] certbot: Apache-2.0
 - [x] certigo: Apache-2.0
 - [x] certstrap: Apache-2.0
@@ -1752,7 +1752,7 @@
 - [x] goffice: `{:any_of=>["GPL-3.0-only", "GPL-2.0-only"]}`
 - [x] gofish: Apache-2.0
 - [x] golang-migrate: MIT
-- [ ] golangci-lint: GPL-3.0 (deprecated) [[homepage](https://golangci.com)] [head] [[stable](https://github.com/golangci/golangci-lint.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/golangci-lint.rb)]
+- [ ] golangci-lint: GPL-3.0 (deprecated) [[homepage](https://golangci-lint.run/)] [head] [[stable](https://github.com/golangci/golangci-lint.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/golangci-lint.rb)]
 - [x] gollum: Apache-2.0
 - [x] golo: EPL-2.0
 - [ ] gom [[homepage](https://wiki.gnome.org/Projects/Gom)] [head] [[stable](https://download.gnome.org/sources/gom/0.4/gom-0.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gom.rb)]
