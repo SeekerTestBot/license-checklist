@@ -41,7 +41,6 @@ alure
 amap
 amdatu-bootstrap
 amp
-amtk
 amtterm
 analog
 angband
@@ -852,16 +851,7 @@ gsettings-desktop-schemas
 gsl
 gsmartcontrol
 gssdp
-gst-editing-services
-gst-libav
-gst-plugins-bad
-gst-plugins-base
-gst-plugins-good
-gst-plugins-ugly
-gst-python
-gst-rtsp-server
 gst-validate
-gstreamer
 gstreamermm
 gti
 gtk+
@@ -914,7 +904,6 @@ hdf5@1.10
 hdf5@1.8
 hdt
 hebcal
-hello
 henplus
 hevea
 hexcurse
@@ -1320,7 +1309,6 @@ libreplaygain
 libresample
 librest
 librevenge
-librsvg
 librsync
 librtlsdr
 libsecret
@@ -1950,7 +1938,6 @@ pygobject3
 pyinstaller
 pympress
 pyqt
-pyside
 python-markdown
 pytouhou
 qalculate-gtk
@@ -1968,7 +1955,6 @@ qprint
 qrupdate
 qscintilla2
 qsoas
-qt
 qtads
 qtfaststart
 quasi88
@@ -2084,7 +2070,6 @@ sampler
 savana
 saxon
 saxon-b
-sbcl
 sblim-sfcc
 sc68
 scala@2.11
@@ -2173,7 +2158,6 @@ smpeg
 smpeg2
 sn0int
 snap7
-snapcraft
 snapraid
 sng
 sngrep

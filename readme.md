@@ -1,6 +1,6 @@
-2564 / 5218 (49.1%) of formulae have a valid `license` stanza as of 2020-09-10 12:02:30 UTC.
+2580 / 5218 (49.4%) of formulae have a valid `license` stanza as of 2020-09-11 12:01:49 UTC.
 
-1330 / 5218 (25.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1324 / 5218 (25.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -83,7 +83,7 @@
 - [ ] amp: GPL-3.0 (deprecated) [[homepage](https://amp.rs)] [[head](https://github.com/jmacdonald/amp.git)] [[stable](https://github.com/jmacdonald/amp/archive/0.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/amp.rb)]
 - [x] ampl-mp: MIT
 - [x] amqp-cpp: Apache-2.0
-- [ ] amtk: LGPL-2.1 (deprecated) [[homepage](https://wiki.gnome.org/Projects/Amtk)] [head] [[stable](https://download.gnome.org/sources/amtk/5.0/amtk-5.0.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/amtk.rb)]
+- [x] amtk: LGPL-2.1-or-later
 - [ ] amtterm: GPL-2.0 (deprecated) [[homepage](https://www.kraxel.org/blog/linux/amtterm/)] [[head](https://www.kraxel.org/cgit/amtterm)] [[stable](https://www.kraxel.org/releases/amtterm/amtterm-1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/amtterm.rb)]
 - [ ] analog [[homepage](https://tracker.debian.org/pkg/analog)] [head] [[stable](https://deb.debian.org/debian/pool/main/a/analog/analog_6.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/analog.rb)]
 - [ ] angband: GPL-2.0 (deprecated) [[homepage](https://rephial.org/)] [[head](https://github.com/angband/angband.git)] [[stable](https://rephial.org/downloads/4.2/angband-4.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/angband.rb)]
@@ -1868,16 +1868,16 @@
 - [x] gspell: LGPL-2.1-or-later
 - [ ] gssdp [[homepage](https://wiki.gnome.org/GUPnP/)] [head] [[stable](https://download.gnome.org/sources/gssdp/1.2/gssdp-1.2.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gssdp.rb)]
 - [x] gssh: Apache-2.0
-- [ ] gst-editing-services [[homepage](https://gstreamer.freedesktop.org/modules/gst-editing-services.html)] [head] [[stable](https://gstreamer.freedesktop.org/src/gst-editing-services/gstreamer-editing-services-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-editing-services.rb)]
-- [ ] gst-libav: GPL-2.0 (deprecated) [[homepage](https://gstreamer.freedesktop.org/)] [[head](https://anongit.freedesktop.org/git/gstreamer/gst-libav.git)] [[stable](https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-libav.rb)]
-- [ ] gst-plugins-bad [[homepage](https://gstreamer.freedesktop.org/)] [[head](https://anongit.freedesktop.org/git/gstreamer/gst-plugins-bad.git)] [[stable](https://gstreamer.freedesktop.org/src/gst-plugins-bad/gst-plugins-bad-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-plugins-bad.rb)]
-- [ ] gst-plugins-base [[homepage](https://gstreamer.freedesktop.org/)] [[head](https://anongit.freedesktop.org/git/gstreamer/gst-plugins-base.git)] [[stable](https://gstreamer.freedesktop.org/src/gst-plugins-base/gst-plugins-base-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-plugins-base.rb)]
-- [ ] gst-plugins-good: LGPL-2.1 (deprecated) [[homepage](https://gstreamer.freedesktop.org/)] [[head](https://anongit.freedesktop.org/git/gstreamer/gst-plugins-good.git)] [[stable](https://gstreamer.freedesktop.org/src/gst-plugins-good/gst-plugins-good-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-plugins-good.rb)]
-- [ ] gst-plugins-ugly [[homepage](https://gstreamer.freedesktop.org/)] [[head](https://anongit.freedesktop.org/git/gstreamer/gst-plugins-ugly.git)] [[stable](https://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-plugins-ugly.rb)]
-- [ ] gst-python [[homepage](https://gstreamer.freedesktop.org/modules/gst-python.html)] [head] [[stable](https://gstreamer.freedesktop.org/src/gst-python/gst-python-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-python.rb)]
-- [ ] gst-rtsp-server [[homepage](https://gstreamer.freedesktop.org/modules/gst-rtsp-server.html)] [head] [[stable](https://gstreamer.freedesktop.org/src/gst-rtsp-server/gst-rtsp-server-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-rtsp-server.rb)]
+- [x] gst-editing-services: LGPL-2.0-or-later
+- [x] gst-libav: LGPL-2.1-or-later
+- [x] gst-plugins-bad: LGPL-2.0-or-later
+- [x] gst-plugins-base: LGPL-2.0-or-later
+- [x] gst-plugins-good: LGPL-2.0-or-later
+- [x] gst-plugins-ugly: LGPL-2.0-or-later
+- [x] gst-python: LGPL-2.1-or-later
+- [x] gst-rtsp-server: LGPL-2.0-or-later
 - [ ] gst-validate [[homepage](https://gstreamer.freedesktop.org/data/doc/gstreamer/head/gst-validate/html/)] [[head](https://anongit.freedesktop.org/git/gstreamer/gst-devtools.git)] [[stable](https://gstreamer.freedesktop.org/src/gst-validate/gst-validate-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-validate.rb)]
-- [ ] gstreamer [[homepage](https://gstreamer.freedesktop.org/)] [[head](https://anongit.freedesktop.org/git/gstreamer/gstreamer.git)] [[stable](https://gstreamer.freedesktop.org/src/gstreamer/gstreamer-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gstreamer.rb)]
+- [x] gstreamer: LGPL-2.0-or-later
 - [ ] gstreamermm [[homepage](https://gstreamer.freedesktop.org/bindings/cplusplus.html)] [head] [[stable](https://download.gnome.org/sources/gstreamermm/1.10/gstreamermm-1.10.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gstreamermm.rb)]
 - [ ] gti [[homepage](https://r-wos.org/hacks/gti)] [[head](https://github.com/rwos/gti.git)] [[stable](https://github.com/rwos/gti/archive/v1.7.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gti.rb)]
 - [ ] gtk+ [[homepage](https://gtk.org/)] [[head](https://gitlab.gnome.org/GNOME/gtk.git)] [[stable](https://download.gnome.org/sources/gtk+/2.24/gtk+-2.24.32.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtk+.rb)]
@@ -1967,7 +1967,7 @@
 - [x] heimdal: BSD-3-Clause
 - [x] heksa: Apache-2.0
 - [x] helib: Apache-2.0
-- [ ] hello: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/hello/)] [head] [[stable](https://ftp.gnu.org/gnu/hello/hello-2.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hello.rb)]
+- [x] hello: GPL-3.0-or-later
 - [x] helm: Apache-2.0
 - [x] helm@2: Apache-2.0
 - [x] helmfile: MIT
@@ -2743,7 +2743,7 @@
 - [x] libressl: OpenSSL
 - [ ] librest [[homepage](https://wiki.gnome.org/Projects/Librest)] [head] [[stable](https://download.gnome.org/sources/rest/0.8/rest-0.8.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/librest.rb)]
 - [ ] librevenge [[homepage](https://sourceforge.net/p/libwpd/wiki/librevenge/)] [head] [[stable](https://dev-www.libreoffice.org/src/librevenge-0.0.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/librevenge.rb)]
-- [ ] librsvg: LGPL-2.1 (deprecated) [[homepage](https://wiki.gnome.org/Projects/LibRsvg)] [head] [[stable](https://download.gnome.org/sources/librsvg/2.48/librsvg-2.48.8.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/librsvg.rb)]
+- [x] librsvg: LGPL-2.1-or-later
 - [ ] librsync: LGPL-2.1 (deprecated) [[homepage](https://librsync.github.io/)] [head] [[stable](https://github.com/librsync/librsync/archive/v2.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/librsync.rb)]
 - [ ] librtlsdr: GPL-2.0 (deprecated) [[homepage](https://osmocom.org/projects/rtl-sdr/wiki)] [[head](https://git.osmocom.org/rtl-sdr)] [[stable](https://github.com/steve-m/librtlsdr/archive/0.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/librtlsdr.rb)]
 - [x] libsamplerate: BSD-2-Clause
@@ -3844,7 +3844,7 @@
 - [ ] ppl: GPL-3.0 (deprecated) [[homepage](https://bugseng.com/ppl)] [head] [[stable](https://www.bugseng.com/products/ppl/download/ftp/releases/1.2/ppl-1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ppl.rb)]
 - [x] pprint: MIT
 - [ ] ppss: GPL-3.0 (deprecated) [[homepage](https://github.com/louwrentius/PPSS)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/ppss/ppss-2.97.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ppss.rb)]
-- [x] ppsspp: BSD-3-Clause
+- [x] ppsspp: `{:all_of=>["GPL-2.0-or-later", "BSD-3-Clause"]}`
 - [ ] pqiv: GPL-3.0 (deprecated) [[homepage](https://github.com/phillipberndt/pqiv)] [[head](https://github.com/phillipberndt/pqiv.git)] [[stable](https://github.com/phillipberndt/pqiv/archive/2.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pqiv.rb)]
 - [x] pre-commit: MIT
 - [x] precomp: Apache-2.0
@@ -3946,7 +3946,7 @@
 - [x] pypy: MIT
 - [x] pypy3: MIT
 - [ ] pyqt: GPL-3.0 (deprecated) [[homepage](https://www.riverbankcomputing.com/software/pyqt/download5)] [head] [[stable](https://files.pythonhosted.org/packages/8c/90/82c62bbbadcca98e8c6fa84f1a638de1ed1c89e85368241e9cc43fcbc320/PyQt5-5.15.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pyqt.rb)]
-- [ ] pyside [[homepage](https://wiki.qt.io/Qt_for_Python)] [head] [[stable](https://download.qt.io/official_releases/QtForPython/pyside2/PySide2-5.15.0-src/pyside-setup-opensource-src-5.15.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pyside.rb)]
+- [x] pyside: `{:all_of=>["GFDL-1.3-only", "GPL-2.0-only", "GPL-3.0-only", "LGPL-3.0-only"]}`
 - [ ] python-markdown [[homepage](https://pypi.python.org/pypi/Markdown)] [head] [[stable](https://files.pythonhosted.org/packages/44/30/cb4555416609a8f75525e34cbacfc721aa5b0044809968b2cf553fd879c7/Markdown-3.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/python-markdown.rb)]
 - [x] python-yq: Apache-2.0
 - [x] python@3.7: Python-2.0
@@ -3983,7 +3983,7 @@
 - [ ] qscintilla2: GPL-3.0 (deprecated) [[homepage](https://www.riverbankcomputing.com/software/qscintilla/intro)] [head] [[stable](https://www.riverbankcomputing.com/static/Downloads/QScintilla/2.11.5/QScintilla-2.11.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qscintilla2.rb)]
 - [ ] qsoas: GPL-2.0 (deprecated) [[homepage](http://bip.cnrs-mrs.fr/bip06/qsoas/)] [head] [[stable](http://bip.cnrs-mrs.fr/bip06/qsoas/downloads/qsoas-2.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qsoas.rb)]
 - [x] qstat: Artistic-2.0
-- [ ] qt [[homepage](https://www.qt.io/)] [[head](https://code.qt.io/qt/qt5.git)] [[stable](https://download.qt.io/official_releases/qt/5.15/5.15.0/single/qt-everywhere-src-5.15.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qt.rb)]
+- [x] qt: `{:all_of=>["GFDL-1.3-only", "GPL-2.0-only", "GPL-3.0-only", "LGPL-2.1-only", "LGPL-3.0-only"]}`
 - [ ] qtads: GPL-3.0 (deprecated) [[homepage](https://qtads.sourceforge.io/)] [[head](https://github.com/realnc/qtads.git)] [[stable](https://downloads.sourceforge.net/project/qtads/qtads-2.x/2.1.7/qtads-2.1.7.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qtads.rb)]
 - [ ] qtfaststart: LGPL-2.1 (deprecated) [[homepage](https://libav.org/)] [head] [[stable](https://libav.org/releases/libav-12.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qtfaststart.rb)]
 - [x] qtkeychain: BSD-2-Clause
@@ -4225,7 +4225,7 @@
 - [ ] savana: LGPL-3.0 (deprecated) [[homepage](https://github.com/codehaus/savana)] [head] [[stable](https://bintray.com/artifact/download/bintray/jcenter/org/codehaus/savana/1.2/savana-1.2-install.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/savana.rb)]
 - [ ] saxon [[homepage](https://saxon.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/saxon/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/saxon.rb)]
 - [ ] saxon-b [[homepage](https://saxon.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/saxon/Saxon-B/9.1.0.8/saxonb9-1-0-8j.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/saxon-b.rb)]
-- [ ] sbcl [[homepage](http://www.sbcl.org/)] [head] [[stable](https://downloads.sourceforge.net/project/sbcl/sbcl/2.0.8/sbcl-2.0.8-source.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sbcl.rb)]
+- [x] sbcl: `{:all_of=>[:public_domain, "MIT", "Xerox", "BSD-3-Clause"]}`
 - [x] sbjson: BSD-3-Clause
 - [ ] sblim-sfcc [[homepage](https://sourceforge.net/projects/sblim/)] [head] [[stable](https://downloads.sourceforge.net/project/sblim/sblim-sfcc/sblim-sfcc-2.2.8.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sblim-sfcc.rb)]
 - [x] sbt: Apache-2.0
@@ -4418,7 +4418,7 @@
 - [x] snap: GPL-3.0-only
 - [x] snap-telemetry: Apache-2.0
 - [ ] snap7 [[homepage](https://snap7.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/snap7/1.4.2/snap7-full-1.4.2.7z)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/snap7.rb)]
-- [ ] snapcraft: GPL-3.0 (deprecated) [[homepage](https://snapcraft.io/)] [head] [[stable](https://github.com/snapcore/snapcraft.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/snapcraft.rb)]
+- [x] snapcraft: GPL-3.0-only
 - [x] snappy: BSD-3-Clause
 - [x] snappystream: Apache-2.0
 - [ ] snapraid: GPL-3.0 (deprecated) [[homepage](https://snapraid.sourceforge.io/)] [[head](https://github.com/amadvance/snapraid.git)] [[stable](https://github.com/amadvance/snapraid/releases/download/v11.5/snapraid-11.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/snapraid.rb)]
