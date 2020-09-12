@@ -154,7 +154,6 @@ bcpp
 bcrypt
 beagle
 beancount
-bear
 beast
 bedops
 beecrypt
@@ -216,7 +215,6 @@ burp
 bvi
 bwa
 bwm-ng
-byacc
 byobu
 byteman
 bzr-builder
@@ -754,7 +752,6 @@ gjs
 gkrellm
 glade
 glances
-glib-networking
 glib-openssl
 glibmm
 glkterm
@@ -1047,7 +1044,6 @@ jrnl
 jrtplib
 jslint4java
 jsmin
-json-glib
 jsonrpc-glib
 jthread
 juju
@@ -1329,7 +1325,6 @@ libspectre
 libspectrum
 libspiro
 libspnav
-libssh
 libstatgrab
 libstfl
 libstxxl
@@ -1449,7 +1444,6 @@ mat2
 mawk
 maxima
 mboxgrep
-mcabber
 mcpp
 mcrypt
 md
@@ -2492,7 +2486,6 @@ webfs
 webkit2png
 weboob
 weechat
-wgetpaste
 whatmask
 when
 whitedb
@@ -2600,9 +2593,7 @@ you-get
 yydecode
 z
 z.lua
-z3
 z80asm
-z80dasm
 zabbix-cli
 zanata-client
 zbackup
@@ -2615,7 +2606,6 @@ zeromq
 zile
 zim
 zinc
-zint
 zip
 zita-convolver
 zlog
