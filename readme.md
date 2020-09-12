@@ -1,4 +1,4 @@
-2580 / 5218 (49.4%) of formulae have a valid `license` stanza as of 2020-09-11 12:01:49 UTC.
+2580 / 5218 (49.4%) of formulae have a valid `license` stanza as of 2020-09-12 00:01:47 UTC.
 
 1324 / 5218 (25.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -972,7 +972,7 @@
 - [ ] dfu-util: GPL-2.0 (deprecated) [[homepage](https://dfu-util.sourceforge.io/)] [[head](https://git.code.sf.net/p/dfu-util/dfu-util.git)] [[stable](https://downloads.sourceforge.net/project/dfu-util/dfu-util-0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dfu-util.rb)]
 - [ ] dgen [[homepage](https://dgen.sourceforge.io/)] [[head](https://git.code.sf.net/p/dgen/dgen.git)] [[stable](https://downloads.sourceforge.net/project/dgen/dgen/1.33/dgen-sdl-1.33.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dgen.rb)]
 - [x] dgraph: Apache-2.0
-- [ ] dhall [[homepage](https://dhall-lang.org/)] [head] [[stable](https://hackage.haskell.org/package/dhall-1.34.0/dhall-1.34.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dhall.rb)]
+- [ ] dhall [[homepage](https://dhall-lang.org/)] [head] [[stable](https://hackage.haskell.org/package/dhall-1.35.0/dhall-1.35.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dhall.rb)]
 - [x] dhall-bash: BSD-3-Clause
 - [x] dhall-json: BSD-3-Clause
 - [x] dhall-lsp-server: BSD-3-Clause
