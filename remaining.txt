@@ -554,7 +554,6 @@ etl
 etsh
 eventlog
 eventql
-evince
 ex-vi
 exact-image
 exempi
@@ -606,7 +605,6 @@ fibjs
 ficy
 fifechan
 fig2dev
-file-roller
 findent
 findutils
 fio
@@ -693,7 +691,6 @@ gdk-pixbuf
 gdl
 gdmap
 geant4
-gedit
 geeqie
 gegl
 genders
@@ -726,7 +723,6 @@ git
 git-annex-remote-rclone
 git-bug
 git-cinnabar
-git-cola
 git-crypt
 git-ftp
 git-gui
@@ -769,7 +765,6 @@ gmsh
 gmt@5
 gnome-autoar
 gnome-common
-gnome-latex
 gnome-recipes
 gnome-themes-standard
 gnu-apl
@@ -864,7 +859,6 @@ gtkmm
 gtkmm3
 gtksourceview
 gtksourceview3
-gtksourceview4
 gtksourceviewmm
 gtksourceviewmm3
 gtkspell3
@@ -909,7 +903,6 @@ hfsutils
 hg-fast-export
 hicolor-icon-theme
 hidapi
-highlight
 hilite
 hmmer
 hopenpgp-tools
@@ -1044,7 +1037,6 @@ jrnl
 jrtplib
 jslint4java
 jsmin
-jsonrpc-glib
 jthread
 juju
 juju-wait
@@ -1159,7 +1151,6 @@ libcue
 libcuefile
 libdaemon
 libdap
-libdazzle
 libdbi
 libdc1394
 libdca
@@ -1284,7 +1275,6 @@ libowfat
 libp11
 libpano
 libpcl
-libpeas
 libpgm
 libplist
 libpointing
@@ -1901,7 +1891,6 @@ proof-general
 proper
 prover9
 proxychains-ng
-proxytunnel
 ps2eps
 psftools
 psgrep
@@ -1928,7 +1917,6 @@ pwncat
 pwsafe
 py2cairo
 py3cairo
-pygobject3
 pyinstaller
 pympress
 pyqt
@@ -1954,7 +1942,6 @@ qtfaststart
 quasi88
 quazip
 quex
-quickjs
 quilt
 quotatool
 quvi
@@ -2275,7 +2262,6 @@ teem
 teensy_loader_cli
 telegram-cli
 template-glib
-tepl
 term
 termrec
 terraform-provisioner-ansible
