@@ -746,7 +746,6 @@ github-keygen
 gitslave
 gjs
 gkrellm
-glade
 glances
 glib-openssl
 glibmm
@@ -1065,7 +1064,6 @@ kim-api
 kimwitu++
 kite
 knock
-knot-resolver
 known_hosts
 kpcli
 krb5
@@ -2137,12 +2135,10 @@ smartmontools
 smartypants
 smpeg
 smpeg2
-sn0int
 snap7
 snapraid
 sng
 sngrep
-sniffglue
 snownews
 sntop
 socat
@@ -2570,7 +2566,6 @@ yaze-ag
 yazpp
 yconalyzer
 ydcv
-yelp-tools
 yeti
 yetris
 ykneomgr

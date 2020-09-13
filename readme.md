@@ -1,6 +1,6 @@
-2605 / 5219 (49.9%) of formulae have a valid `license` stanza as of 2020-09-13 00:01:53 UTC.
+2610 / 5219 (50.0%) of formulae have a valid `license` stanza as of 2020-09-13 12:01:32 UTC.
 
-1310 / 5219 (25.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1308 / 5219 (25.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1667,7 +1667,7 @@
 - [ ] gjs [[homepage](https://gitlab.gnome.org/GNOME/gjs/wikis/Home)] [head] [[stable](https://download.gnome.org/sources/gjs/1.64/gjs-1.64.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gjs.rb)]
 - [ ] gkrellm [[homepage](https://billw2.github.io/gkrellm/gkrellm.html)] [head] [[stable](http://gkrellm.srcbox.net/releases/gkrellm-2.3.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gkrellm.rb)]
 - [x] gl2ps: GL2PS
-- [ ] glade [[homepage](https://glade.gnome.org/)] [head] [[stable](https://download.gnome.org/sources/glade/3.36/glade-3.36.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/glade.rb)]
+- [x] glade: LGPL-2.1-or-later
 - [ ] glances: LGPL-3.0 (deprecated) [[homepage](https://nicolargo.github.io/glances/)] [head] [[stable](https://github.com/nicolargo/glances/archive/v3.1.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/glances.rb)]
 - [x] glassfish: EPL-2.0
 - [x] glbinding: MIT
@@ -2354,7 +2354,7 @@
 - [x] klavaro: GPL-3.0-or-later
 - [ ] knock: GPL-2.0 (deprecated) [[homepage](https://zeroflux.org/projects/knock)] [[head](https://github.com/jvinet/knock.git)] [[stable](https://zeroflux.org/proj/knock/files/knock-0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/knock.rb)]
 - [x] knot: GPL-3.0-or-later
-- [ ] knot-resolver [[homepage](https://www.knot-resolver.cz)] [[head](https://gitlab.labs.nic.cz/knot/knot-resolver.git)] [[stable](https://secure.nic.cz/files/knot-resolver/knot-resolver-5.1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/knot-resolver.rb)]
+- [x] knot-resolver: `{:all_of=>["CC0-1.0", "GPL-3.0-or-later", "LGPL-2.1-or-later", "MIT"]}`
 - [ ] known_hosts [[homepage](https://github.com/markmcconachie/known_hosts)] [[head](https://github.com/markmcconachie/known_hosts.git)] [[stable](https://github.com/markmcconachie/known_hosts/archive/1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/known_hosts.rb)]
 - [x] kobalt: Apache-2.0
 - [x] kommit: MIT
@@ -4413,7 +4413,7 @@
 - [x] smlpkg: MIT
 - [ ] smpeg [[homepage](https://icculus.org/smpeg/)] [head] [[stable](svn://svn.icculus.org/smpeg/tags/release_0_4_5/)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/smpeg.rb)]
 - [ ] smpeg2 [[homepage](https://icculus.org/smpeg/)] [[head](svn://svn.icculus.org/smpeg/trunk)] [[stable](svn://svn.icculus.org/smpeg/tags/release_2_0_0/)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/smpeg2.rb)]
-- [ ] sn0int: GPL-3.0 (deprecated) [[homepage](https://github.com/kpcyrd/sn0int)] [head] [[stable](https://github.com/kpcyrd/sn0int/archive/v0.19.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sn0int.rb)]
+- [x] sn0int: GPL-3.0-or-later
 - [x] snag: MIT
 - [x] snakemake: MIT
 - [x] snap: GPL-3.0-only
@@ -4425,7 +4425,7 @@
 - [ ] snapraid: GPL-3.0 (deprecated) [[homepage](https://snapraid.sourceforge.io/)] [[head](https://github.com/amadvance/snapraid.git)] [[stable](https://github.com/amadvance/snapraid/releases/download/v11.5/snapraid-11.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/snapraid.rb)]
 - [ ] sng [[homepage](https://sng.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/sng/sng-1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sng.rb)]
 - [ ] sngrep: GPL-3.0 (deprecated) [[homepage](https://github.com/irontec/sngrep)] [head] [[stable](https://github.com/irontec/sngrep/archive/v1.4.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sngrep.rb)]
-- [ ] sniffglue: GPL-3.0 (deprecated) [[homepage](https://github.com/kpcyrd/sniffglue)] [head] [[stable](https://github.com/kpcyrd/sniffglue/archive/v0.11.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sniffglue.rb)]
+- [x] sniffglue: GPL-3.0-or-later
 - [x] snobol4: BSD-2-Clause
 - [x] snort: GPL-2.0-only
 - [x] snow: Apache-2.0
@@ -5265,7 +5265,7 @@
 - [ ] yconalyzer [[homepage](https://sourceforge.net/projects/yconalyzer/)] [head] [[stable](https://downloads.sourceforge.net/project/yconalyzer/yconalyzer-1.0.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yconalyzer.rb)]
 - [ ] ydcv: GPL-3.0 (deprecated) [[homepage](https://github.com/felixonmars/ydcv)] [head] [[stable](https://github.com/felixonmars/ydcv/archive/0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ydcv.rb)]
 - [x] ydiff: BSD-3-Clause
-- [ ] yelp-tools [[homepage](https://github.com/GNOME/yelp-tools)] [head] [[stable](https://download.gnome.org/sources/yelp-tools/3.32/yelp-tools-3.32.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yelp-tools.rb)]
+- [x] yelp-tools: GPL-2.0-or-later
 - [ ] yeti [[homepage](https://mth.github.io/yeti/)] [[head](https://github.com/mth/yeti.git)] [[stable](https://github.com/mth/yeti/archive/v0.9.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yeti.rb)]
 - [ ] yetris: GPL-3.0 (deprecated) [[homepage](https://github.com/alexdantas/yetris)] [head] [[stable](https://github.com/alexdantas/yetris/archive/v2.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yetris.rb)]
 - [x] yj: Apache-2.0
