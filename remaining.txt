@@ -310,7 +310,6 @@ cling
 clipsafe
 clisp
 cln
-cloc
 clockywock
 cloog
 cloud-watch
@@ -787,7 +786,6 @@ gnupg
 gnupg@1.4
 gnuski
 gnustep-make
-gobject-introspection
 gobo
 gocr
 golangci-lint
@@ -1723,7 +1721,6 @@ orbit
 orc
 orc-tools
 ori
-orientdb
 orocos-kdl
 ortp
 osc
@@ -1899,7 +1896,6 @@ ptex
 pth
 ptunnel
 puf
-pulledpork
 pulp
 pulseaudio
 pure-ftpd
@@ -2121,7 +2117,6 @@ singular
 sipcalc
 sipsak
 sisc-scheme
-sispmctl
 skktools
 skymaker
 slashem

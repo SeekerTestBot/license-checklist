@@ -1,6 +1,6 @@
-2610 / 5219 (50.0%) of formulae have a valid `license` stanza as of 2020-09-13 12:01:32 UTC.
+2616 / 5220 (50.1%) of formulae have a valid `license` stanza as of 2020-09-14 00:02:12 UTC.
 
-1308 / 5219 (25.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1305 / 5220 (25.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -690,7 +690,7 @@
 - [ ] clipsafe [[homepage](https://waxandwane.org/clipsafe.html)] [head] [[stable](https://waxandwane.org/download/clipsafe-1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clipsafe.rb)]
 - [ ] clisp [[homepage](https://clisp.sourceforge.io/)] [head] [[stable](https://ftp.gnu.org/gnu/clisp/release/2.49/clisp-2.49.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clisp.rb)]
 - [ ] cln: GPL-2.0 (deprecated) [[homepage](https://www.ginac.de/CLN/)] [head] [[stable](https://www.ginac.de/CLN/cln-1.3.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cln.rb)]
-- [ ] cloc: GPL-2.0 (deprecated) [[homepage](https://github.com/AlDanial/cloc/)] [[head](https://github.com/AlDanial/cloc.git)] [[stable](https://github.com/AlDanial/cloc/archive/1.86.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cloc.rb)]
+- [x] cloc: GPL-2.0-or-later
 - [ ] clockywock [[homepage](https://soomka.com/)] [head] [[stable](https://soomka.com/clockywock-0.3.1a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clockywock.rb)]
 - [x] clog: MIT
 - [x] clojure: EPL-1.0
@@ -1753,7 +1753,7 @@
 - [x] goaccess: MIT
 - [x] goad: MIT
 - [x] gobby: ISC
-- [ ] gobject-introspection [[homepage](https://wiki.gnome.org/Projects/GObjectIntrospection)] [head] [[stable](https://download.gnome.org/sources/gobject-introspection/1.64/gobject-introspection-1.64.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gobject-introspection.rb)]
+- [x] gobject-introspection: `{:all_of=>["GPL-2.0-or-later", "LGPL-2.0-or-later", "MIT"]}`
 - [ ] gobo [[homepage](http://www.gobosoft.com/)] [head] [[stable](https://downloads.sourceforge.net/project/gobo-eiffel/gobo-eiffel/20.05/gobo2005-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gobo.rb)]
 - [x] gobuster: Apache-2.0
 - [x] gocloc: MIT
@@ -2405,6 +2405,7 @@
 
 - [x] l-smash: ISC
 - [ ] lablgtk: LGPL-2.1 (deprecated) [[homepage](http://lablgtk.forge.ocamlcore.org)] [head] [[stable](https://github.com/garrigue/lablgtk/archive/2.18.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lablgtk.rb)]
+- [x] ladspa-sdk: LGPL-2.1-only
 - [ ] lame: LGPL-2.0 (deprecated) [[homepage](https://lame.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lame/lame/3.100/lame-3.100.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lame.rb)]
 - [ ] lammps: GPL-2.0 (deprecated) [[homepage](https://lammps.sandia.gov/)] [head] [[stable](https://github.com/lammps/lammps/archive/stable_3Mar2020.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lammps.rb)]
 - [x] landscaper: Apache-2.0
@@ -3566,7 +3567,7 @@
 - [ ] orc [[homepage](https://cgit.freedesktop.org/gstreamer/orc/)] [head] [[stable](https://gstreamer.freedesktop.org/src/orc/orc-0.4.31.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc.rb)]
 - [ ] orc-tools [[homepage](https://orc.apache.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/apache/orc/orc-tools/1.6.3/orc-tools-1.6.3-uber.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc-tools.rb)]
 - [ ] ori [[homepage](http://ori.scs.stanford.edu/)] [head] [[stable](https://bitbucket.org/orifs/ori/downloads/ori-0.8.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ori.rb)]
-- [ ] orientdb [[homepage](https://orientdb.com/)] [head] [[stable](https://s3.us-east-2.amazonaws.com/orientdb3/releases/3.1.1/orientdb-3.1.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orientdb.rb)]
+- [x] orientdb: Apache-2.0
 - [x] ormolu: BSD-3-Clause
 - [ ] orocos-kdl: LGPL-2.1 (deprecated) [[homepage](https://orocos.org/)] [head] [[stable](https://github.com/orocos/orocos_kinematics_dynamics/archive/v1.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orocos-kdl.rb)]
 - [ ] ortp: GPL-3.0 (deprecated) [[homepage](https://www.linphone.org/technical-corner/ortp)] [[head](https://gitlab.linphone.org/BC/public/ortp.git)] [[stable](https://gitlab.linphone.org/BC/public/ortp/-/archive/4.3.2/ortp-4.3.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ortp.rb)]
@@ -3908,7 +3909,7 @@
 - [x] pueue: MIT
 - [ ] puf: GPL-2.0 (deprecated) [[homepage](https://puf.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/puf/puf/1.0.0/puf-1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/puf.rb)]
 - [x] pugixml: MIT
-- [ ] pulledpork: GPL-2.0 (deprecated) [[homepage](https://github.com/shirkdog/pulledpork)] [[head](https://github.com/shirkdog/pulledpork.git)] [[stable](https://github.com/shirkdog/pulledpork/archive/v0.7.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pulledpork.rb)]
+- [x] pulledpork: GPL-2.0-or-later
 - [ ] pulp: LGPL-3.0 (deprecated) [[homepage](https://github.com/bodil/pulp)] [head] [[stable](https://registry.npmjs.org/pulp/-/pulp-15.0.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pulp.rb)]
 - [ ] pulseaudio [[homepage](https://wiki.freedesktop.org/www/Software/PulseAudio/)] [[head](https://anongit.freedesktop.org/git/pulseaudio/pulseaudio.git)] [[stable](https://www.freedesktop.org/software/pulseaudio/releases/pulseaudio-13.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pulseaudio.rb)]
 - [x] pulumi: Apache-2.0
@@ -4380,7 +4381,7 @@
 - [ ] sipsak: GPL-2.0 (deprecated) [[homepage](https://github.com/nils-ohlmeier/sipsak/)] [head] [[stable](https://github.com/nils-ohlmeier/sipsak/releases/download/0.9.7/sipsak-0.9.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sipsak.rb)]
 - [x] siril: GPL-3.0-or-later
 - [ ] sisc-scheme [[homepage](http://sisc-scheme.org/)] [head] [[stable](https://downloads.sourceforge.net/project/sisc/SISC%20Lite/1.16.6/sisc-lite-1.16.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sisc-scheme.rb)]
-- [ ] sispmctl: GPL-2.0 (deprecated) [[homepage](https://sispmctl.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/sispmctl/sispmctl/sispmctl-4.7/sispmctl-4.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sispmctl.rb)]
+- [x] sispmctl: GPL-2.0-or-later
 - [x] sjk: Apache-2.0
 - [x] sk: MIT
 - [x] skaffold: Apache-2.0
