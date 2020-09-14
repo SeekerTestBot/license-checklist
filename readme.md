@@ -1,6 +1,6 @@
-2616 / 5220 (50.1%) of formulae have a valid `license` stanza as of 2020-09-14 00:02:12 UTC.
+2620 / 5221 (50.2%) of formulae have a valid `license` stanza as of 2020-09-14 12:01:26 UTC.
 
-1305 / 5220 (25.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1303 / 5221 (25.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1101,7 +1101,7 @@
 - [x] dshb: MIT
 - [x] dsocks: BSD-2-Clause
 - [ ] dspdfviewer: GPL-2.0 (deprecated) [[homepage](https://dspdfviewer.danny-edel.de/)] [[head](https://github.com/dannyedel/dspdfviewer.git)] [[stable](https://github.com/dannyedel/dspdfviewer/archive/v1.15.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dspdfviewer.rb)]
-- [ ] dssim: AGPL-3.0 (deprecated) [[homepage](https://github.com/kornelski/dssim)] [head] [[stable](https://github.com/kornelski/dssim/archive/2.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dssim.rb)]
+- [x] dssim: AGPL-3.0-or-later
 - [x] dsvpn: MIT
 - [ ] dtach: GPL-2.0 (deprecated) [[homepage](https://dtach.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/dtach/dtach/0.9/dtach-0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dtach.rb)]
 - [ ] dtc [[homepage](https://www.devicetree.org/)] [head] [[stable](https://www.kernel.org/pub/software/utils/dtc/dtc-1.6.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dtc.rb)]
@@ -2325,11 +2325,11 @@
 - [ ] kawa [[homepage](https://www.gnu.org/software/kawa/)] [head] [[stable](https://ftp.gnu.org/gnu/kawa/kawa-3.1.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kawa.rb)]
 - [ ] kcov: GPL-2.0 (deprecated) [[homepage](https://simonkagstrom.github.io/kcov/)] [[head](https://github.com/SimonKagstrom/kcov.git)] [[stable](https://github.com/SimonKagstrom/kcov/archive/38.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kcov.rb)]
 - [x] kcptun: MIT
-- [ ] kde-extra-cmake-modules [[homepage](https://api.kde.org/frameworks/extra-cmake-modules/html/index.html)] [[head](https://invent.kde.org/frameworks/extra-cmake-modules.git)] [[stable](https://download.kde.org/stable/frameworks/5.73/extra-cmake-modules-5.73.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-extra-cmake-modules.rb)]
-- [ ] kde-karchive [[homepage](https://api.kde.org/frameworks/karchive/html/index.html)] [[head](https://invent.kde.org/frameworks/karchive.git)] [[stable](https://download.kde.org/stable/frameworks/5.73/karchive-5.73.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-karchive.rb)]
-- [ ] kde-kdoctools [[homepage](https://api.kde.org/frameworks/kdoctools/html/index.html)] [[head](https://invent.kde.org/frameworks/kdoctools.git)] [[stable](https://download.kde.org/stable/frameworks/5.73/kdoctools-5.73.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-kdoctools.rb)]
-- [ ] kde-ki18n [[homepage](https://api.kde.org/frameworks/ki18n/html/index.html)] [[head](https://invent.kde.org/frameworks/ki18n.git)] [[stable](https://download.kde.org/stable/frameworks/5.73/ki18n-5.73.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-ki18n.rb)]
-- [ ] kde-threadweaver [[homepage](https://api.kde.org/frameworks/threadweaver/html/index.html)] [[head](https://invent.kde.org/frameworks/threadweaver.git)] [[stable](https://download.kde.org/stable/frameworks/5.73/threadweaver-5.73.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-threadweaver.rb)]
+- [ ] kde-extra-cmake-modules [[homepage](https://api.kde.org/frameworks/extra-cmake-modules/html/index.html)] [[head](https://invent.kde.org/frameworks/extra-cmake-modules.git)] [[stable](https://download.kde.org/stable/frameworks/5.74/extra-cmake-modules-5.74.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-extra-cmake-modules.rb)]
+- [ ] kde-karchive [[homepage](https://api.kde.org/frameworks/karchive/html/index.html)] [[head](https://invent.kde.org/frameworks/karchive.git)] [[stable](https://download.kde.org/stable/frameworks/5.74/karchive-5.74.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-karchive.rb)]
+- [ ] kde-kdoctools [[homepage](https://api.kde.org/frameworks/kdoctools/html/index.html)] [[head](https://invent.kde.org/frameworks/kdoctools.git)] [[stable](https://download.kde.org/stable/frameworks/5.74/kdoctools-5.74.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-kdoctools.rb)]
+- [ ] kde-ki18n [[homepage](https://api.kde.org/frameworks/ki18n/html/index.html)] [[head](https://invent.kde.org/frameworks/ki18n.git)] [[stable](https://download.kde.org/stable/frameworks/5.74/ki18n-5.74.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-ki18n.rb)]
+- [ ] kde-threadweaver [[homepage](https://api.kde.org/frameworks/threadweaver/html/index.html)] [[head](https://invent.kde.org/frameworks/threadweaver.git)] [[stable](https://download.kde.org/stable/frameworks/5.74/threadweaver-5.74.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-threadweaver.rb)]
 - [x] kedge: Apache-2.0
 - [x] keepassc: ISC
 - [ ] keepkey-agent: LGPL-3.0 (deprecated) [[homepage](https://github.com/romanz/trezor-agent)] [head] [[stable](https://files.pythonhosted.org/packages/65/72/4bf47a7bc8dc93d2ac21672a0db4bc58a78ec5cee3c4bcebd0b4092a9110/keepkey_agent-0.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/keepkey-agent.rb)]
@@ -2768,7 +2768,7 @@
 - [ ] libsndfile: LGPL-2.1 (deprecated) [[homepage](http://www.mega-nerd.com/libsndfile/)] [head] [[stable](http://www.mega-nerd.com/libsndfile/files/1.0.29pre2/libsndfile-1.0.29pre2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsndfile.rb)]
 - [x] libsodium: ISC
 - [x] libsoundio: MIT
-- [ ] libsoup [[homepage](https://wiki.gnome.org/Projects/libsoup)] [head] [[stable](https://download.gnome.org/sources/libsoup/2.70/libsoup-2.70.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsoup.rb)]
+- [x] libsoup: LGPL-2.0-or-later
 - [ ] libsoxr [[homepage](https://sourceforge.net/projects/soxr/)] [head] [[stable](https://downloads.sourceforge.net/project/soxr/soxr-0.1.3-Source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsoxr.rb)]
 - [ ] libspatialite [[homepage](https://www.gaia-gis.it/fossil/libspatialite/index)] [[head](https://www.gaia-gis.it/fossil/libspatialite)] [[stable](https://www.gaia-gis.it/gaia-sins/libspatialite-sources/libspatialite-4.3.0a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspatialite.rb)]
 - [ ] libspectre: GPL-2.0 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/libspectre/)] [head] [[stable](https://libspectre.freedesktop.org/releases/libspectre-0.2.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspectre.rb)]
@@ -3564,7 +3564,7 @@
 - [x] opusfile: BSD-3-Clause
 - [x] oq: MIT
 - [ ] orbit [[homepage](https://projects.gnome.org/ORBit2)] [head] [[stable](https://download.gnome.org/sources/ORBit2/2.14/ORBit2-2.14.19.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orbit.rb)]
-- [ ] orc [[homepage](https://cgit.freedesktop.org/gstreamer/orc/)] [head] [[stable](https://gstreamer.freedesktop.org/src/orc/orc-0.4.31.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc.rb)]
+- [ ] orc [[homepage](https://cgit.freedesktop.org/gstreamer/orc/)] [head] [[stable](https://gstreamer.freedesktop.org/src/orc/orc-0.4.32.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc.rb)]
 - [ ] orc-tools [[homepage](https://orc.apache.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/apache/orc/orc-tools/1.6.3/orc-tools-1.6.3-uber.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc-tools.rb)]
 - [ ] ori [[homepage](http://ori.scs.stanford.edu/)] [head] [[stable](https://bitbucket.org/orifs/ori/downloads/ori-0.8.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ori.rb)]
 - [x] orientdb: Apache-2.0
@@ -3873,6 +3873,7 @@
 - [ ] proguard: GPL-2.0 (deprecated) [[homepage](https://www.guardsquare.com/en/products/proguard)] [head] [[stable](https://github.com/Guardsquare/proguard/releases/download/v7.0.0/proguard-7.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proguard.rb)]
 - [x] proj: MIT
 - [x] prometheus: Apache-2.0
+- [x] prometheus-cpp: MIT
 - [x] promtail: Apache-2.0
 - [ ] proof-general: GPL-2.0 (deprecated) [[homepage](https://proofgeneral.github.io)] [[head](https://github.com/ProofGeneral/PG.git)] [[stable](https://github.com/ProofGeneral/PG/archive/v4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proof-general.rb)]
 - [ ] proper: GPL-3.0 (deprecated) [[homepage](https://proper-testing.github.io)] [head] [[stable](https://github.com/proper-testing/proper/archive/v1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proper.rb)]
@@ -4358,7 +4359,7 @@
 - [x] sickle: MIT
 - [ ] siege: GPL-3.0 (deprecated) [[homepage](https://www.joedog.org/siege-home/)] [head] [[stable](http://download.joedog.org/siege/siege-4.0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/siege.rb)]
 - [ ] sift: GPL-3.0 (deprecated) [[homepage](https://sift-tool.org)] [head] [[stable](https://github.com/svent/sift/archive/v0.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sift.rb)]
-- [ ] signal-cli: GPL-3.0 (deprecated) [[homepage](https://github.com/AsamK/signal-cli)] [head] [[stable](https://github.com/AsamK/signal-cli/releases/download/v0.6.8/signal-cli-0.6.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/signal-cli.rb)]
+- [x] signal-cli: GPL-3.0-or-later
 - [x] signify-osx: ISC
 - [x] sile: MIT
 - [x] silicon: MIT
