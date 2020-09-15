@@ -1,6 +1,6 @@
-2620 / 5221 (50.2%) of formulae have a valid `license` stanza as of 2020-09-14 12:01:34 UTC.
+2622 / 5221 (50.2%) of formulae have a valid `license` stanza as of 2020-09-15 00:02:00 UTC.
 
-1303 / 5221 (25.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1302 / 5221 (24.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -39,7 +39,7 @@
 - [ ] advancemame: GPL-2.0 (deprecated) [[homepage](https://www.advancemame.it/)] [head] [[stable](https://github.com/amadvance/advancemame/releases/download/v3.9/advancemame-3.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/advancemame.rb)]
 - [ ] advancemenu: GPL-2.0 (deprecated) [[homepage](https://www.advancemame.it/menu-readme.html)] [head] [[stable](https://github.com/amadvance/advancemame/releases/download/v3.9/advancemame-3.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/advancemenu.rb)]
 - [ ] advancescan: GPL-2.0 (deprecated) [[homepage](https://www.advancemame.it/scan-readme.html)] [head] [[stable](https://github.com/amadvance/advancescan/releases/download/v1.18/advancescan-1.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/advancescan.rb)]
-- [ ] adwaita-icon-theme [[homepage](https://developer.gnome.org)] [head] [[stable](https://download.gnome.org/sources/adwaita-icon-theme/3.36/adwaita-icon-theme-3.36.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/adwaita-icon-theme.rb)]
+- [x] adwaita-icon-theme: `{:any_of=>["LGPL-3.0-or-later", "CC-BY-SA-3.0"]}`
 - [ ] aescrypt [[homepage](https://aescrypt.sourceforge.io/)] [head] [[stable](https://aescrypt.sourceforge.io/aescrypt-0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aescrypt.rb)]
 - [ ] aescrypt-packetizer [[homepage](https://www.aescrypt.com)] [[head](https://github.com/paulej/AESCrypt.git)] [[stable](https://www.aescrypt.com/download/v3/linux/aescrypt-3.14.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aescrypt-packetizer.rb)]
 - [ ] aespipe [[homepage](https://loop-aes.sourceforge.io/)] [head] [[stable](https://loop-aes.sourceforge.io/aespipe/aespipe-v2.4f.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aespipe.rb)]
@@ -2055,7 +2055,7 @@
 - [x] iam-policy-json-to-terraform: Apache-2.0
 - [x] iamy: MIT
 - [ ] iat: GPL-3.0 (deprecated) [[homepage](https://sourceforge.net/projects/iat.berlios/)] [head] [[stable](https://downloads.sourceforge.net/project/iat.berlios/iat-0.1.7.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/iat.rb)]
-- [ ] ibex: LGPL-3.0 (deprecated) [[homepage](https://web.archive.org/web/20190826220512/www.ibex-lib.org/)] [[head](https://github.com/ibex-team/ibex-lib.git)] [[stable](https://github.com/ibex-team/ibex-lib/archive/ibex-2.8.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ibex.rb)]
+- [ ] ibex: LGPL-3.0 (deprecated) [[homepage](https://web.archive.org/web/20190826220512/www.ibex-lib.org/)] [[head](https://github.com/ibex-team/ibex-lib.git)] [[stable](https://github.com/ibex-team/ibex-lib/archive/ibex-2.8.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ibex.rb)]
 - [x] iblinter: MIT
 - [x] ical-buddy: MIT
 - [ ] icarus-verilog: LGPL-2.1 (deprecated) [[homepage](http://iverilog.icarus.com/)] [[head](https://github.com/steveicarus/iverilog.git)] [[stable](https://github.com/steveicarus/iverilog/archive/v10_3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icarus-verilog.rb)]
@@ -3981,7 +3981,7 @@
 - [x] rabbitmq-c: MIT
 - [x] rack: Apache-2.0
 - [x] radamsa: MIT
-- [ ] radare2: LGPL-3.0 (deprecated) [[homepage](https://radare.org)] [[head](https://github.com/radareorg/radare2.git)] [[stable](https://github.com/radareorg/radare2/archive/4.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/radare2.rb)]
+- [ ] radare2: LGPL-3.0 (deprecated) [[homepage](https://radare.org)] [[head](https://github.com/radareorg/radare2.git)] [[stable](https://github.com/radareorg/radare2/archive/4.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/radare2.rb)]
 - [ ] ragel: GPL-2.0 (deprecated) [[homepage](https://www.colm.net/open-source/ragel/)] [head] [[stable](https://www.colm.net/files/ragel/ragel-6.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ragel.rb)]
 - [x] rails-completion: MIT
 - [x] rainbarf: Artistic-1.0
@@ -4719,7 +4719,7 @@
 - [x] tidyp: Zlib
 - [x] tiff2png: ISC
 - [ ] tig: GPL-2.0 (deprecated) [[homepage](https://jonas.github.io/tig/)] [[head](https://github.com/jonas/tig.git)] [[stable](https://github.com/jonas/tig/releases/download/tig-2.5.1/tig-2.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tig.rb)]
-- [ ] tiger-vnc: GPL-2.0 (deprecated) [[homepage](https://tigervnc.org/)] [head] [[stable](https://github.com/TigerVNC/tigervnc/archive/v1.10.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tiger-vnc.rb)]
+- [x] tiger-vnc: GPL-2.0-or-later
 - [x] tika: Apache-2.0
 - [x] tile38: MIT
 - [ ] timedog: GPL-2.0 (deprecated) [[homepage](https://github.com/nlfiedler/timedog)] [[head](https://github.com/nlfiedler/timedog.git)] [[stable](https://github.com/nlfiedler/timedog/archive/v1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/timedog.rb)]
