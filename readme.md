@@ -1,6 +1,6 @@
-2625 / 5221 (50.3%) of formulae have a valid `license` stanza as of 2020-09-16 00:01:54 UTC.
+2626 / 5221 (50.3%) of formulae have a valid `license` stanza as of 2020-09-16 12:03:13 UTC.
 
-1300 / 5221 (24.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1299 / 5221 (24.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -4180,7 +4180,7 @@
 - [ ] rtorrent: GPL-2.0 (deprecated) [[homepage](https://github.com/rakshasa/rtorrent)] [head] [[stable](https://github.com/rakshasa/rtorrent/releases/download/v0.9.8/rtorrent-0.9.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rtorrent.rb)]
 - [ ] rtptools [[homepage](https://web.archive.org/web/20190924020700/www.cs.columbia.edu/irt/software/rtptools/)] [head] [[stable](https://web.archive.org/web/20190714051650/www.cs.columbia.edu/irt/software/rtptools/download/rtptools-1.22.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rtptools.rb)]
 - [x] rtv: MIT
-- [ ] rubberband: GPL-2.0 (deprecated) [[homepage](https://breakfastquay.com/rubberband/)] [[head](https://hg.sr.ht/~breakfastquay/rubberband)] [[stable](https://breakfastquay.com/files/releases/rubberband-1.8.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rubberband.rb)]
+- [ ] rubberband: GPL-2.0 (deprecated) [[homepage](https://breakfastquay.com/rubberband/)] [[head](https://hg.sr.ht/~breakfastquay/rubberband)] [[stable](https://breakfastquay.com/files/releases/rubberband-1.9.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rubberband.rb)]
 - [x] ruby: Ruby
 - [x] ruby-build: MIT
 - [x] ruby-completion: MIT
@@ -4267,7 +4267,7 @@
 - [ ] scrub: GPL-2.0 (deprecated) [[homepage](https://code.google.com/archive/p/diskscrub/)] [[head](https://github.com/chaos/scrub.git)] [[stable](https://github.com/chaos/scrub/releases/download/2.6.1/scrub-2.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/scrub.rb)]
 - [x] scrypt: BSD-2-Clause
 - [x] scs: MIT
-- [ ] scummvm: GPL-2.0 (deprecated) [[homepage](https://www.scummvm.org/)] [[head](https://github.com/scummvm/scummvm.git)] [[stable](https://www.scummvm.org/frs/scummvm/2.1.2/scummvm-2.1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/scummvm.rb)]
+- [x] scummvm: GPL-2.0-or-later
 - [ ] scummvm-tools: GPL-2.0 (deprecated) [[homepage](https://www.scummvm.org/)] [[head](https://github.com/scummvm/scummvm-tools.git)] [[stable](https://www.scummvm.org/frs/scummvm-tools/2.1.0/scummvm-tools-2.1.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/scummvm-tools.rb)]
 - [x] scw: Apache-2.0
 - [x] scw@1: MIT

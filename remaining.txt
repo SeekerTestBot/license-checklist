@@ -2056,7 +2056,6 @@ screenfetch
 screenresolution
 scrollkeeper
 scrub
-scummvm
 scummvm-tools
 sdcc
 sdedit
