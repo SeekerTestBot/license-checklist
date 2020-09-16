@@ -298,7 +298,6 @@ citus
 civl
 cjdns
 cksfv
-clamav
 clamz
 classads
 claws-mail
@@ -1034,7 +1033,6 @@ jslint4java
 jsmin
 jthread
 juju
-juju-wait
 juman
 jvmtop
 jxrlib
@@ -2492,7 +2490,6 @@ wv
 wv2
 wwwoffle
 wxmac
-wxmaxima
 wxpython
 wy60
 x11vnc
