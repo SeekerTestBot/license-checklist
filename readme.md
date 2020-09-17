@@ -1,4 +1,4 @@
-2627 / 5221 (50.3%) of formulae have a valid `license` stanza as of 2020-09-17 00:01:49 UTC.
+2627 / 5221 (50.3%) of formulae have a valid `license` stanza as of 2020-09-17 12:02:08 UTC.
 
 1299 / 5221 (24.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1826,7 +1826,7 @@
 - [x] grails: Apache-2.0
 - [x] grakn: AGPL-3.0-or-later
 - [ ] grap [[homepage](https://www.lunabase.org/~faber/Vault/software/grap/)] [head] [[stable](https://www.lunabase.org/~faber/Vault/software/grap/grap-1.46.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/grap.rb)]
-- [ ] graph-tool: GPL-3.0 (deprecated) [[homepage](https://graph-tool.skewed.de/)] [head] [[stable](https://downloads.skewed.de/graph-tool/graph-tool-2.33.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/graph-tool.rb)]
+- [ ] graph-tool: LGPL-3.0 (deprecated) [[homepage](https://graph-tool.skewed.de/)] [head] [[stable](https://downloads.skewed.de/graph-tool/graph-tool-2.35.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/graph-tool.rb)]
 - [ ] graphene [[homepage](https://ebassi.github.io/graphene/)] [head] [[stable](https://download.gnome.org/sources/graphene/1.10/graphene-1.10.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/graphene.rb)]
 - [ ] graphicsmagick [[homepage](http://www.graphicsmagick.org/)] [[head](http://hg.code.sf.net/p/graphicsmagick/code)] [[stable](https://downloads.sourceforge.net/project/graphicsmagick/graphicsmagick/1.3.35/GraphicsMagick-1.3.35.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/graphicsmagick.rb)]
 - [ ] graphite2: LGPL-2.1 (deprecated) [[homepage](https://graphite.sil.org/)] [[head](https://github.com/silnrsi/graphite.git)] [[stable](https://github.com/silnrsi/graphite/releases/download/1.3.14/graphite2-1.3.14.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/graphite2.rb)]
@@ -2353,7 +2353,7 @@
 - [ ] kite [[homepage](http://www.kite-language.org/)] [head] [[stable](http://www.kite-language.org/files/kite-1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kite.rb)]
 - [x] klavaro: GPL-3.0-or-later
 - [ ] knock: GPL-2.0 (deprecated) [[homepage](https://zeroflux.org/projects/knock)] [[head](https://github.com/jvinet/knock.git)] [[stable](https://zeroflux.org/proj/knock/files/knock-0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/knock.rb)]
-- [x] knot: GPL-3.0-or-later
+- [x] knot: `{:all_of=>["GPL-3.0-or-later", "0BSD", "BSD-3-Clause", "LGPL-2.0-or-later", "MIT"]}`
 - [x] knot-resolver: `{:all_of=>["CC0-1.0", "GPL-3.0-or-later", "LGPL-2.1-or-later", "MIT"]}`
 - [ ] known_hosts [[homepage](https://github.com/markmcconachie/known_hosts)] [[head](https://github.com/markmcconachie/known_hosts.git)] [[stable](https://github.com/markmcconachie/known_hosts/archive/1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/known_hosts.rb)]
 - [x] kobalt: Apache-2.0
@@ -3963,7 +3963,7 @@
 
 - [x] q: GPL-3.0-only
 - [ ] qalculate-gtk: GPL-2.0 (deprecated) [[homepage](https://qalculate.github.io/)] [head] [[stable](https://github.com/Qalculate/qalculate-gtk/releases/download/v3.12.1/qalculate-gtk-3.12.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qalculate-gtk.rb)]
-- [ ] qbs [[homepage](https://wiki.qt.io/Qbs)] [[head](https://code.qt.io/qbs/qbs.git)] [[stable](https://download.qt.io/official_releases/qbs/1.16.0/qbs-src-1.16.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qbs.rb)]
+- [ ] qbs [[homepage](https://wiki.qt.io/Qbs)] [[head](https://code.qt.io/qbs/qbs.git)] [[stable](https://download.qt.io/official_releases/qbs/1.17.0/qbs-src-1.17.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qbs.rb)]
 - [ ] qca: LGPL-2.1 (deprecated) [[homepage](https://userbase.kde.org/QCA)] [[head](https://invent.kde.org/libraries/qca.git)] [[stable](https://download.kde.org/stable/qca/2.3.1/qca-2.3.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qca.rb)]
 - [ ] qcachegrind: GPL-2.0 (deprecated) [[homepage](https://kcachegrind.github.io/)] [head] [[stable](https://download.kde.org/stable/applications/19.08.3/src/kcachegrind-19.08.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qcachegrind.rb)]
 - [ ] qcli: GPL-3.0 (deprecated) [[homepage](https://bavc.org/preserve-media/preservation-tools)] [[head](https://github.com/bavc/qctools.git)] [[stable](https://github.com/bavc/qctools/archive/v1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qcli.rb)]
