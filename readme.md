@@ -1,4 +1,4 @@
-2626 / 5221 (50.3%) of formulae have a valid `license` stanza as of 2020-09-16 12:03:13 UTC.
+2627 / 5221 (50.3%) of formulae have a valid `license` stanza as of 2020-09-17 00:01:49 UTC.
 
 1299 / 5221 (24.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1869,6 +1869,7 @@
 - [x] gspell: LGPL-2.1-or-later
 - [ ] gssdp [[homepage](https://wiki.gnome.org/GUPnP/)] [head] [[stable](https://download.gnome.org/sources/gssdp/1.2/gssdp-1.2.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gssdp.rb)]
 - [x] gssh: Apache-2.0
+- [x] gst-devtools: LGPL-2.1-or-later
 - [x] gst-editing-services: LGPL-2.0-or-later
 - [x] gst-libav: LGPL-2.1-or-later
 - [x] gst-plugins-bad: LGPL-2.0-or-later
@@ -1877,7 +1878,6 @@
 - [x] gst-plugins-ugly: LGPL-2.0-or-later
 - [x] gst-python: LGPL-2.1-or-later
 - [x] gst-rtsp-server: LGPL-2.0-or-later
-- [ ] gst-validate [[homepage](https://gstreamer.freedesktop.org/data/doc/gstreamer/head/gst-validate/html/)] [[head](https://anongit.freedesktop.org/git/gstreamer/gst-devtools.git)] [[stable](https://gstreamer.freedesktop.org/src/gst-validate/gst-validate-1.16.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gst-validate.rb)]
 - [x] gstreamer: LGPL-2.0-or-later
 - [ ] gstreamermm [[homepage](https://gstreamer.freedesktop.org/bindings/cplusplus.html)] [head] [[stable](https://download.gnome.org/sources/gstreamermm/1.10/gstreamermm-1.10.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gstreamermm.rb)]
 - [ ] gti [[homepage](https://r-wos.org/hacks/gti)] [[head](https://github.com/rwos/gti.git)] [[stable](https://github.com/rwos/gti/archive/v1.7.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gti.rb)]
@@ -4399,7 +4399,7 @@
 - [ ] slashem [[homepage](https://slashem.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/slashem/slashem-source/0.0.8E0F1/se008e0f1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/slashem.rb)]
 - [x] sleef: BSL-1.0
 - [ ] sleepwatcher [[homepage](https://www.bernhard-baehr.de/)] [head] [[stable](https://www.bernhard-baehr.de/sleepwatcher_2.2.1.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sleepwatcher.rb)]
-- [ ] sleuthkit: GPL-2.0 (deprecated) [[homepage](https://www.sleuthkit.org/)] [head] [[stable](https://github.com/sleuthkit/sleuthkit/releases/download/sleuthkit-4.9.0/sleuthkit-4.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sleuthkit.rb)]
+- [ ] sleuthkit: GPL-2.0 (deprecated) [[homepage](https://www.sleuthkit.org/)] [head] [[stable](https://github.com/sleuthkit/sleuthkit/releases/download/sleuthkit-4.10.0/sleuthkit-4.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sleuthkit.rb)]
 - [x] slimerjs: MPL-2.0
 - [x] sloc: MIT
 - [ ] sloccount: GPL-2.0 (deprecated) [[homepage](https://www.dwheeler.com/sloccount/)] [head] [[stable](https://www.dwheeler.com/sloccount/sloccount-2.26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sloccount.rb)]
@@ -4812,7 +4812,7 @@
 - [ ] toot: GPL-3.0 (deprecated) [[homepage](https://toot.readthedocs.io/en/latest/index.html)] [head] [[stable](https://github.com/ihabunek/toot/releases/download/0.27.0/toot-0.27.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/toot.rb)]
 - [ ] topgit: GPL-2.0 (deprecated) [[homepage](https://github.com/mackyle/topgit)] [head] [[stable](https://github.com/mackyle/topgit/archive/topgit-0.19.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/topgit.rb)]
 - [x] topgrade: GPL-3.0-or-later
-- [ ] tor [[homepage](https://www.torproject.org/)] [head] [[stable](https://www.torproject.org/dist/tor-0.4.3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tor.rb)]
+- [ ] tor [[homepage](https://www.torproject.org/)] [head] [[stable](https://www.torproject.org/dist/tor-0.4.4.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tor.rb)]
 - [x] torchvision: BSD-3-Clause
 - [ ] torrentcheck [[homepage](https://torrentcheck.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/torrentcheck/torrentcheck-1.00.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/torrentcheck.rb)]
 - [ ] torsocks [[homepage](https://gitweb.torproject.org/torsocks.git/)] [[head](https://git.torproject.org/torsocks.git)] [[stable](https://git.torproject.org/torsocks.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/torsocks.rb)]
@@ -4997,7 +4997,7 @@
 - [x] vert.x: `{:any_of=>["EPL-2.0", "Apache-2.0"]}`
 - [ ] vf [[homepage](https://github.com/glejeune/vf)] [[head](https://github.com/glejeune/vf.git)] [[stable](https://github.com/glejeune/vf/archive/0.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vf.rb)]
 - [ ] vfuse [[homepage](https://github.com/chilcote/vfuse)] [head] [[stable](https://github.com/chilcote/vfuse/archive/2.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vfuse.rb)]
-- [ ] vgmstream [[homepage](https://hcs64.com/vgmstream.html)] [[head](https://github.com/kode54/vgmstream.git)] [[stable](https://github.com/losnoco/vgmstream/archive/r1050-3086-gc9dc860c.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vgmstream.rb)]
+- [ ] vgmstream [[homepage](https://hcs64.com/vgmstream.html)] [[head](https://github.com/kode54/vgmstream.git)] [[stable](https://github.com/losnoco/vgmstream/archive/r1050-3264-g86fbfffd.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vgmstream.rb)]
 - [ ] vgrep: GPL-3.0 (deprecated) [[homepage](https://github.com/vrothberg/vgrep)] [head] [[stable](https://github.com/vrothberg/vgrep/archive/v2.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vgrep.rb)]
 - [ ] vice [[homepage](https://sourceforge.net/projects/vice-emu/)] [[head](https://svn.code.sf.net/p/vice-emu/code/trunk/vice)] [[stable](https://downloads.sourceforge.net/project/vice-emu/releases/vice-3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vice.rb)]
 - [ ] viennacl [[homepage](https://viennacl.sourceforge.io/)] [[head](https://github.com/viennacl/viennacl-dev.git)] [[stable](https://downloads.sourceforge.net/project/viennacl/1.7.x/ViennaCL-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/viennacl.rb)]

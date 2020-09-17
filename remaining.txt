@@ -837,7 +837,6 @@ gsettings-desktop-schemas
 gsl
 gsmartcontrol
 gssdp
-gst-validate
 gstreamermm
 gti
 gtk+
