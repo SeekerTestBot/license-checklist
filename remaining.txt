@@ -44,7 +44,6 @@ amtterm
 analog
 angband
 anjuta
-ansible
 ansible-cmdb
 ansible@2.8
 ansifilter
@@ -833,7 +832,6 @@ grsync
 grv
 gsar
 gsasl
-gsettings-desktop-schemas
 gsl
 gsmartcontrol
 gssdp
@@ -1325,7 +1323,6 @@ libunwind-headers
 libusb
 libusb-compat
 libusbmuxd
-libvidstab
 libvisio
 libvncserver
 libvoikko

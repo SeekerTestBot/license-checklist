@@ -1,6 +1,6 @@
-2627 / 5221 (50.3%) of formulae have a valid `license` stanza as of 2020-09-17 12:02:08 UTC.
+2630 / 5221 (50.4%) of formulae have a valid `license` stanza as of 2020-09-18 00:02:03 UTC.
 
-1299 / 5221 (24.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1297 / 5221 (24.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -93,7 +93,7 @@
 - [x] anime-downloader: Unlicense
 - [ ] anjuta [[homepage](http://anjuta.org)] [head] [[stable](https://download.gnome.org/sources/anjuta/3.34/anjuta-3.34.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/anjuta.rb)]
 - [x] annie: MIT
-- [ ] ansible: GPL-3.0 (deprecated) [[homepage](https://www.ansible.com/)] [[head](https://github.com/ansible/ansible.git)] [[stable](https://releases.ansible.com/ansible/ansible-2.9.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ansible.rb)]
+- [x] ansible: GPL-3.0-or-later
 - [ ] ansible-cmdb: GPL-3.0 (deprecated) [[homepage](https://github.com/fboender/ansible-cmdb)] [head] [[stable](https://github.com/fboender/ansible-cmdb/releases/download/1.30/ansible-cmdb-1.30.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ansible-cmdb.rb)]
 - [x] ansible-lint: MIT
 - [ ] ansible@2.8: GPL-3.0 (deprecated) [[homepage](https://www.ansible.com/)] [head] [[stable](https://releases.ansible.com/ansible/ansible-2.8.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ansible@2.8.rb)]
@@ -909,7 +909,7 @@
 - [x] dash: BSD-3-Clause
 - [x] dashing: MIT
 - [x] dasht: ISC
-- [ ] dasm: GPL-2.0 (deprecated) [[homepage](https://dasm-assembler.github.io/)] [head] [[stable](https://github.com/dasm-assembler/dasm/archive/2.20.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dasm.rb)]
+- [ ] dasm: GPL-2.0 (deprecated) [[homepage](https://dasm-assembler.github.io/)] [head] [[stable](https://github.com/dasm-assembler/dasm/archive/2.20.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dasm.rb)]
 - [ ] datamash: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/datamash)] [[head](https://git.savannah.gnu.org/git/datamash.git)] [[stable](https://ftp.gnu.org/gnu/datamash/datamash-1.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/datamash.rb)]
 - [x] datasette: Apache-2.0
 - [x] datetime-fortran: MIT
@@ -1862,7 +1862,7 @@
 - [ ] grv: GPL-3.0 (deprecated) [[homepage](https://github.com/rgburke/grv)] [[head](https://github.com/rgburke/grv.git)] [[stable](https://github.com/rgburke/grv/releases/download/v0.3.2/grv-0.3.2-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/grv.rb)]
 - [ ] gsar: GPL-2.0 (deprecated) [[homepage](http://tjaberg.com/)] [head] [[stable](http://tjaberg.com/gsar121.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gsar.rb)]
 - [ ] gsasl: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gsasl/)] [head] [[stable](https://ftp.gnu.org/gnu/gsasl/gsasl-1.8.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gsasl.rb)]
-- [ ] gsettings-desktop-schemas [[homepage](https://download.gnome.org/sources/gsettings-desktop-schemas/)] [head] [[stable](https://download.gnome.org/sources/gsettings-desktop-schemas/3.36/gsettings-desktop-schemas-3.36.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gsettings-desktop-schemas.rb)]
+- [x] gsettings-desktop-schemas: LGPL-2.1-or-later
 - [ ] gsl: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gsl/)] [head] [[stable](https://ftp.gnu.org/gnu/gsl/gsl-2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gsl.rb)]
 - [ ] gsmartcontrol [[homepage](https://gsmartcontrol.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/gsmartcontrol/1.1.3/gsmartcontrol-1.1.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gsmartcontrol.rb)]
 - [x] gsoap: `{:any_of=>["GPL-2.0-or-later", "gSOAP-1.3b"]}`
@@ -2821,7 +2821,7 @@
 - [x] libuv: MIT
 - [x] libuvc: BSD-3-Clause
 - [x] libvbucket: Apache-2.0
-- [ ] libvidstab: GPL-2.0 (deprecated) [[homepage](http://public.hronopik.de/vid.stab/)] [head] [[stable](https://github.com/georgmartius/vid.stab/archive/v1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libvidstab.rb)]
+- [x] libvidstab: GPL-2.0-or-later
 - [x] libvirt: `{:all_of=>["LGPL-2.1-or-later", "GPL-2.0-or-later"]}`
 - [x] libvirt-glib: LGPL-2.1-or-later
 - [ ] libvisio [[homepage](https://wiki.documentfoundation.org/DLP/Libraries/libvisio)] [head] [[stable](https://dev-www.libreoffice.org/src/libvisio/libvisio-0.1.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libvisio.rb)]
