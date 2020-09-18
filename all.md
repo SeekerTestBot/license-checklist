@@ -1,4 +1,4 @@
-2630 / 5221 (50.4%) of formulae have a valid `license` stanza as of 2020-09-18 00:02:10 UTC.
+2630 / 5221 (50.4%) of formulae have a valid `license` stanza as of 2020-09-18 12:01:55 UTC.
 
 1297 / 5221 (24.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1133,7 +1133,7 @@
 - [ ] dwm [[homepage](https://dwm.suckless.org/)] [[head](https://git.suckless.org/dwm)] [[stable](https://dl.suckless.org/dwm/dwm-6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwm.rb)]
 - [ ] dxflib [[homepage](https://www.ribbonsoft.com/en/what-is-dxflib)] [head] [[stable](https://www.ribbonsoft.com/archives/dxflib/dxflib-2.5.0.0-1.src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dxflib.rb)]
 - [x] dxpy: Apache-2.0
-- [ ] dyld-headers [[homepage](https://opensource.apple.com/)] [head] [[stable](https://opensource.apple.com/tarballs/dyld/dyld-733.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dyld-headers.rb)]
+- [ ] dyld-headers [[homepage](https://opensource.apple.com/)] [head] [[stable](https://opensource.apple.com/tarballs/dyld/dyld-750.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dyld-headers.rb)]
 - [x] dylibbundler: MIT
 - [ ] dynamips: GPL-2.0 (deprecated) [[homepage](https://github.com/GNS3/dynamips)] [head] [[stable](https://github.com/GNS3/dynamips/archive/v0.2.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dynamips.rb)]
 - [x] dynare: GPL-3.0-or-later
