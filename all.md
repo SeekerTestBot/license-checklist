@@ -1,6 +1,6 @@
-2633 / 5221 (50.4%) of formulae have a valid `license` stanza as of 2020-09-19 00:02:02 UTC.
+2634 / 5221 (50.5%) of formulae have a valid `license` stanza as of 2020-09-19 12:02:45 UTC.
 
-1295 / 5221 (24.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1294 / 5221 (24.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -654,7 +654,7 @@
 - [ ] citus: AGPL-3.0 (deprecated) [[homepage](https://www.citusdata.com)] [[head](https://github.com/citusdata/citus.git)] [[stable](https://github.com/citusdata/citus/archive/v9.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/citus.rb)]
 - [x] cityhash: MIT
 - [ ] civl [[homepage](https://vsl.cis.udel.edu/civl/)] [head] [[stable](https://vsl.cis.udel.edu/lib/sw/civl/1.20/r5259/release/CIVL-1.20_5259.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/civl.rb)]
-- [ ] cjdns: GPL-3.0 (deprecated) [[homepage](https://github.com/cjdelisle/cjdns/)] [[head](https://github.com/cjdelisle/cjdns.git)] [[stable](https://github.com/cjdelisle/cjdns/archive/cjdns-v20.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cjdns.rb)]
+- [ ] cjdns: GPL-3.0 (deprecated) [[homepage](https://github.com/cjdelisle/cjdns/)] [[head](https://github.com/cjdelisle/cjdns.git)] [[stable](https://github.com/cjdelisle/cjdns/archive/cjdns-v21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cjdns.rb)]
 - [x] cjson: MIT
 - [x] ckan: MIT
 - [ ] cksfv: GPL-2.0 (deprecated) [[homepage](https://zakalwe.fi/~shd/foss/cksfv/)] [head] [[stable](https://zakalwe.fi/~shd/foss/cksfv/files/cksfv-1.3.14.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cksfv.rb)]
@@ -745,7 +745,7 @@
 - [x] collectd: MIT
 - [ ] collector-sidecar: GPL-3.0 (deprecated) [[homepage](https://github.com/Graylog2/collector-sidecar)] [head] [[stable](https://github.com/Graylog2/collector-sidecar/archive/1.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/collector-sidecar.rb)]
 - [ ] color-code [[homepage](http://colorcode.laebisch.com/)] [head] [[stable](http://colorcode.laebisch.com/download/ColorCode-0.8.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/color-code.rb)]
-- [ ] colordiff: GPL-2.0 (deprecated) [[homepage](https://www.colordiff.org/)] [head] [[stable](https://www.colordiff.org/colordiff-1.0.19.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/colordiff.rb)]
+- [x] colordiff: GPL-2.0-or-later
 - [ ] colormake: GPL-2.0 (deprecated) [[homepage](https://github.com/pagekite/Colormake)] [[head](https://github.com/pagekite/Colormake.git)] [[stable](https://github.com/pagekite/Colormake/archive/0.9.20140503.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/colormake.rb)]
 - [ ] colorsvn [[homepage](https://web.archive.org/web/20170725092001/colorsvn.tigris.org/)] [head] [[stable](https://web.archive.org/web/20170725092001/colorsvn.tigris.org/files/documents/4414/49311/colorsvn-0.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/colorsvn.rb)]
 - [ ] colortail: GPL-2.0 (deprecated) [[homepage](https://github.com/joakim666/colortail)] [head] [[stable](https://github.com/joakim666/colortail.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/colortail.rb)]
