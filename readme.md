@@ -1,6 +1,6 @@
-2630 / 5221 (50.4%) of formulae have a valid `license` stanza as of 2020-09-18 12:01:46 UTC.
+2633 / 5221 (50.4%) of formulae have a valid `license` stanza as of 2020-09-19 00:01:52 UTC.
 
-1297 / 5221 (24.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1295 / 5221 (24.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -567,7 +567,7 @@
 - [ ] cd-discid: GPL-2.0 (deprecated) [[homepage](https://linukz.org/cd-discid.shtml)] [[head](https://github.com/taem/cd-discid.git)] [[stable](https://linukz.org/download/cd-discid-1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cd-discid.rb)]
 - [ ] cdargs: GPL-2.0 (deprecated) [[homepage](https://github.com/cbxbiker61/cdargs)] [[head](https://github.com/cbxbiker61/cdargs.git)] [[stable](https://github.com/cbxbiker61/cdargs/archive/2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdargs.rb)]
 - [ ] cdb [[homepage](https://cr.yp.to/cdb.html)] [head] [[stable](https://cr.yp.to/cdb/cdb-0.75.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdb.rb)]
-- [ ] cddlib: GPL-2.0 (deprecated) [[homepage](https://www.inf.ethz.ch/personal/fukudak/cdd_home/)] [head] [[stable](https://github.com/cddlib/cddlib/releases/download/0.94j/cddlib-0.94j.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cddlib.rb)]
+- [ ] cddlib: GPL-2.0 (deprecated) [[homepage](https://www.inf.ethz.ch/personal/fukudak/cdd_home/)] [head] [[stable](https://github.com/cddlib/cddlib/releases/download/0.94k/cddlib-0.94k.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cddlib.rb)]
 - [ ] cdecl [[homepage](https://cdecl.org/)] [head] [[stable](https://cdecl.org/files/cdecl-blocks-2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdecl.rb)]
 - [ ] cdk [[homepage](https://invisible-island.net/cdk/)] [head] [[stable](https://invisible-mirror.net/archives/cdk/cdk-5.0-20200228.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdk.rb)]
 - [x] cdk8s: Apache-2.0
@@ -909,7 +909,7 @@
 - [x] dash: BSD-3-Clause
 - [x] dashing: MIT
 - [x] dasht: ISC
-- [ ] dasm: GPL-2.0 (deprecated) [[homepage](https://dasm-assembler.github.io/)] [head] [[stable](https://github.com/dasm-assembler/dasm/archive/2.20.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dasm.rb)]
+- [x] dasm: GPL-2.0-or-later
 - [ ] datamash: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/datamash)] [[head](https://git.savannah.gnu.org/git/datamash.git)] [[stable](https://ftp.gnu.org/gnu/datamash/datamash-1.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/datamash.rb)]
 - [x] datasette: Apache-2.0
 - [x] datetime-fortran: MIT
@@ -1900,7 +1900,7 @@
 - [ ] gtksourceviewmm3 [[homepage](https://developer.gnome.org/gtksourceviewmm/)] [head] [[stable](https://download.gnome.org/sources/gtksourceviewmm/3.18/gtksourceviewmm-3.18.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtksourceviewmm3.rb)]
 - [ ] gtkspell3 [[homepage](https://gtkspell.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/gtkspell/3.0.10/gtkspell3-3.0.10.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkspell3.rb)]
 - [ ] gtmess: GPL-2.0 (deprecated) [[homepage](https://gtmess.sourceforge.io/)] [[head](https://github.com/geotz/gtmess.git)] [[stable](https://downloads.sourceforge.net/project/gtmess/gtmess/0.97/gtmess-0.97.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtmess.rb)]
-- [ ] gtranslator [[homepage](https://wiki.gnome.org/Design/Apps/Translator)] [head] [[stable](https://download.gnome.org/sources/gtranslator/3.36/gtranslator-3.36.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtranslator.rb)]
+- [x] gtranslator: GPL-3.0-or-later
 - [ ] gts [[homepage](https://gts.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/gts/gts/0.7.6/gts-0.7.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gts.rb)]
 - [ ] gucharmap [[homepage](https://wiki.gnome.org/Apps/Gucharmap)] [head] [[stable](https://download.gnome.org/sources/gucharmap/12.0/gucharmap-12.0.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gucharmap.rb)]
 - [x] guetzli: Apache-2.0
@@ -4441,7 +4441,7 @@
 - [ ] softhsm [[homepage](https://www.opendnssec.org/softhsm/)] [head] [[stable](https://dist.opendnssec.org/source/softhsm-2.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/softhsm.rb)]
 - [x] solarus: GPL-3.0-or-later
 - [ ] solid [[homepage](http://www.dtecta.com/)] [head] [[stable](http://www.dtecta.com/files/solid-3.5.6.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/solid.rb)]
-- [ ] solidity: GPL-3.0 (deprecated) [[homepage](https://solidity.readthedocs.io)] [head] [[stable](https://github.com/ethereum/solidity/releases/download/v0.7.1/solidity_0.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/solidity.rb)]
+- [x] solidity: `{:all_of=>["GPL-3.0-or-later", "MIT", "BSD-3-Clause", "Apache-2.0", "CC0-1.0"]}`
 - [ ] sollya [[homepage](https://sollya.gforge.inria.fr/)] [head] [[stable](https://gforge.inria.fr/frs/download.php/file/37749/sollya-7.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sollya.rb)]
 - [x] solr: Apache-2.0
 - [x] solr@7.7: Apache-2.0
@@ -4971,7 +4971,7 @@
 - [ ] vapoursynth-imwri: LGPL-2.1 (deprecated) [[homepage](http://www.vapoursynth.com)] [[head](https://github.com/vapoursynth/vapoursynth.git)] [[stable](https://github.com/vapoursynth/vapoursynth/archive/R50.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vapoursynth-imwri.rb)]
 - [ ] vapoursynth-ocr: LGPL-2.1 (deprecated) [[homepage](http://www.vapoursynth.com)] [[head](https://github.com/vapoursynth/vapoursynth.git)] [[stable](https://github.com/vapoursynth/vapoursynth/archive/R50.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vapoursynth-ocr.rb)]
 - [ ] vapoursynth-sub: LGPL-2.1 (deprecated) [[homepage](http://www.vapoursynth.com)] [[head](https://github.com/vapoursynth/vapoursynth.git)] [[stable](https://github.com/vapoursynth/vapoursynth/archive/R50.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vapoursynth-sub.rb)]
-- [ ] varnish [[homepage](https://www.varnish-cache.org/)] [head] [[stable](https://varnish-cache.org/_downloads/varnish-6.4.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/varnish.rb)]
+- [ ] varnish [[homepage](https://www.varnish-cache.org/)] [head] [[stable](https://varnish-cache.org/_downloads/varnish-6.5.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/varnish.rb)]
 - [ ] vassh [[homepage](https://github.com/x-team/vassh)] [head] [[stable](https://github.com/x-team/vassh/archive/0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vassh.rb)]
 - [x] vault: MPL-2.0
 - [x] vault-cli: Apache-2.0

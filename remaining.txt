@@ -399,7 +399,6 @@ daq
 darkhttpd
 darkice
 darkstat
-dasm
 datamash
 davix
 davmail
@@ -854,7 +853,6 @@ gtksourceviewmm
 gtksourceviewmm3
 gtkspell3
 gtmess
-gtranslator
 gts
 gucharmap
 guichan
@@ -2130,7 +2128,6 @@ soci
 sofia-sip
 softhsm
 solid
-solidity
 sollya
 somagic
 somagic-tools
