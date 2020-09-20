@@ -1622,8 +1622,6 @@ nlopt
 nmap
 nmh
 no-more-secrets
-node@10
-node@12
 nopoll
 normalize
 notifiers

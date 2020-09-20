@@ -1,4 +1,4 @@
-2634 / 5221 (50.5%) of formulae have a valid `license` stanza as of 2020-09-19 12:02:22 UTC.
+2636 / 5221 (50.5%) of formulae have a valid `license` stanza as of 2020-09-20 00:02:02 UTC.
 
 1294 / 5221 (24.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -3385,8 +3385,8 @@
 - [x] node: MIT
 - [x] node-build: MIT
 - [x] node-sass: MIT
-- [ ] node@10 [[homepage](https://nodejs.org/)] [head] [[stable](https://nodejs.org/dist/v10.22.0/node-v10.22.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/node@10.rb)]
-- [ ] node@12 [[homepage](https://nodejs.org/)] [head] [[stable](https://nodejs.org/dist/v12.18.3/node-v12.18.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/node@12.rb)]
+- [x] node@10: MIT
+- [x] node@12: MIT
 - [x] node_exporter: Apache-2.0
 - [x] nodebrew: MIT
 - [x] nodeenv: BSD-3-Clause
@@ -4604,7 +4604,7 @@
 - [ ] svg2png: LGPL-2.1 (deprecated) [[homepage](https://cairographics.org/)] [head] [[stable](https://cairographics.org/snapshots/svg2png-0.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svg2png.rb)]
 - [ ] svgcleaner: GPL-2.0 (deprecated) [[homepage](https://github.com/RazrFalcon/svgcleaner)] [[head](https://github.com/RazrFalcon/svgcleaner.git)] [[stable](https://github.com/RazrFalcon/svgcleaner/archive/v0.9.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svgcleaner.rb)]
 - [x] svgo: MIT
-- [ ] svtplay-dl [[homepage](https://svtplay-dl.se/)] [head] [[stable](https://files.pythonhosted.org/packages/0c/19/b590fd5ca34ca7cc0c2aa9e7d935d5c1330ef5a99e93136ce040667adac4/svtplay-dl-2.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svtplay-dl.rb)]
+- [ ] svtplay-dl [[homepage](https://svtplay-dl.se/)] [head] [[stable](https://files.pythonhosted.org/packages/b8/f3/00b9a5cbd1f8f759ac8bdcb632114aab622db8eb3c8702a48ef166acbfa3/svtplay-dl-2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svtplay-dl.rb)]
 - [x] swagger-codegen: Apache-2.0
 - [x] swagger-codegen@2: Apache-2.0
 - [x] swagger2markup-cli: Apache-2.0
