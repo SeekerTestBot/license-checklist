@@ -1,6 +1,6 @@
-2636 / 5221 (50.5%) of formulae have a valid `license` stanza as of 2020-09-20 00:02:11 UTC.
+2642 / 5221 (50.6%) of formulae have a valid `license` stanza as of 2020-09-20 12:01:31 UTC.
 
-1294 / 5221 (24.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1292 / 5221 (24.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -168,7 +168,7 @@
 - [ ] argus-clients [[homepage](https://qosient.com/argus/)] [head] [[stable](https://qosient.com/argus/src/argus-clients-3.0.8.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/argus-clients.rb)]
 - [ ] argyll-cms: AGPL-3.0 (deprecated) [[homepage](https://www.argyllcms.com/)] [head] [[stable](https://www.argyllcms.com/Argyll_V2.1.2_src.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/argyll-cms.rb)]
 - [ ] aria2: GPL-2.0 (deprecated) [[homepage](https://aria2.github.io/)] [head] [[stable](https://github.com/aria2/aria2/releases/download/release-1.35.0/aria2-1.35.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aria2.rb)]
-- [ ] arm-linux-gnueabihf-binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/binutils.html)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arm-linux-gnueabihf-binutils.rb)]
+- [ ] arm-linux-gnueabihf-binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/binutils.html)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arm-linux-gnueabihf-binutils.rb)]
 - [x] armadillo: Apache-2.0
 - [x] armor: MIT
 - [ ] arp-scan: GPL-3.0 (deprecated) [[homepage](https://github.com/royhills/arp-scan)] [[head](https://github.com/royhills/arp-scan.git)] [[stable](https://github.com/royhills/arp-scan/archive/1.9.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arp-scan.rb)]
@@ -369,7 +369,7 @@
 - [ ] bindfs: GPL-2.0 (deprecated) [[homepage](https://bindfs.org/)] [[head](https://github.com/mpartel/bindfs.git)] [[stable](https://bindfs.org/downloads/bindfs-1.14.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bindfs.rb)]
 - [x] bingrep: MIT
 - [ ] binkd: GPL-2.0 (deprecated) [[homepage](http://binkd.grumbler.org/)] [head] [[stable](https://happy.kiev.ua/pub/fidosoft/mailer/binkd/binkd-1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/binkd.rb)]
-- [ ] binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/binutils.html)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/binutils.rb)]
+- [ ] binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/binutils.html)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/binutils.rb)]
 - [x] binwalk: MIT
 - [ ] bioawk [[homepage](https://github.com/lh3/bioawk)] [head] [[stable](https://github.com/lh3/bioawk/archive/v1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bioawk.rb)]
 - [ ] biosig: GPL-3.0 (deprecated) [[homepage](https://biosig.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/biosig/BioSig%20for%20C_C%2B%2B/src/biosig-2.0.4.src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/biosig.rb)]
@@ -2050,7 +2050,7 @@
 - [x] i2pd: BSD-3-Clause
 - [ ] i2util [[homepage](https://software.internet2.edu/)] [head] [[stable](https://software.internet2.edu/sources/I2util/I2util-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i2util.rb)]
 - [ ] i386-elf-gdb: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/gdb/)] [[head](https://sourceware.org/git/binutils-gdb.git)] [[stable](https://ftp.gnu.org/gnu/gdb/gdb-9.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i386-elf-gdb.rb)]
-- [ ] i686-elf-binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i686-elf-binutils.rb)]
+- [ ] i686-elf-binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i686-elf-binutils.rb)]
 - [ ] i686-elf-gcc: GPL-2.0 (deprecated) [[homepage](https://gcc.gnu.org)] [head] [[stable](https://ftp.gnu.org/gnu/gcc/gcc-10.2.0/gcc-10.2.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i686-elf-gcc.rb)]
 - [x] iam-policy-json-to-terraform: Apache-2.0
 - [x] iamy: MIT
@@ -2189,7 +2189,7 @@
 - [x] javacc: BSD-3-Clause
 - [x] javarepl: Apache-2.0
 - [ ] jbake [[homepage](https://jbake.org/)] [head] [[stable](https://dl.bintray.com/jbake/binary/jbake-2.6.5-bin.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jbake.rb)]
-- [ ] jbig2dec: AGPL-3.0 (deprecated) [[homepage](https://jbig2dec.com/)] [head] [[stable](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs951/jbig2dec-0.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jbig2dec.rb)]
+- [x] jbig2dec: AGPL-3.0-or-later
 - [x] jbig2enc: Apache-2.0
 - [ ] jbigkit: GPL-2.0 (deprecated) [[homepage](https://www.cl.cam.ac.uk/~mgk25/jbigkit/)] [[head](https://www.cl.cam.ac.uk/~mgk25/git/jbigkit)] [[stable](https://www.cl.cam.ac.uk/~mgk25/jbigkit/download/jbigkit-2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jbigkit.rb)]
 - [ ] jboss-forge [[homepage](https://forge.jboss.org/)] [head] [[stable](https://downloads.jboss.org/forge/releases/3.9.7.Final/forge-distribution-3.9.7.Final-offline.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jboss-forge.rb)]
@@ -2345,7 +2345,7 @@
 - [x] kops: Apache-2.0
 - [x] kore: ISC
 - [x] kotlin: Apache-2.0
-- [ ] kpcli [[homepage](https://kpcli.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/kpcli/kpcli-3.4.pl)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kpcli.rb)]
+- [x] kpcli: `{:any_of=>["Artistic-1.0-Perl", "GPL-1.0-or-later"]}`
 - [x] kqwait: BSD-2-Clause
 - [x] krakend: Apache-2.0
 - [ ] krb5 [[homepage](https://web.mit.edu/kerberos/)] [head] [[stable](https://kerberos.org/dist/krb5/1.18/krb5-1.18.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/krb5.rb)]
@@ -2747,7 +2747,7 @@
 - [x] libsodium: ISC
 - [x] libsoundio: MIT
 - [x] libsoup: LGPL-2.0-or-later
-- [ ] libsoxr [[homepage](https://sourceforge.net/projects/soxr/)] [head] [[stable](https://downloads.sourceforge.net/project/soxr/soxr-0.1.3-Source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsoxr.rb)]
+- [x] libsoxr: LGPL-2.1-or-later
 - [ ] libspatialite [[homepage](https://www.gaia-gis.it/fossil/libspatialite/index)] [[head](https://www.gaia-gis.it/fossil/libspatialite)] [[stable](https://www.gaia-gis.it/gaia-sins/libspatialite-sources/libspatialite-4.3.0a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspatialite.rb)]
 - [ ] libspectre: GPL-2.0 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/libspectre/)] [head] [[stable](https://libspectre.freedesktop.org/releases/libspectre-0.2.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspectre.rb)]
 - [ ] libspectrum [[homepage](https://fuse-emulator.sourceforge.io/libspectrum.php)] [[head](https://svn.code.sf.net/p/fuse-emulator/code/trunk/libspectrum)] [[stable](https://downloads.sourceforge.net/project/fuse-emulator/libspectrum/1.4.4/libspectrum-1.4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspectrum.rb)]
@@ -2759,7 +2759,7 @@
 - [x] libssh2: BSD-3-Clause
 - [ ] libstatgrab: GPL-2.0 (deprecated) [[homepage](https://www.i-scream.org/libstatgrab/)] [head] [[stable](https://ftp.i-scream.org/pub/i-scream/libstatgrab/libstatgrab-0.92.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libstatgrab.rb)]
 - [ ] libstfl [[homepage](http://www.clifford.at/stfl/)] [head] [[stable](http://www.clifford.at/stfl/stfl-0.24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libstfl.rb)]
-- [x] libstrophe: MIT
+- [ ] libstrophe: `{:any_of=>["GPL-3.0", "MIT"]}` (deprecated) [[homepage](https://strophe.im/libstrophe/)] [[head](https://github.com/strophe/libstrophe.git)] [[stable](https://github.com/strophe/libstrophe/archive/0.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libstrophe.rb)]
 - [ ] libstxxl [[homepage](https://stxxl.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/stxxl/stxxl/1.4.1/stxxl-1.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libstxxl.rb)]
 - [ ] libsvg: LGPL-2.1 (deprecated) [[homepage](https://cairographics.org/)] [head] [[stable](https://cairographics.org/snapshots/libsvg-0.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsvg.rb)]
 - [ ] libsvg-cairo: LGPL-2.1 (deprecated) [[homepage](https://cairographics.org/)] [head] [[stable](https://cairographics.org/snapshots/libsvg-cairo-0.1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsvg-cairo.rb)]
@@ -2971,7 +2971,7 @@
 - [ ] mapnik: LGPL-2.1 (deprecated) [[homepage](https://mapnik.org/)] [[head](https://github.com/mapnik/mapnik.git)] [[stable](https://github.com/mapnik/mapnik/releases/download/v3.0.23/mapnik-v3.0.23.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mapnik.rb)]
 - [ ] mapserver [[homepage](https://mapserver.org/)] [head] [[stable](https://download.osgeo.org/mapserver/mapserver-7.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mapserver.rb)]
 - [x] mariadb: GPL-2.0-only
-- [ ] mariadb-connector-c: LGPL-2.1 (deprecated) [[homepage](https://downloads.mariadb.org/connector-c/)] [[head](https://github.com/mariadb-corporation/mariadb-connector-c.git)] [[stable](https://downloads.mariadb.org/f/connector-c-3.1.9/mariadb-connector-c-3.1.9-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mariadb-connector-c.rb)]
+- [x] mariadb-connector-c: LGPL-2.1-or-later
 - [ ] mariadb-connector-odbc: LGPL-2.1 (deprecated) [[homepage](https://downloads.mariadb.org/connector-odbc/)] [head] [[stable](https://downloads.mariadb.org/f/connector-odbc-3.1.9/mariadb-connector-odbc-3.1.9-ga-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mariadb-connector-odbc.rb)]
 - [x] mariadb@10.1: GPL-2.0-only
 - [x] mariadb@10.2: GPL-2.0-only
@@ -3690,7 +3690,7 @@
 - [x] pgloader: PostgreSQL
 - [x] pgpdump: BSD-3-Clause
 - [ ] pgplot [[homepage](https://www.astro.caltech.edu/~tjp/pgplot/)] [head] [[stable](ftp://ftp.astro.caltech.edu/pub/pgplot/pgplot522.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgplot.rb)]
-- [ ] pgpool-ii [[homepage](https://www.pgpool.net/mediawiki/index.php/Main_Page)] [head] [[stable](https://www.pgpool.net/mediawiki/images/pgpool-II-4.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgpool-ii.rb)]
+- [ ] pgpool-ii [[homepage](https://www.pgpool.net/mediawiki/index.php/Main_Page)] [head] [[stable](https://www.pgpool.net/mediawiki/images/pgpool-II-4.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgpool-ii.rb)]
 - [ ] pgroonga [[homepage](https://pgroonga.github.io/)] [head] [[stable](https://packages.groonga.org/source/pgroonga/pgroonga-2.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgroonga.rb)]
 - [ ] pgrouting: GPL-2.0 (deprecated) [[homepage](https://pgrouting.org/)] [[head](https://github.com/pgRouting/pgrouting.git)] [[stable](https://github.com/pgRouting/pgrouting/releases/download/v3.1.0/pgrouting-3.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgrouting.rb)]
 - [x] pgtoolkit: PostgreSQL
@@ -4257,7 +4257,7 @@
 - [ ] sdl_rtf [[homepage](https://www.libsdl.org/projects/SDL_rtf/)] [[head](https://hg.libsdl.org/SDL_rtf)] [[stable](https://www.libsdl.org/projects/SDL_rtf/release/SDL_rtf-0.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl_rtf.rb)]
 - [ ] sdl_sound [[homepage](https://icculus.org/SDL_sound/)] [[head](https://hg.icculus.org/icculus/SDL_sound)] [[stable](https://icculus.org/SDL_sound/downloads/SDL_sound-1.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl_sound.rb)]
 - [ ] sdl_ttf [[homepage](https://www.libsdl.org/projects/SDL_ttf/)] [head] [[stable](https://www.libsdl.org/projects/SDL_ttf/release/SDL_ttf-2.0.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl_ttf.rb)]
-- [ ] sdlpop: GPL-3.0 (deprecated) [[homepage](https://github.com/NagyD/SDLPoP)] [head] [[stable](https://github.com/NagyD/SDLPoP/archive/v1.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdlpop.rb)]
+- [x] sdlpop: GPL-3.0-or-later
 - [x] sdns: MIT
 - [x] seal: MIT
 - [ ] sec: GPL-2.0 (deprecated) [[homepage](https://simple-evcorr.sourceforge.io/)] [head] [[stable](https://github.com/simple-evcorr/sec/releases/download/2.8.3/sec-2.8.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sec.rb)]
@@ -4282,7 +4282,7 @@
 - [x] setweblocthumb: Apache-2.0
 - [x] sf-pwgen: Zlib
 - [ ] sfcgal: LGPL-2.0+ (deprecated) [[homepage](http://sfcgal.org/)] [head] [[stable](https://github.com/Oslandia/SFCGAL/archive/v1.3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sfcgal.rb)]
-- [ ] sfk [[homepage](http://stahlworks.com/dev/swiss-file-knife.html)] [head] [[stable](https://downloads.sourceforge.net/project/swissfileknife/1-swissfileknife/1.9.7.0/sfk-1.9.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sfk.rb)]
+- [x] sfk: BSD-2-Clause
 - [x] sfml: Zlib
 - [ ] sfst: GPL-2.0 (deprecated) [[homepage](https://www.cis.uni-muenchen.de/~schmid/tools/SFST/)] [head] [[stable](https://www.cis.uni-muenchen.de/~schmid/tools/SFST/data/SFST-1.4.7e.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sfst.rb)]
 - [ ] sgrep [[homepage](https://www.cs.helsinki.fi/u/jjaakkol/sgrep.html)] [head] [[stable](https://www.cs.helsinki.fi/pub/Software/Local/Sgrep/sgrep-1.94a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sgrep.rb)]
@@ -4413,7 +4413,7 @@
 - [ ] somagic-tools [[homepage](https://code.google.com/archive/p/easycap-somagic-linux/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/easycap-somagic-linux/somagic-easycap-tools_1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/somagic-tools.rb)]
 - [x] sonar-completion: Apache-2.0
 - [ ] sonar-scanner: LGPL-3.0 (deprecated) [[homepage](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner)] [[head](https://github.com/SonarSource/sonar-scanner-cli.git)] [[stable](https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.4.0.2170.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sonar-scanner.rb)]
-- [ ] sonarqube [[homepage](https://www.sonarqube.org/)] [head] [[stable](https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-8.4.1.35646.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sonarqube.rb)]
+- [x] sonarqube: LGPL-3.0-or-later
 - [ ] sonarqube-lts [[homepage](https://www.sonarqube.org/)] [head] [[stable](https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.9.4.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sonarqube-lts.rb)]
 - [x] sonic: MPL-2.0
 - [x] sonobuoy: Apache-2.0
@@ -4814,7 +4814,7 @@
 - [ ] ttf2eot: LGPL-2.0 (deprecated) [[homepage](https://github.com/wget/ttf2eot)] [head] [[stable](https://github.com/wget/ttf2eot/archive/v0.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ttf2eot.rb)]
 - [ ] ttf2pt1 [[homepage](https://ttf2pt1.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/ttf2pt1/ttf2pt1/3.4.4/ttf2pt1-3.4.4.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ttf2pt1.rb)]
 - [ ] ttfautohint [[homepage](https://www.freetype.org/ttfautohint/)] [[head](https://repo.or.cz/ttfautohint.git)] [[stable](https://downloads.sourceforge.net/project/freetype/ttfautohint/1.8.3/ttfautohint-1.8.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ttfautohint.rb)]
-- [ ] tth [[homepage](http://hutchinson.belmont.ma.us/tth/)] [head] [[stable](http://hutchinson.belmont.ma.us/tth/tth_distribution/tth_4.14.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tth.rb)]
+- [ ] tth [[homepage](http://hutchinson.belmont.ma.us/tth/)] [head] [[stable](http://hutchinson.belmont.ma.us/tth/tth_distribution/tth_4.15.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tth.rb)]
 - [x] tty-clock: BSD-3-Clause
 - [x] tty-share: MIT
 - [x] tty-solitaire: MIT
@@ -5128,7 +5128,7 @@
 - [ ] x264: GPL-2.0 (deprecated) [[homepage](https://www.videolan.org/developers/x264.html)] [[head](https://code.videolan.org/videolan/x264.git)] [[stable](https://code.videolan.org/videolan/x264.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/x264.rb)]
 - [x] x265: GPL-2.0-only
 - [x] x3270: BSD-3-Clause
-- [ ] x86_64-elf-binutils [[homepage](https://www.gnu.org/software/binutils/)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/x86_64-elf-binutils.rb)]
+- [ ] x86_64-elf-binutils [[homepage](https://www.gnu.org/software/binutils/)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/x86_64-elf-binutils.rb)]
 - [ ] x86_64-elf-gcc [[homepage](https://gcc.gnu.org)] [head] [[stable](https://ftp.gnu.org/gnu/gcc/gcc-10.2.0/gcc-10.2.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/x86_64-elf-gcc.rb)]
 - [ ] xa: GPL-2.0 (deprecated) [[homepage](https://www.floodgap.com/retrotech/xa/)] [head] [[stable](https://www.floodgap.com/retrotech/xa/dists/xa-2.3.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xa.rb)]
 - [x] xalan-c: Apache-2.0

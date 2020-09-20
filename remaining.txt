@@ -994,7 +994,6 @@ jailkit
 jam
 jasmin
 jbake
-jbig2dec
 jbigkit
 jboss-forge
 jcal
@@ -1053,7 +1052,6 @@ kimwitu++
 kite
 knock
 known_hosts
-kpcli
 krb5
 kstart
 ktoblzcheck
@@ -1294,7 +1292,6 @@ libsixel
 libsmf
 libsmi
 libsndfile
-libsoxr
 libspatialite
 libspectre
 libspectrum
@@ -1302,6 +1299,7 @@ libspiro
 libspnav
 libstatgrab
 libstfl
+libstrophe
 libstxxl
 libsvg
 libsvg-cairo
@@ -1409,7 +1407,6 @@ manticoresearch
 mapcrafter
 mapnik
 mapserver
-mariadb-connector-c
 mariadb-connector-odbc
 markdown
 marst
@@ -2065,14 +2062,12 @@ sdl_net
 sdl_rtf
 sdl_sound
 sdl_ttf
-sdlpop
 sec
 semtag
 sendemail
 sersniff
 servus
 sfcgal
-sfk
 sfst
 sgrep
 sha2
@@ -2129,7 +2124,6 @@ sollya
 somagic
 somagic-tools
 sonar-scanner
-sonarqube
 sonarqube-lts
 sound-touch
 source-highlight
