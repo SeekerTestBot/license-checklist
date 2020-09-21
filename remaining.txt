@@ -1234,7 +1234,6 @@ libmrss
 libmspub
 libmtp
 libmusicbrainz
-libmwaw
 libnatpmp
 libnfc
 libnfs
@@ -1291,7 +1290,6 @@ libsigsegv
 libsixel
 libsmf
 libsmi
-libsndfile
 libspatialite
 libspectre
 libspectrum
@@ -1909,7 +1907,6 @@ qdae
 qdbm
 qjackctl
 qjson
-qmmp
 qprint
 qrupdate
 qscintilla2

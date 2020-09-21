@@ -1,6 +1,6 @@
-2642 / 5221 (50.6%) of formulae have a valid `license` stanza as of 2020-09-20 12:01:22 UTC.
+2645 / 5221 (50.7%) of formulae have a valid `license` stanza as of 2020-09-21 00:02:02 UTC.
 
-1292 / 5221 (24.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1289 / 5221 (24.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -2672,7 +2672,7 @@
 - [ ] libmspub [[homepage](https://wiki.documentfoundation.org/DLP/Libraries/libmspub)] [head] [[stable](https://dev-www.libreoffice.org/src/libmspub/libmspub-0.1.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmspub.rb)]
 - [ ] libmtp: LGPL-2.1 (deprecated) [[homepage](https://libmtp.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/libmtp/libmtp/1.1.17/libmtp-1.1.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmtp.rb)]
 - [ ] libmusicbrainz: LGPL-2.1 (deprecated) [[homepage](https://musicbrainz.org/doc/libmusicbrainz)] [head] [[stable](https://github.com/metabrainz/libmusicbrainz/releases/download/release-5.1.0/libmusicbrainz-5.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmusicbrainz.rb)]
-- [ ] libmwaw: LGPL-2.1 (deprecated) [[homepage](https://sourceforge.net/p/libmwaw/wiki/Home/)] [head] [[stable](https://downloads.sourceforge.net/project/libmwaw/libmwaw/libmwaw-0.3.16/libmwaw-0.3.16.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmwaw.rb)]
+- [x] libmwaw: `{:any_of=>["LGPL-2.1-or-later", "MPL-2.0"]}`
 - [x] libmxml: Apache-2.0
 - [x] libmypaint: ISC
 - [ ] libnatpmp [[homepage](http://miniupnp.free.fr/libnatpmp.html)] [head] [[stable](http://miniupnp.free.fr/files/download.php?file=libnatpmp-20150609.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnatpmp.rb)]
@@ -2765,7 +2765,7 @@
 - [x] libslax: BSD-3-Clause
 - [ ] libsmf [[homepage](https://sourceforge.net/projects/libsmf/)] [head] [[stable](https://downloads.sourceforge.net/project/libsmf/libsmf/1.3/libsmf-1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsmf.rb)]
 - [ ] libsmi [[homepage](https://www.ibr.cs.tu-bs.de/projects/libsmi/)] [head] [[stable](https://www.ibr.cs.tu-bs.de/projects/libsmi/download/libsmi-0.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsmi.rb)]
-- [ ] libsndfile: LGPL-2.1 (deprecated) [[homepage](http://www.mega-nerd.com/libsndfile/)] [head] [[stable](http://www.mega-nerd.com/libsndfile/files/1.0.29pre2/libsndfile-1.0.29pre2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsndfile.rb)]
+- [x] libsndfile: LGPL-2.1-or-later
 - [x] libsodium: ISC
 - [x] libsoundio: MIT
 - [x] libsoup: LGPL-2.0-or-later
@@ -3974,7 +3974,7 @@
 - [x] qhull: Qhull
 - [ ] qjackctl: GPL-2.0 (deprecated) [[homepage](https://qjackctl.sourceforge.io/)] [[head](https://git.code.sf.net/p/qjackctl/code.git)] [[stable](https://downloads.sourceforge.net/project/qjackctl/qjackctl/0.6.3/qjackctl-0.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qjackctl.rb)]
 - [ ] qjson: LGPL-2.1 (deprecated) [[homepage](https://qjson.sourceforge.io)] [head] [[stable](https://github.com/flavio/qjson/archive/0.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qjson.rb)]
-- [ ] qmmp: GPL-2.0 (deprecated) [[homepage](https://qmmp.ylsoftware.com/)] [[head](https://svn.code.sf.net/p/qmmp-dev/code/branches/qmmp-1.4/)] [[stable](https://downloads.sourceforge.net/project/qmmp-dev/qmmp/qmmp-1.4.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qmmp.rb)]
+- [x] qmmp: GPL-2.0-or-later
 - [x] qp: MIT
 - [x] qpdf: Apache-2.0
 - [x] qpid-proton: Apache-2.0
@@ -5126,7 +5126,7 @@
 - [ ] winexe: GPL-3.0 (deprecated) [[homepage](https://sourceforge.net/projects/winexe/)] [head] [[stable](https://downloads.sourceforge.net/project/winexe/winexe-1.00.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/winexe.rb)]
 - [ ] wiredtiger [[homepage](http://www.wiredtiger.com)] [head] [[stable](https://github.com/wiredtiger/wiredtiger/releases/download/3.2.0/wiredtiger-3.2.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wiredtiger.rb)]
 - [x] wireguard-go: MIT
-- [ ] wireguard-tools: GPL-2.0 (deprecated) [[homepage](https://www.wireguard.com/)] [[head](https://git.zx2c4.com/wireguard-tools)] [[stable](https://git.zx2c4.com/wireguard-tools/snapshot/wireguard-tools-1.0.20200820.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireguard-tools.rb)]
+- [ ] wireguard-tools: GPL-2.0 (deprecated) [[homepage](https://www.wireguard.com/)] [[head](https://git.zx2c4.com/wireguard-tools)] [[stable](https://git.zx2c4.com/wireguard-tools/snapshot/wireguard-tools-1.0.20200827.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireguard-tools.rb)]
 - [x] wiremock-standalone: Apache-2.0
 - [ ] wireshark [[homepage](https://www.wireshark.org)] [[head](https://code.wireshark.org/review/wireshark)] [[stable](https://www.wireshark.org/download/src/all-versions/wireshark-3.2.6.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireshark.rb)]
 - [ ] wirouter_keyrec: GPL-3.0 (deprecated) [[homepage](https://www.salvatorefresta.net/tools/)] [head] [[stable](https://www.mirrorservice.org/sites/distfiles.macports.org/wirouterkeyrec/WiRouter_KeyRec_1.1.2.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wirouter_keyrec.rb)]
