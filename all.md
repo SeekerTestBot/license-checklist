@@ -1,6 +1,6 @@
-2645 / 5221 (50.7%) of formulae have a valid `license` stanza as of 2020-09-21 00:02:09 UTC.
+2648 / 5221 (50.7%) of formulae have a valid `license` stanza as of 2020-09-21 12:04:28 UTC.
 
-1289 / 5221 (24.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1286 / 5221 (24.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1554,7 +1554,7 @@
 - [x] ghc@8.8: BSD-3-Clause
 - [ ] ghex [[homepage](https://wiki.gnome.org/Apps/Ghex)] [head] [[stable](https://download.gnome.org/sources/ghex/3.18/ghex-3.18.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ghex.rb)]
 - [x] ghi: MIT
-- [ ] ghostscript: AGPL-3.0 (deprecated) [[homepage](https://www.ghostscript.com/)] [[head](https://git.ghostscript.com/ghostpdl.git)] [[stable](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/gs952/ghostpdl-9.52.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ghostscript.rb)]
+- [x] ghostscript: AGPL-3.0-or-later
 - [x] ghq: MIT
 - [x] ghr: MIT
 - [x] ghz: Apache-2.0
@@ -1783,7 +1783,7 @@
 - [x] gowsdl: MPL-2.0
 - [x] gox: MPL-2.0
 - [ ] gpa [[homepage](https://www.gnupg.org/related_software/gpa/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/gpa/gpa-0.10.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpa.rb)]
-- [ ] gpac: LGPL-2.1 (deprecated) [[homepage](https://gpac.wp.mines-telecom.fr/)] [[head](https://github.com/gpac/gpac.git)] [[stable](https://github.com/gpac/gpac/archive/v1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpac.rb)]
+- [x] gpac: LGPL-2.1-or-later
 - [ ] gpatch: GPL-3.0 (deprecated) [[homepage](https://savannah.gnu.org/projects/patch/)] [head] [[stable](https://ftp.gnu.org/gnu/patch/patch-2.7.6.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpatch.rb)]
 - [ ] gpcslots2 [[homepage](https://sourceforge.net/projects/gpcslots2/)] [head] [[stable](https://downloads.sourceforge.net/project/gpcslots2/gpcslots2_0-4-5b)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpcslots2.rb)]
 - [ ] gperf: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gperf)] [head] [[stable](https://ftp.gnu.org/gnu/gperf/gperf-3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gperf.rb)]
@@ -2749,7 +2749,7 @@
 - [x] libsoup: LGPL-2.0-or-later
 - [x] libsoxr: LGPL-2.1-or-later
 - [ ] libspatialite [[homepage](https://www.gaia-gis.it/fossil/libspatialite/index)] [[head](https://www.gaia-gis.it/fossil/libspatialite)] [[stable](https://www.gaia-gis.it/gaia-sins/libspatialite-sources/libspatialite-4.3.0a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspatialite.rb)]
-- [ ] libspectre: GPL-2.0 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/libspectre/)] [head] [[stable](https://libspectre.freedesktop.org/releases/libspectre-0.2.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspectre.rb)]
+- [x] libspectre: GPL-2.0-or-later
 - [ ] libspectrum [[homepage](https://fuse-emulator.sourceforge.io/libspectrum.php)] [[head](https://svn.code.sf.net/p/fuse-emulator/code/trunk/libspectrum)] [[stable](https://downloads.sourceforge.net/project/fuse-emulator/libspectrum/1.4.4/libspectrum-1.4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspectrum.rb)]
 - [ ] libspiro: GPL-3.0 (deprecated) [[homepage](https://github.com/fontforge/libspiro)] [[head](https://github.com/fontforge/libspiro.git)] [[stable](https://github.com/fontforge/libspiro/releases/download/20200505/libspiro-dist-20200505.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspiro.rb)]
 - [ ] libspnav [[homepage](https://spacenav.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/spacenav/spacenav%20library%20%28SDK%29/libspnav%200.2.3/libspnav-0.2.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspnav.rb)]

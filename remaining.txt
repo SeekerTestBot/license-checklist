@@ -705,7 +705,6 @@ gexiv2
 gf-complete
 gforth
 ghex
-ghostscript
 gibbslda
 gif2png
 giflib
@@ -791,7 +790,6 @@ goolabs
 gor
 gource
 gpa
-gpac
 gpatch
 gpcslots2
 gperf
@@ -1291,7 +1289,6 @@ libsixel
 libsmf
 libsmi
 libspatialite
-libspectre
 libspectrum
 libspiro
 libspnav
