@@ -1,6 +1,6 @@
-2651 / 5222 (50.8%) of formulae have a valid `license` stanza as of 2020-09-22 00:01:59 UTC.
+2653 / 5221 (50.8%) of formulae have a valid `license` stanza as of 2020-09-22 12:01:48 UTC.
 
-1286 / 5222 (24.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1284 / 5221 (24.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1482,7 +1482,7 @@
 - [x] gambit: Apache-2.0
 - [x] gambit-scheme: Apache-2.0
 - [ ] game-music-emu [[homepage](https://bitbucket.org/mpyne/game-music-emu)] [[head](https://bitbucket.org/mpyne/game-music-emu.git)] [[stable](https://bitbucket.org/mpyne/game-music-emu/downloads/game-music-emu-0.6.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/game-music-emu.rb)]
-- [ ] gammaray: GPL-2.0 (deprecated) [[homepage](https://www.kdab.com/gammaray)] [[head](https://github.com/KDAB/GammaRay.git)] [[stable](https://github.com/KDAB/GammaRay/releases/download/v2.11.1/gammaray-2.11.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gammaray.rb)]
+- [x] gammaray: GPL-2.0-or-later
 - [ ] gammu: GPL-2.0 (deprecated) [[homepage](https://wammu.eu/gammu/)] [[head](https://github.com/gammu/gammu.git)] [[stable](https://dl.cihar.com/gammu/releases/gammu-1.41.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gammu.rb)]
 - [ ] gandi.cli [[homepage](https://cli.gandi.net/)] [head] [[stable](https://files.pythonhosted.org/packages/75/6d/ff2097a1b8f0142034394ca6832abade773a36efa0916500522b7d190264/gandi.cli-1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gandi.cli.rb)]
 - [x] ganglia: BSD-3-Clause
@@ -2252,7 +2252,6 @@
 - [ ] john-jumbo: GPL-2.0 (deprecated) [[homepage](https://www.openwall.com/john/)] [head] [[stable](https://openwall.com/john/k/john-1.9.0-jumbo-1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/john-jumbo.rb)]
 - [ ] jolie: LGPL-2.1 (deprecated) [[homepage](https://www.jolie-lang.org/)] [head] [[stable](https://github.com/jolie/jolie/releases/download/v1.9.1/jolie-1.9.1.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jolie.rb)]
 - [x] jooby-bootstrap: Apache-2.0
-- [x] joplin: MIT
 - [x] jose: Apache-2.0
 - [ ] joshua [[homepage](https://joshua.incubator.apache.org/)] [head] [[stable](https://cs.jhu.edu/~post/files/joshua-6.0.5.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/joshua.rb)]
 - [ ] jove [[homepage](https://directory.fsf.org/wiki/Jove)] [head] [[stable](http://ftp.cs.toronto.edu/cs/ftp/pub/hugh/jove-dev/jove4.16.0.73.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jove.rb)]
@@ -3287,7 +3286,7 @@
 - [x] nano: GPL-3.0-or-later
 - [x] nanomsg: MIT
 - [x] nanomsgxx: MIT
-- [ ] nanopb-generator [[homepage](https://jpa.kapsi.fi/nanopb/docs/index.html)] [head] [[stable](https://jpa.kapsi.fi/nanopb/download/nanopb-0.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nanopb-generator.rb)]
+- [x] nanopb-generator: Zlib
 - [ ] nanorc: GPL-3.0 (deprecated) [[homepage](https://github.com/scopatz/nanorc)] [[head](https://github.com/scopatz/nanorc.git)] [[stable](https://github.com/scopatz/nanorc/releases/download/2020.1.25/nanorc-2020.1.25.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nanorc.rb)]
 - [x] narwhal: MIT
 - [x] nasm: BSD-2-Clause
@@ -4503,7 +4502,7 @@
 - [x] spring-loaded: Apache-2.0
 - [ ] spring-roo [[homepage](https://projects.spring.io/spring-roo/)] [head] [[stable](https://s3.amazonaws.com/spring-roo-repository.springsource.org/release/ROO/spring-roo-2.0.0.RELEASE.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/spring-roo.rb)]
 - [ ] sproxy [[homepage](https://www.joedog.org/sproxy-home/)] [head] [[stable](http://download.joedog.org/sproxy/sproxy-1.02.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sproxy.rb)]
-- [x] sql-translator: Artistic-1.0
+- [x] sql-translator: `{:any_of=>["Artistic-1.0-Perl", "GPL-1.0-or-later"]}`
 - [x] sqlcipher: BSD-3-Clause
 - [x] sqldiff: blessing
 - [x] sqlite: blessing
@@ -4540,7 +4539,7 @@
 - [ ] sslh: GPL-2.0 (deprecated) [[homepage](https://www.rutschle.net/tech/sslh.shtml)] [[head](https://github.com/yrutschle/sslh.git)] [[stable](https://www.rutschle.net/tech/sslh/sslh-v1.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslh.rb)]
 - [x] ssllabs-scan: Apache-2.0
 - [ ] sslmate [[homepage](https://sslmate.com)] [head] [[stable](https://packages.sslmate.com/other/sslmate-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslmate.rb)]
-- [ ] sslscan: GPL-3.0 (deprecated) [[homepage](https://github.com/rbsec/sslscan)] [[head](https://github.com/rbsec/sslscan.git)] [[stable](https://github.com/rbsec/sslscan/archive/2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslscan.rb)]
+- [x] sslscan: GPL-3.0-or-later
 - [x] sslsplit: BSD-2-Clause
 - [ ] sslyze: AGPL-3.0 (deprecated) [[homepage](https://github.com/nabla-c0d3/sslyze)] [[head](https://github.com/nabla-c0d3/sslyze.git)] [[stable](https://github.com/nabla-c0d3/sslyze/archive/3.0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslyze.rb)]
 - [ ] ssss: GPL-2.0 (deprecated) [[homepage](http://point-at-infinity.org/ssss/)] [head] [[stable](http://point-at-infinity.org/ssss/ssss-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ssss.rb)]

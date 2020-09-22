@@ -656,7 +656,6 @@ fwknop
 gabedit
 gaffitter
 game-music-emu
-gammaray
 gammu
 gandi.cli
 garmintools
@@ -1566,7 +1565,6 @@ nacl
 nagios
 nagios-plugins
 namazu
-nanopb-generator
 nanorc
 naturaldocs
 nauty
@@ -2149,7 +2147,6 @@ sshtrix
 ssldump
 sslh
 sslmate
-sslscan
 sslyze
 ssss
 sstp-client
