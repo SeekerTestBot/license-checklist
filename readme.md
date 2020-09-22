@@ -1,6 +1,6 @@
-2648 / 5221 (50.7%) of formulae have a valid `license` stanza as of 2020-09-21 12:04:18 UTC.
+2651 / 5222 (50.8%) of formulae have a valid `license` stanza as of 2020-09-22 00:01:59 UTC.
 
-1286 / 5221 (24.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1286 / 5222 (24.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1331,7 +1331,7 @@
 - [ ] ffmpeg@2.8: GPL-2.0 (deprecated) [[homepage](https://ffmpeg.org/)] [head] [[stable](https://ffmpeg.org/releases/ffmpeg-2.8.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpeg@2.8.rb)]
 - [ ] ffmpegthumbnailer: GPL-2.0 (deprecated) [[homepage](https://github.com/dirkvdb/ffmpegthumbnailer)] [[head](https://github.com/dirkvdb/ffmpegthumbnailer.git)] [[stable](https://github.com/dirkvdb/ffmpegthumbnailer/archive/2.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpegthumbnailer.rb)]
 - [ ] ffms2: GPL-2.0 (deprecated) [[homepage](https://github.com/FFMS/ffms2)] [[head](https://github.com/FFMS/ffms2.git)] [[stable](https://github.com/FFMS/ffms2/archive/2.23.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffms2.rb)]
-- [ ] ffsend: GPL-3.0 (deprecated) [[homepage](https://gitlab.com/timvisee/ffsend)] [head] [[stable](https://github.com/timvisee/ffsend/archive/v0.2.65.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffsend.rb)]
+- [ ] ffsend: GPL-3.0 (deprecated) [[homepage](https://gitlab.com/timvisee/ffsend)] [head] [[stable](https://github.com/timvisee/ffsend/archive/v0.2.66.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffsend.rb)]
 - [ ] fftw [[homepage](http://www.fftw.org)] [head] [[stable](http://fftw.org/fftw-3.3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fftw.rb)]
 - [x] ffuf: MIT
 - [ ] fibjs: GPL-3.0 (deprecated) [[homepage](https://fibjs.org/)] [[head](https://github.com/fibjs/fibjs.git)] [[stable](https://github.com/fibjs/fibjs/releases/download/v0.31.0/fullsrc.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fibjs.rb)]
@@ -3397,7 +3397,7 @@
 - [ ] normalize: GPL-2.0 (deprecated) [[homepage](https://www.nongnu.org/normalize/)] [head] [[stable](https://savannah.nongnu.org/download/normalize/normalize-0.7.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/normalize.rb)]
 - [x] noti: MIT
 - [ ] notifiers [[homepage](https://pypi.org/project/notifiers/)] [head] [[stable](https://files.pythonhosted.org/packages/4f/36/4c300f55949b9be84284d51253ae48d564dc2c4f2bffb94f26c8c1485f07/notifiers-1.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/notifiers.rb)]
-- [ ] notmuch [[homepage](https://notmuchmail.org/)] [[head](https://git.notmuchmail.org/git/notmuch)] [[stable](https://notmuchmail.org/releases/notmuch-0.30.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/notmuch.rb)]
+- [ ] notmuch [[homepage](https://notmuchmail.org/)] [[head](https://git.notmuchmail.org/git/notmuch)] [[stable](https://notmuchmail.org/releases/notmuch-0.31.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/notmuch.rb)]
 - [ ] notmuch-mutt: GPL-3.0 (deprecated) [[homepage](https://notmuchmail.org/)] [[head](https://git.notmuchmail.org/git/notmuch)] [[stable](https://notmuchmail.org/releases/notmuch-0.30.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/notmuch-mutt.rb)]
 - [x] now-cli: Apache-2.0
 - [x] noweb: Noweb
@@ -3455,7 +3455,7 @@
 - [ ] ocaml-findlib [[homepage](http://projects.camlcity.org/projects/findlib.html)] [head] [[stable](http://download.camlcity.org/download/findlib-1.8.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml-findlib.rb)]
 - [ ] ocaml-num: LGPL-2.1 (deprecated) [[homepage](https://github.com/ocaml/num)] [head] [[stable](https://github.com/ocaml/num/archive/v1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml-num.rb)]
 - [ ] ocamlbuild: LGPL-2.0 (deprecated) [[homepage](https://github.com/ocaml/ocamlbuild)] [[head](https://github.com/ocaml/ocamlbuild.git)] [[stable](https://github.com/ocaml/ocamlbuild/archive/0.14.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocamlbuild.rb)]
-- [ ] ocamlsdl [[homepage](https://ocamlsdl.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/ocamlsdl/OCamlSDL/ocamlsdl-0.9.1/ocamlsdl-0.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocamlsdl.rb)]
+- [x] ocamlsdl: LGPL-2.1-or-later
 - [x] oci-cli: `{:any_of=>["UPL-1.0", "Apache-2.0"]}`
 - [x] oclgrind: BSD-3-Clause
 - [ ] ocp: GPL-2.0 (deprecated) [[homepage](https://stian.cubic.org/project-ocp.php)] [head] [[stable](https://stian.cubic.org/ocp/ocp-0.2.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocp.rb)]
@@ -4196,6 +4196,7 @@
 - [x] rust: `{:any_of=>["Apache-2.0", "MIT"]}`
 - [x] rust-analyzer: Apache-2.0
 - [x] rustc-completion: MIT
+- [x] rustscan: GPL-3.0-or-later
 - [x] rustup-init: Apache-2.0
 - [ ] rxvt-unicode [[homepage](http://software.schmorp.de/pkg/rxvt-unicode.html)] [head] [[stable](http://dist.schmorp.de/rxvt-unicode/rxvt-unicode-9.22.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rxvt-unicode.rb)]
 - [x] ry: MIT
@@ -4279,7 +4280,7 @@
 - [ ] sdedit [[homepage](https://sdedit.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/sdedit/sdedit/4.2/sdedit-4.2.1.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdedit.rb)]
 - [ ] sdf [[homepage](https://strategoxt.org/Sdf/WebHome)] [head] [[stable](http://www.meta-environment.org/releases/sdf-2.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdf.rb)]
 - [ ] sdhash [[homepage](http://roussev.net/sdhash/sdhash.html)] [head] [[stable](http://roussev.net/sdhash/releases/packages/sdhash-3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdhash.rb)]
-- [ ] sdl [[homepage](https://www.libsdl.org/)] [[head](https://hg.libsdl.org/SDL)] [[stable](https://www.libsdl.org/release/SDL-1.2.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl.rb)]
+- [x] sdl: LGPL-2.1-only
 - [ ] sdl2 [[homepage](https://www.libsdl.org/)] [[head](https://hg.libsdl.org/SDL)] [[stable](https://libsdl.org/release/SDL2-2.0.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl2.rb)]
 - [ ] sdl2_gfx [[homepage](https://www.ferzkopp.net/wordpress/2016/01/02/sdl_gfx-sdl2_gfx/)] [head] [[stable](https://www.ferzkopp.net/Software/SDL2_gfx/SDL2_gfx-1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl2_gfx.rb)]
 - [ ] sdl2_image [[homepage](https://www.libsdl.org/projects/SDL_image/)] [head] [[stable](https://www.libsdl.org/projects/SDL_image/release/SDL2_image-2.0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl2_image.rb)]
@@ -5306,7 +5307,7 @@
 - [x] zenith: MIT
 - [ ] zenity [[homepage](https://wiki.gnome.org/Projects/Zenity)] [head] [[stable](https://download.gnome.org/sources/zenity/3.32/zenity-3.32.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zenity.rb)]
 - [x] zero-install: LGPL-2.1-or-later
-- [ ] zeromq [[homepage](https://zeromq.org/)] [[head](https://github.com/zeromq/libzmq.git)] [[stable](https://github.com/zeromq/libzmq/releases/download/v4.3.2/zeromq-4.3.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zeromq.rb)]
+- [ ] zeromq [[homepage](https://zeromq.org/)] [[head](https://github.com/zeromq/libzmq.git)] [[stable](https://github.com/zeromq/libzmq/releases/download/v4.3.3/zeromq-4.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zeromq.rb)]
 - [x] zig: MIT
 - [ ] zile [[homepage](https://www.gnu.org/software/zile/)] [head] [[stable](https://ftp.gnu.org/gnu/zile/zile-2.4.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zile.rb)]
 - [ ] zim: GPL-2.0 (deprecated) [[homepage](https://zim-wiki.org/)] [[head](https://github.com/jaap-karssenberg/zim-desktop-wiki.git)] [[stable](https://github.com/jaap-karssenberg/zim-desktop-wiki/archive/0.73.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zim.rb)]

@@ -1648,7 +1648,6 @@ ocaml
 ocaml-findlib
 ocaml-num
 ocamlbuild
-ocamlsdl
 ocp
 ocrad
 octave
@@ -2043,7 +2042,6 @@ sdcc
 sdedit
 sdf
 sdhash
-sdl
 sdl2
 sdl2_gfx
 sdl2_image
