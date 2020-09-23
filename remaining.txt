@@ -295,7 +295,6 @@ cifer
 cimg
 citus
 civl
-cjdns
 cksfv
 clamz
 classads
@@ -1026,7 +1025,6 @@ juju
 juman
 jvmtop
 jxrlib
-k6
 kahip
 kaitai-struct-compiler
 kakasi

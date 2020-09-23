@@ -1,6 +1,6 @@
-2653 / 5221 (50.8%) of formulae have a valid `license` stanza as of 2020-09-22 12:01:48 UTC.
+2657 / 5223 (50.9%) of formulae have a valid `license` stanza as of 2020-09-23 00:02:20 UTC.
 
-1284 / 5221 (24.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1282 / 5223 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -658,7 +658,7 @@
 - [ ] citus: AGPL-3.0 (deprecated) [[homepage](https://www.citusdata.com)] [[head](https://github.com/citusdata/citus.git)] [[stable](https://github.com/citusdata/citus/archive/v9.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/citus.rb)]
 - [x] cityhash: MIT
 - [ ] civl [[homepage](https://vsl.cis.udel.edu/civl/)] [head] [[stable](https://vsl.cis.udel.edu/lib/sw/civl/1.20/r5259/release/CIVL-1.20_5259.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/civl.rb)]
-- [ ] cjdns: GPL-3.0 (deprecated) [[homepage](https://github.com/cjdelisle/cjdns/)] [[head](https://github.com/cjdelisle/cjdns.git)] [[stable](https://github.com/cjdelisle/cjdns/archive/cjdns-v21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cjdns.rb)]
+- [x] cjdns: `{:all_of=>["GPL-3.0-or-later", "GPL-2.0-or-later", "BSD-3-Clause", "MIT"]}`
 - [x] cjson: MIT
 - [x] ckan: MIT
 - [ ] cksfv: GPL-2.0 (deprecated) [[homepage](https://zakalwe.fi/~shd/foss/cksfv/)] [head] [[stable](https://zakalwe.fi/~shd/foss/cksfv/files/cksfv-1.3.14.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cksfv.rb)]
@@ -2307,7 +2307,7 @@
 <details><summary>K</summary>
 
 - [x] k3d: MIT
-- [ ] k6: AGPL-3.0 (deprecated) [[homepage](https://k6.io)] [head] [[stable](https://github.com/loadimpact/k6.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/k6.rb)]
+- [x] k6: AGPL-3.0-or-later
 - [x] k9s: Apache-2.0
 - [x] kafka: Apache-2.0
 - [x] kafkacat: BSD-2-Clause
@@ -4937,7 +4937,7 @@
 - [ ] upx [[homepage](https://upx.github.io/)] [[head](https://github.com/upx/upx.git)] [[stable](https://github.com/upx/upx/releases/download/v3.96/upx-3.96-src.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/upx.rb)]
 - [ ] urdfdom [[homepage](https://wiki.ros.org/urdf/)] [head] [[stable](https://github.com/ros/urdfdom/archive/1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/urdfdom.rb)]
 - [ ] urdfdom_headers [[homepage](https://wiki.ros.org/urdfdom_headers/)] [head] [[stable](https://github.com/ros/urdfdom_headers/archive/1.0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/urdfdom_headers.rb)]
-- [ ] urh: GPL-3.0 (deprecated) [[homepage](https://github.com/jopohl/urh)] [[head](https://github.com/jopohl/urh.git)] [[stable](https://files.pythonhosted.org/packages/ef/9c/b023e69e2de551fe2250d2e374a62e41719d6bb491f96c6bc9c689fb1d28/urh-2.8.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/urh.rb)]
+- [ ] urh: GPL-3.0 (deprecated) [[homepage](https://github.com/jopohl/urh)] [[head](https://github.com/jopohl/urh.git)] [[stable](https://files.pythonhosted.org/packages/08/6b/00fc66ea878a26ff054562552bb9b966fc5bec8d7df1fc52134b6431af76/urh-2.8.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/urh.rb)]
 - [ ] uriparser [[homepage](https://uriparser.github.io/)] [[head](https://github.com/uriparser/uriparser.git)] [[stable](https://github.com/uriparser/uriparser/releases/download/uriparser-0.9.4/uriparser-0.9.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uriparser.rb)]
 - [ ] urlview: GPL-2.0 (deprecated) [[homepage](https://packages.debian.org/sid/misc/urlview)] [head] [[stable](https://deb.debian.org/debian/pool/main/u/urlview/urlview_0.9.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/urlview.rb)]
 - [ ] uru [[homepage](https://bitbucket.org/jonforums/uru)] [head] [[stable](https://bitbucket.org/jonforums/uru/get/v0.8.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uru.rb)]
@@ -5020,6 +5020,7 @@
 - [ ] visp [[homepage](https://visp.inria.fr/)] [head] [[stable](https://gforge.inria.fr/frs/download.php/latestfile/475/visp-3.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/visp.rb)]
 - [x] vit: MIT
 - [x] vitetris: BSD-2-Clause
+- [x] vivid: `{:any_of=>["MIT", "Apache-2.0"]}`
 - [x] vlang: MIT
 - [ ] vlmcsd [[homepage](https://github.com/Wind4/vlmcsd)] [[head](https://github.com/Wind4/vlmcsd.git)] [[stable](https://github.com/Wind4/vlmcsd/archive/svn1113.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vlmcsd.rb)]
 - [ ] vmdktool [[homepage](https://manned.org/vmdktool)] [head] [[stable](https://people.freebsd.org/~brian/vmdktool/vmdktool-1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vmdktool.rb)]
@@ -5091,6 +5092,7 @@
 - [ ] webarchiver [[homepage](https://github.com/newzealandpaul/webarchiver)] [[head](https://github.com/newzealandpaul/webarchiver.git)] [[stable](https://github.com/newzealandpaul/webarchiver/archive/0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/webarchiver.rb)]
 - [x] webdis: BSD-2-Clause
 - [ ] webfs [[homepage](https://linux.bytesex.org/misc/webfs.html)] [head] [[stable](https://www.kraxel.org/releases/webfs/webfs-1.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/webfs.rb)]
+- [x] webify: MIT
 - [ ] webkit2png [[homepage](https://www.paulhammond.org/webkit2png/)] [head] [[stable](https://github.com/paulhammond/webkit2png/archive/v0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/webkit2png.rb)]
 - [ ] weboob [[homepage](https://weboob.org/)] [head] [[stable](https://git.weboob.org/weboob/weboob/uploads/7b91875f693b60e93c5976daa051034b/weboob-2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/weboob.rb)]
 - [x] webp: BSD-3-Clause
