@@ -1,6 +1,6 @@
-2657 / 5223 (50.9%) of formulae have a valid `license` stanza as of 2020-09-23 00:02:20 UTC.
+2658 / 5223 (50.9%) of formulae have a valid `license` stanza as of 2020-09-23 12:06:14 UTC.
 
-1282 / 5223 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1281 / 5223 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1381,7 +1381,7 @@
 - [ ] flowgrind [[homepage](https://launchpad.net/flowgrind)] [head] [[stable](https://launchpad.net/flowgrind/trunk/flowgrind-0.8.0/+download/flowgrind-0.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flowgrind.rb)]
 - [ ] fltk [[homepage](https://www.fltk.org/)] [head] [[stable](https://www.fltk.org/pub/fltk/1.3.5/fltk-1.3.5-source.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fltk.rb)]
 - [x] fluent-bit: Apache-2.0
-- [ ] fluid-synth: LGPL-2.1 (deprecated) [[homepage](http://www.fluidsynth.org)] [[head](https://github.com/FluidSynth/fluidsynth.git)] [[stable](https://github.com/FluidSynth/fluidsynth/archive/v2.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fluid-synth.rb)]
+- [x] fluid-synth: LGPL-2.1-or-later
 - [x] flume: Apache-2.0
 - [x] fluxctl: Apache-2.0
 - [ ] flvmeta: GPL-2.0 (deprecated) [[homepage](https://www.flvmeta.com/)] [[head](https://github.com/noirotm/flvmeta.git)] [[stable](https://flvmeta.com/files/flvmeta-1.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flvmeta.rb)]

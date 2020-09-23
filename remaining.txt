@@ -614,7 +614,6 @@ flif
 flow-tools
 flowgrind
 fltk
-fluid-synth
 flvmeta
 flvstreamer
 fmsx
