@@ -148,7 +148,6 @@ bbftp-client
 bc
 bcal
 bchunk
-bcpp
 bcrypt
 beagle
 beancount

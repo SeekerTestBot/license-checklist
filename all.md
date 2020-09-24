@@ -1,4 +1,4 @@
-2658 / 5223 (50.9%) of formulae have a valid `license` stanza as of 2020-09-23 12:06:22 UTC.
+2659 / 5223 (50.9%) of formulae have a valid `license` stanza as of 2020-09-24 00:02:07 UTC.
 
 1281 / 5223 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -329,7 +329,7 @@
 - [x] bcftools: MIT
 - [ ] bchunk: GPL-2.0 (deprecated) [[homepage](http://he.fi/bchunk/)] [[head](https://github.com/hessu/bchunk.git)] [[stable](http://he.fi/bchunk/bchunk-1.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bchunk.rb)]
 - [x] bcoin: MIT
-- [ ] bcpp [[homepage](https://invisible-island.net/bcpp/)] [head] [[stable](https://invisible-mirror.net/archives/bcpp/bcpp-20180401.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bcpp.rb)]
+- [x] bcpp: MIT
 - [ ] bcrypt [[homepage](https://bcrypt.sourceforge.io/)] [head] [[stable](https://bcrypt.sourceforge.io/bcrypt-1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bcrypt.rb)]
 - [x] bde: Apache-2.0
 - [x] bdw-gc: MIT
@@ -3928,7 +3928,7 @@
 
 ### Q
 
-- [x] q: GPL-3.0-only
+- [x] q: GPL-3.0-or-later
 - [ ] qalculate-gtk: GPL-2.0 (deprecated) [[homepage](https://qalculate.github.io/)] [head] [[stable](https://github.com/Qalculate/qalculate-gtk/releases/download/v3.12.1/qalculate-gtk-3.12.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qalculate-gtk.rb)]
 - [ ] qbs [[homepage](https://wiki.qt.io/Qbs)] [[head](https://code.qt.io/qbs/qbs.git)] [[stable](https://download.qt.io/official_releases/qbs/1.17.0/qbs-src-1.17.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qbs.rb)]
 - [ ] qca: LGPL-2.1 (deprecated) [[homepage](https://userbase.kde.org/QCA)] [[head](https://invent.kde.org/libraries/qca.git)] [[stable](https://download.kde.org/stable/qca/2.3.1/qca-2.3.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qca.rb)]
