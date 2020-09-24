@@ -1,6 +1,6 @@
-2659 / 5223 (50.9%) of formulae have a valid `license` stanza as of 2020-09-24 00:02:07 UTC.
+2660 / 5223 (50.9%) of formulae have a valid `license` stanza as of 2020-09-24 12:04:12 UTC.
 
-1281 / 5223 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1280 / 5223 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -19,7 +19,7 @@
 - [ ] abook: GPL-2.0 (deprecated) [[homepage](https://abook.sourceforge.io/)] [[head](https://git.code.sf.net/p/abook/git.git)] [[stable](https://abook.sourceforge.io/devel/abook-0.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abook.rb)]
 - [x] abseil: Apache-2.0
 - [ ] abuse [[homepage](http://abuse.zoy.org/)] [[head](svn://svn.zoy.org/abuse/abuse/trunk)] [[stable](http://abuse.zoy.org/raw-attachment/wiki/download/abuse-0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abuse.rb)]
-- [ ] abyss: GPL-3.0 (deprecated) [[homepage](https://www.bcgsc.ca/resources/software/abyss)] [[head](https://github.com/bcgsc/abyss.git)] [[stable](https://github.com/bcgsc/abyss/releases/download/2.2.4/abyss-2.2.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abyss.rb)]
+- [x] abyss: GPL-3.0-only
 - [x] ace: DOC
 - [ ] aces_container [[homepage](https://github.com/ampas/aces_container)] [head] [[stable](https://github.com/ampas/aces_container/archive/v1.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aces_container.rb)]
 - [x] ack: Artistic-2.0

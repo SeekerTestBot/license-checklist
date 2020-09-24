@@ -6,7 +6,6 @@ abcm2ps
 abnfgen
 abook
 abuse
-abyss
 aces_container
 admesh
 adns
