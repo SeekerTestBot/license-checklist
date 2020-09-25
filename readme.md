@@ -1,6 +1,6 @@
-2660 / 5223 (50.9%) of formulae have a valid `license` stanza as of 2020-09-24 12:04:05 UTC.
+2663 / 5224 (51.0%) of formulae have a valid `license` stanza as of 2020-09-25 00:03:15 UTC.
 
-1280 / 5223 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1278 / 5224 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -288,7 +288,7 @@
 - [x] babeld: MIT
 - [ ] babl: LGPL-3.0 (deprecated) [[homepage](http://www.gegl.org/babl/)] [[head](https://github.com/GNOME/babl.git)] [[stable](https://download.gimp.org/pub/babl/0.1/babl-0.1.80.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/babl.rb)]
 - [ ] backupninja: GPL-2.0 (deprecated) [[homepage](https://0xacab.org/riseuplabs/backupninja)] [head] [[stable](https://sourcearchive.raspbian.org/main/b/backupninja/backupninja_1.1.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/backupninja.rb)]
-- [ ] bacula-fd [[homepage](https://www.bacula.org/)] [head] [[stable](https://downloads.sourceforge.net/project/bacula/bacula/9.6.5/bacula-9.6.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bacula-fd.rb)]
+- [ ] bacula-fd [[homepage](https://www.bacula.org/)] [head] [[stable](https://downloads.sourceforge.net/project/bacula/bacula/9.6.6/bacula-9.6.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bacula-fd.rb)]
 - [ ] badtouch: GPL-3.0 (deprecated) [[homepage](https://github.com/kpcyrd/badtouch)] [head] [[stable](https://github.com/kpcyrd/badtouch/archive/v0.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/badtouch.rb)]
 - [x] bagit: CC0-1.0
 - [ ] balance: GPL-2.0 (deprecated) [[homepage](https://www.inlab.net/balance/)] [head] [[stable](https://www.inlab.net/wp-content/uploads/2018/05/balance-3.57.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/balance.rb)]
@@ -567,7 +567,7 @@
 - [ ] cd-discid: GPL-2.0 (deprecated) [[homepage](https://linukz.org/cd-discid.shtml)] [[head](https://github.com/taem/cd-discid.git)] [[stable](https://linukz.org/download/cd-discid-1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cd-discid.rb)]
 - [ ] cdargs: GPL-2.0 (deprecated) [[homepage](https://github.com/cbxbiker61/cdargs)] [[head](https://github.com/cbxbiker61/cdargs.git)] [[stable](https://github.com/cbxbiker61/cdargs/archive/2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdargs.rb)]
 - [ ] cdb [[homepage](https://cr.yp.to/cdb.html)] [head] [[stable](https://cr.yp.to/cdb/cdb-0.75.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdb.rb)]
-- [ ] cddlib: GPL-2.0 (deprecated) [[homepage](https://www.inf.ethz.ch/personal/fukudak/cdd_home/)] [head] [[stable](https://github.com/cddlib/cddlib/releases/download/0.94k/cddlib-0.94k.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cddlib.rb)]
+- [x] cddlib: GPL-2.0-or-later
 - [ ] cdecl [[homepage](https://cdecl.org/)] [head] [[stable](https://cdecl.org/files/cdecl-blocks-2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdecl.rb)]
 - [ ] cdk [[homepage](https://invisible-island.net/cdk/)] [head] [[stable](https://invisible-mirror.net/archives/cdk/cdk-5.0-20200228.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdk.rb)]
 - [x] cdk8s: Apache-2.0
@@ -2443,6 +2443,7 @@
 - [ ] ldns [[homepage](https://nlnetlabs.nl/projects/ldns/)] [head] [[stable](https://nlnetlabs.nl/downloads/ldns/ldns-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ldns.rb)]
 - [x] ldpl: Apache-2.0
 - [ ] le: GPL-3.0 (deprecated) [[homepage](https://github.com/lavv17/le)] [head] [[stable](https://github.com/lavv17/le/releases/download/v1.16.7/le-1.16.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/le.rb)]
+- [x] leaf: MIT
 - [x] leakcanary-shark: Apache-2.0
 - [x] lean: Apache-2.0
 - [x] lean-cli: Apache-2.0
@@ -4245,7 +4246,7 @@
 - [x] scalariform: MIT
 - [ ] scalastyle [[homepage](http://www.scalastyle.org/command-line.html)] [head] [[stable](https://oss.sonatype.org/content/repositories/releases/org/scalastyle/scalastyle_2.12/1.0.0/scalastyle_2.12-1.0.0-batch.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/scalastyle.rb)]
 - [ ] scale2x: GPL-2.0 (deprecated) [[homepage](https://www.scale2x.it/)] [head] [[stable](https://github.com/amadvance/scale2x/releases/download/v4.0/scale2x-4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/scale2x.rb)]
-- [ ] scamper: GPL-2.0 (deprecated) [[homepage](https://www.caida.org/tools/measurement/scamper/)] [head] [[stable](https://www.caida.org/tools/measurement/scamper/code/scamper-cvs-20200717.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/scamper.rb)]
+- [x] scamper: GPL-2.0-only
 - [x] scc: `{:any_of=>["MIT", "Unlicense"]}`
 - [x] sccache: Apache-2.0
 - [x] scdoc: MIT
@@ -5130,7 +5131,7 @@
 - [x] wireguard-go: MIT
 - [ ] wireguard-tools: GPL-2.0 (deprecated) [[homepage](https://www.wireguard.com/)] [[head](https://git.zx2c4.com/wireguard-tools)] [[stable](https://git.zx2c4.com/wireguard-tools/snapshot/wireguard-tools-1.0.20200827.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireguard-tools.rb)]
 - [x] wiremock-standalone: Apache-2.0
-- [ ] wireshark [[homepage](https://www.wireshark.org)] [[head](https://code.wireshark.org/review/wireshark)] [[stable](https://www.wireshark.org/download/src/all-versions/wireshark-3.2.6.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireshark.rb)]
+- [ ] wireshark [[homepage](https://www.wireshark.org)] [[head](https://code.wireshark.org/review/wireshark)] [[stable](https://www.wireshark.org/download/src/all-versions/wireshark-3.2.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireshark.rb)]
 - [ ] wirouter_keyrec: GPL-3.0 (deprecated) [[homepage](https://www.salvatorefresta.net/tools/)] [head] [[stable](https://www.mirrorservice.org/sites/distfiles.macports.org/wirouterkeyrec/WiRouter_KeyRec_1.1.2.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wirouter_keyrec.rb)]
 - [ ] with-readline [[homepage](https://www.greenend.org.uk/rjk/sw/withreadline.html)] [head] [[stable](https://www.greenend.org.uk/rjk/sw/with-readline-0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/with-readline.rb)]
 - [ ] wla-dx: GPL-2.0 (deprecated) [[homepage](https://github.com/vhelin/wla-dx)] [head] [[stable](https://github.com/vhelin/wla-dx/archive/v9.11-fix-fix-fix.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wla-dx.rb)]

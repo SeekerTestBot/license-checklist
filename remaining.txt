@@ -246,7 +246,6 @@ ccze
 cd-discid
 cdargs
 cdb
-cddlib
 cdecl
 cdk
 cdlabelgen
@@ -2019,7 +2018,6 @@ sc68
 scala@2.11
 scalastyle
 scale2x
-scamper
 sceptre
 scheme48
 schroedinger
