@@ -1,6 +1,6 @@
-2664 / 5225 (51.0%) of formulae have a valid `license` stanza as of 2020-09-27 00:02:00 UTC.
+2665 / 5225 (51.0%) of formulae have a valid `license` stanza as of 2020-09-27 12:01:26 UTC.
 
-1278 / 5225 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1277 / 5225 (24.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -368,7 +368,7 @@
 - [ ] bigloo [[homepage](https://www-sop.inria.fr/indes/fp/Bigloo/)] [head] [[stable](ftp://ftp-sop.inria.fr/indes/fp/Bigloo/bigloo4.3e.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bigloo.rb)]
 - [x] binaryen: Apache-2.0
 - [x] bind: MPL-2.0
-- [ ] bindfs: GPL-2.0 (deprecated) [[homepage](https://bindfs.org/)] [[head](https://github.com/mpartel/bindfs.git)] [[stable](https://bindfs.org/downloads/bindfs-1.14.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bindfs.rb)]
+- [ ] bindfs: GPL-2.0 (deprecated) [[homepage](https://bindfs.org/)] [[head](https://github.com/mpartel/bindfs.git)] [[stable](https://bindfs.org/downloads/bindfs-1.14.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bindfs.rb)]
 - [x] bingrep: MIT
 - [ ] binkd: GPL-2.0 (deprecated) [[homepage](http://binkd.grumbler.org/)] [head] [[stable](https://happy.kiev.ua/pub/fidosoft/mailer/binkd/binkd-1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/binkd.rb)]
 - [ ] binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/binutils.html)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/binutils.rb)]
@@ -3141,7 +3141,7 @@
 - [ ] mlpack [[homepage](https://www.mlpack.org)] [head] [[stable](https://mlpack.org/files/mlpack-3.3.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mlpack.rb)]
 - [ ] mlt: LGPL-2.1 (deprecated) [[homepage](https://www.mltframework.org/)] [[head](https://github.com/mltframework/mlt.git)] [[stable](https://github.com/mltframework/mlt/archive/v6.22.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mlt.rb)]
 - [x] mlton: HPND
-- [ ] mm-common: GPL-2.0 (deprecated) [[homepage](https://www.gtkmm.org/)] [head] [[stable](https://download.gnome.org/sources/mm-common/1.0/mm-common-1.0.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mm-common.rb)]
+- [x] mm-common: GPL-2.0-or-later
 - [x] mmark: BSD-2-Clause
 - [x] mmctl: Apache-2.0
 - [ ] mmix [[homepage](https://mmix.cs.hm.edu/)] [head] [[stable](https://mmix.cs.hm.edu/src/mmix-20160804.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mmix.rb)]
