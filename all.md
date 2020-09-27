@@ -1,6 +1,6 @@
-2663 / 5224 (51.0%) of formulae have a valid `license` stanza as of 2020-09-26 12:01:24 UTC.
+2664 / 5225 (51.0%) of formulae have a valid `license` stanza as of 2020-09-27 00:02:07 UTC.
 
-1278 / 5224 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1278 / 5225 (24.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1366,6 +1366,7 @@
 - [x] flint: LGPL-2.1-or-later
 - [x] flint-checker: MIT
 - [x] flintrock: Apache-2.0
+- [x] flit: BSD-3-Clause
 - [x] flow: MIT
 - [ ] flow-tools [[homepage](https://code.google.com/archive/p/flow-tools/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/flow-tools/flow-tools-0.68.5.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flow-tools.rb)]
 - [ ] flowgrind [[homepage](https://launchpad.net/flowgrind)] [head] [[stable](https://launchpad.net/flowgrind/trunk/flowgrind-0.8.0/+download/flowgrind-0.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flowgrind.rb)]
