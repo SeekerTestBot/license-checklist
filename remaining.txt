@@ -859,7 +859,6 @@ h264bitstream
 hackrf
 hadolint
 halibut
-hamlib
 handbrake
 haproxy
 harbour
@@ -928,7 +927,6 @@ id3lib
 id3tool
 id3v2
 ideviceinstaller
-idnits
 idutils
 ievms
 ifstat
@@ -1315,7 +1313,6 @@ libxdiff
 libxmi
 libxml++
 libxml++3
-libxmlsec1
 libxmp
 libxslt
 libxspf
@@ -2513,7 +2510,6 @@ yaze-ag
 yazpp
 yconalyzer
 ydcv
-yeti
 yetris
 ykneomgr
 yle-dl

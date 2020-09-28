@@ -1,4 +1,4 @@
-2669 / 5225 (51.1%) of formulae have a valid `license` stanza as of 2020-09-28 00:05:52 UTC.
+2673 / 5225 (51.2%) of formulae have a valid `license` stanza as of 2020-09-28 12:05:00 UTC.
 
 1273 / 5225 (24.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1922,7 +1922,7 @@
 - [ ] hadolint: GPL-3.0 (deprecated) [[homepage](https://github.com/hadolint/hadolint)] [head] [[stable](https://github.com/hadolint/hadolint/archive/v1.18.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hadolint.rb)]
 - [x] hadoop: Apache-2.0
 - [ ] halibut [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/halibut/)] [[head](https://git.tartarus.org/simon/halibut.git)] [[stable](https://www.chiark.greenend.org.uk/~sgtatham/halibut/halibut-1.2/halibut-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/halibut.rb)]
-- [ ] hamlib [[homepage](https://hamlib.sourceforge.io/)] [head] [[stable](https://src.fedoraproject.org/repo/pkgs/hamlib/hamlib-3.3.tar.gz/sha512/4cf6c94d0238c8a13aed09413b3f4a027c8ded07f8840cdb2b9d38b39b6395a4a88a8105257015345f6de0658ab8c60292d11a9de3e16a493e153637af630a80/hamlib-3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hamlib.rb)]
+- [x] hamlib: LGPL-2.1-or-later
 - [ ] handbrake: GPL-2.0 (deprecated) [[homepage](https://handbrake.fr/)] [[head](https://github.com/HandBrake/HandBrake.git)] [[stable](https://github.com/HandBrake/HandBrake/releases/download/1.3.3/HandBrake-1.3.3-source.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/handbrake.rb)]
 - [x] hapi-fhir-cli: Apache-2.0
 - [ ] haproxy [[homepage](https://www.haproxy.org/)] [head] [[stable](https://www.haproxy.org/download/2.2/src/haproxy-2.2.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/haproxy.rb)]
@@ -2075,7 +2075,7 @@
 - [ ] id3tool [[homepage](http://nekohako.xware.cx/id3tool/)] [head] [[stable](http://nekohako.xware.cx/id3tool/id3tool-1.2a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/id3tool.rb)]
 - [ ] id3v2: LGPL-2.1 (deprecated) [[homepage](https://id3v2.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/id3v2/id3v2/0.1.12/id3v2-0.1.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/id3v2.rb)]
 - [ ] ideviceinstaller: GPL-2.0 (deprecated) [[homepage](https://www.libimobiledevice.org/)] [[head](https://git.sukimashita.com/ideviceinstaller.git)] [[stable](https://github.com/libimobiledevice/ideviceinstaller/releases/download/1.1.1/ideviceinstaller-1.1.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ideviceinstaller.rb)]
-- [ ] idnits [[homepage](https://tools.ietf.org/tools/idnits/)] [head] [[stable](https://tools.ietf.org/tools/idnits/idnits-2.16.05.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/idnits.rb)]
+- [x] idnits: GPL-2.0-or-later
 - [x] idris: BSD-3-Clause
 - [x] idris2: BSD-3-Clause
 - [ ] idutils: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/s/idutils/)] [head] [[stable](https://ftp.gnu.org/gnu/idutils/idutils-4.6.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/idutils.rb)]
@@ -2828,7 +2828,7 @@
 - [ ] libxml++ [[homepage](https://libxmlplusplus.sourceforge.io/)] [head] [[stable](https://download.gnome.org/sources/libxml++/2.40/libxml++-2.40.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libxml++.rb)]
 - [ ] libxml++3: LGPL-2.1 (deprecated) [[homepage](https://libxmlplusplus.sourceforge.io/)] [head] [[stable](https://download.gnome.org/sources/libxml++/3.2/libxml++-3.2.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libxml++3.rb)]
 - [x] libxml2: MIT
-- [ ] libxmlsec1 [[homepage](https://www.aleksey.com/xmlsec/)] [head] [[stable](https://www.aleksey.com/xmlsec/download/xmlsec1-1.2.30.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libxmlsec1.rb)]
+- [x] libxmlsec1: MIT
 - [ ] libxmp [[homepage](https://xmp.sourceforge.io/)] [[head](https://git.code.sf.net/p/xmp/libxmp.git)] [[stable](https://downloads.sourceforge.net/project/xmp/libxmp/4.4.1/libxmp-4.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libxmp.rb)]
 - [x] libxmp-lite: MIT
 - [x] libxo: BSD-2-Clause
@@ -5224,7 +5224,7 @@
 - [ ] ydcv: GPL-3.0 (deprecated) [[homepage](https://github.com/felixonmars/ydcv)] [head] [[stable](https://github.com/felixonmars/ydcv/archive/0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ydcv.rb)]
 - [x] ydiff: BSD-3-Clause
 - [x] yelp-tools: GPL-2.0-or-later
-- [ ] yeti [[homepage](https://mth.github.io/yeti/)] [[head](https://github.com/mth/yeti.git)] [[stable](https://github.com/mth/yeti/archive/v0.9.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yeti.rb)]
+- [x] yeti: BSD-3-Clause
 - [ ] yetris: GPL-3.0 (deprecated) [[homepage](https://github.com/alexdantas/yetris)] [head] [[stable](https://github.com/alexdantas/yetris/archive/v2.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yetris.rb)]
 - [x] yj: Apache-2.0
 - [x] ykclient: BSD-2-Clause
