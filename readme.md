@@ -1,6 +1,6 @@
-2665 / 5225 (51.0%) of formulae have a valid `license` stanza as of 2020-09-27 12:01:26 UTC.
+2669 / 5225 (51.1%) of formulae have a valid `license` stanza as of 2020-09-28 00:05:03 UTC.
 
-1277 / 5225 (24.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1273 / 5225 (24.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -939,7 +939,7 @@
 - [ ] ddd [[homepage](https://www.gnu.org/s/ddd/)] [head] [[stable](https://ftp.gnu.org/gnu/ddd/ddd-3.3.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ddd.rb)]
 - [ ] ddgr: GPL-3.0 (deprecated) [[homepage](https://github.com/jarun/ddgr)] [head] [[stable](https://github.com/jarun/ddgr/archive/v1.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ddgr.rb)]
 - [ ] ddrescue: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/ddrescue/ddrescue.html)] [head] [[stable](https://ftp.gnu.org/gnu/ddrescue/ddrescue-1.25.tar.lz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ddrescue.rb)]
-- [ ] deark [[homepage](https://entropymine.com/deark/)] [head] [[stable](https://entropymine.com/deark/releases/deark-1.5.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/deark.rb)]
+- [ ] deark [[homepage](https://entropymine.com/deark/)] [head] [[stable](https://entropymine.com/deark/releases/deark-1.5.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/deark.rb)]
 - [x] debianutils: GPL-2.0-or-later
 - [x] defaultbrowser: MIT
 - [x] deheader: BSD-2-Clause
@@ -1331,7 +1331,7 @@
 - [ ] ffmpeg@2.8: GPL-2.0 (deprecated) [[homepage](https://ffmpeg.org/)] [head] [[stable](https://ffmpeg.org/releases/ffmpeg-2.8.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpeg@2.8.rb)]
 - [ ] ffmpegthumbnailer: GPL-2.0 (deprecated) [[homepage](https://github.com/dirkvdb/ffmpegthumbnailer)] [[head](https://github.com/dirkvdb/ffmpegthumbnailer.git)] [[stable](https://github.com/dirkvdb/ffmpegthumbnailer/archive/2.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpegthumbnailer.rb)]
 - [ ] ffms2: GPL-2.0 (deprecated) [[homepage](https://github.com/FFMS/ffms2)] [[head](https://github.com/FFMS/ffms2.git)] [[stable](https://github.com/FFMS/ffms2/archive/2.23.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffms2.rb)]
-- [ ] ffsend: GPL-3.0 (deprecated) [[homepage](https://gitlab.com/timvisee/ffsend)] [head] [[stable](https://github.com/timvisee/ffsend/archive/v0.2.66.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffsend.rb)]
+- [x] ffsend: GPL-3.0-only
 - [ ] fftw [[homepage](http://www.fftw.org)] [head] [[stable](http://fftw.org/fftw-3.3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fftw.rb)]
 - [x] ffuf: MIT
 - [ ] fibjs: GPL-3.0 (deprecated) [[homepage](https://fibjs.org/)] [[head](https://github.com/fibjs/fibjs.git)] [[stable](https://github.com/fibjs/fibjs/releases/download/v0.31.0/fullsrc.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fibjs.rb)]
@@ -2091,7 +2091,7 @@
 - [ ] id3tool [[homepage](http://nekohako.xware.cx/id3tool/)] [head] [[stable](http://nekohako.xware.cx/id3tool/id3tool-1.2a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/id3tool.rb)]
 - [ ] id3v2: LGPL-2.1 (deprecated) [[homepage](https://id3v2.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/id3v2/id3v2/0.1.12/id3v2-0.1.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/id3v2.rb)]
 - [ ] ideviceinstaller: GPL-2.0 (deprecated) [[homepage](https://www.libimobiledevice.org/)] [[head](https://git.sukimashita.com/ideviceinstaller.git)] [[stable](https://github.com/libimobiledevice/ideviceinstaller/releases/download/1.1.1/ideviceinstaller-1.1.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ideviceinstaller.rb)]
-- [ ] idnits [[homepage](https://tools.ietf.org/tools/idnits/)] [head] [[stable](https://tools.ietf.org/tools/idnits/idnits-2.16.04.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/idnits.rb)]
+- [ ] idnits [[homepage](https://tools.ietf.org/tools/idnits/)] [head] [[stable](https://tools.ietf.org/tools/idnits/idnits-2.16.05.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/idnits.rb)]
 - [x] idris: BSD-3-Clause
 - [x] idris2: BSD-3-Clause
 - [ ] idutils: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/s/idutils/)] [head] [[stable](https://ftp.gnu.org/gnu/idutils/idutils-4.6.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/idutils.rb)]
@@ -2758,8 +2758,8 @@
 - [x] libserdes: Apache-2.0
 - [ ] libserialport: LGPL-3.0 (deprecated) [[homepage](https://sigrok.org/wiki/Libserialport)] [head] [[stable](https://sigrok.org/download/source/libserialport/libserialport-0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libserialport.rb)]
 - [ ] libshout [[homepage](https://icecast.org/)] [head] [[stable](https://downloads.xiph.org/releases/libshout/libshout-2.4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libshout.rb)]
-- [ ] libsigc++: LGPL-3.0 (deprecated) [[homepage](https://libsigcplusplus.github.io/libsigcplusplus/)] [head] [[stable](https://download.gnome.org/sources/libsigc++/3.0/libsigc++-3.0.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsigc++.rb)]
-- [ ] libsigc++@2: LGPL-2.1 (deprecated) [[homepage](https://libsigcplusplus.github.io/libsigcplusplus/)] [head] [[stable](https://download.gnome.org/sources/libsigc++/2.10/libsigc++-2.10.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsigc++@2.rb)]
+- [x] libsigc++: LGPL-3.0-or-later
+- [x] libsigc++@2: LGPL-3.0-or-later
 - [ ] libsignal-protocol-c: GPL-3.0 (deprecated) [[homepage](https://github.com/signalapp/libsignal-protocol-c)] [head] [[stable](https://github.com/signalapp/libsignal-protocol-c/archive/v2.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsignal-protocol-c.rb)]
 - [ ] libsigsegv: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/libsigsegv/)] [head] [[stable](https://ftp.gnu.org/gnu/libsigsegv/libsigsegv-2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsigsegv.rb)]
 - [ ] libsixel [[homepage](https://github.com/saitoha/sixel)] [head] [[stable](https://github.com/saitoha/libsixel/releases/download/v1.8.6/libsixel-1.8.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsixel.rb)]
@@ -3277,7 +3277,7 @@
 <details><summary>N</summary>
 
 - [x] n: MIT
-- [ ] naabu: GPL-3.0 (deprecated) [[homepage](https://github.com/projectdiscovery/naabu)] [[head](https://github.com/projectdiscovery/naabu.git)] [[stable](https://github.com/projectdiscovery/naabu/archive/v1.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/naabu.rb)]
+- [x] naabu: MIT
 - [ ] nacl [[homepage](https://nacl.cr.yp.to/)] [head] [[stable](https://hyperelliptic.org/nacl/nacl-20110221.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nacl.rb)]
 - [x] naga: BSD-3-Clause
 - [ ] nagios: GPL-2.0 (deprecated) [[homepage](https://www.nagios.org/)] [head] [[stable](https://downloads.sourceforge.net/project/nagios/nagios-4.x/nagios-4.4.6/nagios-4.4.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nagios.rb)]
@@ -3324,7 +3324,7 @@
 - [x] nef: Apache-2.0
 - [ ] negfix8 [[homepage](https://sites.google.com/site/negfix)] [head] [[stable](https://sites.google.com/site/negfix/downloads/negfix8.3.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/negfix8.rb)]
 - [x] neko: MIT
-- [ ] neo4j: GPL-3.0 (deprecated) [[homepage](https://neo4j.com/)] [head] [[stable](https://neo4j.com/artifact.php?name=neo4j-community-4.1.1-unix.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/neo4j.rb)]
+- [ ] neo4j: GPL-3.0 (deprecated) [[homepage](https://neo4j.com/)] [head] [[stable](https://neo4j.com/artifact.php?name=neo4j-community-4.1.2-unix.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/neo4j.rb)]
 - [x] neofetch: MIT
 - [x] neomutt: GPL-2.0-or-later
 - [ ] neon [[homepage](https://notroj.github.io/neon/)] [head] [[stable](https://notroj.github.io/neon/neon-0.31.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/neon.rb)]
@@ -3660,7 +3660,7 @@
 - [ ] pbc: LGPL-3.0 (deprecated) [[homepage](https://crypto.stanford.edu/pbc/)] [[head](https://repo.or.cz/pbc.git)] [[stable](https://crypto.stanford.edu/pbc/files/pbc-0.5.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pbc.rb)]
 - [ ] pbc-sig: GPL-3.0 (deprecated) [[homepage](https://crypto.stanford.edu/pbc/sig/)] [head] [[stable](https://crypto.stanford.edu/pbc/sig/files/pbc_sig-0.0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pbc-sig.rb)]
 - [x] pbzip2: bzip2-1.0.6
-- [ ] pc6001vx: LGPL-2.1 (deprecated) [[homepage](https://eighttails.seesaa.net/)] [[head](https://github.com/eighttails/PC6001VX.git)] [[stable](https://eighttails.up.seesaa.net/bin/PC6001VX_3.5.2_src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pc6001vx.rb)]
+- [ ] pc6001vx: LGPL-2.1 (deprecated) [[homepage](https://eighttails.seesaa.net/)] [[head](https://github.com/eighttails/PC6001VX.git)] [[stable](https://eighttails.up.seesaa.net/bin/PC6001VX_3.5.3_src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pc6001vx.rb)]
 - [ ] pcal [[homepage](https://pcal.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pcal/pcal/pcal-4.11.0/pcal-4.11.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pcal.rb)]
 - [x] pcapplusplus: Unlicense
 - [ ] pcb: GPL-2.0 (deprecated) [[homepage](http://pcb.geda-project.org/)] [[head](git://git.geda-project.org/pcb.git)] [[stable](https://downloads.sourceforge.net/project/pcb/pcb/pcb-4.2.2/pcb-4.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pcb.rb)]

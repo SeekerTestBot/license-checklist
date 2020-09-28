@@ -588,7 +588,6 @@ ffmpeg2theora
 ffmpeg@2.8
 ffmpegthumbnailer
 ffms2
-ffsend
 fftw
 fibjs
 ficy
@@ -1274,8 +1273,6 @@ librtlsdr
 libsecret
 libserialport
 libshout
-libsigc++
-libsigc++@2
 libsignal-protocol-c
 libsigsegv
 libsixel
@@ -1553,7 +1550,6 @@ mysql@5.6
 mysql@5.7
 mysqltuner
 mytop
-naabu
 nacl
 nagios
 nagios-plugins
