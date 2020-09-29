@@ -1,6 +1,6 @@
-2673 / 5225 (51.2%) of formulae have a valid `license` stanza as of 2020-09-28 12:04:52 UTC.
+2677 / 5229 (51.2%) of formulae have a valid `license` stanza as of 2020-09-29 00:17:13 UTC.
 
-1273 / 5225 (24.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1273 / 5229 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -2474,6 +2474,7 @@
 - [ ] lib3ds: GPL-2.0 (deprecated) [[homepage](https://code.google.com/archive/p/lib3ds/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/lib3ds/lib3ds-1.3.0.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lib3ds.rb)]
 - [ ] libaacs: LGPL-2.1 (deprecated) [[homepage](https://www.videolan.org/developers/libaacs.html)] [[head](https://code.videolan.org/videolan/libaacs.git)] [[stable](https://download.videolan.org/pub/videolan/libaacs/0.11.0/libaacs-0.11.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libaacs.rb)]
 - [ ] libagg: GPL-2.0 (deprecated) [[homepage](https://antigrain.com/)] [head] [[stable](https://ftp.osuosl.org/pub/blfs/8.0/a/agg-2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libagg.rb)]
+- [x] libaio: LGPL-2.1-or-later
 - [x] libantlr3c: BSD-3-Clause
 - [ ] libao: GPL-2.0 (deprecated) [[homepage](https://www.xiph.org/ao/)] [[head](https://gitlab.xiph.org/xiph/libao.git)] [[stable](https://github.com/xiph/libao/archive/1.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libao.rb)]
 - [ ] libarchive [[homepage](https://www.libarchive.org)] [head] [[stable](https://www.libarchive.org/downloads/libarchive-3.4.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libarchive.rb)]
@@ -2660,6 +2661,7 @@
 - [x] libmill: MIT
 - [ ] libming: LGPL-2.1 (deprecated) [[homepage](http://www.libming.org)] [head] [[stable](https://github.com/libming/libming/archive/ming-0_4_8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libming.rb)]
 - [ ] libmms [[homepage](https://sourceforge.net/projects/libmms/)] [head] [[stable](https://downloads.sourceforge.net/project/libmms/libmms/0.6.4/libmms-0.6.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmms.rb)]
+- [x] libmnl: LGPL-2.1-or-later
 - [ ] libmodbus: LGPL-2.1 (deprecated) [[homepage](https://libmodbus.org/)] [[head](https://github.com/stephane/libmodbus.git)] [[stable](https://libmodbus.org/releases/libmodbus-3.1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmodbus.rb)]
 - [ ] libmodplug [[homepage](https://modplug-xmms.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/modplug-xmms/libmodplug/0.8.9.0/libmodplug-0.8.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmodplug.rb)]
 - [x] libmonome: ISC
@@ -2678,8 +2680,10 @@
 - [x] libmypaint: ISC
 - [ ] libnatpmp [[homepage](http://miniupnp.free.fr/libnatpmp.html)] [head] [[stable](http://miniupnp.free.fr/files/download.php?file=libnatpmp-20150609.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnatpmp.rb)]
 - [x] libnet: BSD-2-Clause
+- [x] libnetfilter-queue: LGPL-2.0-or-later
 - [x] libnetworkit: MIT
 - [ ] libnfc: LGPL-3.0 (deprecated) [[homepage](https://github.com/nfc-tools/libnfc)] [[head](https://github.com/nfc-tools/libnfc.git)] [[stable](https://github.com/nfc-tools/libnfc/releases/download/libnfc-1.8.0/libnfc-1.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnfc.rb)]
+- [x] libnfnetlink: LGPL-2.1-or-later
 - [ ] libnfs: LGPL-2.1 (deprecated) [[homepage](https://github.com/sahlberg/libnfs)] [head] [[stable](https://github.com/sahlberg/libnfs/archive/libnfs-4.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnfs.rb)]
 - [ ] libngspice [[homepage](https://ngspice.sourceforge.io/)] [[head](https://git.code.sf.net/p/ngspice/ngspice.git)] [[stable](https://downloads.sourceforge.net/project/ngspice/ng-spice-rework/32/ngspice-32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libngspice.rb)]
 - [ ] libnice: LGPL-2.1 (deprecated) [[homepage](https://wiki.freedesktop.org/nice/)] [head] [[stable](https://nice.freedesktop.org/releases/libnice-0.1.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnice.rb)]
