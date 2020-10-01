@@ -2020,7 +2020,6 @@ screenfetch
 screenresolution
 scrollkeeper
 scrub
-scummvm-tools
 sdcc
 sdedit
 sdf

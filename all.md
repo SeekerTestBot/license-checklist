@@ -1,6 +1,6 @@
-2678 / 5230 (51.2%) of formulae have a valid `license` stanza as of 2020-10-01 00:02:14 UTC.
+2679 / 5230 (51.2%) of formulae have a valid `license` stanza as of 2020-10-01 12:02:13 UTC.
 
-1273 / 5230 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1272 / 5230 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -4239,7 +4239,7 @@
 - [x] scrypt: BSD-2-Clause
 - [x] scs: MIT
 - [x] scummvm: GPL-2.0-or-later
-- [ ] scummvm-tools: GPL-2.0 (deprecated) [[homepage](https://www.scummvm.org/)] [[head](https://github.com/scummvm/scummvm-tools.git)] [[stable](https://www.scummvm.org/frs/scummvm-tools/2.1.0/scummvm-tools-2.1.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/scummvm-tools.rb)]
+- [x] scummvm-tools: GPL-2.0-or-later
 - [x] scw: Apache-2.0
 - [x] scw@1: MIT
 - [x] scws: BSD-3-Clause
