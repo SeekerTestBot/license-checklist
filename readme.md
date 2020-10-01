@@ -1,6 +1,6 @@
-2677 / 5229 (51.2%) of formulae have a valid `license` stanza as of 2020-09-30 12:04:21 UTC.
+2678 / 5230 (51.2%) of formulae have a valid `license` stanza as of 2020-10-01 00:02:07 UTC.
 
-1273 / 5229 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1273 / 5230 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -702,6 +702,7 @@
 - [x] cloud-nuke: MIT
 - [ ] cloud-watch [[homepage](https://aws.amazon.com/developertools/2534)] [head] [[stable](https://ec2-downloads.s3.amazonaws.com/CloudWatch-2010-08-01.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cloud-watch.rb)]
 - [x] cloudformation-cli: Apache-2.0
+- [x] cloudformation-guard: Apache-2.0
 - [x] clozure-cl: Apache-2.0
 - [x] clp: EPL-1.0
 - [ ] clpbar [[homepage](https://clpbar.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/clpbar/clpbar/bar-1.11.1/bar_1.11.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clpbar.rb)]
