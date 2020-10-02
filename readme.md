@@ -1,6 +1,6 @@
-2684 / 5233 (51.3%) of formulae have a valid `license` stanza as of 2020-10-02 00:04:35 UTC.
+2688 / 5234 (51.4%) of formulae have a valid `license` stanza as of 2020-10-02 12:03:31 UTC.
 
-1272 / 5233 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1271 / 5234 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1541,7 +1541,7 @@
 - [x] genometools: ISC
 - [ ] genstats [[homepage](https://www.vanheusden.com/genstats/)] [head] [[stable](https://www.vanheusden.com/genstats/genstats-1.2.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/genstats.rb)]
 - [ ] geocode-glib [[homepage](https://developer.gnome.org/geocode-glib)] [head] [[stable](https://download.gnome.org/sources/geocode-glib/3.26/geocode-glib-3.26.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geocode-glib.rb)]
-- [ ] geogram [[homepage](http://alice.loria.fr/software/geogram/doc/html/index.html)] [head] [[stable](https://gforge.inria.fr/frs/download.php/file/38361/geogram_1.7.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geogram.rb)]
+- [x] geogram: `{:all_of=>["BSD-3-Clause", :public_domain, "LGPL-3.0-or-later", "MIT"]}`
 - [x] geographiclib: MIT
 - [ ] geoip: LGPL-2.1 (deprecated) [[homepage](https://github.com/maxmind/geoip-api-c)] [[head](https://github.com/maxmind/geoip-api-c.git)] [[stable](https://github.com/maxmind/geoip-api-c/releases/download/v1.6.12/GeoIP-1.6.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geoip.rb)]
 - [x] geoipupdate: Apache-2.0
@@ -3248,7 +3248,7 @@
 - [x] mstch: MIT
 - [ ] mtoc [[homepage](https://opensource.apple.com/source/cctools/cctools-949.0.1/)] [head] [[stable](https://opensource.apple.com/tarballs/cctools/cctools-949.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mtoc.rb)]
 - [ ] mtools: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/mtools/)] [head] [[stable](https://ftp.gnu.org/gnu/mtools/mtools-4.0.24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mtools.rb)]
-- [ ] mtr: GPL-2.0 (deprecated) [[homepage](https://www.bitwizard.nl/mtr/)] [[head](https://github.com/traviscross/mtr.git)] [[stable](https://github.com/traviscross/mtr/archive/v0.93.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mtr.rb)]
+- [x] mtr: GPL-2.0-only
 - [x] mu: GPL-3.0-or-later
 - [x] mujs: ISC
 - [x] multimarkdown: MIT
@@ -4297,7 +4297,7 @@
 - [ ] sdl2_ttf [[homepage](https://www.libsdl.org/projects/SDL_ttf/)] [[head](https://hg.libsdl.org/SDL_ttf)] [[stable](https://www.libsdl.org/projects/SDL_ttf/release/SDL2_ttf-2.0.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl2_ttf.rb)]
 - [ ] sdl_gfx [[homepage](https://www.ferzkopp.net/joomla/content/view/19/14/)] [head] [[stable](https://www.ferzkopp.net/Software/SDL_gfx-2.0/SDL_gfx-2.0.26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl_gfx.rb)]
 - [x] sdl_image: Zlib
-- [ ] sdl_mixer [[homepage](https://www.libsdl.org/projects/SDL_mixer/)] [head] [[stable](https://www.libsdl.org/projects/SDL_mixer/release/SDL_mixer-1.2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl_mixer.rb)]
+- [x] sdl_mixer: Zlib
 - [ ] sdl_net [[homepage](https://www.libsdl.org/projects/SDL_net/release-1.2.html)] [head] [[stable](https://www.libsdl.org/projects/SDL_net/release/SDL_net-1.2.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl_net.rb)]
 - [ ] sdl_rtf [[homepage](https://www.libsdl.org/projects/SDL_rtf/)] [[head](https://hg.libsdl.org/SDL_rtf)] [[stable](https://www.libsdl.org/projects/SDL_rtf/release/SDL_rtf-0.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl_rtf.rb)]
 - [ ] sdl_sound [[homepage](https://icculus.org/SDL_sound/)] [[head](https://hg.icculus.org/icculus/SDL_sound)] [[stable](https://icculus.org/SDL_sound/downloads/SDL_sound-1.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sdl_sound.rb)]
@@ -4363,6 +4363,7 @@
 - [ ] shorten [[homepage](https://web.archive.org/web/20180903155129/www.etree.org/shnutils/shorten/)] [head] [[stable](https://web.archive.org/web/20180903155129/www.etree.org/shnutils/shorten/dist/src/shorten-3.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/shorten.rb)]
 - [x] shpotify: MIT
 - [ ] shtool: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/shtool/)] [head] [[stable](https://ftp.gnu.org/gnu/shtool/shtool-2.0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/shtool.rb)]
+- [x] shtools: BSD-3-Clause
 - [x] shunit2: Apache-2.0
 - [x] shyaml: BSD-2-Clause
 - [x] sic: MIT

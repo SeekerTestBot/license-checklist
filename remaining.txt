@@ -684,7 +684,6 @@ genext2fs
 gengetopt
 genstats
 geocode-glib
-geogram
 geoip
 geomview
 geos
@@ -1525,7 +1524,6 @@ msktutil
 mspdebug
 mtoc
 mtools
-mtr
 multitail
 mupdf
 mupdf-tools
@@ -2031,7 +2029,6 @@ sdl2_mixer
 sdl2_net
 sdl2_ttf
 sdl_gfx
-sdl_mixer
 sdl_net
 sdl_rtf
 sdl_sound
