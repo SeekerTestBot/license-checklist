@@ -2166,7 +2166,6 @@ svdlibc
 svg2pdf
 svg2png
 svgcleaner
-svtplay-dl
 swaks
 swfmill
 swftools
@@ -2388,7 +2387,6 @@ vsftpd
 vstr
 vsts-cli
 vtclock
-vte3
 vttest
 w-calc
 w3m

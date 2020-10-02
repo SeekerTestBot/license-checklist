@@ -1,6 +1,6 @@
-2679 / 5230 (51.2%) of formulae have a valid `license` stanza as of 2020-10-01 12:02:05 UTC.
+2684 / 5233 (51.3%) of formulae have a valid `license` stanza as of 2020-10-02 00:04:35 UTC.
 
-1272 / 5230 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1272 / 5233 (24.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1541,7 +1541,7 @@
 - [x] genometools: ISC
 - [ ] genstats [[homepage](https://www.vanheusden.com/genstats/)] [head] [[stable](https://www.vanheusden.com/genstats/genstats-1.2.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/genstats.rb)]
 - [ ] geocode-glib [[homepage](https://developer.gnome.org/geocode-glib)] [head] [[stable](https://download.gnome.org/sources/geocode-glib/3.26/geocode-glib-3.26.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geocode-glib.rb)]
-- [ ] geogram [[homepage](http://alice.loria.fr/software/geogram/doc/html/index.html)] [head] [[stable](https://gforge.inria.fr/frs/download.php/file/38314/geogram_1.7.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geogram.rb)]
+- [ ] geogram [[homepage](http://alice.loria.fr/software/geogram/doc/html/index.html)] [head] [[stable](https://gforge.inria.fr/frs/download.php/file/38361/geogram_1.7.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geogram.rb)]
 - [x] geographiclib: MIT
 - [ ] geoip: LGPL-2.1 (deprecated) [[homepage](https://github.com/maxmind/geoip-api-c)] [[head](https://github.com/maxmind/geoip-api-c.git)] [[stable](https://github.com/maxmind/geoip-api-c/releases/download/v1.6.12/GeoIP-1.6.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geoip.rb)]
 - [x] geoipupdate: Apache-2.0
@@ -1937,6 +1937,7 @@
 - [ ] hadolint: GPL-3.0 (deprecated) [[homepage](https://github.com/hadolint/hadolint)] [head] [[stable](https://github.com/hadolint/hadolint/archive/v1.18.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hadolint.rb)]
 - [x] hadoop: Apache-2.0
 - [ ] halibut [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/halibut/)] [[head](https://git.tartarus.org/simon/halibut.git)] [[stable](https://www.chiark.greenend.org.uk/~sgtatham/halibut/halibut-1.2/halibut-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/halibut.rb)]
+- [x] halide: MIT
 - [x] hamlib: LGPL-2.1-or-later
 - [ ] handbrake: GPL-2.0 (deprecated) [[homepage](https://handbrake.fr/)] [[head](https://github.com/HandBrake/HandBrake.git)] [[stable](https://github.com/HandBrake/HandBrake/releases/download/1.3.3/HandBrake-1.3.3-source.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/handbrake.rb)]
 - [x] hapi-fhir-cli: Apache-2.0
@@ -2611,6 +2612,7 @@
 - [x] libgusb: LGPL-2.1-only
 - [ ] libgweather [[homepage](https://wiki.gnome.org/Projects/LibGWeather)] [head] [[stable](https://download.gnome.org/sources/libgweather/3.36/libgweather-3.36.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgweather.rb)]
 - [x] libgxps: LGPL-2.1-or-later
+- [x] libhandy: LGPL-2.1-or-later
 - [x] libharu: Zlib
 - [x] libhdhomerun: LGPL-2.1-or-later
 - [x] libheif: LGPL-3.0-only
@@ -4320,6 +4322,7 @@
 - [ ] sersniff: GPL-2.0 (deprecated) [[homepage](https://www.earth.li/projectpurple/progs/sersniff.html)] [[head](https://the.earth.li/git/sersniff.git)] [[stable](https://www.earth.li/projectpurple/files/sersniff-0.0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sersniff.rb)]
 - [x] serve: MIT
 - [x] serveit: MIT
+- [x] server-go: MIT
 - [x] serverless: MIT
 - [ ] servus: LGPL-3.0 (deprecated) [[homepage](https://github.com/HBPVIS/Servus)] [head] [[stable](https://github.com/HBPVIS/Servus.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/servus.rb)]
 - [x] setweblocthumb: Apache-2.0
@@ -4611,7 +4614,7 @@
 - [ ] svg2png: LGPL-2.1 (deprecated) [[homepage](https://cairographics.org/)] [head] [[stable](https://cairographics.org/snapshots/svg2png-0.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svg2png.rb)]
 - [ ] svgcleaner: GPL-2.0 (deprecated) [[homepage](https://github.com/RazrFalcon/svgcleaner)] [[head](https://github.com/RazrFalcon/svgcleaner.git)] [[stable](https://github.com/RazrFalcon/svgcleaner/archive/v0.9.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svgcleaner.rb)]
 - [x] svgo: MIT
-- [ ] svtplay-dl [[homepage](https://svtplay-dl.se/)] [head] [[stable](https://files.pythonhosted.org/packages/b8/f3/00b9a5cbd1f8f759ac8bdcb632114aab622db8eb3c8702a48ef166acbfa3/svtplay-dl-2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svtplay-dl.rb)]
+- [x] svtplay-dl: MIT
 - [x] swagger-codegen: Apache-2.0
 - [x] swagger-codegen@2: Apache-2.0
 - [x] swagger2markup-cli: Apache-2.0
@@ -5054,7 +5057,7 @@
 - [ ] vstr: LGPL-2.1 (deprecated) [[homepage](http://www.and.org/vstr/)] [head] [[stable](http://www.and.org/vstr/1.0.15/vstr-1.0.15.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vstr.rb)]
 - [ ] vsts-cli [[homepage](https://docs.microsoft.com/en-us/cli/vsts)] [head] [[stable](https://files.pythonhosted.org/packages/f9/c2/3ed698480ab30d2807fc961eef152099589aeaec3f1407945a4e07275de5/vsts-cli-0.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vsts-cli.rb)]
 - [ ] vtclock: GPL-2.0 (deprecated) [[homepage](https://webonastick.com/vtclock/)] [head] [[stable](https://webonastick.com/vtclock/vtclock-2005-02-20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vtclock.rb)]
-- [ ] vte3 [[homepage](https://developer.gnome.org/vte/)] [head] [[stable](https://download.gnome.org/sources/vte/0.60/vte-0.60.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vte3.rb)]
+- [x] vte3: LGPL-2.0-or-later
 - [x] vtk: BSD-3-Clause
 - [x] vtk@8.2: BSD-3-Clause
 - [ ] vttest [[homepage](https://invisible-island.net/vttest/)] [head] [[stable](https://invisible-mirror.net/archives/vttest/vttest-20200610.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vttest.rb)]
