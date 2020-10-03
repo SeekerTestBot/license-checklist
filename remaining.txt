@@ -54,7 +54,6 @@ apache-ctakes
 apachetop
 apcupsd
 ape
-apibuilder-cli
 apm-bash-completion
 apng2gif
 app-engine-java
@@ -231,7 +230,6 @@ calabash
 calc
 camellia
 cap-completion
-carla
 carton
 cask
 cattle
@@ -846,7 +844,6 @@ guile@2
 gupnp-av
 gupnp-tools
 gwenhywfar
-gwt
 gwyddion
 gzip
 gzrt
@@ -984,8 +981,6 @@ jdnssec-tools
 jed
 jerasure
 jerm
-jetty
-jetty-runner
 jflex
 jhead
 jhiccup
@@ -1247,7 +1242,6 @@ libpoker-eval
 libprotoident
 libproxy
 libpst
-libqalculate
 libquantum
 libquicktime
 libquvi
@@ -1264,7 +1258,6 @@ librsync
 librtlsdr
 libsecret
 libserialport
-libshout
 libsignal-protocol-c
 libsigsegv
 libsixel
@@ -1545,7 +1538,6 @@ namazu
 nanorc
 naturaldocs
 nauty
-nbdime
 nbimg
 ncftp
 ncmpcpp
@@ -1573,7 +1565,6 @@ nettle
 nettoe
 newlisp
 newt
-nexus
 nfcutils
 ngircd
 ngrep
@@ -1988,7 +1979,6 @@ rxvt-unicode
 rzip
 s-lang
 s-nail
-s3-backer
 s3cmd
 s3ql
 saldl
@@ -2487,7 +2477,6 @@ yaf
 yafc
 yamcha
 yamdi
-yamllint
 yash
 yasm
 yaze-ag
