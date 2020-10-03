@@ -45,7 +45,6 @@ angband
 anjuta
 ansible-cmdb
 ansible@2.8
-ansifilter
 ant-contrib
 antiword
 antlr4-cpp-runtime
@@ -765,7 +764,6 @@ gnu-smalltalk
 gnu-tar
 gnu-time
 gnu-typist
-gnu-units
 gnu-which
 gnupg
 gnupg@1.4
@@ -812,8 +810,6 @@ grepcidr
 griffon
 groff
 gromacs
-groonga
-groovysdk
 groovyserv
 growly
 grsync
@@ -931,7 +927,6 @@ ievms
 ifstat
 iftop
 ifuse
-igraph
 igv
 ike-scan
 imagejs
@@ -1311,7 +1306,6 @@ libwpg
 libxdiff
 libxmi
 libxml++
-libxml++3
 libxmp
 libxslt
 libxspf
@@ -1425,7 +1419,6 @@ mercury
 mergelog
 mergepbx
 mesalib-glw
-metaproxy
 metashell
 metis
 mfcuk
@@ -2153,7 +2146,6 @@ style-check
 sub2srt
 subnetcalc
 suite-sparse
-sundials
 superlu
 supermodel
 supervisor
@@ -2332,7 +2324,6 @@ vapoursynth
 vapoursynth-imwri
 vapoursynth-ocr
 vapoursynth-sub
-varnish
 vassh
 vavrdiasm
 vbindiff
@@ -2488,7 +2479,6 @@ xsv
 xsw
 xtail
 xtitle
-xu4
 xvid
 xz
 yacas
@@ -2501,12 +2491,10 @@ yamllint
 yash
 yasm
 yaze-ag
-yazpp
 yconalyzer
 ydcv
 yetris
 ykneomgr
-yle-dl
 you-get
 yydecode
 z
