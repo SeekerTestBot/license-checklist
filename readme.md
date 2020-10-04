@@ -1,6 +1,6 @@
-2711 / 5234 (51.8%) of formulae have a valid `license` stanza as of 2020-10-03 12:01:13 UTC.
+2715 / 5235 (51.9%) of formulae have a valid `license` stanza as of 2020-10-04 00:02:08 UTC.
 
-1261 / 5234 (24.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1260 / 5235 (24.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1359,7 +1359,7 @@
 - [ ] flac123: GPL-2.0 (deprecated) [[homepage](https://flac-tools.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/flac-tools/flac123/flac123-0.0.12-release.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flac123.rb)]
 - [ ] flactag [[homepage](https://flactag.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/flactag/v2.0.4/flactag-2.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flactag.rb)]
 - [ ] flake: LGPL-2.1 (deprecated) [[homepage](https://flake-enc.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/flake-enc/flake/0.11/flake-0.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flake.rb)]
-- [ ] flake8 [[homepage](https://flake8.pycqa.org/)] [[head](https://gitlab.com/PyCQA/flake8.git)] [[stable](https://gitlab.com/pycqa/flake8/-/archive/3.8.3/flake8-3.8.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flake8.rb)]
+- [x] flake8: MIT
 - [x] flamegraph: CDDL-1.0
 - [x] flank: Apache-2.0
 - [x] flann: BSD-3-Clause
@@ -1486,7 +1486,7 @@
 - [ ] game-music-emu [[homepage](https://bitbucket.org/mpyne/game-music-emu)] [[head](https://bitbucket.org/mpyne/game-music-emu.git)] [[stable](https://bitbucket.org/mpyne/game-music-emu/downloads/game-music-emu-0.6.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/game-music-emu.rb)]
 - [x] gammaray: GPL-2.0-or-later
 - [ ] gammu: GPL-2.0 (deprecated) [[homepage](https://wammu.eu/gammu/)] [[head](https://github.com/gammu/gammu.git)] [[stable](https://dl.cihar.com/gammu/releases/gammu-1.41.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gammu.rb)]
-- [ ] gandi.cli [[homepage](https://cli.gandi.net/)] [head] [[stable](https://files.pythonhosted.org/packages/75/6d/ff2097a1b8f0142034394ca6832abade773a36efa0916500522b7d190264/gandi.cli-1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gandi.cli.rb)]
+- [x] gandi.cli: GPL-3.0-or-later
 - [x] ganglia: BSD-3-Clause
 - [ ] garmintools: GPL-2.0 (deprecated) [[homepage](https://code.google.com/archive/p/garmintools/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/garmintools/garmintools-0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/garmintools.rb)]
 - [x] gateway-go: MIT
@@ -2585,6 +2585,7 @@
 - [ ] libftdi0 [[homepage](https://www.intra2net.com/en/developer/libftdi)] [head] [[stable](https://www.intra2net.com/en/developer/libftdi/download/libftdi-0.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libftdi0.rb)]
 - [ ] libgadu: LGPL-2.1 (deprecated) [[homepage](https://libgadu.net/)] [head] [[stable](https://github.com/wojtekka/libgadu/releases/download/1.12.2/libgadu-1.12.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgadu.rb)]
 - [ ] libgaiagraphics [[homepage](https://www.gaia-gis.it/fossil/libgaiagraphics/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/gaiagraphics-sources/libgaiagraphics-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgaiagraphics.rb)]
+- [x] libgccjit: `{"GPL-3.0-or-later"=>{:with=>"GCC-exception-3.1"}}`
 - [ ] libgcrypt: GPL-2.0 (deprecated) [[homepage](https://gnupg.org/related_software/libgcrypt/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/libgcrypt/libgcrypt-1.8.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgcrypt.rb)]
 - [ ] libgda: GPL-2.0 (deprecated) [[homepage](https://www.gnome-db.org/)] [head] [[stable](https://download.gnome.org/sources/libgda/5.2/libgda-5.2.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgda.rb)]
 - [ ] libgdata [[homepage](https://wiki.gnome.org/Projects/libgdata)] [head] [[stable](https://download.gnome.org/sources/libgdata/0.16/libgdata-0.16.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgdata.rb)]
@@ -3385,7 +3386,7 @@
 - [ ] nload: GPL-2.0 (deprecated) [[homepage](http://www.roland-riegel.de/nload/)] [head] [[stable](http://www.roland-riegel.de/nload/nload-0.7.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nload.rb)]
 - [x] nlohmann-json: MIT
 - [ ] nlopt: LGPL-2.1 (deprecated) [[homepage](https://nlopt.readthedocs.io/)] [[head](https://github.com/stevengj/nlopt.git)] [[stable](https://github.com/stevengj/nlopt/archive/v2.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nlopt.rb)]
-- [ ] nmap: GPL-2.0 (deprecated) [[homepage](https://nmap.org/)] [[head](https://svn.nmap.org/nmap/)] [[stable](https://nmap.org/dist/nmap-7.80.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nmap.rb)]
+- [ ] nmap [[homepage](https://nmap.org/)] [[head](https://svn.nmap.org/nmap/)] [[stable](https://nmap.org/dist/nmap-7.90.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nmap.rb)]
 - [ ] nmh [[homepage](https://www.nongnu.org/nmh/)] [[head](https://git.savannah.nongnu.org/git/nmh.git)] [[stable](https://download.savannah.gnu.org/releases/nmh/nmh-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nmh.rb)]
 - [x] nng: MIT
 - [x] nnn: BSD-2-Clause
@@ -4969,7 +4970,7 @@
 
 - [ ] v [[homepage](https://github.com/rupa/v)] [[head](https://github.com/rupa/v.git)] [[stable](https://github.com/rupa/v/archive/v1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/v.rb)]
 - [x] v2ray-plugin: MIT
-- [ ] v8 [[homepage](https://github.com/v8/v8/wiki)] [head] [[stable](https://github.com/v8/v8/archive/8.5.210.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/v8.rb)]
+- [x] v8: BSD-3-Clause
 - [ ] v8@3.15 [[homepage](https://github.com/v8/v8/wiki)] [head] [[stable](https://github.com/v8/v8-git-mirror/archive/3.15.11.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/v8@3.15.rb)]
 - [x] vagrant-completion: MIT
 - [x] vala: LGPL-2.1-or-later

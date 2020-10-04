@@ -598,7 +598,6 @@ flac
 flac123
 flactag
 flake
-flake8
 flashrom
 flasm
 flawfinder
@@ -648,7 +647,6 @@ gabedit
 gaffitter
 game-music-emu
 gammu
-gandi.cli
 garmintools
 gauche
 gaul
@@ -2305,7 +2303,6 @@ utimer
 uudeview
 uwsgi
 v
-v8
 v8@3.15
 valabind
 valgrind
