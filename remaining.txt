@@ -646,7 +646,6 @@ fwknop
 gabedit
 gaffitter
 game-music-emu
-gammu
 garmintools
 gauche
 gaul
@@ -1726,7 +1725,6 @@ pdfgrep
 pdflib-lite
 pdfpc
 pdfsandwich
-pdftk-java
 pdftohtml
 pdns
 pdnsd
@@ -1854,7 +1852,6 @@ py2cairo
 py3cairo
 pyinstaller
 pympress
-pyqt
 python-markdown
 pytouhou
 qalculate-gtk
@@ -2198,7 +2195,6 @@ timedog
 timelimit
 timidity
 tin
-tinc
 tintin
 tiny-fugue
 tinycdb

@@ -1,6 +1,6 @@
-2715 / 5235 (51.9%) of formulae have a valid `license` stanza as of 2020-10-04 00:02:16 UTC.
+2720 / 5236 (51.9%) of formulae have a valid `license` stanza as of 2020-10-04 12:01:40 UTC.
 
-1260 / 5235 (24.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1257 / 5236 (24.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -195,6 +195,7 @@
 - [x] aspcud: MIT
 - [ ] aspectj [[homepage](https://eclipse.org/aspectj/)] [head] [[stable](https://www.eclipse.org/downloads/download.php?r=1&file=/tools/aspectj/aspectj-1.9.6.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aspectj.rb)]
 - [ ] aspell: LGPL-2.1 (deprecated) [[homepage](http://aspell.net/)] [head] [[stable](https://ftp.gnu.org/gnu/aspell/aspell-0.60.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aspell.rb)]
+- [x] asroute: MIT
 - [x] assh: MIT
 - [ ] assimp: LGPL-3.0 (deprecated) [[homepage](https://www.assimp.org/)] [[head](https://github.com/assimp/assimp.git)] [[stable](https://github.com/assimp/assimp/archive/v5.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/assimp.rb)]
 - [x] astrometry-net: BSD-3-Clause
@@ -1473,7 +1474,7 @@
 - [x] gambit-scheme: Apache-2.0
 - [ ] game-music-emu [[homepage](https://bitbucket.org/mpyne/game-music-emu)] [[head](https://bitbucket.org/mpyne/game-music-emu.git)] [[stable](https://bitbucket.org/mpyne/game-music-emu/downloads/game-music-emu-0.6.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/game-music-emu.rb)]
 - [x] gammaray: GPL-2.0-or-later
-- [ ] gammu: GPL-2.0 (deprecated) [[homepage](https://wammu.eu/gammu/)] [[head](https://github.com/gammu/gammu.git)] [[stable](https://dl.cihar.com/gammu/releases/gammu-1.41.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gammu.rb)]
+- [x] gammu: GPL-2.0-or-later
 - [x] gandi.cli: GPL-3.0-or-later
 - [x] ganglia: BSD-3-Clause
 - [ ] garmintools: GPL-2.0 (deprecated) [[homepage](https://code.google.com/archive/p/garmintools/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/garmintools/garmintools-0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/garmintools.rb)]
@@ -2273,7 +2274,7 @@
 - [x] jsvc: Apache-2.0
 - [ ] jthread [[homepage](https://research.edm.uhasselt.be/jori/jthread)] [head] [[stable](https://research.edm.uhasselt.be/jori/jthread/jthread-1.3.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jthread.rb)]
 - [x] juise: BSD-3-Clause
-- [ ] juju: AGPL-3.0 (deprecated) [[homepage](https://jujucharms.com/)] [head] [[stable](https://github.com/juju/juju.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/juju.rb)]
+- [ ] juju: AGPL-3.0 (deprecated) [[homepage](https://juju.is/)] [head] [[stable](https://github.com/juju/juju.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/juju.rb)]
 - [x] juju-wait: GPL-3.0-only
 - [x] julius: BSD-3-Clause
 - [ ] juman [[homepage](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)] [head] [[stable](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/juman/juman-7.01.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/juman.rb)]
@@ -3661,7 +3662,7 @@
 - [ ] pdflib-lite [[homepage](https://www.pdflib.com/download/free-software/pdflib-lite-7/)] [head] [[stable](https://dl.bintray.com/homebrew/mirror/pdflib-lite--7.0.5p3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdflib-lite.rb)]
 - [ ] pdfpc: GPL-2.0 (deprecated) [[homepage](https://pdfpc.github.io/)] [[head](https://github.com/pdfpc/pdfpc.git)] [[stable](https://github.com/pdfpc/pdfpc/archive/v4.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdfpc.rb)]
 - [ ] pdfsandwich [[homepage](http://www.tobias-elze.de/pdfsandwich/)] [[head](https://svn.code.sf.net/p/pdfsandwich/code/trunk/src)] [[stable](https://downloads.sourceforge.net/project/pdfsandwich/pdfsandwich%200.1.7/pdfsandwich-0.1.7.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdfsandwich.rb)]
-- [ ] pdftk-java: GPL-2.0 (deprecated) [[homepage](https://gitlab.com/pdftk-java/pdftk)] [[head](https://gitlab.com/pdftk-java/pdftk.git)] [[stable](https://gitlab.com/pdftk-java/pdftk/-/archive/v3.1.3/pdftk-v3.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdftk-java.rb)]
+- [x] pdftk-java: GPL-2.0-or-later
 - [ ] pdftohtml [[homepage](https://pdftohtml.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pdftohtml/Experimental%20Versions/pdftohtml%200.40/pdftohtml-0.40a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdftohtml.rb)]
 - [x] pdftoipe: GPL-2.0-or-later
 - [ ] pdns: GPL-2.0 (deprecated) [[homepage](https://www.powerdns.com)] [[head](https://github.com/powerdns/pdns.git)] [[stable](https://downloads.powerdns.com/releases/pdns-4.3.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdns.rb)]
@@ -3927,7 +3928,7 @@
 - [ ] pympress: GPL-2.0 (deprecated) [[homepage](https://github.com/Cimbali/pympress/)] [[head](https://github.com/Cimbali/pympress.git)] [[stable](https://files.pythonhosted.org/packages/92/80/c63ad7748e877dfeb5d7d756c1bdd4c2657e5a857814b4d6edf96d44678c/pympress-1.5.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pympress.rb)]
 - [x] pypy: MIT
 - [x] pypy3: MIT
-- [ ] pyqt: GPL-3.0 (deprecated) [[homepage](https://www.riverbankcomputing.com/software/pyqt/download5)] [head] [[stable](https://files.pythonhosted.org/packages/8c/90/82c62bbbadcca98e8c6fa84f1a638de1ed1c89e85368241e9cc43fcbc320/PyQt5-5.15.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pyqt.rb)]
+- [x] pyqt: GPL-3.0-only
 - [x] pyside: `{:all_of=>["GFDL-1.3-only", "GPL-2.0-only", "GPL-3.0-only", "LGPL-3.0-only"]}`
 - [ ] python-markdown [[homepage](https://pypi.python.org/pypi/Markdown)] [head] [[stable](https://files.pythonhosted.org/packages/44/30/cb4555416609a8f75525e34cbacfc721aa5b0044809968b2cf553fd879c7/Markdown-3.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/python-markdown.rb)]
 - [x] python-yq: Apache-2.0
@@ -4739,7 +4740,7 @@
 - [x] timewarrior: MIT
 - [ ] timidity [[homepage](https://timidity.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/timidity/TiMidity++/TiMidity++-2.15.0/TiMidity++-2.15.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/timidity.rb)]
 - [ ] tin [[homepage](http://www.tin.org)] [head] [[stable](https://www.nic.funet.fi/pub/unix/news/tin/v2.4/tin-2.4.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tin.rb)]
-- [ ] tinc [[homepage](https://www.tinc-vpn.org/)] [head] [[stable](https://tinc-vpn.org/packages/tinc-1.0.36.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tinc.rb)]
+- [x] tinc: GPL-2.0-or-later
 - [ ] tintin: GPL-3.0 (deprecated) [[homepage](https://tintin.mudhalla.net/)] [head] [[stable](https://github.com/scandum/tintin/releases/download/2.02.03/tintin-2.02.03.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tintin.rb)]
 - [ ] tiny-fugue [[homepage](https://tinyfugue.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/tinyfugue/tinyfugue/5.0%20beta%208/tf-50b8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tiny-fugue.rb)]
 - [ ] tinycdb [[homepage](https://www.corpit.ru/mjt/tinycdb.html)] [head] [[stable](https://www.corpit.ru/mjt/tinycdb/tinycdb-0.78.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tinycdb.rb)]
