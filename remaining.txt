@@ -292,7 +292,6 @@ civl
 cksfv
 clamz
 classads
-claws-mail
 clean
 clearlooks-phenix
 clhep
@@ -333,7 +332,6 @@ contacts
 convertlit
 convmv
 coq
-coreutils
 corkscrew
 cosi
 couchpotatoserver
@@ -345,7 +343,6 @@ cpio
 cpl
 cpm
 cpmtools
-cppcheck
 cppcms
 cppi
 cppman
@@ -933,7 +930,6 @@ inspectrum
 inspircd
 instalooter
 intercal
-internetarchive
 intltool
 inxi
 ioke
@@ -1323,7 +1319,6 @@ logcheck
 logrotate
 logstalgia
 lolcode
-lorem
 loudmouth
 lout
 lpc21isp
@@ -1984,7 +1979,6 @@ sc68
 scala@2.11
 scalastyle
 scale2x
-sceptre
 scheme48
 schroedinger
 scm-manager
@@ -2476,7 +2470,6 @@ yetris
 ykneomgr
 you-get
 yydecode
-z
 z.lua
 z80asm
 zabbix-cli
