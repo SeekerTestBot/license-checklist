@@ -421,7 +421,6 @@ dex
 dfu-programmer
 dfu-util
 dgen
-dhall
 dhcpdump
 dhcping
 dhex
@@ -697,7 +696,6 @@ giflib
 giflossy
 gifsicle
 ginac
-git
 git-annex-remote-rclone
 git-bug
 git-cinnabar
@@ -2072,7 +2070,6 @@ solid
 sollya
 somagic
 somagic-tools
-sonar-scanner
 sonarqube-lts
 sound-touch
 source-highlight
