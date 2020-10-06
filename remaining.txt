@@ -63,7 +63,6 @@ apt-dater
 aqbanking
 arb
 arcade-learning-environment
-archey
 archivemount
 arduino-cli
 argp-standalone
@@ -732,7 +731,6 @@ glslang
 glyr
 gmail-backup
 gmime
-gmp
 gmsh
 gmt@5
 gnome-autoar
@@ -1719,7 +1717,6 @@ pdflib-lite
 pdfpc
 pdfsandwich
 pdftohtml
-pdns
 pdnsd
 pdnsrec
 pdsh

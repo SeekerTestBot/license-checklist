@@ -1,6 +1,6 @@
-2773 / 5279 (52.5%) of formulae have a valid `license` stanza as of 2020-10-05 12:01:50 UTC.
+2778 / 5281 (52.6%) of formulae have a valid `license` stanza as of 2020-10-06 00:02:30 UTC.
 
-1251 / 5279 (23.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1248 / 5281 (23.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -154,7 +154,7 @@
 - [x] aravis: LGPL-2.1-or-later
 - [ ] arb: LGPL-2.1 (deprecated) [[homepage](http://arblib.org)] [[head](https://github.com/fredrik-johansson/arb.git)] [[stable](https://github.com/fredrik-johansson/arb/archive/2.18.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arb.rb)]
 - [ ] arcade-learning-environment: GPL-2.0 (deprecated) [[homepage](https://github.com/mgbellemare/Arcade-Learning-Environment)] [[head](https://github.com/mgbellemare/Arcade-Learning-Environment.git)] [[stable](https://github.com/mgbellemare/Arcade-Learning-Environment/archive/v0.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arcade-learning-environment.rb)]
-- [ ] archey: GPL-2.0 (deprecated) [[homepage](https://obihann.github.io/archey-osx/)] [[head](https://github.com/obihann/archey-osx.git)] [[stable](https://github.com/obihann/archey-osx/archive/1.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/archey.rb)]
+- [x] archey: GPL-2.0-or-later
 - [x] archi-steam-farm: Apache-2.0
 - [ ] archivemount [[homepage](https://www.cybernoia.de/software/archivemount.html)] [head] [[stable](https://www.cybernoia.de/software/archivemount/archivemount-0.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/archivemount.rb)]
 - [x] archiver: MIT
@@ -753,6 +753,7 @@
 - [ ] colortail: GPL-2.0 (deprecated) [[homepage](https://github.com/joakim666/colortail)] [head] [[stable](https://github.com/joakim666/colortail.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/colortail.rb)]
 - [x] comby: Apache-2.0
 - [ ] commandbox [[homepage](https://www.ortussolutions.com/products/commandbox)] [head] [[stable](https://downloads.ortussolutions.com/ortussolutions/commandbox/5.1.1/commandbox-bin-5.1.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/commandbox.rb)]
+- [x] commitizen: MIT
 - [ ] compface [[homepage](https://web.archive.org/web/20170720045032/freecode.com/projects/compface)] [head] [[stable](https://mirrorservice.org/sites/ftp.xemacs.org/pub/xemacs/aux/compface-1.5.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/compface.rb)]
 - [x] composer: MIT
 - [x] conan: MIT
@@ -1651,6 +1652,7 @@
 - [x] gitleaks: MIT
 - [x] gitless: MIT
 - [x] gitmoji: MIT
+- [x] gitql: MIT
 - [ ] gitslave [[homepage](https://gitslave.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/gitslave/gitslave-2.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gitslave.rb)]
 - [x] gitter-cli: MIT
 - [x] gitui: MIT
@@ -1692,7 +1694,7 @@
 - [x] gmailctl: MIT
 - [x] gmic: CECILL-2.1
 - [ ] gmime: LGPL-2.1 (deprecated) [[homepage](https://spruce.sourceforge.io/gmime/)] [head] [[stable](https://download.gnome.org/sources/gmime/3.2/gmime-3.2.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gmime.rb)]
-- [ ] gmp: GPL-3.0 (deprecated) [[homepage](https://gmplib.org/)] [head] [[stable](https://gmplib.org/download/gmp/gmp-6.2.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gmp.rb)]
+- [x] gmp: `{:any_of=>["LGPL-3.0-or-later", "GPL-2.0-or-later"]}`
 - [ ] gmsh [[homepage](https://gmsh.info/)] [[head](https://gitlab.onelab.info/gmsh/gmsh.git)] [[stable](https://gmsh.info/src/gmsh-4.6.0-source.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gmsh.rb)]
 - [x] gmt: LGPL-3.0-or-later
 - [ ] gmt@5: LGPL-3.0 (deprecated) [[homepage](https://www.generic-mapping-tools.org/)] [head] [[stable](https://github.com/GenericMappingTools/gmt/releases/download/5.4.5/gmt-5.4.5-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gmt@5.rb)]
@@ -3012,7 +3014,7 @@
 - [ ] man2html [[homepage](https://savannah.nongnu.org/projects/man2html/)] [head] [[stable](https://www.mhonarc.org/release/misc/man2html3.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/man2html.rb)]
 - [ ] mandoc [[homepage](https://mandoc.bsd.lv/)] [[head](anoncvs@mandoc.bsd.lv:/cvs)] [[stable](https://mandoc.bsd.lv/snapshots/mandoc-1.14.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mandoc.rb)]
 - [x] mandown: MIT
-- [ ] manticoresearch: GPL-2.0 (deprecated) [[homepage](https://www.manticoresearch.com)] [[head](https://github.com/manticoresoftware/manticoresearch.git)] [[stable](https://repo.manticoresearch.com/repository/manticoresearch_source/release/manticore-3.5.0-200722-1d34c49-release-source.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/manticoresearch.rb)]
+- [ ] manticoresearch: GPL-2.0 (deprecated) [[homepage](https://www.manticoresearch.com)] [[head](https://github.com/manticoresoftware/manticoresearch.git)] [[stable](https://repo.manticoresearch.com/repository/manticoresearch_source/release/manticore-3.5.2-201002-8b2c175-release-source.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/manticoresearch.rb)]
 - [ ] mapcrafter: GPL-3.0 (deprecated) [[homepage](https://mapcrafter.org)] [head] [[stable](https://github.com/mapcrafter/mapcrafter/archive/v.2.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mapcrafter.rb)]
 - [ ] mapnik: LGPL-2.1 (deprecated) [[homepage](https://mapnik.org/)] [[head](https://github.com/mapnik/mapnik.git)] [[stable](https://github.com/mapnik/mapnik/releases/download/v3.0.23/mapnik-v3.0.23.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mapnik.rb)]
 - [ ] mapserver [[homepage](https://mapserver.org/)] [head] [[stable](https://download.osgeo.org/mapserver/mapserver-7.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mapserver.rb)]
@@ -3701,7 +3703,7 @@
 - [x] pdftk-java: GPL-2.0-or-later
 - [ ] pdftohtml [[homepage](https://pdftohtml.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pdftohtml/Experimental%20Versions/pdftohtml%200.40/pdftohtml-0.40a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdftohtml.rb)]
 - [x] pdftoipe: GPL-2.0-or-later
-- [ ] pdns: GPL-2.0 (deprecated) [[homepage](https://www.powerdns.com)] [[head](https://github.com/powerdns/pdns.git)] [[stable](https://downloads.powerdns.com/releases/pdns-4.3.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdns.rb)]
+- [x] pdns: GPL-2.0-or-later
 - [ ] pdnsd: GPL-3.0 (deprecated) [[homepage](http://members.home.nl/p.a.rombouts/pdnsd/)] [head] [[stable](http://members.home.nl/p.a.rombouts/pdnsd/releases/pdnsd-1.2.9a-par.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdnsd.rb)]
 - [ ] pdnsrec: GPL-2.0 (deprecated) [[homepage](https://www.powerdns.com/recursor.html)] [head] [[stable](https://downloads.powerdns.com/releases/pdns-recursor-4.3.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdnsrec.rb)]
 - [ ] pdsh: GPL-2.0 (deprecated) [[homepage](https://github.com/chaos/pdsh)] [[head](https://github.com/chaos/pdsh.git)] [[stable](https://github.com/chaos/pdsh/releases/download/pdsh-2.34/pdsh-2.34.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdsh.rb)]
