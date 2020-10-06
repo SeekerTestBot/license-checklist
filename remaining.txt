@@ -121,7 +121,6 @@ awf
 aws-cfn-tools
 axel
 b43-fwcutter
-babl
 backupninja
 bacula-fd
 badtouch
@@ -1215,7 +1214,6 @@ libodfgen
 libofx
 liboil
 libopendkim
-libopenmpt
 libopennet
 liboping
 libosip
@@ -1332,7 +1330,6 @@ lv
 lv2
 lwtools
 lxsplit
-lynis
 lynx
 lzip
 lzlib
@@ -1394,7 +1391,6 @@ mednafen
 megatools
 memcache-top
 memcacheq
-memtester
 menhir
 mercury
 mergelog
@@ -1760,7 +1756,6 @@ pkcrack
 pkg-config
 pkgdiff
 pktanon
-pla
 plod
 ploticus
 plotutils

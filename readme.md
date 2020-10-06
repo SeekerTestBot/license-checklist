@@ -1,6 +1,6 @@
-2778 / 5281 (52.6%) of formulae have a valid `license` stanza as of 2020-10-06 00:02:22 UTC.
+2783 / 5281 (52.7%) of formulae have a valid `license` stanza as of 2020-10-06 12:05:10 UTC.
 
-1248 / 5281 (23.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1245 / 5281 (23.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -287,7 +287,7 @@
 - [ ] b43-fwcutter [[homepage](https://wireless.kernel.org/en/users/Drivers/b43)] [head] [[stable](https://bues.ch/b43/fwcutter/b43-fwcutter-019.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/b43-fwcutter.rb)]
 - [x] babel: MIT
 - [x] babeld: MIT
-- [ ] babl: LGPL-3.0 (deprecated) [[homepage](http://www.gegl.org/babl/)] [[head](https://github.com/GNOME/babl.git)] [[stable](https://download.gimp.org/pub/babl/0.1/babl-0.1.80.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/babl.rb)]
+- [x] babl: LGPL-3.0-or-later
 - [ ] backupninja: GPL-2.0 (deprecated) [[homepage](https://0xacab.org/riseuplabs/backupninja)] [head] [[stable](https://sourcearchive.raspbian.org/main/b/backupninja/backupninja_1.1.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/backupninja.rb)]
 - [ ] bacula-fd [[homepage](https://www.bacula.org/)] [head] [[stable](https://downloads.sourceforge.net/project/bacula/bacula/9.6.6/bacula-9.6.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bacula-fd.rb)]
 - [ ] badtouch: GPL-3.0 (deprecated) [[homepage](https://github.com/kpcyrd/badtouch)] [head] [[stable](https://github.com/kpcyrd/badtouch/archive/v0.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/badtouch.rb)]
@@ -433,7 +433,7 @@
 - [x] bork: Apache-2.0
 - [x] botan: BSD-2-Clause
 - [x] bower: MIT
-- [ ] bowtie2: GPL-3.0 (deprecated) [[homepage](https://bowtie-bio.sourceforge.io/bowtie2/)] [head] [[stable](https://github.com/BenLangmead/bowtie2/archive/v2.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bowtie2.rb)]
+- [ ] bowtie2: GPL-3.0 (deprecated) [[homepage](https://bowtie-bio.sourceforge.io/bowtie2/)] [head] [[stable](https://github.com/BenLangmead/bowtie2/archive/v2.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bowtie2.rb)]
 - [ ] boxes: GPL-2.0 (deprecated) [[homepage](https://boxes.thomasjensen.com/)] [[head](https://github.com/ascii-boxes/boxes.git)] [[stable](https://github.com/ascii-boxes/boxes/archive/v1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/boxes.rb)]
 - [ ] bpm-tools: GPL-2.0 (deprecated) [[homepage](https://www.pogo.org.uk/~mark/bpm-tools/)] [[head](https://www.pogo.org.uk/~mark/bpm-tools.git)] [[stable](https://www.pogo.org.uk/~mark/bpm-tools/releases/bpm-tools-0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bpm-tools.rb)]
 - [ ] brag [[homepage](https://brag.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/brag/brag/1.4.3/brag-1.4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/brag.rb)]
@@ -2712,7 +2712,7 @@
 - [x] libolm: Apache-2.0
 - [x] libomp: MIT
 - [ ] libopendkim [[homepage](http://opendkim.org)] [head] [[stable](https://downloads.sourceforge.net/project/opendkim/opendkim-2.10.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libopendkim.rb)]
-- [ ] libopenmpt [[homepage](https://lib.openmpt.org/libopenmpt/)] [head] [[stable](https://lib.openmpt.org/files/libopenmpt/src/libopenmpt-0.5.1+release.autotools.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libopenmpt.rb)]
+- [x] libopenmpt: BSD-3-Clause
 - [ ] libopennet: LGPL-2.1 (deprecated) [[homepage](https://www.rkeene.org/oss/libopennet)] [head] [[stable](https://www.rkeene.org/files/oss/libopennet/libopennet-0.9.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libopennet.rb)]
 - [ ] liboping: LGPL-2.1 (deprecated) [[homepage](https://noping.cc/)] [head] [[stable](https://noping.cc/files/liboping-1.10.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liboping.rb)]
 - [x] libopusenc: BSD-3-Clause
@@ -2991,7 +2991,7 @@
 - [ ] lwtools [[homepage](http://lwtools.projects.l-w.ca/)] [head] [[stable](http://lwtools.projects.l-w.ca/releases/lwtools/lwtools-4.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lwtools.rb)]
 - [x] lxc: Apache-2.0
 - [ ] lxsplit: GPL-2.0 (deprecated) [[homepage](https://lxsplit.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lxsplit/lxsplit/0.2.4/lxsplit-0.2.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lxsplit.rb)]
-- [ ] lynis [[homepage](https://cisofy.com/lynis/)] [head] [[stable](https://downloads.cisofy.com/lynis/lynis-3.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lynis.rb)]
+- [x] lynis: GPL-3.0-only
 - [ ] lynx: GPL-2.0 (deprecated) [[homepage](https://invisible-island.net/lynx/)] [head] [[stable](https://invisible-mirror.net/archives/lynx/tarballs/lynx2.8.9rel.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lynx.rb)]
 - [x] lz4: BSD-2-Clause
 - [x] lzfse: BSD-3-Clause
@@ -3105,7 +3105,7 @@
 - [ ] memcache-top [[homepage](https://code.google.com/archive/p/memcache-top/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/memcache-top/memcache-top-v0.6)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/memcache-top.rb)]
 - [x] memcached: BSD-3-Clause
 - [ ] memcacheq [[homepage](https://code.google.com/archive/p/memcacheq/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/memcacheq/memcacheq-0.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/memcacheq.rb)]
-- [ ] memtester: GPL-2.0 (deprecated) [[homepage](http://pyropus.ca/software/memtester/)] [head] [[stable](http://pyropus.ca/software/memtester/old-versions/memtester-4.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/memtester.rb)]
+- [x] memtester: GPL-2.0-only
 - [ ] menhir [[homepage](http://cristal.inria.fr/~fpottier/menhir)] [head] [[stable](https://gitlab.inria.fr/fpottier/menhir/-/archive/20200624/menhir-20200624.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/menhir.rb)]
 - [x] mercurial: GPL-2.0-or-later
 - [ ] mercury [[homepage](https://mercurylang.org/)] [head] [[stable](https://dl.mercurylang.org/release/mercury-srcdist-20.06.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mercury.rb)]
@@ -3828,7 +3828,7 @@
 - [ ] pkg-config [[homepage](https://freedesktop.org/wiki/Software/pkg-config/)] [head] [[stable](https://pkgconfig.freedesktop.org/releases/pkg-config-0.29.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pkg-config.rb)]
 - [ ] pkgdiff: GPL-2.0 (deprecated) [[homepage](https://lvc.github.io/pkgdiff/)] [head] [[stable](https://github.com/lvc/pkgdiff/archive/1.7.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pkgdiff.rb)]
 - [ ] pktanon [[homepage](https://www.tm.uka.de/software/pktanon/index.html)] [head] [[stable](https://www.tm.uka.de/software/pktanon/download/pktanon-1.4.0-dev.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pktanon.rb)]
-- [ ] pla: GPL-2.0 (deprecated) [[homepage](https://www.arpalert.org/pla.html)] [head] [[stable](https://www.arpalert.org/src/pla-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pla.rb)]
+- [x] pla: GPL-2.0-only
 - [x] planck: EPL-1.0
 - [x] plank: Apache-2.0
 - [x] plantuml: GPL-3.0-or-later
@@ -4367,7 +4367,7 @@
 - [ ] servus: LGPL-3.0 (deprecated) [[homepage](https://github.com/HBPVIS/Servus)] [head] [[stable](https://github.com/HBPVIS/Servus.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/servus.rb)]
 - [x] setweblocthumb: Apache-2.0
 - [x] sf-pwgen: Zlib
-- [ ] sfcgal: LGPL-2.0+ (deprecated) [[homepage](http://sfcgal.org/)] [head] [[stable](https://github.com/Oslandia/SFCGAL/archive/v1.3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sfcgal.rb)]
+- [ ] sfcgal: LGPL-2.0+ (deprecated) [[homepage](http://sfcgal.org/)] [head] [[stable](https://gitlab.com/Oslandia/SFCGAL/-/archive/v1.3.9/SFCGAL-v1.3.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sfcgal.rb)]
 - [x] sfk: BSD-2-Clause
 - [x] sfml: Zlib
 - [ ] sfst: GPL-2.0 (deprecated) [[homepage](https://www.cis.uni-muenchen.de/~schmid/tools/SFST/)] [head] [[stable](https://www.cis.uni-muenchen.de/~schmid/tools/SFST/data/SFST-1.4.7e.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sfst.rb)]
@@ -4560,7 +4560,7 @@
 - [x] sqlite-analyzer: blessing
 - [x] sqlite-utils: Apache-2.0
 - [ ] sqliteodbc [[homepage](https://ch-werner.homepage.t-online.de/sqliteodbc/)] [head] [[stable](https://ch-werner.homepage.t-online.de/sqliteodbc/sqliteodbc-0.9998.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqliteodbc.rb)]
-- [ ] sqlmap: GPL-2.0 (deprecated) [[homepage](http://sqlmap.org)] [[head](https://github.com/sqlmapproject/sqlmap.git)] [[stable](https://github.com/sqlmapproject/sqlmap/archive/1.4.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqlmap.rb)]
+- [ ] sqlmap: GPL-2.0 (deprecated) [[homepage](http://sqlmap.org)] [[head](https://github.com/sqlmapproject/sqlmap.git)] [[stable](https://github.com/sqlmapproject/sqlmap/archive/1.4.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqlmap.rb)]
 - [x] sqlparse: BSD-3-Clause
 - [x] sqoop: Apache-2.0
 - [ ] sqtop: GPL-2.0 (deprecated) [[homepage](https://github.com/paleg/sqtop)] [head] [[stable](https://github.com/paleg/sqtop/archive/v2015-02-08.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqtop.rb)]
