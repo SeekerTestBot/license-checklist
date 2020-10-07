@@ -1,6 +1,6 @@
-2785 / 5282 (52.7%) of formulae have a valid `license` stanza as of 2020-10-07 00:03:19 UTC.
+2788 / 5283 (52.8%) of formulae have a valid `license` stanza as of 2020-10-07 12:01:39 UTC.
 
-1244 / 5282 (23.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1243 / 5283 (23.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -642,7 +642,7 @@
 - [ ] chromaprint: LGPL-2.1 (deprecated) [[homepage](https://acoustid.org/chromaprint)] [head] [[stable](https://github.com/acoustid/chromaprint/releases/download/v1.5.0/chromaprint-1.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chromaprint.rb)]
 - [x] chrome-cli: MIT
 - [x] chrome-export: ISC
-- [ ] chronograf: AGPL-3.0 (deprecated) [[homepage](https://docs.influxdata.com/chronograf/latest/)] [[head](https://github.com/influxdata/chronograf.git)] [[stable](https://github.com/influxdata/chronograf/archive/1.8.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chronograf.rb)]
+- [ ] chronograf: AGPL-3.0 (deprecated) [[homepage](https://docs.influxdata.com/chronograf/latest/)] [[head](https://github.com/influxdata/chronograf.git)] [[stable](https://github.com/influxdata/chronograf/archive/1.8.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chronograf.rb)]
 - [x] chrony: GPL-2.0-only
 - [x] chruby: MIT
 - [x] chruby-fish: MIT
@@ -1603,6 +1603,7 @@
 - [ ] git-gui: GPL-2.0 (deprecated) [[homepage](https://git-scm.com)] [[head](https://github.com/git/git.git)] [[stable](https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.28.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-gui.rb)]
 - [ ] git-hooks [[homepage](https://github.com/icefox/git-hooks)] [[head](https://github.com/icefox/git-hooks.git)] [[stable](https://github.com/icefox/git-hooks/archive/1.00.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-hooks.rb)]
 - [x] git-hooks-go: MIT
+- [x] git-hound: MIT
 - [x] git-if: MIT
 - [ ] git-imerge: GPL-2.0 (deprecated) [[homepage](https://github.com/mhagger/git-imerge)] [[head](https://github.com/mhagger/git-imerge.git)] [[stable](https://github.com/mhagger/git-imerge/archive/v1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-imerge.rb)]
 - [ ] git-integration: GPL-2.0 (deprecated) [[homepage](https://johnkeeping.github.io/git-integration/)] [[head](https://github.com/johnkeeping/git-integration.git)] [[stable](https://github.com/johnkeeping/git-integration/archive/v0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-integration.rb)]
@@ -5111,7 +5112,7 @@
 - [x] websocat: MIT
 - [x] websocketd: BSD-2-Clause
 - [x] webtorrent-cli: MIT
-- [ ] weechat: GPL-3.0 (deprecated) [[homepage](https://www.weechat.org)] [[head](https://github.com/weechat/weechat.git)] [[stable](https://weechat.org/files/src/weechat-2.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/weechat.rb)]
+- [x] weechat: GPL-3.0-or-later
 - [x] wego: ISC
 - [x] weighttp: MIT
 - [x] wellington: Apache-2.0
@@ -5176,7 +5177,7 @@
 - [ ] wwwoffle: GPL-2.0 (deprecated) [[homepage](https://www.gedanken.org.uk/software/wwwoffle/)] [head] [[stable](https://www.gedanken.org.uk/software/wwwoffle/download/wwwoffle-2.9j.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wwwoffle.rb)]
 - [ ] wxmac: wxWindows (deprecated) [[homepage](https://www.wxwidgets.org)] [[head](https://github.com/wxWidgets/wxWidgets.git)] [[stable](https://github.com/wxWidgets/wxWidgets/releases/download/v3.0.5.1/wxWidgets-3.0.5.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wxmac.rb)]
 - [x] wxmaxima: GPL-2.0-or-later
-- [ ] wxpython [[homepage](https://www.wxwidgets.org/)] [head] [[stable](https://files.pythonhosted.org/packages/cb/4f/1e21d3c079c973ba862a18f3be73c2bbe2e6bc25c96d94df605b5cbb494d/wxPython-4.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wxpython.rb)]
+- [x] wxpython: `{"LGPL-2.0-or-later"=>{:with=>"WxWindows-exception-3.1"}}`
 - [ ] wy60 [[homepage](https://code.google.com/archive/p/wy60/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/wy60/wy60-2.0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wy60.rb)]
 
 ### X

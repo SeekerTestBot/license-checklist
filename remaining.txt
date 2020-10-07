@@ -2362,7 +2362,6 @@ webarchiver
 webfs
 webkit2png
 weboob
-weechat
 whatmask
 when
 whitedb
@@ -2397,7 +2396,6 @@ wv
 wv2
 wwwoffle
 wxmac
-wxpython
 wy60
 x11vnc
 x264
