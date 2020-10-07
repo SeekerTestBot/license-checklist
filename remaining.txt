@@ -1470,7 +1470,6 @@ mpack
 mpage
 mpc
 mpck
-mpd
 mpdscribble
 mpegdemux
 mpfi

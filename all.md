@@ -1,6 +1,6 @@
-2783 / 5281 (52.7%) of formulae have a valid `license` stanza as of 2020-10-06 12:05:16 UTC.
+2785 / 5282 (52.7%) of formulae have a valid `license` stanza as of 2020-10-07 00:03:19 UTC.
 
-1245 / 5281 (23.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1244 / 5282 (23.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -3227,7 +3227,7 @@
 - [ ] mpage [[homepage](https://mesa.nl/pub/mpage/README)] [head] [[stable](https://mesa.nl/pub/mpage/mpage-2.5.7.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mpage.rb)]
 - [ ] mpc: GPL-2.0 (deprecated) [[homepage](https://www.musicpd.org/clients/mpc/)] [head] [[stable](https://www.musicpd.org/download/mpc/0/mpc-0.33.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mpc.rb)]
 - [ ] mpck: GPL-2.0 (deprecated) [[homepage](https://checkmate.gissen.nl/)] [head] [[stable](https://checkmate.gissen.nl/checkmate-0.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mpck.rb)]
-- [ ] mpd: GPL-2.0 (deprecated) [[homepage](https://www.musicpd.org/)] [[head](https://github.com/MusicPlayerDaemon/MPD.git)] [[stable](https://www.musicpd.org/download/mpd/0.21/mpd-0.21.25.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mpd.rb)]
+- [x] mpd: GPL-2.0-or-later
 - [x] mpdas: BSD-3-Clause
 - [ ] mpdscribble [[homepage](https://www.musicpd.org/clients/mpdscribble/)] [head] [[stable](https://www.musicpd.org/download/mpdscribble/0.22/mpdscribble-0.22.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mpdscribble.rb)]
 - [x] mpdviz: MIT
@@ -3972,6 +3972,7 @@
 - [x] python-yq: Apache-2.0
 - [x] python@3.7: Python-2.0
 - [x] python@3.8: Python-2.0
+- [x] python@3.9: Python-2.0
 - [ ] pytouhou [[homepage](https://pytouhou.linkmauve.fr/)] [[head](https://hg.linkmauve.fr/touhou)] [[stable](https://hg.linkmauve.fr/touhou)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pytouhou.rb)]
 - [x] pyvim: BSD-3-Clause
 
