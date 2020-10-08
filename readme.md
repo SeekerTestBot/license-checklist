@@ -1,6 +1,6 @@
-2789 / 5283 (52.8%) of formulae have a valid `license` stanza as of 2020-10-08 00:01:42 UTC.
+2794 / 5284 (52.9%) of formulae have a valid `license` stanza as of 2020-10-08 12:01:47 UTC.
 
-1243 / 5283 (23.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1239 / 5284 (23.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -19,7 +19,7 @@
 - [ ] abook: GPL-2.0 (deprecated) [[homepage](https://abook.sourceforge.io/)] [[head](https://git.code.sf.net/p/abook/git.git)] [[stable](https://abook.sourceforge.io/devel/abook-0.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abook.rb)]
 - [x] abseil: Apache-2.0
 - [ ] abuse [[homepage](http://abuse.zoy.org/)] [[head](svn://svn.zoy.org/abuse/abuse/trunk)] [[stable](http://abuse.zoy.org/raw-attachment/wiki/download/abuse-0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abuse.rb)]
-- [x] abyss: GPL-3.0-only
+- [x] abyss: `{:all_of=>["GPL-3.0-only", "LGPL-2.1-or-later", "MIT", "BSD-3-Clause"]}`
 - [x] ace: DOC
 - [ ] aces_container [[homepage](https://github.com/ampas/aces_container)] [head] [[stable](https://github.com/ampas/aces_container/archive/v1.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aces_container.rb)]
 - [x] ack: Artistic-2.0
@@ -225,7 +225,7 @@
 - [x] augustus: Artistic-1.0
 - [x] aurora: MIT
 - [x] aurora-cli: Apache-2.0
-- [ ] austin: GPL-3.0 (deprecated) [[homepage](https://github.com/P403n1x87/austin)] [[head](https://github.com/P403n1x87/austin.git)] [[stable](https://github.com/P403n1x87/austin/archive/v1.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/austin.rb)]
+- [x] austin: GPL-3.0-or-later
 - [ ] autobench: GPL-2.0 (deprecated) [[homepage](http://www.xenoclast.org/autobench/)] [head] [[stable](http://www.xenoclast.org/autobench/downloads/autobench-2.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autobench.rb)]
 - [x] autocode: Apache-2.0
 - [ ] autoconf: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/autoconf)] [head] [[stable](https://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autoconf.rb)]
@@ -877,7 +877,7 @@
 - [ ] curlftpfs [[homepage](https://curlftpfs.sourceforge.io/)] [[head](:pserver:anonymous:@curlftpfs.cvs.sourceforge.net:/cvsroot/curlftpfs)] [[stable](https://downloads.sourceforge.net/project/curlftpfs/curlftpfs/0.9.2/curlftpfs-0.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/curlftpfs.rb)]
 - [x] curlpp: MIT
 - [ ] curseofwar: GPL-3.0 (deprecated) [[homepage](https://a-nikolaev.github.io/curseofwar/)] [[head](https://github.com/a-nikolaev/curseofwar.git)] [[stable](https://github.com/a-nikolaev/curseofwar/archive/v1.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/curseofwar.rb)]
-- [ ] cutter: LGPL-3.0 (deprecated) [[homepage](https://cutter.osdn.jp/)] [[head](https://github.com/clear-code/cutter.git)] [[stable](https://osdn.mirror.constant.com/cutter/71616/cutter-1.2.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cutter.rb)]
+- [ ] cutter: LGPL-3.0 (deprecated) [[homepage](https://cutter.osdn.jp/)] [[head](https://github.com/clear-code/cutter.git)] [[stable](https://osdn.mirror.constant.com/cutter/73761/cutter-1.2.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cutter.rb)]
 - [ ] cvs [[homepage](https://www.nongnu.org/cvs/)] [head] [[stable](https://ftp.gnu.org/non-gnu/cvs/source/feature/1.12.13/cvs-1.12.13.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cvs.rb)]
 - [ ] cvsps [[homepage](http://www.catb.org/~esr/cvsps/)] [head] [[stable](http://www.catb.org/~esr/cvsps/cvsps-3.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cvsps.rb)]
 - [ ] cvsutils: GPL-2.0 (deprecated) [[homepage](https://www.red-bean.com/cvsutils/)] [head] [[stable](https://www.red-bean.com/cvsutils/releases/cvsutils-0.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cvsutils.rb)]
@@ -1303,7 +1303,7 @@
 - [x] fauna-shell: MPL-2.0
 - [ ] faust: GPL-2.0 (deprecated) [[homepage](https://faust.grame.fr)] [head] [[stable](https://github.com/grame-cncm/faust/releases/download/2.20.2/faust-2.20.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/faust.rb)]
 - [x] fava: MIT
-- [ ] fb-client [[homepage](https://paste.xinu.at)] [[head](https://git.server-speed.net/users/flo/fb)] [[stable](https://paste.xinu.at/data/client/fb-2.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fb-client.rb)]
+- [ ] fb-client [[homepage](https://paste.xinu.at)] [[head](https://git.server-speed.net/users/flo/fb)] [[stable](https://paste.xinu.at/data/client/fb-2.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fb-client.rb)]
 - [x] fbi-servefiles: MIT
 - [x] fblog: WTFPL
 - [x] fcct: Apache-2.0
@@ -1372,6 +1372,7 @@
 - [x] flatbuffers: Apache-2.0
 - [x] flatcc: Apache-2.0
 - [ ] flawfinder: GPL-2.0 (deprecated) [[homepage](https://www.dwheeler.com/flawfinder/)] [[head](https://github.com/david-a-wheeler/flawfinder.git)] [[stable](https://www.dwheeler.com/flawfinder/flawfinder-2.0.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flawfinder.rb)]
+- [x] fleet-cli: Apache-2.0
 - [x] fleetctl: Apache-2.0
 - [x] flex: BSD-2-Clause
 - [ ] flickcurl [[homepage](http://librdf.org/flickcurl/)] [head] [[stable](http://download.dajobe.org/flickcurl/flickcurl-1.26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flickcurl.rb)]
@@ -1851,7 +1852,7 @@
 - [x] grip: MIT
 - [ ] groff: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/groff/)] [head] [[stable](https://ftp.gnu.org/gnu/groff/groff-1.22.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/groff.rb)]
 - [x] grok: BSD-2-Clause
-- [ ] gromacs [[homepage](http://www.gromacs.org/)] [head] [[stable](https://ftp.gromacs.org/pub/gromacs/gromacs-2020.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gromacs.rb)]
+- [ ] gromacs [[homepage](http://www.gromacs.org/)] [head] [[stable](https://ftp.gromacs.org/pub/gromacs/gromacs-2020.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gromacs.rb)]
 - [x] gron: MIT
 - [x] groonga: LGPL-2.1-or-later
 - [x] groovy: Apache-2.0
@@ -3193,7 +3194,7 @@
 - [x] mmark: BSD-2-Clause
 - [x] mmctl: Apache-2.0
 - [ ] mmix [[homepage](https://mmix.cs.hm.edu/)] [head] [[stable](https://mmix.cs.hm.edu/src/mmix-20160804.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mmix.rb)]
-- [ ] mmseqs2: GPL-3.0 (deprecated) [[homepage](https://mmseqs.com/)] [[head](https://github.com/soedinglab/MMseqs2.git)] [[stable](https://github.com/soedinglab/MMseqs2/archive/11-e1a1c.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mmseqs2.rb)]
+- [x] mmseqs2: GPL-3.0-or-later
 - [ ] mmsrip: GPL-2.0 (deprecated) [[homepage](https://nbenoit.tuxfamily.org/index.php?page=MMSRIP)] [head] [[stable](https://nbenoit.tuxfamily.org/projects/mmsrip/mmsrip-0.7.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mmsrip.rb)]
 - [ ] mmv [[homepage](https://packages.debian.org/unstable/utils/mmv)] [head] [[stable](https://deb.debian.org/debian/pool/main/m/mmv/mmv_1.01b.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mmv.rb)]
 - [x] moarvm: Artistic-2.0
@@ -3295,8 +3296,8 @@
 - [x] multimarkdown: MIT
 - [ ] multitail: GPL-2.0 (deprecated) [[homepage](https://vanheusden.com/multitail/)] [[head](https://github.com/flok99/multitail.git)] [[stable](https://vanheusden.com/multitail/multitail-6.5.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/multitail.rb)]
 - [x] muparser: BSD-2-Clause
-- [ ] mupdf: AGPL-3.0 (deprecated) [[homepage](https://mupdf.com/)] [[head](https://git.ghostscript.com/mupdf.git)] [[stable](https://mupdf.com/downloads/archive/mupdf-1.17.0-source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mupdf.rb)]
-- [ ] mupdf-tools: AGPL-3.0 (deprecated) [[homepage](https://mupdf.com/)] [[head](https://git.ghostscript.com/mupdf.git)] [[stable](https://mupdf.com/downloads/archive/mupdf-1.17.0-source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mupdf-tools.rb)]
+- [ ] mupdf: AGPL-3.0 (deprecated) [[homepage](https://mupdf.com/)] [[head](https://git.ghostscript.com/mupdf.git)] [[stable](https://mupdf.com/downloads/archive/mupdf-1.18.0-source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mupdf.rb)]
+- [ ] mupdf-tools: AGPL-3.0 (deprecated) [[homepage](https://mupdf.com/)] [[head](https://git.ghostscript.com/mupdf.git)] [[stable](https://mupdf.com/downloads/archive/mupdf-1.18.0-source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mupdf-tools.rb)]
 - [ ] mupen64plus: GPL-2.0 (deprecated) [[homepage](https://www.mupen64plus.org/)] [head] [[stable](https://github.com/mupen64plus/mupen64plus-core/releases/download/2.5/mupen64plus-bundle-src-2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mupen64plus.rb)]
 - [ ] musepack [[homepage](https://www.musepack.net/)] [head] [[stable](https://files.musepack.net/source/musepack_src_r475.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/musepack.rb)]
 - [ ] mussh [[homepage](https://mussh.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mussh/mussh/1.0/mussh-1.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mussh.rb)]
@@ -3890,7 +3891,7 @@
 - [ ] potrace: GPL-2.0 (deprecated) [[homepage](https://potrace.sourceforge.io/)] [head] [[stable](https://potrace.sourceforge.io/download/1.16/potrace-1.16.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/potrace.rb)]
 - [ ] povray: AGPL-3.0 (deprecated) [[homepage](https://www.povray.org/)] [head] [[stable](https://github.com/POV-Ray/povray/archive/v3.7.0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/povray.rb)]
 - [ ] pow [[homepage](http://pow.cx/)] [head] [[stable](http://get.pow.cx/versions/0.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pow.rb)]
-- [ ] powerline-go: GPL-3.0 (deprecated) [[homepage](https://github.com/justjanne/powerline-go)] [head] [[stable](https://github.com/justjanne/powerline-go/archive/v1.17.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/powerline-go.rb)]
+- [x] powerline-go: GPL-3.0-or-later
 - [ ] powerman: GPL-2.0 (deprecated) [[homepage](https://code.google.com/p/powerman/)] [[head](https://github.com/chaos/powerman.git)] [[stable](https://github.com/chaos/powerman/releases/download/2.3.26/powerman-2.3.26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/powerman.rb)]
 - [ ] ppl: GPL-3.0 (deprecated) [[homepage](https://bugseng.com/ppl)] [head] [[stable](https://www.bugseng.com/products/ppl/download/ftp/releases/1.2/ppl-1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ppl.rb)]
 - [x] pprint: MIT
@@ -4935,7 +4936,7 @@
 
 <details><summary>U</summary>
 
-- [ ] u-boot-tools [[homepage](https://www.denx.de/wiki/U-Boot/)] [head] [[stable](https://ftp.denx.de/pub/u-boot/u-boot-2020.07.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/u-boot-tools.rb)]
+- [ ] u-boot-tools [[homepage](https://www.denx.de/wiki/U-Boot/)] [head] [[stable](https://ftp.denx.de/pub/u-boot/u-boot-2020.10.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/u-boot-tools.rb)]
 - [ ] uade [[homepage](https://zakalwe.fi/uade/)] [[head](https://gitlab.com/uade-music-player/uade.git)] [[stable](https://zakalwe.fi/uade/uade2/uade-2.13.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uade.rb)]
 - [ ] ubertooth: GPL-2.0 (deprecated) [[homepage](https://github.com/greatscottgadgets/ubertooth/wiki)] [[head](https://github.com/greatscottgadgets/ubertooth.git)] [[stable](https://github.com/greatscottgadgets/ubertooth/releases/download/2018-12-R1/ubertooth-2018-12-R1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ubertooth.rb)]
 - [ ] ucg: GPL-3.0 (deprecated) [[homepage](https://github.com/gvansickle/ucg)] [[head](https://github.com/gvansickle/ucg.git)] [[stable](https://github.com/gvansickle/ucg/releases/download/0.3.3/universalcodegrep-0.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ucg.rb)]
@@ -5406,7 +5407,7 @@
 - [x] zstd: BSD-3-Clause
 - [ ] zsxd [[homepage](https://www.solarus-games.org/en/games/the-legend-of-zelda-mystery-of-solarus-xd)] [[head](https://gitlab.com/solarus-games/zsxd.git)] [[stable](https://gitlab.com/solarus-games/zsxd/-/archive/v1.12.2/zsxd-v1.12.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zsxd.rb)]
 - [ ] zsync [[homepage](http://zsync.moria.org.uk/)] [head] [[stable](http://zsync.moria.org.uk/download/zsync-0.6.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zsync.rb)]
-- [ ] zurl: GPL-3.0 (deprecated) [[homepage](https://github.com/fanout/zurl)] [head] [[stable](https://dl.bintray.com/fanout/source/zurl-1.11.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zurl.rb)]
+- [x] zurl: GPL-3.0-or-later
 - [ ] zxcc: GPL-2.0 (deprecated) [[homepage](https://www.seasip.info/Unix/Zxcc/)] [head] [[stable](https://www.seasip.info/Unix/Zxcc/zxcc-0.5.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zxcc.rb)]
 - [x] zydis: MIT
 - [ ] zyre [[homepage](https://github.com/zeromq/zyre)] [[head](https://github.com/zeromq/zyre.git)] [[stable](https://github.com/zeromq/zyre/releases/download/v2.0.0/zyre-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zyre.rb)]

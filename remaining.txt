@@ -99,7 +99,6 @@ ats2-postiats
 aubio
 audiofile
 augeas
-austin
 autobench
 autoconf
 autoconf-archive
@@ -1434,7 +1433,6 @@ mlkit
 mlpack
 mlt
 mmix
-mmseqs2
 mmsrip
 mmv
 moc
@@ -1786,7 +1784,6 @@ postmark
 potrace
 povray
 pow
-powerline-go
 powerman
 ppl
 ppss
@@ -2488,7 +2485,6 @@ zshdb
 zssh
 zsxd
 zsync
-zurl
 zxcc
 zyre
 zzz
