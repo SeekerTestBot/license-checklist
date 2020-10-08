@@ -1,4 +1,4 @@
-2788 / 5283 (52.8%) of formulae have a valid `license` stanza as of 2020-10-07 12:01:32 UTC.
+2789 / 5283 (52.8%) of formulae have a valid `license` stanza as of 2020-10-08 00:01:42 UTC.
 
 1243 / 5283 (23.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -5339,7 +5339,7 @@
 - [x] ykpers: BSD-2-Clause
 - [x] yle-dl: GPL-3.0-or-later
 - [x] yosys: ISC
-- [ ] you-get [[homepage](https://you-get.org/)] [[head](https://github.com/soimort/you-get.git)] [[stable](https://github.com/soimort/you-get/archive/v0.4.1456.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/you-get.rb)]
+- [x] you-get: MIT
 - [x] youtube-dl: Unlicense
 - [x] yq: MIT
 - [x] yubico-piv-tool: BSD-2-Clause

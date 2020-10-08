@@ -2457,7 +2457,6 @@ yconalyzer
 ydcv
 yetris
 ykneomgr
-you-get
 yydecode
 z.lua
 z80asm
