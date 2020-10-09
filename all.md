@@ -1,15 +1,15 @@
-2795 / 5284 (52.9%) of formulae have a valid `license` stanza as of 2020-10-09 00:05:47 UTC.
+2799 / 5284 (53.0%) of formulae have a valid `license` stanza as of 2020-10-09 12:02:05 UTC.
 
-1238 / 5284 (23.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1234 / 5284 (23.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
 - [x] a2ps: GPL-3.0-or-later
-- [ ] a52dec: GPL-2.0 (deprecated) [[homepage](https://liba52.sourceforge.io/)] [head] [[stable](https://liba52.sourceforge.io/files/a52dec-0.7.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/a52dec.rb)]
+- [x] a52dec: GPL-2.0-or-later
 - [x] aacgain: GPL-2.0-or-later
 - [x] aalib: GPL-2.0-or-later
-- [ ] aamath: GPL-2.0 (deprecated) [[homepage](http://fuse.superglue.se/aamath/)] [head] [[stable](http://fuse.superglue.se/aamath/aamath-0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aamath.rb)]
-- [ ] aardvark_shell_utils: GPL-2.0 (deprecated) [[homepage](http://www.laffeycomputer.com/shellutils.html)] [head] [[stable](https://web.archive.org/web/20170106105512/downloads.laffeycomputer.com/current_builds/shellutils/aardvark_shell_utils-1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aardvark_shell_utils.rb)]
+- [x] aamath: GPL-2.0-only
+- [x] aardvark_shell_utils: GPL-2.0-or-later
 - [ ] abcde: GPL-2.0 (deprecated) [[homepage](https://abcde.einval.com)] [[head](https://git.einval.com/git/abcde.git)] [[stable](https://abcde.einval.com/download/abcde-2.9.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abcde.rb)]
 - [x] abcl: `{"GPL-2.0-or-later"=>{:with=>"Classpath-exception-2.0"}}`
 - [ ] abcm2ps: GPL-3.0 (deprecated) [[homepage](http://moinejf.free.fr)] [head] [[stable](https://github.com/leesavide/abcm2ps/archive/v8.14.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abcm2ps.rb)]
@@ -2395,7 +2395,7 @@
 - [ ] lame: LGPL-2.0 (deprecated) [[homepage](https://lame.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lame/lame/3.100/lame-3.100.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lame.rb)]
 - [ ] lammps: GPL-2.0 (deprecated) [[homepage](https://lammps.sandia.gov/)] [head] [[stable](https://github.com/lammps/lammps/archive/stable_3Mar2020.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lammps.rb)]
 - [x] landscaper: Apache-2.0
-- [ ] languagetool [[homepage](https://www.languagetool.org/)] [head] [[stable](https://languagetool.org/download/LanguageTool-5.0.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/languagetool.rb)]
+- [ ] languagetool [[homepage](https://www.languagetool.org/)] [head] [[stable](https://languagetool.org/download/LanguageTool-5.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/languagetool.rb)]
 - [x] lanraragi: MIT
 - [x] lapack: BSD-3-Clause
 - [ ] lasi [[homepage](https://www.unifont.org/lasi/)] [[head](https://svn.code.sf.net/p/lasi/code/trunk)] [[stable](https://downloads.sourceforge.net/project/lasi/lasi/1.1.3%20Source/libLASi-1.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lasi.rb)]
@@ -4559,7 +4559,7 @@
 - [ ] sslmate [[homepage](https://sslmate.com)] [head] [[stable](https://packages.sslmate.com/other/sslmate-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslmate.rb)]
 - [x] sslscan: GPL-3.0-or-later
 - [x] sslsplit: BSD-2-Clause
-- [ ] sslyze: AGPL-3.0 (deprecated) [[homepage](https://github.com/nabla-c0d3/sslyze)] [[head](https://github.com/nabla-c0d3/sslyze.git)] [[stable](https://github.com/nabla-c0d3/sslyze/archive/3.0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslyze.rb)]
+- [x] sslyze: AGPL-3.0-or-later
 - [ ] ssss: GPL-2.0 (deprecated) [[homepage](http://point-at-infinity.org/ssss/)] [head] [[stable](http://point-at-infinity.org/ssss/ssss-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ssss.rb)]
 - [ ] sstp-client: GPL-2.0 (deprecated) [[homepage](https://sstp-client.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/sstp-client/sstp-client/sstp-client-1.0.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sstp-client.rb)]
 - [x] st: MIT

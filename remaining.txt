@@ -1,6 +1,3 @@
-a52dec
-aamath
-aardvark_shell_utils
 abcde
 abcm2ps
 abnfgen
@@ -2085,7 +2082,6 @@ sshtrix
 ssldump
 sslh
 sslmate
-sslyze
 ssss
 sstp-client
 stanford-corenlp
