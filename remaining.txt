@@ -2114,7 +2114,6 @@ superlu
 supermodel
 supervisor
 surfraw
-suricata
 svdlibc
 svg2pdf
 svg2png

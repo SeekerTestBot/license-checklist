@@ -1,6 +1,6 @@
-2794 / 5284 (52.9%) of formulae have a valid `license` stanza as of 2020-10-08 12:01:47 UTC.
+2795 / 5284 (52.9%) of formulae have a valid `license` stanza as of 2020-10-09 00:05:39 UTC.
 
-1239 / 5284 (23.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1238 / 5284 (23.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -4653,7 +4653,7 @@
 - [x] supertux: GPL-3.0-or-later
 - [ ] supervisor [[homepage](http://supervisord.org/)] [head] [[stable](https://github.com/Supervisor/supervisor/archive/4.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/supervisor.rb)]
 - [ ] surfraw [[homepage](https://packages.debian.org/sid/surfraw)] [head] [[stable](https://ftp.openbsd.org/pub/OpenBSD/distfiles/surfraw-2.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/surfraw.rb)]
-- [ ] suricata: GPL-2.0 (deprecated) [[homepage](https://suricata-ids.org/)] [head] [[stable](https://www.openinfosecfoundation.org/download/suricata-5.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/suricata.rb)]
+- [x] suricata: GPL-2.0-only
 - [ ] svdlibc [[homepage](https://tedlab.mit.edu/~dr/SVDLIBC/)] [head] [[stable](https://tedlab.mit.edu/~dr/SVDLIBC/svdlibc.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svdlibc.rb)]
 - [ ] svg2pdf: LGPL-2.1 (deprecated) [[homepage](https://cairographics.org/)] [head] [[stable](https://cairographics.org/snapshots/svg2pdf-0.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svg2pdf.rb)]
 - [ ] svg2png: LGPL-2.1 (deprecated) [[homepage](https://cairographics.org/)] [head] [[stable](https://cairographics.org/snapshots/svg2png-0.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/svg2png.rb)]
