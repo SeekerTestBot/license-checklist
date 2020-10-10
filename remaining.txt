@@ -662,7 +662,6 @@ gdl
 gdmap
 geant4
 geeqie
-gegl
 genders
 genext2fs
 gengetopt
@@ -711,7 +710,6 @@ git-when-merged
 gitg
 github-keygen
 gitslave
-gjs
 gkrellm
 glances
 glib-openssl
@@ -1787,7 +1785,6 @@ ppss
 pqiv
 prefixsuffix
 prestodb
-prestosql
 primer3
 prips
 privoxy

@@ -1,6 +1,6 @@
-2799 / 5284 (53.0%) of formulae have a valid `license` stanza as of 2020-10-10 00:02:10 UTC.
+2802 / 5284 (53.0%) of formulae have a valid `license` stanza as of 2020-10-10 12:01:40 UTC.
 
-1234 / 5284 (23.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1233 / 5284 (23.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1522,7 +1522,7 @@
 - [x] gecode: MIT
 - [x] gedit: GPL-2.0-or-later
 - [ ] geeqie: GPL-2.0 (deprecated) [[homepage](http://www.geeqie.org/)] [head] [[stable](http://www.geeqie.org/geeqie-1.5.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geeqie.rb)]
-- [ ] gegl: LGPL-3.0 (deprecated) [[homepage](http://www.gegl.org/)] [[head](https://github.com/GNOME/gegl.git)] [[stable](https://download.gimp.org/pub/gegl/0.4/gegl-0.4.26.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gegl.rb)]
+- [x] gegl: `{:all_of=>["LGPL-3.0-or-later", "GPL-3.0-or-later", "BSD-3-Clause", "MIT"]}`
 - [x] gel: MIT
 - [x] gem-completion: MIT
 - [x] genact: MIT
@@ -1660,7 +1660,7 @@
 - [x] gitui: MIT
 - [x] gitup: MIT
 - [x] gitversion: MIT
-- [ ] gjs [[homepage](https://gitlab.gnome.org/GNOME/gjs/wikis/Home)] [head] [[stable](https://download.gnome.org/sources/gjs/1.64/gjs-1.64.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gjs.rb)]
+- [x] gjs: `{:all_of=>["LGPL-2.0-or-later", "MIT"]}`
 - [ ] gkrellm [[homepage](https://billw2.github.io/gkrellm/gkrellm.html)] [head] [[stable](http://gkrellm.srcbox.net/releases/gkrellm-2.3.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gkrellm.rb)]
 - [x] gl2ps: GL2PS
 - [x] glade: LGPL-2.1-or-later
@@ -2395,7 +2395,7 @@
 - [ ] lame: LGPL-2.0 (deprecated) [[homepage](https://lame.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lame/lame/3.100/lame-3.100.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lame.rb)]
 - [ ] lammps: GPL-2.0 (deprecated) [[homepage](https://lammps.sandia.gov/)] [head] [[stable](https://github.com/lammps/lammps/archive/stable_3Mar2020.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lammps.rb)]
 - [x] landscaper: Apache-2.0
-- [ ] languagetool [[homepage](https://www.languagetool.org/)] [head] [[stable](https://languagetool.org/download/LanguageTool-5.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/languagetool.rb)]
+- [ ] languagetool [[homepage](https://www.languagetool.org/)] [head] [[stable](https://languagetool.org/download/LanguageTool-5.1.2.oxt)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/languagetool.rb)]
 - [x] lanraragi: MIT
 - [x] lapack: BSD-3-Clause
 - [ ] lasi [[homepage](https://www.unifont.org/lasi/)] [[head](https://svn.code.sf.net/p/lasi/code/trunk)] [[stable](https://downloads.sourceforge.net/project/lasi/lasi/1.1.3%20Source/libLASi-1.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lasi.rb)]
@@ -3755,7 +3755,7 @@
 - [x] php@7.3: PHP-3.01
 - [ ] phplint [[homepage](https://www.icosaedro.it/phplint/)] [head] [[stable](https://www.icosaedro.it/phplint/phplint-4.2.0_20200308.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phplint.rb)]
 - [x] phpmd: BSD-3-Clause
-- [ ] phpmyadmin [[homepage](https://www.phpmyadmin.net)] [head] [[stable](https://files.phpmyadmin.net/phpMyAdmin/5.0.2/phpMyAdmin-5.0.2-all-languages.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phpmyadmin.rb)]
+- [ ] phpmyadmin [[homepage](https://www.phpmyadmin.net)] [head] [[stable](https://files.phpmyadmin.net/phpMyAdmin/5.0.3/phpMyAdmin-5.0.3-all-languages.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phpmyadmin.rb)]
 - [x] phpstan: MIT
 - [x] phpunit: BSD-3-Clause
 - [ ] physfs [[homepage](https://icculus.org/physfs/)] [[head](https://hg.icculus.org/icculus/physfs/)] [[stable](https://icculus.org/physfs/downloads/physfs-3.0.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/physfs.rb)]
@@ -3875,7 +3875,7 @@
 - [x] premake: BSD-3-Clause
 - [x] prest: MIT
 - [ ] prestodb [[homepage](https://prestodb.io)] [head] [[stable](https://search.maven.org/remotecontent?filepath=com/facebook/presto/presto-server/0.235.1/presto-server-0.235.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/prestodb.rb)]
-- [ ] prestosql [[homepage](https://prestosql.io)] [head] [[stable](https://search.maven.org/remotecontent?filepath=io/prestosql/presto-server/340/presto-server-340.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/prestosql.rb)]
+- [x] prestosql: Apache-2.0
 - [x] prettier: MIT
 - [x] prettyping: MIT
 - [ ] primer3: GPL-2.0 (deprecated) [[homepage](https://primer3.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/primer3/primer3/2.4.0/primer3-2.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/primer3.rb)]
