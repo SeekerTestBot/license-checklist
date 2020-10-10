@@ -1,4 +1,4 @@
-2799 / 5284 (53.0%) of formulae have a valid `license` stanza as of 2020-10-09 12:02:05 UTC.
+2799 / 5284 (53.0%) of formulae have a valid `license` stanza as of 2020-10-10 00:02:10 UTC.
 
 1234 / 5284 (23.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -4559,7 +4559,7 @@
 - [ ] sslmate [[homepage](https://sslmate.com)] [head] [[stable](https://packages.sslmate.com/other/sslmate-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslmate.rb)]
 - [x] sslscan: GPL-3.0-or-later
 - [x] sslsplit: BSD-2-Clause
-- [x] sslyze: AGPL-3.0-or-later
+- [x] sslyze: AGPL-3.0-only
 - [ ] ssss: GPL-2.0 (deprecated) [[homepage](http://point-at-infinity.org/ssss/)] [head] [[stable](http://point-at-infinity.org/ssss/ssss-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ssss.rb)]
 - [ ] sstp-client: GPL-2.0 (deprecated) [[homepage](https://sstp-client.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/sstp-client/sstp-client/sstp-client-1.0.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sstp-client.rb)]
 - [x] st: MIT
