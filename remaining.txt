@@ -914,7 +914,6 @@ imake
 imap-uw
 inadyn
 inetutils
-inform6
 innotop
 inspectrum
 inspircd
@@ -1189,7 +1188,6 @@ libmpc
 libmpd
 libmpeg2
 libmrss
-libmspub
 libmtp
 libmusicbrainz
 libnatpmp
@@ -1236,7 +1234,6 @@ librest
 librevenge
 librsync
 librtlsdr
-libsecret
 libserialport
 libsignal-protocol-c
 libsigsegv
@@ -1425,7 +1422,6 @@ mktorrent
 mkvalidator
 mlkit
 mlpack
-mlt
 mmix
 mmsrip
 mmv
@@ -1667,7 +1663,6 @@ pagmo
 pakchois
 pandoc
 pandocomatic
-pangomm
 paperkey
 paps
 par
