@@ -1,6 +1,6 @@
-2802 / 5284 (53.0%) of formulae have a valid `license` stanza as of 2020-10-10 12:01:33 UTC.
+2807 / 5288 (53.1%) of formulae have a valid `license` stanza as of 2020-10-11 00:01:57 UTC.
 
-1233 / 5284 (23.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1233 / 5288 (23.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1215,6 +1215,7 @@
 - [x] entr: ISC
 - [x] envchain: MIT
 - [x] envconsul: MPL-2.0
+- [x] envoy: Apache-2.0
 - [x] envv: MIT
 - [x] eot-utils: W3C
 - [x] epeg: MIT-enna
@@ -1967,7 +1968,7 @@
 - [x] hcxtools: MIT
 - [ ] hdf5 [[homepage](https://www.hdfgroup.org/HDF5)] [head] [[stable](https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.0/src/hdf5-1.12.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hdf5.rb)]
 - [ ] hdf5-mpi [[homepage](https://www.hdfgroup.org/HDF5)] [head] [[stable](https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.0/src/hdf5-1.12.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hdf5-mpi.rb)]
-- [ ] hdf5@1.10 [[homepage](https://www.hdfgroup.org/HDF5)] [head] [[stable](https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.10/hdf5-1.10.6/src/hdf5-1.10.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hdf5@1.10.rb)]
+- [x] hdf5@1.10: BSD-3-Clause
 - [ ] hdf5@1.8 [[homepage](https://www.hdfgroup.org/HDF5)] [head] [[stable](https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.8/hdf5-1.8.21/src/hdf5-1.8.21.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hdf5@1.8.rb)]
 - [ ] hdt: LGPL-2.1 (deprecated) [[homepage](https://github.com/rdfhdt/hdt-cpp)] [head] [[stable](http://srvgal80.deri.ie/~pabtor/hdt/hdt-1.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hdt.rb)]
 - [x] healpix: GPL-2.0-or-later
@@ -2728,6 +2729,7 @@
 - [x] libpagemaker: MPL-2.0
 - [ ] libpano [[homepage](https://panotools.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/panotools/libpano13/libpano13-2.9.19/libpano13-2.9.19.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libpano.rb)]
 - [x] libpcap: BSD-3-Clause
+- [x] libpciaccess: MIT
 - [ ] libpcl: GPL-2.0 (deprecated) [[homepage](http://xmailserver.org/libpcl.html)] [head] [[stable](http://xmailserver.org/pcl-1.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libpcl.rb)]
 - [x] libpeas: LGPL-2.1-or-later
 - [ ] libpgm [[homepage](https://code.google.com/archive/p/openpgm/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/openpgm/libpgm-5.2.122~dfsg.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libpgm.rb)]
@@ -3061,6 +3063,7 @@
 - [ ] mat2: LGPL-3.0 (deprecated) [[homepage](https://0xacab.org/jvoisin/mat2)] [head] [[stable](https://0xacab.org/jvoisin/mat2/-/archive/0.11.0/mat2-0.11.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mat2.rb)]
 - [x] math-comp: CECILL-B
 - [x] matlab2tikz: BSD-2-Clause
+- [x] matplotplusplus: MIT
 - [x] maven: Apache-2.0
 - [x] maven-completion: Apache-2.0
 - [x] maven-shell: EPL-1.0
@@ -4796,6 +4799,7 @@
 - [x] textql: MIT
 - [x] tfenv: MIT
 - [x] tflint: MPL-2.0
+- [x] tfsec: MIT
 - [ ] tgif [[homepage](http://bourbon.usc.edu/tgif/)] [head] [[stable](https://downloads.sourceforge.net/project/tgif/tgif/4.2.5/tgif-QPL-4.2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tgif.rb)]
 - [x] tgui: Zlib
 - [x] thanos: Apache-2.0
