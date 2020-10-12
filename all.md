@@ -1,4 +1,4 @@
-2812 / 5288 (53.2%) of formulae have a valid `license` stanza as of 2020-10-11 12:04:24 UTC.
+2813 / 5288 (53.2%) of formulae have a valid `license` stanza as of 2020-10-12 00:02:21 UTC.
 
 1230 / 5288 (23.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -3089,7 +3089,7 @@
 - [x] memtester: GPL-2.0-only
 - [ ] menhir [[homepage](http://cristal.inria.fr/~fpottier/menhir)] [head] [[stable](https://gitlab.inria.fr/fpottier/menhir/-/archive/20200624/menhir-20200624.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/menhir.rb)]
 - [x] mercurial: GPL-2.0-or-later
-- [ ] mercury [[homepage](https://mercurylang.org/)] [head] [[stable](https://dl.mercurylang.org/release/mercury-srcdist-20.06.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mercury.rb)]
+- [x] mercury: `{:all_of=>["GPL-2.0-only", "LGPL-2.0-only", "MIT"]}`
 - [ ] mergelog: GPL-2.0 (deprecated) [[homepage](https://mergelog.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mergelog/mergelog/4.5/mergelog-4.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mergelog.rb)]
 - [ ] mergepbx: GPL-3.0 (deprecated) [[homepage](https://github.com/simonwagner/mergepbx)] [head] [[stable](https://github.com/simonwagner/mergepbx/archive/v0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mergepbx.rb)]
 - [x] mesa: MIT

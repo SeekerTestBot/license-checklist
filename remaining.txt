@@ -1382,7 +1382,6 @@ megatools
 memcache-top
 memcacheq
 menhir
-mercury
 mergelog
 mergepbx
 mesalib-glw
