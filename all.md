@@ -1,6 +1,6 @@
-2813 / 5288 (53.2%) of formulae have a valid `license` stanza as of 2020-10-12 00:02:21 UTC.
+2819 / 5290 (53.3%) of formulae have a valid `license` stanza as of 2020-10-12 12:04:55 UTC.
 
-1230 / 5288 (23.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1226 / 5290 (23.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -388,7 +388,7 @@
 - [x] blackbox: MIT
 - [ ] blahtexml [[homepage](http://gva.noekeon.org/blahtexml/)] [head] [[stable](http://gva.noekeon.org/blahtexml/blahtexml-0.9-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blahtexml.rb)]
 - [ ] blast: LGPL-2.1 (deprecated) [[homepage](https://blast.ncbi.nlm.nih.gov/)] [head] [[stable](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.10.1/ncbi-blast-2.10.1+-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blast.rb)]
-- [ ] blastem: GPL-3.0 (deprecated) [[homepage](https://www.retrodev.com/blastem/)] [[head](https://www.retrodev.com/repos/blastem)] [[stable](https://www.retrodev.com/repos/blastem/archive/v0.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blastem.rb)]
+- [x] blastem: GPL-3.0-or-later
 - [ ] blazeblogger: GPL-3.0 (deprecated) [[homepage](http://blaze.blackened.cz/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/blazeblogger/blazeblogger-1.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blazeblogger.rb)]
 - [ ] blazegraph [[homepage](https://www.blazegraph.com/)] [head] [[stable](https://downloads.sourceforge.net/project/bigdata/bigdata/2.1.5/blazegraph.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blazegraph.rb)]
 - [x] blink1: CC-BY-SA-3.0
@@ -405,7 +405,7 @@
 - [x] bmake: BSD-3-Clause
 - [x] bmon: BSD-2-Clause
 - [ ] bnd [[homepage](https://bnd.bndtools.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=biz/aQute/bnd/biz.aQute.bnd/5.1.2/biz.aQute.bnd-5.1.2.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bnd.rb)]
-- [ ] bnfc: GPL-2.0 (deprecated) [[homepage](https://bnfc.digitalgrammars.com/)] [[head](https://github.com/BNFC/bnfc.git)] [[stable](https://github.com/BNFC/bnfc/archive/v2.8.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bnfc.rb)]
+- [ ] bnfc: GPL-2.0 (deprecated) [[homepage](https://bnfc.digitalgrammars.com/)] [[head](https://github.com/BNFC/bnfc.git)] [[stable](https://github.com/BNFC/bnfc/archive/v2.8.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bnfc.rb)]
 - [ ] bochs [[homepage](https://bochs.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/bochs/bochs/2.6.11/bochs-2.6.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bochs.rb)]
 - [ ] bogofilter [[homepage](https://bogofilter.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/bogofilter/bogofilter-stable/bogofilter-1.2.5.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bogofilter.rb)]
 - [ ] bombadillo: GPL-3.0 (deprecated) [[homepage](https://bombadillo.colorfield.space/)] [head] [[stable](https://tildegit.org/sloum/bombadillo/archive/2.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bombadillo.rb)]
@@ -432,6 +432,7 @@
 - [x] botan: BSD-2-Clause
 - [x] bower: MIT
 - [ ] bowtie2: GPL-3.0 (deprecated) [[homepage](https://bowtie-bio.sourceforge.io/bowtie2/)] [head] [[stable](https://github.com/BenLangmead/bowtie2/archive/v2.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bowtie2.rb)]
+- [x] box2d: MIT
 - [ ] boxes: GPL-2.0 (deprecated) [[homepage](https://boxes.thomasjensen.com/)] [[head](https://github.com/ascii-boxes/boxes.git)] [[stable](https://github.com/ascii-boxes/boxes/archive/v1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/boxes.rb)]
 - [ ] bpm-tools: GPL-2.0 (deprecated) [[homepage](https://www.pogo.org.uk/~mark/bpm-tools/)] [[head](https://www.pogo.org.uk/~mark/bpm-tools.git)] [[stable](https://www.pogo.org.uk/~mark/bpm-tools/releases/bpm-tools-0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bpm-tools.rb)]
 - [ ] brag [[homepage](https://brag.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/brag/brag/1.4.3/brag-1.4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/brag.rb)]
@@ -511,7 +512,7 @@
 - [ ] cairo: LGPL-2.1 (deprecated) [[homepage](https://cairographics.org/)] [[head](https://anongit.freedesktop.org/git/cairo.git)] [[stable](https://cairographics.org/releases/cairo-1.16.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cairo.rb)]
 - [ ] cairomm: LGPL-2.0 (deprecated) [[homepage](https://cairographics.org/cairomm/)] [head] [[stable](https://cairographics.org/releases/cairomm-1.12.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cairomm.rb)]
 - [x] cake: MIT
-- [ ] calabash: GPL-2.0 (deprecated) [[homepage](https://xmlcalabash.com/)] [head] [[stable](https://github.com/ndw/xmlcalabash1/releases/download/1.2.1-99/xmlcalabash-1.2.1-99.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/calabash.rb)]
+- [ ] calabash: GPL-2.0 (deprecated) [[homepage](https://xmlcalabash.com/)] [head] [[stable](https://github.com/ndw/xmlcalabash1/releases/download/1.2.5-100/xmlcalabash-1.2.5-100.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/calabash.rb)]
 - [ ] calc [[homepage](http://www.isthe.com/chongo/tech/comp/calc/)] [head] [[stable](https://downloads.sourceforge.net/project/calc/calc/2.12.7.1/calc-2.12.7.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/calc.rb)]
 - [x] calceph: GPL-2.0-or-later
 - [x] calcurse: BSD-2-Clause
@@ -1294,7 +1295,7 @@
 - [x] fauna-shell: MPL-2.0
 - [ ] faust: GPL-2.0 (deprecated) [[homepage](https://faust.grame.fr)] [head] [[stable](https://github.com/grame-cncm/faust/releases/download/2.20.2/faust-2.20.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/faust.rb)]
 - [x] fava: MIT
-- [ ] fb-client [[homepage](https://paste.xinu.at)] [[head](https://git.server-speed.net/users/flo/fb)] [[stable](https://paste.xinu.at/data/client/fb-2.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fb-client.rb)]
+- [ ] fb-client [[homepage](https://paste.xinu.at)] [[head](https://git.server-speed.net/users/flo/fb)] [[stable](https://paste.xinu.at/data/client/fb-2.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fb-client.rb)]
 - [x] fbi-servefiles: MIT
 - [x] fblog: WTFPL
 - [x] fcct: Apache-2.0
@@ -3908,6 +3909,7 @@
 - [x] protobuf@3.6: BSD-3-Clause
 - [x] protobuf@3.7: BSD-3-Clause
 - [x] protoc-gen-go: BSD-3-Clause
+- [x] protoc-gen-go-grpc: Apache-2.0
 - [x] protoc-gen-gogo: BSD-3-Clause
 - [x] protoc-gen-gogofaster: BSD-3-Clause
 - [x] protoc-gen-grpc-web: Apache-2.0
@@ -4029,7 +4031,7 @@
 
 ### R
 
-- [ ] r: GPL-2.0 (deprecated) [[homepage](https://www.r-project.org/)] [head] [[stable](https://cran.r-project.org/src/base/R-4/R-4.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/r.rb)]
+- [x] r: GPL-2.0-or-later
 - [x] r3: MIT
 - [x] rabbitmq: MPL-2.0
 - [x] rabbitmq-c: MIT
@@ -4576,7 +4578,7 @@
 - [x] staticcheck: MIT
 - [x] statik: MIT
 - [x] stdman: MIT
-- [ ] stella: GPL-2.0 (deprecated) [[homepage](https://stella-emu.github.io/)] [[head](https://github.com/stella-emu/stella.git)] [[stable](https://github.com/stella-emu/stella/releases/download/6.2.1/stella-6.2.1-src.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stella.rb)]
+- [x] stella: GPL-2.0-or-later
 - [x] stellar-core: Apache-2.0
 - [x] step: Apache-2.0
 - [x] stern: Apache-2.0
@@ -4787,7 +4789,7 @@
 - [ ] timidity [[homepage](https://timidity.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/timidity/TiMidity++/TiMidity++-2.15.0/TiMidity++-2.15.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/timidity.rb)]
 - [ ] tin [[homepage](http://www.tin.org)] [head] [[stable](https://www.nic.funet.fi/pub/unix/news/tin/v2.4/tin-2.4.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tin.rb)]
 - [x] tinc: GPL-2.0-or-later
-- [ ] tintin: GPL-3.0 (deprecated) [[homepage](https://tintin.mudhalla.net/)] [head] [[stable](https://github.com/scandum/tintin/releases/download/2.02.03/tintin-2.02.03.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tintin.rb)]
+- [x] tintin: GPL-3.0-or-later
 - [ ] tiny-fugue [[homepage](https://tinyfugue.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/tinyfugue/tinyfugue/5.0%20beta%208/tf-50b8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tiny-fugue.rb)]
 - [ ] tinycdb [[homepage](https://www.corpit.ru/mjt/tinycdb.html)] [head] [[stable](https://www.corpit.ru/mjt/tinycdb/tinycdb-0.78.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tinycdb.rb)]
 - [ ] tinyproxy: GPL-2.0 (deprecated) [[homepage](https://tinyproxy.github.io/)] [head] [[stable](https://github.com/tinyproxy/tinyproxy/releases/download/1.10.0/tinyproxy-1.10.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tinyproxy.rb)]

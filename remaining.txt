@@ -171,7 +171,6 @@ bitwarden-cli
 bitwise
 blahtexml
 blast
-blastem
 blazeblogger
 blazegraph
 blitzwave
@@ -1847,7 +1846,6 @@ quvi
 qwt
 qwtpolar
 qxmpp
-r
 radare2
 ragel
 rancid
@@ -2079,7 +2077,6 @@ stanford-ner
 stanford-parser
 star
 startup-notification
-stella
 stgit
 stk
 stlviewer
@@ -2159,7 +2156,6 @@ timedog
 timelimit
 timidity
 tin
-tintin
 tiny-fugue
 tinycdb
 tinyproxy
