@@ -2048,7 +2048,6 @@ spice-gtk
 spim
 spiped
 splint
-spotifyd
 spring-roo
 sproxy
 sqliteodbc
@@ -2084,7 +2083,6 @@ stow
 streamripper
 stress
 strongswan
-stunnel
 style-check
 sub2srt
 subnetcalc

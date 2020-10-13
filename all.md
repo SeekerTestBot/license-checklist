@@ -1,6 +1,6 @@
-2825 / 5290 (53.4%) of formulae have a valid `license` stanza as of 2020-10-13 00:03:45 UTC.
+2827 / 5290 (53.4%) of formulae have a valid `license` stanza as of 2020-10-13 12:05:21 UTC.
 
-1221 / 5290 (23.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1220 / 5290 (23.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -4520,7 +4520,7 @@
 - [x] spoof-mac: MIT
 - [x] spotbugs: LGPL-2.1-or-later
 - [x] spotify-tui: MIT
-- [ ] spotifyd: GPL-3.0 (deprecated) [[homepage](https://github.com/Spotifyd/spotifyd)] [[head](https://github.com/Spotifyd/spotifyd.git)] [[stable](https://github.com/Spotifyd/spotifyd/archive/v0.2.24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/spotifyd.rb)]
+- [x] spotifyd: GPL-3.0-only
 - [x] spring-completion: Unlicense
 - [x] spring-loaded: Apache-2.0
 - [ ] spring-roo [[homepage](https://projects.spring.io/spring-roo/)] [head] [[stable](https://s3.amazonaws.com/spring-roo-repository.springsource.org/release/ROO/spring-roo-2.0.0.RELEASE.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/spring-roo.rb)]
@@ -4605,7 +4605,7 @@
 - [ ] strongswan [[homepage](https://www.strongswan.org)] [[head](https://git.strongswan.org/strongswan.git)] [[stable](https://download.strongswan.org/strongswan-5.9.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/strongswan.rb)]
 - [x] structurizr-cli: Apache-2.0
 - [x] stubby: BSD-3-Clause
-- [ ] stunnel [[homepage](https://www.stunnel.org/)] [head] [[stable](https://www.stunnel.org/downloads/stunnel-5.57.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stunnel.rb)]
+- [x] stunnel: GPL-2.0-or-later
 - [x] stuntman: Apache-2.0
 - [ ] style-check: GPL-2.0 (deprecated) [[homepage](https://www.cs.umd.edu/~nspring/software/style-check-readme.html)] [head] [[stable](https://www.cs.umd.edu/~nspring/software/style-check-0.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/style-check.rb)]
 - [ ] sub2srt: GPL-2.0 (deprecated) [[homepage](https://github.com/robelix/sub2srt)] [[head](https://github.com/robelix/sub2srt.git)] [[stable](https://github.com/robelix/sub2srt/archive/0.5.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sub2srt.rb)]
