@@ -764,7 +764,6 @@ gpatch
 gpcslots2
 gperf
 gpgme
-gphoto2
 gplcver
 gpp
 gpredict
@@ -1141,7 +1140,6 @@ libgnomecanvas
 libgnomecanvasmm
 libgnt
 libgpg-error
-libgphoto2
 libgsf
 libgsm
 libgtop
@@ -1209,7 +1207,6 @@ liboping
 libosip
 libotr
 libowfat
-libp11
 libpano
 libpcl
 libpgm
@@ -1816,7 +1813,6 @@ pwnat
 pwncat
 pwsafe
 py2cairo
-py3cairo
 pyinstaller
 pympress
 python-markdown
@@ -2222,7 +2218,6 @@ udunits
 ufraw
 uftp
 uggconv
-uhd
 umlet
 unac
 unarj
@@ -2310,7 +2305,6 @@ vorbis-tools
 vorbisgain
 voro++
 vowpal-wabbit
-vpn-slice
 vramsteg
 vrpn
 vsearch
