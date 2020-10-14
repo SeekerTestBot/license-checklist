@@ -1,6 +1,6 @@
-2827 / 5290 (53.4%) of formulae have a valid `license` stanza as of 2020-10-13 12:05:21 UTC.
+2828 / 5291 (53.4%) of formulae have a valid `license` stanza as of 2020-10-14 00:04:03 UTC.
 
-1220 / 5290 (23.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1220 / 5291 (23.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -659,7 +659,7 @@
 - [x] cjdns: `{:all_of=>["GPL-3.0-or-later", "GPL-2.0-or-later", "BSD-3-Clause", "MIT"]}`
 - [x] cjson: MIT
 - [x] ckan: MIT
-- [ ] cksfv: GPL-2.0 (deprecated) [[homepage](https://zakalwe.fi/~shd/foss/cksfv/)] [head] [[stable](https://zakalwe.fi/~shd/foss/cksfv/files/cksfv-1.3.14.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cksfv.rb)]
+- [ ] cksfv: GPL-2.0 (deprecated) [[homepage](https://zakalwe.fi/~shd/foss/cksfv/)] [head] [[stable](https://zakalwe.fi/~shd/foss/cksfv/files/cksfv-1.3.15.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cksfv.rb)]
 - [x] clac: BSD-2-Clause
 - [x] clair: Apache-2.0
 - [x] clamav: GPL-2.0-or-later
@@ -813,7 +813,7 @@
 - [ ] cppunit: LGPL-2.1 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/cppunit/)] [head] [[stable](https://dev-www.libreoffice.org/src/cppunit-1.15.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cppunit.rb)]
 - [x] cpputest: BSD-3-Clause
 - [x] cpr: MIT
-- [ ] cproto [[homepage](https://invisible-island.net/cproto/)] [head] [[stable](https://invisible-mirror.net/archives/cproto/cproto-4.7p.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cproto.rb)]
+- [ ] cproto [[homepage](https://invisible-island.net/cproto/)] [head] [[stable](https://invisible-mirror.net/archives/cproto/cproto-4.7q.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cproto.rb)]
 - [x] cpu_features: Apache-2.0
 - [ ] cpulimit: GPL-2.0 (deprecated) [[homepage](https://github.com/opsengine/cpulimit)] [[head](https://github.com/opsengine/cpulimit.git)] [[stable](https://github.com/opsengine/cpulimit/archive/v0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpulimit.rb)]
 - [x] cql: Apache-2.0
@@ -1072,11 +1072,12 @@
 - [ ] doitlive [[homepage](https://doitlive.readthedocs.io/en/latest/)] [head] [[stable](https://files.pythonhosted.org/packages/e5/d9/4ce969d98f521c253ec3b15a0c759104a01061ac90fb9d8636b015bcb4ea/doitlive-4.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/doitlive.rb)]
 - [x] dolt: Apache-2.0
 - [ ] dopewars [[homepage](https://dopewars.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/dopewars/dopewars/1.5.12/dopewars-1.5.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dopewars.rb)]
-- [ ] dos2unix [[homepage](https://waterlan.home.xs4all.nl/dos2unix.html)] [head] [[stable](https://waterlan.home.xs4all.nl/dos2unix/dos2unix-7.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dos2unix.rb)]
+- [ ] dos2unix [[homepage](https://waterlan.home.xs4all.nl/dos2unix.html)] [head] [[stable](https://waterlan.home.xs4all.nl/dos2unix/dos2unix-7.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dos2unix.rb)]
 - [ ] dosbox: GPL-2.0 (deprecated) [[homepage](https://www.dosbox.com/)] [[head](https://svn.code.sf.net/p/dosbox/code-0/dosbox/trunk)] [[stable](https://downloads.sourceforge.net/project/dosbox/dosbox/0.74-3/dosbox-0.74-3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dosbox.rb)]
 - [x] dosbox-staging: GPL-2.0-or-later
 - [x] dosbox-x: GPL-2.0-or-later
 - [ ] dosfstools: GPL-3.0 (deprecated) [[homepage](https://github.com/dosfstools)] [[head](https://github.com/dosfstools/dosfstools.git)] [[stable](https://github.com/dosfstools/dosfstools/releases/download/v4.1/dosfstools-4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dosfstools.rb)]
+- [x] dotnet: MIT
 - [x] double-conversion: BSD-3-Clause
 - [ ] doublecpp: GPL-2.0 (deprecated) [[homepage](https://doublecpp.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/doublecpp/doublecpp/0.6.3/doublecpp-0.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/doublecpp.rb)]
 - [x] doubledown: BSD-2-Clause
@@ -1421,7 +1422,7 @@
 - [ ] fragroute [[homepage](https://www.monkey.org/~dugsong/fragroute/)] [head] [[stable](https://www.monkey.org/~dugsong/fragroute/fragroute-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fragroute.rb)]
 - [ ] freealut: LGPL-2.0 (deprecated) [[homepage](https://github.com/vancegroup/freealut)] [head] [[stable](https://deb.debian.org/debian/pool/main/f/freealut/freealut_1.1.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freealut.rb)]
 - [ ] freeciv: GPL-2.0 (deprecated) [[homepage](http://freeciv.org)] [[head](https://github.com/freeciv/freeciv.git)] [[stable](https://downloads.sourceforge.net/project/freeciv/Freeciv%202.6/2.6.2/freeciv-2.6.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freeciv.rb)]
-- [ ] freediameter [[homepage](http://www.freediameter.net)] [[head](http://www.freediameter.net/hg/freeDiameter)] [[stable](http://www.freediameter.net/hg/freeDiameter/archive/1.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freediameter.rb)]
+- [ ] freediameter [[homepage](http://www.freediameter.net)] [[head](http://www.freediameter.net/hg/freeDiameter)] [[stable](http://www.freediameter.net/hg/freeDiameter/archive/1.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freediameter.rb)]
 - [ ] freedink [[homepage](https://www.gnu.org/software/freedink/)] [head] [[stable](https://ftp.gnu.org/gnu/freedink/freedink-109.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freedink.rb)]
 - [ ] freeglut [[homepage](https://freeglut.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/freeglut/freeglut/3.2.1/freeglut-3.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freeglut.rb)]
 - [x] freeimage: FreeImage
