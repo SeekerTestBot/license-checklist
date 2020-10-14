@@ -282,7 +282,6 @@ cifer
 cimg
 citus
 civl
-cksfv
 clamz
 classads
 clean
@@ -342,7 +341,6 @@ cppman
 cppp
 cpptest
 cppunit
-cproto
 cpulimit
 cracklib
 crash
@@ -452,7 +450,6 @@ docutils
 docx2txt
 doitlive
 dopewars
-dos2unix
 dosbox
 dosfstools
 doublecpp
@@ -611,7 +608,6 @@ fprobe
 fragroute
 freealut
 freeciv
-freediameter
 freedink
 freeglut
 freeradius-server
