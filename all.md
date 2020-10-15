@@ -1,6 +1,6 @@
-2833 / 5292 (53.5%) of formulae have a valid `license` stanza as of 2020-10-14 12:05:11 UTC.
+2835 / 5294 (53.6%) of formulae have a valid `license` stanza as of 2020-10-15 00:02:20 UTC.
 
-1219 / 5292 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1219 / 5294 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1413,6 +1413,7 @@
 - [x] fossil: BSD-2-Clause
 - [ ] fourstore: GPL-3.0 (deprecated) [[homepage](https://github.com/4store/4store)] [head] [[stable](https://github.com/4store/4store/archive/v1.1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fourstore.rb)]
 - [x] fox: LGPL-2.1-or-later
+- [x] fpart: BSD-2-Clause
 - [x] fpc: GPL-2.0-or-later
 - [x] fpdns: BSD-3-Clause
 - [x] fping: BSD-3-Clause
@@ -5360,6 +5361,7 @@
 - [ ] zsh-lovers [[homepage](https://grml.org/zsh/#zshlovers)] [head] [[stable](https://deb.grml.org/pool/main/z/zsh-lovers/zsh-lovers_0.9.1_all.deb)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zsh-lovers.rb)]
 - [ ] zsh-navigation-tools [[homepage](https://github.com/psprint/zsh-navigation-tools)] [head] [[stable](https://github.com/psprint/zsh-navigation-tools/archive/v2.2.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zsh-navigation-tools.rb)]
 - [x] zsh-syntax-highlighting: BSD-3-Clause
+- [x] zsh-you-should-use: GPL-3.0-or-later
 - [ ] zshdb: GPL-3.0 (deprecated) [[homepage](https://github.com/rocky/zshdb)] [[head](https://github.com/rocky/zshdb.git)] [[stable](https://downloads.sourceforge.net/project/bashdb/zshdb/1.1.2/zshdb-1.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zshdb.rb)]
 - [ ] zssh: GPL-2.0 (deprecated) [[homepage](https://zssh.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/zssh/zssh/1.5/zssh-1.5c.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zssh.rb)]
 - [x] zstd: BSD-3-Clause
