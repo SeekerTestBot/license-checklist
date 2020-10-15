@@ -2272,7 +2272,6 @@ vera++
 vert
 vf
 vfuse
-vgmstream
 vgrep
 vice
 viennacl
@@ -2336,7 +2335,6 @@ widelands
 wifi-password
 wiggle
 wiiuse
-wildfly-as
 wimlib
 winetricks
 winexe

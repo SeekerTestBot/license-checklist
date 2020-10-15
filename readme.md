@@ -1,6 +1,6 @@
-2835 / 5294 (53.6%) of formulae have a valid `license` stanza as of 2020-10-15 00:02:12 UTC.
+2839 / 5296 (53.6%) of formulae have a valid `license` stanza as of 2020-10-15 12:01:32 UTC.
 
-1219 / 5294 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1219 / 5296 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -880,6 +880,7 @@
 - [ ] curseofwar: GPL-3.0 (deprecated) [[homepage](https://a-nikolaev.github.io/curseofwar/)] [[head](https://github.com/a-nikolaev/curseofwar.git)] [[stable](https://github.com/a-nikolaev/curseofwar/archive/v1.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/curseofwar.rb)]
 - [ ] cutter: LGPL-3.0 (deprecated) [[homepage](https://cutter.osdn.jp/)] [[head](https://github.com/clear-code/cutter.git)] [[stable](https://osdn.mirror.constant.com/cutter/73761/cutter-1.2.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cutter.rb)]
 - [ ] cvs [[homepage](https://www.nongnu.org/cvs/)] [head] [[stable](https://ftp.gnu.org/non-gnu/cvs/source/feature/1.12.13/cvs-1.12.13.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cvs.rb)]
+- [x] cvs-fast-export: GPL-2.0-or-later
 - [ ] cvsps [[homepage](http://www.catb.org/~esr/cvsps/)] [head] [[stable](http://www.catb.org/~esr/cvsps/cvsps-3.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cvsps.rb)]
 - [ ] cvsutils: GPL-2.0 (deprecated) [[homepage](https://www.red-bean.com/cvsutils/)] [head] [[stable](https://www.red-bean.com/cvsutils/releases/cvsutils-0.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cvsutils.rb)]
 - [ ] cvsync [[homepage](https://www.cvsync.org/)] [head] [[stable](https://www.cvsync.org/dist/cvsync-0.24.19.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cvsync.rb)]
@@ -3890,6 +3891,7 @@
 - [x] postgresql: PostgreSQL
 - [x] postgresql@10: PostgreSQL
 - [x] postgresql@11: PostgreSQL
+- [x] postgresql@12: PostgreSQL
 - [x] postgresql@9.4: PostgreSQL
 - [x] postgresql@9.5: PostgreSQL
 - [x] postgresql@9.6: PostgreSQL
@@ -5063,7 +5065,7 @@
 - [x] vert.x: `{:any_of=>["EPL-2.0", "Apache-2.0"]}`
 - [ ] vf [[homepage](https://github.com/glejeune/vf)] [[head](https://github.com/glejeune/vf.git)] [[stable](https://github.com/glejeune/vf/archive/0.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vf.rb)]
 - [ ] vfuse [[homepage](https://github.com/chilcote/vfuse)] [head] [[stable](https://github.com/chilcote/vfuse/archive/2.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vfuse.rb)]
-- [ ] vgmstream [[homepage](https://hcs64.com/vgmstream.html)] [[head](https://github.com/kode54/vgmstream.git)] [[stable](https://github.com/losnoco/vgmstream/archive/r1050-3264-g86fbfffd.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vgmstream.rb)]
+- [x] vgmstream: ISC
 - [ ] vgrep: GPL-3.0 (deprecated) [[homepage](https://github.com/vrothberg/vgrep)] [head] [[stable](https://github.com/vrothberg/vgrep/archive/v2.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vgrep.rb)]
 - [ ] vice [[homepage](https://sourceforge.net/projects/vice-emu/)] [[head](https://svn.code.sf.net/p/vice-emu/code/trunk/vice)] [[stable](https://downloads.sourceforge.net/project/vice-emu/releases/vice-3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vice.rb)]
 - [ ] viennacl [[homepage](https://viennacl.sourceforge.io/)] [[head](https://github.com/viennacl/viennacl-dev.git)] [[stable](https://downloads.sourceforge.net/project/viennacl/1.7.x/ViennaCL-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/viennacl.rb)]
@@ -5187,7 +5189,7 @@
 - [ ] wiggle: GPL-2.0 (deprecated) [[homepage](https://neil.brown.name/blog/20100324064620)] [head] [[stable](https://neil.brown.name/wiggle/wiggle-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wiggle.rb)]
 - [ ] wiiuse: GPL-3.0 (deprecated) [[homepage](https://github.com/wiiuse/wiiuse)] [head] [[stable](https://github.com/wiiuse/wiiuse/archive/0.15.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wiiuse.rb)]
 - [x] wiki: MIT
-- [ ] wildfly-as [[homepage](https://wildfly.org/)] [head] [[stable](https://download.jboss.org/wildfly/20.0.1.Final/wildfly-20.0.1.Final.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wildfly-as.rb)]
+- [x] wildfly-as: LGPL-2.1-or-later
 - [x] willgit: MIT
 - [ ] wimlib [[homepage](https://wimlib.net/)] [head] [[stable](https://wimlib.net/downloads/wimlib-1.13.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wimlib.rb)]
 - [ ] winetricks: LGPL-2.1 (deprecated) [[homepage](https://github.com/Winetricks/winetricks)] [[head](https://github.com/Winetricks/winetricks.git)] [[stable](https://github.com/Winetricks/winetricks/archive/20200412.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/winetricks.rb)]
