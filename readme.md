@@ -1,4 +1,4 @@
-2839 / 5296 (53.6%) of formulae have a valid `license` stanza as of 2020-10-16 00:02:07 UTC.
+2841 / 5296 (53.6%) of formulae have a valid `license` stanza as of 2020-10-16 12:04:33 UTC.
 
 1219 / 5296 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -406,7 +406,7 @@
 - [x] blueutil: MIT
 - [x] bmake: BSD-3-Clause
 - [x] bmon: BSD-2-Clause
-- [ ] bnd [[homepage](https://bnd.bndtools.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=biz/aQute/bnd/biz.aQute.bnd/5.1.2/biz.aQute.bnd-5.1.2.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bnd.rb)]
+- [ ] bnd [[homepage](https://bnd.bndtools.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=biz/aQute/bnd/biz.aQute.bnd/5.2.0/biz.aQute.bnd-5.2.0.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bnd.rb)]
 - [ ] bnfc: GPL-2.0 (deprecated) [[homepage](https://bnfc.digitalgrammars.com/)] [[head](https://github.com/BNFC/bnfc.git)] [[stable](https://github.com/BNFC/bnfc/archive/v2.8.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bnfc.rb)]
 - [ ] bochs [[homepage](https://bochs.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/bochs/bochs/2.6.11/bochs-2.6.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bochs.rb)]
 - [ ] bogofilter [[homepage](https://bogofilter.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/bogofilter/bogofilter-stable/bogofilter-1.2.5.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bogofilter.rb)]
@@ -2423,7 +2423,7 @@
 - [ ] lame: LGPL-2.0 (deprecated) [[homepage](https://lame.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lame/lame/3.100/lame-3.100.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lame.rb)]
 - [ ] lammps: GPL-2.0 (deprecated) [[homepage](https://lammps.sandia.gov/)] [head] [[stable](https://github.com/lammps/lammps/archive/stable_3Mar2020.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lammps.rb)]
 - [x] landscaper: Apache-2.0
-- [ ] languagetool [[homepage](https://www.languagetool.org/)] [head] [[stable](https://languagetool.org/download/LanguageTool-5.1.2.oxt)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/languagetool.rb)]
+- [x] languagetool: LGPL-2.1-or-later
 - [x] lanraragi: MIT
 - [x] lapack: BSD-3-Clause
 - [ ] lasi [[homepage](https://www.unifont.org/lasi/)] [[head](https://svn.code.sf.net/p/lasi/code/trunk)] [[stable](https://downloads.sourceforge.net/project/lasi/lasi/1.1.3%20Source/libLASi-1.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lasi.rb)]
@@ -3710,7 +3710,7 @@
 - [x] patchelf: GPL-3.0-or-later
 - [ ] patchutils: GPL-2.0 (deprecated) [[homepage](http://cyberelk.net/tim/software/patchutils/)] [[head](https://github.com/twaugh/patchutils.git)] [[stable](http://cyberelk.net/tim/data/patchutils/stable/patchutils-0.4.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/patchutils.rb)]
 - [ ] path-extractor [[homepage](https://github.com/edi9999/path-extractor)] [[head](https://github.com/edi9999/path-extractor.git)] [[stable](https://github.com/edi9999/path-extractor/archive/v0.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/path-extractor.rb)]
-- [ ] pax-construct [[homepage](https://ops4j1.jira.com/wiki/display/paxconstruct/Pax+Construct)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/ops4j/pax/construct/scripts/1.5/scripts-1.5.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pax-construct.rb)]
+- [x] pax-construct: Apache-2.0
 - [ ] pax-runner [[homepage](https://ops4j1.jira.com/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/ops4j/pax/runner/pax-runner-assembly/1.8.6/pax-runner-assembly-1.8.6-jdk15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pax-runner.rb)]
 - [ ] payara [[homepage](https://www.payara.fish)] [head] [[stable](https://search.maven.org/remotecontent?filepath=fish/payara/distributions/payara/5.192/payara-5.192.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/payara.rb)]
 - [ ] pazpar2: GPL-2.0 (deprecated) [[homepage](https://www.indexdata.com/pazpar2)] [[head](https://github.com/indexdata/pazpar2.git)] [[stable](http://ftp.indexdata.dk/pub/pazpar2/pazpar2-1.14.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pazpar2.rb)]
@@ -3793,7 +3793,7 @@
 - [x] php@7.3: PHP-3.01
 - [ ] phplint [[homepage](https://www.icosaedro.it/phplint/)] [head] [[stable](https://www.icosaedro.it/phplint/phplint-4.2.0_20200308.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phplint.rb)]
 - [x] phpmd: BSD-3-Clause
-- [ ] phpmyadmin [[homepage](https://www.phpmyadmin.net)] [head] [[stable](https://files.phpmyadmin.net/phpMyAdmin/5.0.3/phpMyAdmin-5.0.3-all-languages.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phpmyadmin.rb)]
+- [ ] phpmyadmin [[homepage](https://www.phpmyadmin.net)] [head] [[stable](https://files.phpmyadmin.net/phpMyAdmin/5.0.4/phpMyAdmin-5.0.4-all-languages.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phpmyadmin.rb)]
 - [x] phpstan: MIT
 - [x] phpunit: BSD-3-Clause
 - [ ] physfs [[homepage](https://icculus.org/physfs/)] [[head](https://hg.icculus.org/icculus/physfs/)] [[stable](https://icculus.org/physfs/downloads/physfs-3.0.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/physfs.rb)]

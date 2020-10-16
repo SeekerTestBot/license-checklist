@@ -1012,7 +1012,6 @@ kyoto-tycoon
 lablgtk
 lame
 lammps
-languagetool
 lasi
 lasso
 lastpass-cli
@@ -1666,7 +1665,6 @@ passwdqc
 pastebinit
 patchutils
 path-extractor
-pax-construct
 pax-runner
 payara
 pazpar2
