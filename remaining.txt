@@ -101,7 +101,6 @@ autoconf
 autoconf-archive
 autoconf@2.13
 autogen
-autojump
 automysqlbackup
 autopano-sift-c
 autopsy

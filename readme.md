@@ -1,6 +1,6 @@
-2841 / 5296 (53.6%) of formulae have a valid `license` stanza as of 2020-10-16 12:04:33 UTC.
+2843 / 5297 (53.7%) of formulae have a valid `license` stanza as of 2020-10-17 00:02:20 UTC.
 
-1219 / 5296 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1218 / 5297 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -234,7 +234,7 @@
 - [x] autodiff: MIT
 - [x] autoenv: MIT
 - [ ] autogen [[homepage](https://autogen.sourceforge.io)] [head] [[stable](https://ftp.gnu.org/gnu/autogen/rel5.18.16/autogen-5.18.16.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autogen.rb)]
-- [ ] autojump: GPL-3.0 (deprecated) [[homepage](https://github.com/wting/autojump)] [[head](https://github.com/wting/autojump.git)] [[stable](https://github.com/wting/autojump/archive/release-v22.5.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autojump.rb)]
+- [x] autojump: GPL-3.0-or-later
 - [x] automake: GPL-2.0-or-later
 - [ ] automysqlbackup [[homepage](https://sourceforge.net/projects/automysqlbackup/)] [head] [[stable](https://downloads.sourceforge.net/project/automysqlbackup/AutoMySQLBackup/AutoMySQLBackup%20VER%203.0/automysqlbackup-v3.0_rc6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/automysqlbackup.rb)]
 - [ ] autopano-sift-c [[homepage](https://wiki.panotools.org/Autopano-sift-C)] [head] [[stable](https://downloads.sourceforge.net/project/hugin/autopano-sift-C/autopano-sift-C-2.5.1/autopano-sift-C-2.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autopano-sift-c.rb)]
@@ -2558,6 +2558,7 @@
 - [x] libdmx: MIT
 - [x] libdnet: BSD-3-Clause
 - [ ] libdrawtext: LGPL-3.0 (deprecated) [[homepage](http://nuclear.mutantstargoat.com/sw/libdrawtext/)] [[head](https://github.com/jtsiomb/libdrawtext.git)] [[stable](https://github.com/jtsiomb/libdrawtext/archive/v0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libdrawtext.rb)]
+- [x] libdrm: MIT
 - [ ] libdshconfig: GPL-2.0 (deprecated) [[homepage](https://www.netfort.gr.jp/~dancer/software/dsh.html.en)] [head] [[stable](https://www.netfort.gr.jp/~dancer/software/downloads/libdshconfig-0.20.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libdshconfig.rb)]
 - [ ] libdsk [[homepage](https://www.seasip.info/Unix/LibDsk/)] [head] [[stable](https://www.seasip.info/Unix/LibDsk/libdsk-1.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libdsk.rb)]
 - [ ] libdv [[homepage](https://libdv.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/libdv/libdv/1.0.0/libdv-1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libdv.rb)]
