@@ -1,4 +1,4 @@
-2843 / 5297 (53.7%) of formulae have a valid `license` stanza as of 2020-10-17 00:02:20 UTC.
+2844 / 5297 (53.7%) of formulae have a valid `license` stanza as of 2020-10-17 12:01:29 UTC.
 
 1218 / 5297 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1166,7 +1166,7 @@
 - [ ] ec2-ami-tools [[homepage](https://aws.amazon.com/developertools/368)] [head] [[stable](https://ec2-downloads.s3.amazonaws.com/ec2-ami-tools-1.5.7.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ec2-ami-tools.rb)]
 - [ ] ec2-api-tools [[homepage](https://aws.amazon.com/developertools/351)] [head] [[stable](https://ec2-downloads.s3.amazonaws.com/ec2-api-tools-1.7.5.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ec2-api-tools.rb)]
 - [ ] ecasound [[homepage](https://www.eca.cx/ecasound/)] [head] [[stable](https://ecasound.seul.org/download/ecasound-2.9.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ecasound.rb)]
-- [ ] eccodes [[homepage](https://confluence.ecmwf.int/display/ECC)] [head] [[stable](https://software.ecmwf.int/wiki/download/attachments/45757960/eccodes-2.18.0-Source.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/eccodes.rb)]
+- [x] eccodes: Apache-2.0
 - [x] echoprint-codegen: MIT
 - [ ] ecl [[homepage](https://common-lisp.net/project/ecl/)] [[head](https://gitlab.com/embeddable-common-lisp/ecl.git)] [[stable](https://common-lisp.net/project/ecl/static/files/release/ecl-20.4.24.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ecl.rb)]
 - [ ] ecm [[homepage](https://web.archive.org/web/20140227165748/www.neillcorlett.com/ecm/)] [head] [[stable](https://web.archive.org/web/20091021035854/www.neillcorlett.com/downloads/ecm100.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ecm.rb)]
