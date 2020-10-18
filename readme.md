@@ -1,4 +1,4 @@
-2844 / 5297 (53.7%) of formulae have a valid `license` stanza as of 2020-10-18 00:02:01 UTC.
+2846 / 5297 (53.7%) of formulae have a valid `license` stanza as of 2020-10-18 12:02:11 UTC.
 
 1218 / 5297 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -3888,7 +3888,7 @@
 - [ ] portmidi [[homepage](https://sourceforge.net/projects/portmedia/)] [head] [[stable](https://downloads.sourceforge.net/project/portmedia/portmidi/217/portmidi-src-217.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/portmidi.rb)]
 - [ ] posh: GPL-2.0 (deprecated) [[homepage](https://salsa.debian.org/clint/posh)] [head] [[stable](https://salsa.debian.org/clint/posh/-/archive/debian/0.14.1/posh-debian-0.14.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/posh.rb)]
 - [ ] poster: GPL-2.0 (deprecated) [[homepage](https://schrfr.github.io/poster/)] [head] [[stable](https://github.com/schrfr/poster/archive/1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/poster.rb)]
-- [ ] postgis [[homepage](https://postgis.net/)] [[head](https://git.osgeo.org/gitea/postgis/postgis.git)] [[stable](https://download.osgeo.org/postgis/source/postgis-3.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/postgis.rb)]
+- [x] postgis: GPL-2.0-or-later
 - [x] postgresql: PostgreSQL
 - [x] postgresql@10: PostgreSQL
 - [x] postgresql@11: PostgreSQL
@@ -4011,7 +4011,7 @@
 - [x] pypy3: MIT
 - [x] pyqt: GPL-3.0-only
 - [x] pyside: `{:all_of=>["GFDL-1.3-only", "GPL-2.0-only", "GPL-3.0-only", "LGPL-3.0-only"]}`
-- [ ] python-markdown [[homepage](https://pypi.python.org/pypi/Markdown)] [head] [[stable](https://files.pythonhosted.org/packages/44/30/cb4555416609a8f75525e34cbacfc721aa5b0044809968b2cf553fd879c7/Markdown-3.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/python-markdown.rb)]
+- [x] python-markdown: BSD-3-Clause
 - [x] python-yq: Apache-2.0
 - [x] python@3.7: Python-2.0
 - [x] python@3.8: Python-2.0

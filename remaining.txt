@@ -1755,7 +1755,6 @@ portaudio
 portmidi
 posh
 poster
-postgis
 postmark
 potrace
 povray
@@ -1807,7 +1806,6 @@ pwsafe
 py2cairo
 pyinstaller
 pympress
-python-markdown
 pytouhou
 qalculate-gtk
 qbs
