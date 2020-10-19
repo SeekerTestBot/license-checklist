@@ -1,6 +1,6 @@
-2846 / 5297 (53.7%) of formulae have a valid `license` stanza as of 2020-10-18 12:02:11 UTC.
+2851 / 5298 (53.8%) of formulae have a valid `license` stanza as of 2020-10-19 00:02:19 UTC.
 
-1218 / 5297 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1216 / 5298 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -181,7 +181,7 @@
 - [ ] artifactory [[homepage](https://www.jfrog.com/artifactory/)] [head] [[stable](https://dl.bintray.com/jfrog/artifactory/jfrog-artifactory-oss-6.22.0.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/artifactory.rb)]
 - [ ] arx-libertatis: GPL-3.0 (deprecated) [[homepage](https://arx-libertatis.org/)] [[head](https://github.com/arx/ArxLibertatis.git)] [[stable](https://arx-libertatis.org/files/arx-libertatis-1.1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arx-libertatis.rb)]
 - [x] ascii: BSD-2-Clause
-- [ ] asciidoc: GPL-2.0 (deprecated) [[homepage](https://asciidoc.org/)] [[head](https://github.com/asciidoc/asciidoc-py3.git)] [[stable](https://github.com/asciidoc/asciidoc-py3/archive/9.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/asciidoc.rb)]
+- [ ] asciidoc: GPL-2.0 (deprecated) [[homepage](https://asciidoc.org/)] [[head](https://github.com/asciidoc/asciidoc-py3.git)] [[stable](https://github.com/asciidoc/asciidoc-py3/archive/9.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/asciidoc.rb)]
 - [x] asciidoctor: MIT
 - [x] asciidoctorj: Apache-2.0
 - [ ] asciinema: GPL-3.0 (deprecated) [[homepage](https://asciinema.org)] [[head](https://github.com/asciinema/asciinema.git)] [[stable](https://files.pythonhosted.org/packages/a7/71/771c859795e02c71c187546f34f7535487b97425bc1dad1e5f6ad2651357/asciinema-2.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/asciinema.rb)]
@@ -966,6 +966,7 @@
 - [x] detox: BSD-3-Clause
 - [x] devd: MIT
 - [x] devdash: Apache-2.0
+- [x] device-mapper: LGPL-2.1-only
 - [ ] devil: LGPL-2.1 (deprecated) [[homepage](https://sourceforge.net/projects/openil/)] [[head](https://github.com/DentonW/DevIL.git)] [[stable](https://downloads.sourceforge.net/project/openil/DevIL/1.8.0/DevIL-1.8.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/devil.rb)]
 - [x] devspace: Apache-2.0
 - [ ] devtodo [[homepage](https://swapoff.org/devtodo.html)] [head] [[stable](https://swapoff.org/files/devtodo/devtodo-0.1.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/devtodo.rb)]
@@ -1509,6 +1510,7 @@
 - [ ] gbdfed [[homepage](http://sofia.nmsu.edu/~mleisher/Software/gbdfed/)] [head] [[stable](http://sofia.nmsu.edu/~mleisher/Software/gbdfed/gbdfed-1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gbdfed.rb)]
 - [ ] gcab [[homepage](https://wiki.gnome.org/msitools)] [head] [[stable](https://download.gnome.org/sources/gcab/1.4/gcab-1.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcab.rb)]
 - [ ] gcal: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gcal/)] [head] [[stable](https://ftp.gnu.org/gnu/gcal/gcal-4.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcal.rb)]
+- [x] gcalcli: MIT
 - [ ] gcc: GPL-3.0 (deprecated) [[homepage](https://gcc.gnu.org/)] [[head](https://gcc.gnu.org/git/gcc.git)] [[stable](https://ftp.gnu.org/gnu/gcc/gcc-10.2.0/gcc-10.2.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcc.rb)]
 - [ ] gcc@4.9 [[homepage](https://gcc.gnu.org/)] [head] [[stable](https://ftp.gnu.org/gnu/gcc/gcc-4.9.4/gcc-4.9.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcc@4.9.rb)]
 - [ ] gcc@5 [[homepage](https://gcc.gnu.org/)] [head] [[stable](https://ftp.gnu.org/gnu/gcc/gcc-5.5.0/gcc-5.5.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcc@5.rb)]
@@ -1946,7 +1948,7 @@
 - [x] h2o: MIT
 - [x] h3: Apache-2.0
 - [ ] hackrf: GPL-2.0 (deprecated) [[homepage](https://github.com/mossmann/hackrf)] [[head](https://github.com/mossmann/hackrf.git)] [[stable](https://github.com/mossmann/hackrf/archive/v2018.01.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hackrf.rb)]
-- [ ] hadolint: GPL-3.0 (deprecated) [[homepage](https://github.com/hadolint/hadolint)] [head] [[stable](https://github.com/hadolint/hadolint/archive/v1.18.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hadolint.rb)]
+- [ ] hadolint: GPL-3.0 (deprecated) [[homepage](https://github.com/hadolint/hadolint)] [head] [[stable](https://github.com/hadolint/hadolint/archive/v1.18.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hadolint.rb)]
 - [x] hadoop: Apache-2.0
 - [ ] halibut [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/halibut/)] [[head](https://git.tartarus.org/simon/halibut.git)] [[stable](https://www.chiark.greenend.org.uk/~sgtatham/halibut/halibut-1.2/halibut-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/halibut.rb)]
 - [x] halide: MIT
@@ -1979,7 +1981,7 @@
 - [x] healpix: GPL-2.0-or-later
 - [x] heartbeat: Apache-2.0
 - [x] heatshrink: ISC
-- [ ] hebcal: GPL-2.0 (deprecated) [[homepage](https://github.com/hebcal/hebcal)] [head] [[stable](https://github.com/hebcal/hebcal/archive/v4.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hebcal.rb)]
+- [x] hebcal: GPL-2.0-or-later
 - [x] heimdal: BSD-3-Clause
 - [x] heksa: Apache-2.0
 - [x] helib: Apache-2.0
@@ -3095,7 +3097,7 @@
 - [x] mdcat: MPL-2.0
 - [x] mdds: MIT
 - [ ] mdf2iso [[homepage](https://packages.debian.org/sid/mdf2iso)] [head] [[stable](https://deb.debian.org/debian/pool/main/m/mdf2iso/mdf2iso_0.3.1.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mdf2iso.rb)]
-- [ ] mdk [[homepage](https://www.gnu.org/software/mdk/mdk.html)] [head] [[stable](https://ftp.gnu.org/gnu/mdk/v1.2.10/mdk-1.2.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mdk.rb)]
+- [x] mdk: GPL-3.0-or-later
 - [ ] mdp: GPL-3.0 (deprecated) [[homepage](https://github.com/visit1985/mdp)] [[head](https://github.com/visit1985/mdp.git)] [[stable](https://github.com/visit1985/mdp/archive/1.0.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mdp.rb)]
 - [ ] mdr: GPL-3.0 (deprecated) [[homepage](https://github.com/halffullheart/mdr)] [head] [[stable](https://github.com/halffullheart/mdr/archive/v1.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mdr.rb)]
 - [x] mdv: BSD-3-Clause
@@ -3125,7 +3127,6 @@
 - [x] mesa: MIT
 - [ ] mesalib-glw [[homepage](https://www.mesa3d.org)] [head] [[stable](https://mesa.freedesktop.org/archive/glw/glw-8.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mesalib-glw.rb)]
 - [x] meson: Apache-2.0
-- [x] meson-internal: Apache-2.0
 - [x] mesos: Apache-2.0
 - [x] metabase: AGPL-3.0-only
 - [x] metaproxy: GPL-2.0-or-later
@@ -4674,7 +4675,7 @@
 - [x] swagger-codegen: Apache-2.0
 - [x] swagger-codegen@2: Apache-2.0
 - [x] swagger2markup-cli: Apache-2.0
-- [ ] swaks [[homepage](https://www.jetmore.org/john/code/swaks/)] [head] [[stable](https://www.jetmore.org/john/code/swaks/files/swaks-20201010.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/swaks.rb)]
+- [x] swaks: GPL-2.0-or-later
 - [ ] swfmill: GPL-2.0 (deprecated) [[homepage](https://swfmill.org)] [head] [[stable](https://www.swfmill.org/releases/swfmill-0.3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/swfmill.rb)]
 - [ ] swftools [[homepage](http://www.swftools.org/)] [head] [[stable](http://www.swftools.org/swftools-0.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/swftools.rb)]
 - [x] swi-prolog: BSD-2-Clause
@@ -4898,7 +4899,7 @@
 - [x] trailscraper: Apache-2.0
 - [x] transcrypt: MIT
 - [x] translate-shell: Unlicense
-- [ ] translate-toolkit: GPL-2.0 (deprecated) [[homepage](https://toolkit.translatehouse.org/)] [[head](https://github.com/translate/translate.git)] [[stable](https://github.com/translate/translate/archive/3.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/translate-toolkit.rb)]
+- [x] translate-toolkit: GPL-2.0-or-later
 - [ ] transmission-cli: GPL-2.0 (deprecated) [[homepage](https://www.transmissionbt.com/)] [head] [[stable](https://github.com/transmission/transmission-releases/raw/d5ccf14/transmission-3.00.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/transmission-cli.rb)]
 - [x] trash: MIT
 - [ ] trash-cli: GPL-2.0 (deprecated) [[homepage](https://github.com/andreafrancia/trash-cli)] [[head](https://github.com/andreafrancia/trash-cli.git)] [[stable](https://github.com/andreafrancia/trash-cli/archive/0.17.1.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/trash-cli.rb)]

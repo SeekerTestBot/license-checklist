@@ -838,7 +838,6 @@ hdf5
 hdf5-mpi
 hdf5@1.8
 hdt
-hebcal
 henplus
 hevea
 hexcurse
@@ -1355,7 +1354,6 @@ md5sha1sum
 mda-lv2
 mdbtools
 mdf2iso
-mdk
 mdp
 mdr
 mdxmini
@@ -2085,7 +2083,6 @@ svdlibc
 svg2pdf
 svg2png
 svgcleaner
-swaks
 swfmill
 swftools
 swig
@@ -2168,7 +2165,6 @@ tracebox
 tractorgen
 trader
 trafshow
-translate-toolkit
 transmission-cli
 trash-cli
 tre
