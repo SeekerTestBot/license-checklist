@@ -161,7 +161,6 @@ bindfs
 binkd
 binutils
 bioawk
-biosig
 bison@2.7
 bitchx
 bitlbee

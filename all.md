@@ -1,6 +1,6 @@
-2851 / 5298 (53.8%) of formulae have a valid `license` stanza as of 2020-10-19 00:02:26 UTC.
+2852 / 5298 (53.8%) of formulae have a valid `license` stanza as of 2020-10-19 12:01:46 UTC.
 
-1216 / 5298 (23.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1215 / 5298 (22.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -373,7 +373,7 @@
 - [ ] binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/binutils.html)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/binutils.rb)]
 - [x] binwalk: MIT
 - [ ] bioawk [[homepage](https://github.com/lh3/bioawk)] [head] [[stable](https://github.com/lh3/bioawk/archive/v1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bioawk.rb)]
-- [ ] biosig: GPL-3.0 (deprecated) [[homepage](https://biosig.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/biosig/BioSig%20for%20C_C%2B%2B/src/biosig-2.0.4.src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/biosig.rb)]
+- [x] biosig: GPL-3.0-or-later
 - [x] bison: GPL-3.0-or-later
 - [ ] bison@2.7 [[homepage](https://www.gnu.org/software/bison/)] [head] [[stable](https://ftp.gnu.org/gnu/bison/bison-2.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bison@2.7.rb)]
 - [x] bit: Apache-2.0
@@ -2686,7 +2686,7 @@
 - [ ] libnfc: LGPL-3.0 (deprecated) [[homepage](https://github.com/nfc-tools/libnfc)] [[head](https://github.com/nfc-tools/libnfc.git)] [[stable](https://github.com/nfc-tools/libnfc/releases/download/libnfc-1.8.0/libnfc-1.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnfc.rb)]
 - [x] libnfnetlink: LGPL-2.1-or-later
 - [ ] libnfs: LGPL-2.1 (deprecated) [[homepage](https://github.com/sahlberg/libnfs)] [head] [[stable](https://github.com/sahlberg/libnfs/archive/libnfs-4.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnfs.rb)]
-- [ ] libngspice [[homepage](https://ngspice.sourceforge.io/)] [[head](https://git.code.sf.net/p/ngspice/ngspice.git)] [[stable](https://downloads.sourceforge.net/project/ngspice/ng-spice-rework/32/ngspice-32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libngspice.rb)]
+- [ ] libngspice [[homepage](https://ngspice.sourceforge.io/)] [[head](https://git.code.sf.net/p/ngspice/ngspice.git)] [[stable](https://downloads.sourceforge.net/project/ngspice/ng-spice-rework/33/ngspice-33.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libngspice.rb)]
 - [ ] libnice: LGPL-2.1 (deprecated) [[homepage](https://wiki.freedesktop.org/nice/)] [head] [[stable](https://nice.freedesktop.org/releases/libnice-0.1.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnice.rb)]
 - [ ] libnids [[homepage](https://libnids.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/libnids/libnids/1.24/libnids-1.24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnids.rb)]
 - [ ] libnotify: LGPL-2.1 (deprecated) [[homepage](https://developer.gnome.org/libnotify)] [head] [[stable](https://download.gnome.org/sources/libnotify/0.7/libnotify-0.7.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnotify.rb)]
