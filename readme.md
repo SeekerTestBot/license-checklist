@@ -1,6 +1,6 @@
-2852 / 5298 (53.8%) of formulae have a valid `license` stanza as of 2020-10-19 12:01:39 UTC.
+2856 / 5299 (53.9%) of formulae have a valid `license` stanza as of 2020-10-20 00:04:43 UTC.
 
-1215 / 5298 (22.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1213 / 5299 (22.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -178,7 +178,7 @@
 - [ ] arpoison [[homepage](http://www.arpoison.net/)] [head] [[stable](http://www.arpoison.net/arpoison-0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arpoison.rb)]
 - [x] arrayfire: BSD-3-Clause
 - [ ] arss [[homepage](https://arss.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/arss/arss/0.2.3/arss-0.2.3-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arss.rb)]
-- [ ] artifactory [[homepage](https://www.jfrog.com/artifactory/)] [head] [[stable](https://dl.bintray.com/jfrog/artifactory/jfrog-artifactory-oss-6.22.0.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/artifactory.rb)]
+- [ ] artifactory [[homepage](https://www.jfrog.com/artifactory/)] [head] [[stable](https://dl.bintray.com/jfrog/artifactory/jfrog-artifactory-oss-6.23.0.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/artifactory.rb)]
 - [ ] arx-libertatis: GPL-3.0 (deprecated) [[homepage](https://arx-libertatis.org/)] [[head](https://github.com/arx/ArxLibertatis.git)] [[stable](https://arx-libertatis.org/files/arx-libertatis-1.1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arx-libertatis.rb)]
 - [x] ascii: BSD-2-Clause
 - [ ] asciidoc: GPL-2.0 (deprecated) [[homepage](https://asciidoc.org/)] [[head](https://github.com/asciidoc/asciidoc-py3.git)] [[stable](https://github.com/asciidoc/asciidoc-py3/archive/9.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/asciidoc.rb)]
@@ -1621,7 +1621,7 @@
 - [ ] git-ftp: GPL-3.0 (deprecated) [[homepage](https://git-ftp.github.io/)] [[head](https://github.com/git-ftp/git-ftp.git)] [[stable](https://github.com/git-ftp/git-ftp/archive/1.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-ftp.rb)]
 - [x] git-game: MIT
 - [x] git-gerrit: BSD-3-Clause
-- [ ] git-gui: GPL-2.0 (deprecated) [[homepage](https://git-scm.com)] [[head](https://github.com/git/git.git)] [[stable](https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.28.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-gui.rb)]
+- [ ] git-gui: GPL-2.0 (deprecated) [[homepage](https://git-scm.com)] [[head](https://github.com/git/git.git)] [[stable](https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.29.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-gui.rb)]
 - [ ] git-hooks [[homepage](https://github.com/icefox/git-hooks)] [[head](https://github.com/icefox/git-hooks.git)] [[stable](https://github.com/icefox/git-hooks/archive/1.00.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-hooks.rb)]
 - [x] git-hooks-go: MIT
 - [x] git-hound: MIT
@@ -1948,7 +1948,7 @@
 - [x] h2o: MIT
 - [x] h3: Apache-2.0
 - [ ] hackrf: GPL-2.0 (deprecated) [[homepage](https://github.com/mossmann/hackrf)] [[head](https://github.com/mossmann/hackrf.git)] [[stable](https://github.com/mossmann/hackrf/archive/v2018.01.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hackrf.rb)]
-- [ ] hadolint: GPL-3.0 (deprecated) [[homepage](https://github.com/hadolint/hadolint)] [head] [[stable](https://github.com/hadolint/hadolint/archive/v1.18.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hadolint.rb)]
+- [x] hadolint: GPL-3.0-only
 - [x] hadoop: Apache-2.0
 - [ ] halibut [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/halibut/)] [[head](https://git.tartarus.org/simon/halibut.git)] [[stable](https://www.chiark.greenend.org.uk/~sgtatham/halibut/halibut-1.2/halibut-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/halibut.rb)]
 - [x] halide: MIT
@@ -3623,6 +3623,7 @@
 - [x] opus-tools: BSD-2-Clause
 - [x] opusfile: BSD-3-Clause
 - [x] oq: MIT
+- [x] or-tools: Apache-2.0
 - [ ] orbit [[homepage](https://projects.gnome.org/ORBit2)] [head] [[stable](https://download.gnome.org/sources/ORBit2/2.14/ORBit2-2.14.19.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orbit.rb)]
 - [ ] orc [[homepage](https://cgit.freedesktop.org/gstreamer/orc/)] [head] [[stable](https://gstreamer.freedesktop.org/src/orc/orc-0.4.32.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc.rb)]
 - [ ] orc-tools [[homepage](https://orc.apache.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/apache/orc/orc-tools/1.6.3/orc-tools-1.6.3-uber.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc-tools.rb)]
@@ -4602,7 +4603,7 @@
 - [ ] sshtrix: GPL-3.0 (deprecated) [[homepage](https://nullsecurity.net/tools/cracker.html)] [head] [[stable](https://github.com/nullsecuritynet/tools/raw/master/cracker/sshtrix/release/sshtrix-0.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sshtrix.rb)]
 - [x] sshuttle: LGPL-2.1-or-later
 - [ ] ssldump [[homepage](https://ssldump.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/ssldump/ssldump/0.9b3/ssldump-0.9b3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ssldump.rb)]
-- [ ] sslh: GPL-2.0 (deprecated) [[homepage](https://www.rutschle.net/tech/sslh.shtml)] [[head](https://github.com/yrutschle/sslh.git)] [[stable](https://www.rutschle.net/tech/sslh/sslh-v1.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslh.rb)]
+- [x] sslh: `{:all_of=>["GPL-2.0-or-later", "BSD-2-Clause"]}`
 - [x] ssllabs-scan: Apache-2.0
 - [ ] sslmate [[homepage](https://sslmate.com)] [head] [[stable](https://packages.sslmate.com/other/sslmate-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sslmate.rb)]
 - [x] sslscan: GPL-3.0-or-later
@@ -5120,7 +5121,7 @@
 - [x] vte3: LGPL-2.0-or-later
 - [x] vtk: BSD-3-Clause
 - [x] vtk@8.2: BSD-3-Clause
-- [ ] vttest [[homepage](https://invisible-island.net/vttest/)] [head] [[stable](https://invisible-mirror.net/archives/vttest/vttest-20200610.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vttest.rb)]
+- [x] vttest: BSD-3-Clause
 - [x] vulkan-headers: Apache-2.0
 - [x] vultr: MIT
 

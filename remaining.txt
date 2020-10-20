@@ -823,7 +823,6 @@ gzip
 gzrt
 h264bitstream
 hackrf
-hadolint
 halibut
 handbrake
 haproxy
@@ -2050,7 +2049,6 @@ sshfs
 sshguard
 sshtrix
 ssldump
-sslh
 sslmate
 ssss
 sstp-client
@@ -2294,7 +2292,6 @@ vsftpd
 vstr
 vsts-cli
 vtclock
-vttest
 w-calc
 w3m
 wagyu
