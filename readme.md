@@ -1,6 +1,6 @@
-2856 / 5299 (53.9%) of formulae have a valid `license` stanza as of 2020-10-20 00:04:43 UTC.
+2859 / 5302 (53.9%) of formulae have a valid `license` stanza as of 2020-10-20 12:03:39 UTC.
 
-1213 / 5299 (22.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1213 / 5302 (22.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -391,6 +391,7 @@
 - [ ] blahtexml [[homepage](http://gva.noekeon.org/blahtexml/)] [head] [[stable](http://gva.noekeon.org/blahtexml/blahtexml-0.9-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blahtexml.rb)]
 - [ ] blast: LGPL-2.1 (deprecated) [[homepage](https://blast.ncbi.nlm.nih.gov/)] [head] [[stable](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.10.1/ncbi-blast-2.10.1+-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blast.rb)]
 - [x] blastem: GPL-3.0-or-later
+- [x] blaze: BSD-3-Clause
 - [ ] blazeblogger: GPL-3.0 (deprecated) [[homepage](http://blaze.blackened.cz/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/blazeblogger/blazeblogger-1.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blazeblogger.rb)]
 - [ ] blazegraph [[homepage](https://www.blazegraph.com/)] [head] [[stable](https://downloads.sourceforge.net/project/bigdata/bigdata/2.1.5/blazegraph.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blazegraph.rb)]
 - [x] blink1: CC-BY-SA-3.0
@@ -1794,12 +1795,14 @@
 - [x] google-sparsehash: BSD-3-Clause
 - [ ] google-sql-tool [[homepage](https://cloud.google.com/sql/docs/mysql-client)] [head] [[stable](https://dl.google.com/cloudsql/tools/google_sql_tool.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/google-sql-tool.rb)]
 - [ ] googler: GPL-3.0 (deprecated) [[homepage](https://github.com/jarun/googler)] [[head](https://github.com/jarun/googler.git)] [[stable](https://github.com/jarun/googler/archive/v4.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/googler.rb)]
+- [x] googletest: BSD-3-Clause
 - [ ] goolabs [[homepage](https://pypi.python.org/pypi/goolabs)] [head] [[stable](https://files.pythonhosted.org/packages/ce/86/2d3b5bd85311ee3a7ae7a661b3619095431503cd0cae03048c646b700cad/goolabs-0.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/goolabs.rb)]
 - [x] goose: MIT
 - [x] gopass: MIT
 - [ ] gor: LGPL-3.0 (deprecated) [[homepage](https://goreplay.org)] [[head](https://github.com/buger/goreplay.git)] [[stable](https://github.com/buger/goreplay.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gor.rb)]
 - [x] goreleaser: MIT
 - [x] goreman: MIT
+- [x] gost: MIT
 - [x] gostatic: ISC
 - [x] gosu: Apache-2.0
 - [x] gotags: MIT
