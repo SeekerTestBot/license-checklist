@@ -977,7 +977,6 @@ juman
 jvmtop
 jxrlib
 kahip
-kaitai-struct-compiler
 kakasi
 kanif
 kawa

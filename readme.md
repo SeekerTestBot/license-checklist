@@ -1,4 +1,4 @@
-2859 / 5302 (53.9%) of formulae have a valid `license` stanza as of 2020-10-20 12:03:39 UTC.
+2860 / 5302 (53.9%) of formulae have a valid `license` stanza as of 2020-10-21 00:02:10 UTC.
 
 1213 / 5302 (22.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -2332,7 +2332,7 @@
 - [x] kafka: Apache-2.0
 - [x] kafkacat: BSD-2-Clause
 - [ ] kahip [[homepage](https://algo2.iti.kit.edu/documents/kahip/index.html)] [head] [[stable](https://algo2.iti.kit.edu/schulz/software_releases/KaHIP_2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kahip.rb)]
-- [ ] kaitai-struct-compiler [[homepage](https://kaitai.io/)] [head] [[stable](https://bintray.com/artifact/download/kaitai-io/universal/0.8/kaitai-struct-compiler-0.8.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kaitai-struct-compiler.rb)]
+- [x] kaitai-struct-compiler: GPL-3.0-or-later
 - [ ] kakasi [[homepage](http://kakasi.namazu.org/)] [head] [[stable](http://kakasi.namazu.org/stable/kakasi-2.3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kakasi.rb)]
 - [x] kakoune: Unlicense
 - [x] kallisto: BSD-2-Clause
@@ -2945,7 +2945,7 @@
 - [x] little-cms2: MIT
 - [ ] livestreamer [[homepage](https://livestreamer.io/)] [head] [[stable](https://files.pythonhosted.org/packages/ee/d6/efbe3456160a2c62e3dd841c5d9504d071c94449a819148bb038b50d862a/livestreamer-1.12.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/livestreamer.rb)]
 - [ ] lizard: GPL-2.0 (deprecated) [[homepage](https://github.com/inikep/lizard)] [head] [[stable](https://github.com/inikep/lizard/archive/v2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lizard.rb)]
-- [ ] lizard-analyzer [[homepage](http://www.lizard.ws)] [head] [[stable](https://files.pythonhosted.org/packages/ef/bc/c9b66e557203f2a6f5cf3eb704c640e433385dda639c1b2da56b966f9c42/lizard-1.17.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lizard-analyzer.rb)]
+- [ ] lizard-analyzer [[homepage](http://www.lizard.ws)] [head] [[stable](https://files.pythonhosted.org/packages/60/a7/7a93f5d004bf86209406c533d21d7dede965f976384d29e8681aa47faed9/lizard-1.17.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lizard-analyzer.rb)]
 - [ ] lldpd [[homepage](https://vincentbernat.github.io/lldpd/)] [head] [[stable](https://media.luffy.cx/files/lldpd/lldpd-1.0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lldpd.rb)]
 - [x] llnode: MIT
 - [x] llvm: Apache-2.0
