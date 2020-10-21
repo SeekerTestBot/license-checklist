@@ -1,6 +1,6 @@
-2860 / 5302 (53.9%) of formulae have a valid `license` stanza as of 2020-10-21 00:02:10 UTC.
+2864 / 5304 (54.0%) of formulae have a valid `license` stanza as of 2020-10-21 12:04:22 UTC.
 
-1213 / 5302 (22.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1213 / 5304 (22.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -2945,7 +2945,7 @@
 - [x] little-cms2: MIT
 - [ ] livestreamer [[homepage](https://livestreamer.io/)] [head] [[stable](https://files.pythonhosted.org/packages/ee/d6/efbe3456160a2c62e3dd841c5d9504d071c94449a819148bb038b50d862a/livestreamer-1.12.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/livestreamer.rb)]
 - [ ] lizard: GPL-2.0 (deprecated) [[homepage](https://github.com/inikep/lizard)] [head] [[stable](https://github.com/inikep/lizard/archive/v2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lizard.rb)]
-- [ ] lizard-analyzer [[homepage](http://www.lizard.ws)] [head] [[stable](https://files.pythonhosted.org/packages/60/a7/7a93f5d004bf86209406c533d21d7dede965f976384d29e8681aa47faed9/lizard-1.17.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lizard-analyzer.rb)]
+- [x] lizard-analyzer: MIT
 - [ ] lldpd [[homepage](https://vincentbernat.github.io/lldpd/)] [head] [[stable](https://media.luffy.cx/files/lldpd/lldpd-1.0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lldpd.rb)]
 - [x] llnode: MIT
 - [x] llvm: Apache-2.0
@@ -3428,6 +3428,7 @@
 - [ ] ngspice [[homepage](https://ngspice.sourceforge.io/)] [[head](https://git.code.sf.net/p/ngspice/ngspice.git)] [[stable](https://downloads.sourceforge.net/project/ngspice/ng-spice-rework/32/ngspice-32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ngspice.rb)]
 - [x] ngt: Apache-2.0
 - [ ] nickle [[homepage](https://www.nickle.org/)] [head] [[stable](https://www.nickle.org/release/nickle-2.86.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nickle.rb)]
+- [x] nicotine-plus: GPL-3.0-or-later
 - [ ] nicovideo-dl [[homepage](https://osdn.net/projects/nicovideo-dl/)] [head] [[stable](https://dotsrc.dl.osdn.net/osdn/nicovideo-dl/70568/nicovideo-dl-0.0.20190126.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nicovideo-dl.rb)]
 - [x] nifi: Apache-2.0
 - [x] nifi-registry: Apache-2.0
@@ -3597,6 +3598,7 @@
 - [ ] openjazz: GPL-2.0 (deprecated) [[homepage](http://www.alister.eu/jazz/oj/)] [[head](https://github.com/AlisterT/openjazz.git)] [[stable](https://github.com/AlisterT/openjazz/archive/20190106.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openjazz.rb)]
 - [ ] openjdk [[homepage](https://openjdk.java.net/)] [head] [[stable](https://hg.openjdk.java.net/jdk-updates/jdk14u/archive/jdk-14.0.1-ga.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openjdk.rb)]
 - [ ] openjdk@11: GPL-2.0 (deprecated) [[homepage](https://openjdk.java.net/)] [head] [[stable](https://hg.openjdk.java.net/jdk-updates/jdk11u/archive/jdk-11.0.8-ga.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openjdk@11.rb)]
+- [x] openjdk@8: GPL-2.0-only
 - [x] openjpeg: BSD-2-Clause
 - [ ] openkim-models [[homepage](https://openkim.org)] [head] [[stable](https://s3.openkim.org/archives/collection/openkim-models-2019-07-25.txz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openkim-models.rb)]
 - [x] openldap: OLDAP-2.8
@@ -3651,7 +3653,7 @@
 - [x] osqp: Apache-2.0
 - [x] osquery: Apache-2.0
 - [x] osrm-backend: BSD-2-Clause
-- [ ] osslsigncode: GPL-3.0 (deprecated) [[homepage](https://github.com/mtrojnar/osslsigncode)] [head] [[stable](https://github.com/mtrojnar/osslsigncode/archive/2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/osslsigncode.rb)]
+- [ ] osslsigncode: GPL-3.0 (deprecated) [[homepage](https://github.com/mtrojnar/osslsigncode)] [head] [[stable](https://github.com/mtrojnar/osslsigncode/archive/2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/osslsigncode.rb)]
 - [ ] ossp-uuid [[homepage](https://web.archive.org/web/www.ossp.org/pkg/lib/uuid/)] [head] [[stable](https://deb.debian.org/debian/pool/main/o/ossp-uuid/ossp-uuid_1.6.2.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ossp-uuid.rb)]
 - [ ] osx-cpu-temp: GPL-2.0 (deprecated) [[homepage](https://github.com/lavoiesl/osx-cpu-temp)] [head] [[stable](https://github.com/lavoiesl/osx-cpu-temp/archive/1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/osx-cpu-temp.rb)]
 - [ ] osxutils: GPL-2.0 (deprecated) [[homepage](https://github.com/specious/osxutils)] [[head](https://github.com/specious/osxutils.git)] [[stable](https://github.com/specious/osxutils/archive/v1.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/osxutils.rb)]
@@ -4091,7 +4093,7 @@
 - [x] rakudo-star: Artistic-2.0
 - [x] rancher-cli: Apache-2.0
 - [x] rancher-compose: Apache-2.0
-- [ ] rancid [[homepage](https://www.shrubbery.net/rancid/)] [head] [[stable](https://www.shrubbery.net/pub/rancid/rancid-3.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rancid.rb)]
+- [ ] rancid [[homepage](https://www.shrubbery.net/rancid/)] [head] [[stable](https://www.shrubbery.net/pub/rancid/rancid-3.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rancid.rb)]
 - [ ] randomize-lines: GPL-2.0 (deprecated) [[homepage](https://arthurdejong.org/rl/)] [head] [[stable](https://arthurdejong.org/rl/rl-0.2.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/randomize-lines.rb)]
 - [x] range-v3: BSL-1.0
 - [ ] ranger: GPL-3.0 (deprecated) [[homepage](https://ranger.github.io)] [[head](https://github.com/ranger/ranger.git)] [[stable](https://ranger.github.io/ranger-1.9.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ranger.rb)]
@@ -4370,7 +4372,7 @@
 - [x] selecta: MIT
 - [x] selenium-server-standalone: Apache-2.0
 - [x] semgrep: LGPL-2.1-only
-- [ ] semtag [[homepage](https://github.com/pnikosis/semtag)] [head] [[stable](https://github.com/pnikosis/semtag/archive/v0.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/semtag.rb)]
+- [x] semtag: Apache-2.0
 - [ ] sendemail: GPL-2.0+ (deprecated) [[homepage](https://web.archive.org/web/20191013154932/caspian.dotconf.net/menu/Software/SendEmail/)] [head] [[stable](http://caspian.dotconf.net/menu/Software/SendEmail/sendEmail-v1.56.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sendemail.rb)]
 - [x] sentencepiece: Apache-2.0
 - [x] seqtk: MIT
@@ -4539,7 +4541,7 @@
 - [ ] spandsp [[homepage](https://www.soft-switch.org/)] [head] [[stable](https://www.soft-switch.org/downloads/spandsp/spandsp-0.0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/spandsp.rb)]
 - [x] spark: MIT
 - [x] sparkey: Apache-2.0
-- [ ] sparse [[homepage](https://sparse.wiki.kernel.org/)] [[head](https://git.kernel.org/pub/scm/devel/sparse/sparse.git)] [[stable](https://www.kernel.org/pub/software/devel/sparse/dist/sparse-0.6.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sparse.rb)]
+- [ ] sparse [[homepage](https://sparse.wiki.kernel.org/)] [[head](https://git.kernel.org/pub/scm/devel/sparse/sparse.git)] [[stable](https://www.kernel.org/pub/software/devel/sparse/dist/sparse-0.6.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sparse.rb)]
 - [x] spatialindex: MIT
 - [ ] spatialite-gui: GPL-3.0 (deprecated) [[homepage](https://www.gaia-gis.it/fossil/spatialite_gui/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/spatialite-gui-sources/spatialite_gui-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/spatialite-gui.rb)]
 - [ ] spatialite-tools: GPL-3.0 (deprecated) [[homepage](https://www.gaia-gis.it/fossil/spatialite-tools/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/spatialite-tools-sources/spatialite-tools-4.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/spatialite-tools.rb)]

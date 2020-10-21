@@ -1277,7 +1277,6 @@ liquidctl
 liquidprompt
 livestreamer
 lizard
-lizard-analyzer
 lldpd
 lm4tools
 lmdb
@@ -1958,7 +1957,6 @@ sdl_rtf
 sdl_sound
 sdl_ttf
 sec
-semtag
 sendemail
 sersniff
 servus
