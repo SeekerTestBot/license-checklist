@@ -1412,7 +1412,6 @@ mockserver
 modgit
 modules
 moe
-monetdb
 mongoose
 mongroup
 monit
@@ -1644,7 +1643,6 @@ pacvim
 pagmo
 pakchois
 pandoc
-pandocomatic
 paperkey
 paps
 par
@@ -1804,7 +1802,6 @@ pytouhou
 qalculate-gtk
 qbs
 qca
-qcachegrind
 qcli
 qd
 qdae
@@ -2009,7 +2006,6 @@ sngrep
 snownews
 sntop
 socat
-soci
 sofia-sip
 softhsm
 solid
@@ -2204,7 +2200,6 @@ uni2ascii
 unibilium
 unicorn
 unifdef
-unison
 unittest
 uniutils
 unnethack
