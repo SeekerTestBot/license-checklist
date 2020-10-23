@@ -1,6 +1,6 @@
-2869 / 5303 (54.1%) of formulae have a valid `license` stanza as of 2020-10-23 00:02:39 UTC.
+2873 / 5305 (54.2%) of formulae have a valid `license` stanza as of 2020-10-23 12:03:41 UTC.
 
-1210 / 5303 (22.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1208 / 5305 (22.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -179,6 +179,7 @@
 - [x] arrayfire: BSD-3-Clause
 - [ ] arss [[homepage](https://arss.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/arss/arss/0.2.3/arss-0.2.3-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arss.rb)]
 - [ ] artifactory [[homepage](https://www.jfrog.com/artifactory/)] [head] [[stable](https://dl.bintray.com/jfrog/artifactory/jfrog-artifactory-oss-6.23.0.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/artifactory.rb)]
+- [x] arturo: MIT
 - [ ] arx-libertatis: GPL-3.0 (deprecated) [[homepage](https://arx-libertatis.org/)] [[head](https://github.com/arx/ArxLibertatis.git)] [[stable](https://arx-libertatis.org/files/arx-libertatis-1.1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arx-libertatis.rb)]
 - [x] ascii: BSD-2-Clause
 - [ ] asciidoc: GPL-2.0 (deprecated) [[homepage](https://asciidoc.org/)] [[head](https://github.com/asciidoc/asciidoc-py3.git)] [[stable](https://github.com/asciidoc/asciidoc-py3/archive/9.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/asciidoc.rb)]
@@ -1313,7 +1314,7 @@
 - [ ] fdclone [[homepage](https://hp.vector.co.jp/authors/VA012337/soft/fd/)] [head] [[stable](http://www.unixusers.net/src/fdclone/FD-3.01j.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fdclone.rb)]
 - [ ] fdk-aac [[homepage](https://sourceforge.net/projects/opencore-amr/)] [[head](https://git.code.sf.net/p/opencore-amr/fdk-aac.git)] [[stable](https://downloads.sourceforge.net/project/opencore-amr/fdk-aac/fdk-aac-2.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fdk-aac.rb)]
 - [x] fdk-aac-encoder: Zlib
-- [ ] fdroidserver: AGPL-3.0 (deprecated) [[homepage](https://f-droid.org)] [head] [[stable](https://files.pythonhosted.org/packages/63/a9/327d10e876b7c5750564035151bae9f65268e3b6aa6163cd519f43b48bf3/fdroidserver-1.1.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fdroidserver.rb)]
+- [x] fdroidserver: AGPL-3.0-or-later
 - [x] fdupes: MIT
 - [ ] feedgnuplot: GPL-3.0 (deprecated) [[homepage](https://github.com/dkogan/feedgnuplot)] [head] [[stable](https://github.com/dkogan/feedgnuplot/archive/v1.55.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/feedgnuplot.rb)]
 - [x] feh: MIT-feh
@@ -2927,7 +2928,6 @@
 - [ ] lldpd [[homepage](https://vincentbernat.github.io/lldpd/)] [head] [[stable](https://media.luffy.cx/files/lldpd/lldpd-1.0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lldpd.rb)]
 - [x] llnode: MIT
 - [x] llvm: Apache-2.0
-- [x] llvm@6: NCSA
 - [x] llvm@7: NCSA
 - [x] llvm@8: NCSA
 - [x] llvm@9: Apache-2.0
@@ -3351,7 +3351,7 @@
 - [ ] ncview [[homepage](https://cirrus.ucsd.edu/ncview/)] [head] [[stable](ftp://cirrus.ucsd.edu/pub/ncview/ncview-2.1.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ncview.rb)]
 - [x] ndenv: MIT
 - [ ] ndiff: GPL-2.0 (deprecated) [[homepage](https://www.math.utah.edu/~beebe/software/ndiff/)] [head] [[stable](http://ftp.math.utah.edu/pub/misc/ndiff-2.00.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ndiff.rb)]
-- [ ] ndpi: LGPL-3.0 (deprecated) [[homepage](https://www.ntop.org/products/deep-packet-inspection/ndpi/)] [[head](https://github.com/ntop/nDPI.git)] [[stable](https://github.com/ntop/nDPI/archive/3.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ndpi.rb)]
+- [x] ndpi: LGPL-3.0-or-later
 - [ ] ne: GPL-3.0 (deprecated) [[homepage](https://github.com/vigna/ne)] [[head](https://github.com/vigna/ne.git)] [[stable](https://github.com/vigna/ne/archive/3.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ne.rb)]
 - [ ] neatvi [[homepage](https://repo.or.cz/neatvi.git)] [[head](https://repo.or.cz/neatvi.git)] [[stable](https://repo.or.cz/neatvi.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/neatvi.rb)]
 - [x] nebula: MIT
@@ -3780,6 +3780,7 @@
 - [x] picard-tools: MIT
 - [ ] picat [[homepage](http://picat-lang.org/)] [head] [[stable](http://picat-lang.org/download/picat28_6_src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/picat.rb)]
 - [x] pick: MIT
+- [x] pickle: BSD-3-Clause
 - [x] picoc: BSD-3-Clause
 - [ ] picocom: GPL-2.0 (deprecated) [[homepage](https://github.com/npat-efault/picocom)] [head] [[stable](https://github.com/npat-efault/picocom/archive/3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/picocom.rb)]
 - [x] pict: MIT
@@ -4053,6 +4054,7 @@
 - [ ] radare2: LGPL-3.0 (deprecated) [[homepage](https://radare.org)] [[head](https://github.com/radareorg/radare2.git)] [[stable](https://github.com/radareorg/radare2/archive/4.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/radare2.rb)]
 - [ ] ragel: GPL-2.0 (deprecated) [[homepage](https://www.colm.net/open-source/ragel/)] [head] [[stable](https://www.colm.net/files/ragel/ragel-6.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ragel.rb)]
 - [x] rails-completion: MIT
+- [x] rain: Apache-2.0
 - [x] rainbarf: Artistic-1.0
 - [x] rake-completion: MIT
 - [x] rakudo: Artistic-2.0

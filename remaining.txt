@@ -558,7 +558,6 @@ fcitx-remote-for-osx
 fcrackzip
 fdclone
 fdk-aac
-fdroidserver
 feedgnuplot
 fetchmail
 fex
@@ -1497,7 +1496,6 @@ ncp
 ncrack
 ncview
 ndiff
-ndpi
 ne
 neatvi
 nedit
