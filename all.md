@@ -1,6 +1,6 @@
-2869 / 5304 (54.1%) of formulae have a valid `license` stanza as of 2020-10-22 12:01:28 UTC.
+2869 / 5303 (54.1%) of formulae have a valid `license` stanza as of 2020-10-23 00:02:39 UTC.
 
-1210 / 5304 (22.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1210 / 5303 (22.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1585,7 +1585,7 @@
 - [x] gifski: AGPL-3.0-only
 - [x] gimme: MIT
 - [x] gimme-aws-creds: Apache-2.0
-- [ ] ginac: GPL-2.0 (deprecated) [[homepage](https://www.ginac.de/)] [head] [[stable](https://www.ginac.de/ginac-1.7.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ginac.rb)]
+- [ ] ginac: GPL-2.0 (deprecated) [[homepage](https://www.ginac.de/)] [head] [[stable](https://www.ginac.de/ginac-1.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ginac.rb)]
 - [x] gist: MIT
 - [x] gistit: MIT
 - [x] git: GPL-2.0-only
@@ -5167,7 +5167,6 @@
 - [ ] with-readline [[homepage](https://www.greenend.org.uk/rjk/sw/withreadline.html)] [head] [[stable](https://www.greenend.org.uk/rjk/sw/with-readline-0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/with-readline.rb)]
 - [ ] wla-dx: GPL-2.0 (deprecated) [[homepage](https://github.com/vhelin/wla-dx)] [head] [[stable](https://github.com/vhelin/wla-dx/archive/v9.11-fix-fix-fix.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wla-dx.rb)]
 - [ ] wmctrl [[homepage](https://sites.google.com/site/tstyblo/wmctrl)] [head] [[stable](https://sites.google.com/site/tstyblo/wmctrl/wmctrl-1.07.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wmctrl.rb)]
-- [ ] woboq_codebrowser [[homepage](https://code.woboq.org/)] [head] [[stable](https://github.com/woboq/woboq_codebrowser/archive/2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/woboq_codebrowser.rb)]
 - [x] woff2: MIT
 - [x] wolfmqtt: GPL-2.0-or-later
 - [x] wolfssl: GPL-2.0-or-later

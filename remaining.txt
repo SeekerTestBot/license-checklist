@@ -2323,7 +2323,6 @@ wirouter_keyrec
 with-readline
 wla-dx
 wmctrl
-woboq_codebrowser
 woof
 wordgrinder
 wordnet
