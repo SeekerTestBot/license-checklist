@@ -303,7 +303,6 @@ cmix
 cmuclmtk
 cmus
 cmusfm
-cntlm
 coccinelle
 codec2
 codespell

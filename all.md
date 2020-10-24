@@ -1,4 +1,4 @@
-2874 / 5306 (54.2%) of formulae have a valid `license` stanza as of 2020-10-24 00:02:19 UTC.
+2875 / 5306 (54.2%) of formulae have a valid `license` stanza as of 2020-10-24 12:01:35 UTC.
 
 1208 / 5306 (22.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -729,7 +729,7 @@
 - [ ] cmus: GPL-2.0 (deprecated) [[homepage](https://cmus.github.io/)] [[head](https://github.com/cmus/cmus.git)] [[stable](https://github.com/cmus/cmus/archive/v2.8.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cmus.rb)]
 - [ ] cmusfm: GPL-3.0 (deprecated) [[homepage](https://github.com/Arkq/cmusfm)] [head] [[stable](https://github.com/Arkq/cmusfm/archive/v0.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cmusfm.rb)]
 - [x] cnats: Apache-2.0
-- [ ] cntlm [[homepage](https://cntlm.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/cntlm/cntlm/cntlm%200.92.3/cntlm-0.92.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cntlm.rb)]
+- [x] cntlm: GPL-2.0-only
 - [x] cobalt: MIT
 - [ ] coccinelle: GPL-2.0 (deprecated) [[homepage](http://coccinelle.lip6.fr/)] [[head](https://github.com/coccinelle/coccinelle.git)] [[stable](https://github.com/coccinelle/coccinelle.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/coccinelle.rb)]
 - [x] cocoapods: MIT
@@ -2672,7 +2672,7 @@
 - [x] libmonome: ISC
 - [x] libmowgli: ISC
 - [ ] libmp3splt [[homepage](https://mp3splt.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/mp3splt/libmp3splt/0.9.2/libmp3splt-0.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmp3splt.rb)]
-- [ ] libmpc [[homepage](http://www.multiprecision.org/mpc/)] [head] [[stable](https://ftp.gnu.org/gnu/mpc/mpc-1.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmpc.rb)]
+- [ ] libmpc [[homepage](http://www.multiprecision.org/mpc/)] [head] [[stable](https://ftp.gnu.org/gnu/mpc/mpc-1.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmpc.rb)]
 - [ ] libmpd [[homepage](https://gmpc.wikia.com/wiki/Gnome_Music_Player_Client)] [head] [[stable](https://www.musicpd.org/download/libmpd/11.8.17/libmpd-11.8.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmpd.rb)]
 - [x] libmpdclient: BSD-3-Clause
 - [ ] libmpeg2: GPL-2.0 (deprecated) [[homepage](https://libmpeg2.sourceforge.io/)] [head] [[stable](https://libmpeg2.sourceforge.io/files/libmpeg2-0.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmpeg2.rb)]
@@ -3574,7 +3574,7 @@
 - [x] openjpeg: BSD-2-Clause
 - [ ] openkim-models [[homepage](https://openkim.org)] [head] [[stable](https://s3.openkim.org/archives/collection/openkim-models-2019-07-25.txz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openkim-models.rb)]
 - [x] openldap: OLDAP-2.8
-- [ ] openlibm [[homepage](https://openlibm.org)] [head] [[stable](https://github.com/JuliaMath/openlibm/archive/v0.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openlibm.rb)]
+- [ ] openlibm [[homepage](https://openlibm.org)] [head] [[stable](https://github.com/JuliaMath/openlibm/archive/v0.7.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openlibm.rb)]
 - [ ] openmotif: LGPL-2.1 (deprecated) [[homepage](https://motif.ics.com/motif)] [head] [[stable](https://downloads.sourceforge.net/project/motif/Motif%202.3.8%20Source%20Code/motif-2.3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openmotif.rb)]
 - [ ] openmsx: GPL-2.0 (deprecated) [[homepage](https://openmsx.org/)] [[head](https://github.com/openMSX/openMSX.git)] [[stable](https://github.com/openMSX/openMSX/releases/download/RELEASE_0_15_0/openmsx-0.15.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openmsx.rb)]
 - [x] openrct2: GPL-3.0-only
