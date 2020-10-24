@@ -1,6 +1,6 @@
-2873 / 5305 (54.2%) of formulae have a valid `license` stanza as of 2020-10-23 12:03:34 UTC.
+2874 / 5306 (54.2%) of formulae have a valid `license` stanza as of 2020-10-24 00:02:13 UTC.
 
-1208 / 5305 (22.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1208 / 5306 (22.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -890,7 +890,7 @@
 - [x] cwlogs: MIT
 - [x] cxxopts: MIT
 - [ ] cxxtest: LGPL-3.0 (deprecated) [[homepage](https://cxxtest.com/)] [head] [[stable](https://github.com/CxxTest/cxxtest/releases/download/4.4/cxxtest-4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cxxtest.rb)]
-- [ ] cypher-shell: GPL-3.0 (deprecated) [[homepage](https://github.com/neo4j/cypher-shell)] [head] [[stable](https://github.com/neo4j/cypher-shell/releases/download/4.1.2/cypher-shell.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cypher-shell.rb)]
+- [ ] cypher-shell: GPL-3.0 (deprecated) [[homepage](https://github.com/neo4j/cypher-shell)] [head] [[stable](https://github.com/neo4j/cypher-shell/releases/download/4.1.3/cypher-shell.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cypher-shell.rb)]
 - [ ] cython [[homepage](https://cython.org/)] [head] [[stable](https://files.pythonhosted.org/packages/6c/9f/f501ba9d178aeb1f5bf7da1ad5619b207c90ac235d9859961c11829d0160/Cython-0.29.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cython.rb)]
 - [x] czmq: MPL-2.0
 
@@ -1623,7 +1623,7 @@
 - [ ] git-ftp: GPL-3.0 (deprecated) [[homepage](https://git-ftp.github.io/)] [[head](https://github.com/git-ftp/git-ftp.git)] [[stable](https://github.com/git-ftp/git-ftp/archive/1.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-ftp.rb)]
 - [x] git-game: MIT
 - [x] git-gerrit: BSD-3-Clause
-- [ ] git-gui: GPL-2.0 (deprecated) [[homepage](https://git-scm.com)] [[head](https://github.com/git/git.git)] [[stable](https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.29.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-gui.rb)]
+- [ ] git-gui: GPL-2.0 (deprecated) [[homepage](https://git-scm.com)] [[head](https://github.com/git/git.git)] [[stable](https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.29.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-gui.rb)]
 - [ ] git-hooks [[homepage](https://github.com/icefox/git-hooks)] [[head](https://github.com/icefox/git-hooks.git)] [[stable](https://github.com/icefox/git-hooks/archive/1.00.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-hooks.rb)]
 - [x] git-hooks-go: MIT
 - [x] git-hound: MIT
@@ -2095,7 +2095,7 @@
 - [ ] ibex: LGPL-3.0 (deprecated) [[homepage](https://web.archive.org/web/20190826220512/www.ibex-lib.org/)] [[head](https://github.com/ibex-team/ibex-lib.git)] [[stable](https://github.com/ibex-team/ibex-lib/archive/ibex-2.8.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ibex.rb)]
 - [x] iblinter: MIT
 - [x] ical-buddy: MIT
-- [ ] icarus-verilog: LGPL-2.1 (deprecated) [[homepage](http://iverilog.icarus.com/)] [[head](https://github.com/steveicarus/iverilog.git)] [[stable](https://github.com/steveicarus/iverilog/archive/v10_3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icarus-verilog.rb)]
+- [ ] icarus-verilog: LGPL-2.1 (deprecated) [[homepage](http://iverilog.icarus.com/)] [[head](https://github.com/steveicarus/iverilog.git)] [[stable](https://github.com/steveicarus/iverilog/archive/v11_0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icarus-verilog.rb)]
 - [ ] icbirc [[homepage](https://www.benzedrine.ch/icbirc.html)] [head] [[stable](https://www.benzedrine.ch/icbirc-2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icbirc.rb)]
 - [x] icdiff: PSF-2.0
 - [ ] ice: GPL-2.0 (deprecated) [[homepage](https://zeroc.com)] [head] [[stable](https://github.com/zeroc-ice/ice/archive/v3.7.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ice.rb)]
@@ -5085,6 +5085,7 @@
 - [x] vim: Vim
 - [ ] vimpager [[homepage](https://github.com/rkitover/vimpager)] [[head](https://github.com/rkitover/vimpager.git)] [[stable](https://github.com/rkitover/vimpager/archive/2.06.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vimpager.rb)]
 - [ ] vimpc: GPL-3.0 (deprecated) [[homepage](https://sourceforge.net/projects/vimpc/)] [[head](https://github.com/boysetsfrog/vimpc.git)] [[stable](https://github.com/boysetsfrog/vimpc/archive/v0.09.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vimpc.rb)]
+- [x] vint: MIT
 - [ ] vip [[homepage](https://www.cs.duke.edu/~des/vip.html)] [head] [[stable](https://www.cs.duke.edu/~des/scripts/vip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vip.rb)]
 - [x] vips: LGPL-2.1-or-later
 - [x] virgil: BSD-3-Clause
