@@ -1828,7 +1828,6 @@ rawgl
 rbenv-use
 rbenv-whatis
 rc
-rcs
 rdate
 rdesktop
 rdfind

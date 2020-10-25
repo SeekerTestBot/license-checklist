@@ -1,4 +1,4 @@
-2884 / 5309 (54.3%) of formulae have a valid `license` stanza as of 2020-10-25 12:01:22 UTC.
+2885 / 5309 (54.3%) of formulae have a valid `license` stanza as of 2020-10-25 17:17:52 UTC.
 
 1203 / 5309 (22.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -2453,7 +2453,7 @@
 - [ ] lbdb: GPL-2.0 (deprecated) [[homepage](https://www.spinnaker.de/lbdb/)] [head] [[stable](https://www.spinnaker.de/lbdb/download/lbdb_0.48.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lbdb.rb)]
 - [ ] lbzip2: GPL-3.0 (deprecated) [[homepage](https://github.com/kjn/lbzip2)] [head] [[stable](https://web.archive.org/web/20170304050514/archive.lbzip2.org/lbzip2-2.5.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lbzip2.rb)]
 - [x] lc0: GPL-3.0-or-later
-- [ ] lcdf-typetools: GPL-2.0 (deprecated) [[homepage](https://www.lcdf.org/type/)] [head] [[stable](https://www.lcdf.org/type/lcdf-typetools-2.108.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lcdf-typetools.rb)]
+- [ ] lcdf-typetools: GPL-2.0 (deprecated) [[homepage](https://www.lcdf.org/type/)] [[head](https://github.com/kohler/lcdf-typetools.git)] [[stable](https://www.lcdf.org/type/lcdf-typetools-2.108.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lcdf-typetools.rb)]
 - [ ] lcdproc: GPL-2.0 (deprecated) [[homepage](http://www.lcdproc.org/)] [head] [[stable](https://github.com/lcdproc/lcdproc/releases/download/v0.5.9/lcdproc-0.5.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lcdproc.rb)]
 - [ ] lci: GPL-2.0 (deprecated) [[homepage](https://lci.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lci/lci/0.6/lci-0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lci.rb)]
 - [ ] lcm: LGPL-2.1 (deprecated) [[homepage](https://lcm-proj.github.io/)] [[head](https://github.com/lcm-proj/lcm.git)] [[stable](https://github.com/lcm-proj/lcm/releases/download/v1.4.0/lcm-1.4.0.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lcm.rb)]
@@ -3235,7 +3235,7 @@
 - [ ] mongoose: GPL-2.0 (deprecated) [[homepage](https://github.com/cesanta/mongoose)] [head] [[stable](https://github.com/cesanta/mongoose/archive/6.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mongoose.rb)]
 - [x] mongrel2: BSD-3-Clause
 - [ ] mongroup [[homepage](https://github.com/jgallen23/mongroup)] [head] [[stable](https://github.com/jgallen23/mongroup/archive/0.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mongroup.rb)]
-- [ ] monit [[homepage](https://mmonit.com/monit/)] [head] [[stable](https://mmonit.com/monit/dist/monit-5.27.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monit.rb)]
+- [ ] monit [[homepage](https://mmonit.com/monit/)] [head] [[stable](https://mmonit.com/monit/dist/monit-5.27.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monit.rb)]
 - [ ] monitoring-plugins [[homepage](https://www.monitoring-plugins.org)] [head] [[stable](https://www.monitoring-plugins.org/download/monitoring-plugins-2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monitoring-plugins.rb)]
 - [ ] monkeysphere [[homepage](https://web.monkeysphere.info/)] [[head](git://git.monkeysphere.info/monkeysphere)] [[stable](https://deb.debian.org/debian/pool/main/m/monkeysphere/monkeysphere_0.44.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monkeysphere.rb)]
 - [x] mono: MIT
@@ -3633,7 +3633,7 @@
 - [x] or-tools: Apache-2.0
 - [ ] orbit [[homepage](https://projects.gnome.org/ORBit2)] [head] [[stable](https://download.gnome.org/sources/ORBit2/2.14/ORBit2-2.14.19.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orbit.rb)]
 - [ ] orc [[homepage](https://cgit.freedesktop.org/gstreamer/orc/)] [head] [[stable](https://gstreamer.freedesktop.org/src/orc/orc-0.4.32.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc.rb)]
-- [ ] orc-tools [[homepage](https://orc.apache.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/apache/orc/orc-tools/1.6.3/orc-tools-1.6.3-uber.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc-tools.rb)]
+- [ ] orc-tools [[homepage](https://orc.apache.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/apache/orc/orc-tools/1.6.5/orc-tools-1.6.5-uber.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc-tools.rb)]
 - [ ] ori [[homepage](http://ori.scs.stanford.edu/)] [head] [[stable](https://bitbucket.org/orifs/ori/downloads/ori-0.8.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ori.rb)]
 - [x] orientdb: Apache-2.0
 - [x] ormolu: BSD-3-Clause
@@ -4132,7 +4132,7 @@
 - [ ] rc [[homepage](http://doc.cat-v.org/plan_9/4th_edition/papers/rc)] [head] [[stable](http://static.tobold.org/rc/rc-1.7.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rc.rb)]
 - [x] rclone: MIT
 - [x] rcm: BSD-3-Clause
-- [ ] rcs [[homepage](https://www.gnu.org/software/rcs/)] [head] [[stable](https://ftp.gnu.org/gnu/rcs/rcs-5.9.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rcs.rb)]
+- [x] rcs: GPL-3.0-or-later
 - [ ] rdate: GPL-2.0 (deprecated) [[homepage](https://www.aelius.com/njh/rdate/)] [head] [[stable](https://www.aelius.com/njh/rdate/rdate-1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rdate.rb)]
 - [ ] rdesktop: GPL-3.0 (deprecated) [[homepage](https://www.rdesktop.org/)] [head] [[stable](https://github.com/rdesktop/rdesktop/releases/download/v1.9.0/rdesktop-1.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rdesktop.rb)]
 - [ ] rdfind [[homepage](https://rdfind.pauldreik.se/)] [head] [[stable](https://rdfind.pauldreik.se/rdfind-1.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rdfind.rb)]
