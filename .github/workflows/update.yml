@@ -29,3 +29,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update checklists
+          commit_user_name: SeekerTestBot
+          commit_user_email: 68891797+SeekerTestBot@users.noreply.github.com
+          commit_author: SeekerTestBot <68891797+SeekerTestBot@users.noreply.github.com>
