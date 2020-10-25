@@ -1158,7 +1158,6 @@ liblwgeom
 liblzf
 libmaa
 libmagic
-libmatio
 libmatroska
 libmemcached
 libmicrohttpd
@@ -1459,7 +1458,6 @@ msitools
 msktutil
 mspdebug
 mtoc
-mtools
 multitail
 mupdf
 mupdf-tools

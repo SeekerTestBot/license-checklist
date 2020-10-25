@@ -1,6 +1,6 @@
-2875 / 5306 (54.2%) of formulae have a valid `license` stanza as of 2020-10-24 12:01:28 UTC.
+2879 / 5308 (54.2%) of formulae have a valid `license` stanza as of 2020-10-25 00:01:57 UTC.
 
-1208 / 5306 (22.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1207 / 5308 (22.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1675,6 +1675,7 @@
 - [x] gitlab-runner: MIT
 - [x] gitleaks: MIT
 - [x] gitless: MIT
+- [x] gitlint: MIT
 - [x] gitmoji: MIT
 - [x] gitql: MIT
 - [ ] gitslave [[homepage](https://gitslave.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/gitslave/gitslave-2.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gitslave.rb)]
@@ -2200,6 +2201,7 @@
 - [x] isc-dhcp: MPL-2.0
 - [x] isl: MIT
 - [ ] iso-codes: LGPL-2.1 (deprecated) [[homepage](https://salsa.debian.org/iso-codes-team/iso-codes)] [[head](https://salsa.debian.org/iso-codes-team/iso-codes.git)] [[stable](https://deb.debian.org/debian/pool/main/i/iso-codes/iso-codes_4.5.0.orig.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/iso-codes.rb)]
+- [x] isort: MIT
 - [x] ispc: BSD-3-Clause
 - [ ] ispell [[homepage](https://www.cs.hmc.edu/~geoff/ispell.html)] [head] [[stable](https://www.cs.hmc.edu/~geoff/tars/ispell-3.4.00.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ispell.rb)]
 - [x] istioctl: Apache-2.0
@@ -2678,7 +2680,7 @@
 - [ ] liblzf [[homepage](http://oldhome.schmorp.de/marc/liblzf.html)] [head] [[stable](http://dist.schmorp.de/liblzf/liblzf-3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liblzf.rb)]
 - [ ] libmaa [[homepage](http://www.dict.org/)] [head] [[stable](https://downloads.sourceforge.net/project/dict/libmaa/libmaa-1.4.7/libmaa-1.4.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmaa.rb)]
 - [ ] libmagic [[homepage](https://www.darwinsys.com/file/)] [head] [[stable](https://astron.com/pub/file/file-5.39.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmagic.rb)]
-- [ ] libmatio [[homepage](https://matio.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/matio/matio/1.5.17/matio-1.5.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmatio.rb)]
+- [x] libmatio: BSD-2-Clause
 - [ ] libmatroska: LGPL-2.1 (deprecated) [[homepage](https://www.matroska.org/)] [[head](https://github.com/Matroska-Org/libmatroska.git)] [[stable](https://dl.matroska.org/downloads/libmatroska/libmatroska-1.6.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmatroska.rb)]
 - [x] libmaxminddb: Apache-2.0
 - [ ] libmemcached [[homepage](https://libmemcached.org/)] [head] [[stable](https://launchpad.net/libmemcached/1.0/1.0.18/+download/libmemcached-1.0.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmemcached.rb)]
@@ -3302,7 +3304,7 @@
 - [ ] mspdebug: GPL-2.0 (deprecated) [[homepage](https://dlbeer.co.nz/mspdebug/)] [[head](https://github.com/dlbeer/mspdebug.git)] [[stable](https://github.com/dlbeer/mspdebug/archive/v0.25.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mspdebug.rb)]
 - [x] mstch: MIT
 - [ ] mtoc [[homepage](https://opensource.apple.com/source/cctools/cctools-949.0.1/)] [head] [[stable](https://opensource.apple.com/tarballs/cctools/cctools-949.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mtoc.rb)]
-- [ ] mtools: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/mtools/)] [head] [[stable](https://ftp.gnu.org/gnu/mtools/mtools-4.0.24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mtools.rb)]
+- [x] mtools: GPL-3.0-or-later
 - [x] mtr: GPL-2.0-only
 - [x] mu: GPL-3.0-or-later
 - [x] mujs: ISC
@@ -3329,8 +3331,8 @@
 - [ ] mysql-connector-c++@1.1 [[homepage](https://dev.mysql.com/downloads/connector/cpp/)] [head] [[stable](https://dev.mysql.com/get/Downloads/Connector-C++/mysql-connector-c++-1.1.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-connector-c++@1.1.rb)]
 - [x] mysql-sandbox: Apache-2.0
 - [ ] mysql-search-replace: GPL-3.0 (deprecated) [[homepage](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/)] [head] [[stable](https://github.com/interconnectit/Search-Replace-DB/archive/4.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-search-replace.rb)]
-- [ ] mysql@5.6: GPL-2.0 (deprecated) [[homepage](https://dev.mysql.com/doc/refman/5.6/en/)] [head] [[stable](https://dev.mysql.com/get/Downloads/MySQL-5.6/mysql-5.6.47.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql@5.6.rb)]
-- [ ] mysql@5.7: GPL-2.0 (deprecated) [[homepage](https://dev.mysql.com/doc/refman/5.7/en/)] [head] [[stable](https://cdn.mysql.com/Downloads/MySQL-5.7/mysql-boost-5.7.31.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql@5.7.rb)]
+- [ ] mysql@5.6: GPL-2.0 (deprecated) [[homepage](https://dev.mysql.com/doc/refman/5.6/en/)] [head] [[stable](https://dev.mysql.com/get/Downloads/MySQL-5.6/mysql-5.6.50.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql@5.6.rb)]
+- [ ] mysql@5.7: GPL-2.0 (deprecated) [[homepage](https://dev.mysql.com/doc/refman/5.7/en/)] [head] [[stable](https://cdn.mysql.com/Downloads/MySQL-5.7/mysql-boost-5.7.32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql@5.7.rb)]
 - [ ] mysqltuner: GPL-3.0 (deprecated) [[homepage](https://raw.github.com/major/MySQLTuner-perl/master/mysqltuner.pl)] [[head](https://github.com/major/MySQLTuner-perl.git)] [[stable](https://github.com/major/MySQLTuner-perl/archive/1.7.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysqltuner.rb)]
 - [ ] mytop [[homepage](http://www.mysqlfanboy.com/mytop-3/)] [head] [[stable](http://www.mysqlfanboy.com/mytop-3/mytop-1.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mytop.rb)]
 
@@ -5218,7 +5220,7 @@
 - [x] wolfmqtt: GPL-2.0-or-later
 - [x] wolfssl: GPL-2.0-or-later
 - [ ] woof [[homepage](http://www.home.unix-ag.org/simon/woof.html)] [head] [[stable](http://www.home.unix-ag.org/simon/woof-2012-05-31.py)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/woof.rb)]
-- [ ] wordgrinder [[homepage](https://cowlark.com/wordgrinder)] [[head](https://github.com/davidgiven/wordgrinder.git)] [[stable](https://github.com/davidgiven/wordgrinder/archive/0.7.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordgrinder.rb)]
+- [ ] wordgrinder [[homepage](https://cowlark.com/wordgrinder)] [[head](https://github.com/davidgiven/wordgrinder.git)] [[stable](https://github.com/davidgiven/wordgrinder/archive/0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordgrinder.rb)]
 - [ ] wordnet [[homepage](https://wordnet.princeton.edu/)] [head] [[stable](https://wordnetcode.princeton.edu/3.0/WordNet-3.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordnet.rb)]
 - [ ] wordplay [[homepage](http://hsvmovies.com/static_subpages/personal_orig/wordplay/index.html)] [head] [[stable](http://hsvmovies.com/static_subpages/personal_orig/wordplay/wordplay722.tar.Z)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordplay.rb)]
 - [x] wownero: BSD-3-Clause
