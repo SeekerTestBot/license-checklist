@@ -1,6 +1,6 @@
-2879 / 5308 (54.2%) of formulae have a valid `license` stanza as of 2020-10-25 00:02:04 UTC.
+2884 / 5309 (54.3%) of formulae have a valid `license` stanza as of 2020-10-25 12:01:29 UTC.
 
-1207 / 5308 (22.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1203 / 5309 (22.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2269,7 +2269,7 @@
 - [ ] jpegoptim: GPL-2.0 (deprecated) [[homepage](https://github.com/tjko/jpegoptim)] [[head](https://github.com/tjko/jpegoptim.git)] [[stable](https://github.com/tjko/jpegoptim/archive/RELEASE.1.4.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jpegoptim.rb)]
 - [ ] jpegrescan [[homepage](https://github.com/kud/jpegrescan)] [[head](https://github.com/kud/jpegrescan.git)] [[stable](https://github.com/kud/jpegrescan/archive/1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jpegrescan.rb)]
 - [x] jq: MIT
-- [ ] jrnl: GPL-3.0 (deprecated) [[homepage](https://jrnl.sh/)] [head] [[stable](https://files.pythonhosted.org/packages/be/56/20e494eb2a7be914f05c43048ed1e42bc3eb34515319aa1a72e5fabb7d98/jrnl-2.4.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jrnl.rb)]
+- [x] jrnl: GPL-3.0-only
 - [ ] jrtplib [[homepage](https://research.edm.uhasselt.be/jori/jrtplib)] [head] [[stable](https://research.edm.uhasselt.be/jori/jrtplib/jrtplib-3.11.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jrtplib.rb)]
 - [x] jruby: `{:any_of=>["EPL-2.0", "GPL-2.0-only", "LGPL-2.1-only"]}`
 - [x] jsawk: BSD-3-Clause
@@ -2480,7 +2480,7 @@
 - [ ] libarchive [[homepage](https://www.libarchive.org)] [head] [[stable](https://www.libarchive.org/downloads/libarchive-3.4.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libarchive.rb)]
 - [ ] libart [[homepage](https://people.gnome.org/~mathieu/libart/libart.html)] [head] [[stable](https://download.gnome.org/sources/libart_lgpl/2.3/libart_lgpl-2.3.21.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libart.rb)]
 - [x] libass: ISC
-- [ ] libassuan: GPL-3.0 (deprecated) [[homepage](https://www.gnupg.org/related_software/libassuan/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/libassuan/libassuan-2.5.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libassuan.rb)]
+- [x] libassuan: GPL-3.0-only
 - [ ] libatomic_ops: GPL-2.0 (deprecated) [[homepage](https://github.com/ivmai/libatomic_ops/)] [head] [[stable](https://github.com/ivmai/libatomic_ops/releases/download/v7.6.10/libatomic_ops-7.6.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libatomic_ops.rb)]
 - [ ] libav: GPL-2.0 (deprecated) [[homepage](https://libav.org/)] [[head](https://git.libav.org/libav.git)] [[stable](https://libav.org/releases/libav-12.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libav.rb)]
 - [x] libb2: CC0-1.0
@@ -2588,7 +2588,7 @@
 - [ ] libgadu: LGPL-2.1 (deprecated) [[homepage](https://libgadu.net/)] [head] [[stable](https://github.com/wojtekka/libgadu/releases/download/1.12.2/libgadu-1.12.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgadu.rb)]
 - [ ] libgaiagraphics [[homepage](https://www.gaia-gis.it/fossil/libgaiagraphics/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/gaiagraphics-sources/libgaiagraphics-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgaiagraphics.rb)]
 - [x] libgccjit: `{"GPL-3.0-or-later"=>{:with=>"GCC-exception-3.1"}}`
-- [ ] libgcrypt: GPL-2.0 (deprecated) [[homepage](https://gnupg.org/related_software/libgcrypt/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/libgcrypt/libgcrypt-1.8.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgcrypt.rb)]
+- [x] libgcrypt: GPL-2.0-only
 - [ ] libgda: GPL-2.0 (deprecated) [[homepage](https://www.gnome-db.org/)] [head] [[stable](https://download.gnome.org/sources/libgda/5.2/libgda-5.2.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgda.rb)]
 - [ ] libgdata [[homepage](https://wiki.gnome.org/Projects/libgdata)] [head] [[stable](https://download.gnome.org/sources/libgdata/0.16/libgdata-0.16.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgdata.rb)]
 - [ ] libgee: LGPL-2.1 (deprecated) [[homepage](https://wiki.gnome.org/Projects/Libgee)] [head] [[stable](https://download.gnome.org/sources/libgee/0.20/libgee-0.20.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgee.rb)]
@@ -3650,7 +3650,7 @@
 - [x] packer: MPL-2.0
 - [x] packer-completion: MIT
 - [x] packetbeat: Apache-2.0
-- [ ] packetq: GPL-3.0 (deprecated) [[homepage](https://www.dns-oarc.net/tools/packetq)] [head] [[stable](https://www.dns-oarc.net/files/packetq/packetq-1.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/packetq.rb)]
+- [x] packetq: GPL-3.0-or-later
 - [x] packmol: MIT
 - [x] packr: MIT
 - [ ] pacman4console: GPL-2.0 (deprecated) [[homepage](https://sites.google.com/site/doctormike/pacman.html)] [head] [[stable](https://sites.google.com/site/doctormike/pacman-1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pacman4console.rb)]
@@ -4705,6 +4705,7 @@
 - [x] taskd: MIT
 - [x] taskell: BSD-3-Clause
 - [x] tasksh: MIT
+- [x] taskwarrior-tui: MIT
 - [ ] tass64 [[homepage](https://tass64.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/tass64/source/64tass-1.55.2200-src.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tass64.rb)]
 - [x] tbb: Apache-2.0
 - [x] tbox: Apache-2.0

@@ -965,7 +965,6 @@ jp2a
 jpeginfo
 jpegoptim
 jpegrescan
-jrnl
 jrtplib
 jslint4java
 jsmin
@@ -1041,7 +1040,6 @@ libagg
 libao
 libarchive
 libart
-libassuan
 libatomic_ops
 libav
 libb64
@@ -1111,7 +1109,6 @@ libftdi
 libftdi0
 libgadu
 libgaiagraphics
-libgcrypt
 libgda
 libgdata
 libgee
@@ -1631,7 +1628,6 @@ oysttyer
 p0f
 p7zip
 pachi
-packetq
 pacman4console
 pacparser
 pacvim
