@@ -1,6 +1,6 @@
-2885 / 5309 (54.3%) of formulae have a valid `license` stanza as of 2020-10-25 17:17:52 UTC.
+2886 / 5309 (54.4%) of formulae have a valid `license` stanza as of 2020-10-26 00:02:08 UTC.
 
-1203 / 5309 (22.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1202 / 5309 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -2940,7 +2940,7 @@
 - [x] liquibase: Apache-2.0
 - [x] liquid-dsp: MIT
 - [ ] liquidctl: GPL-3.0 (deprecated) [[homepage](https://github.com/jonasmalacofilho/liquidctl)] [[head](https://github.com/jonasmalacofilho/liquidctl.git)] [[stable](https://files.pythonhosted.org/packages/7d/92/5f6eb3f70e4de0241301927593a12e4622e89a9445f5e87bdbb19ddd5a62/liquidctl-1.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liquidctl.rb)]
-- [ ] liquidprompt: AGPL-3.0 (deprecated) [[homepage](https://github.com/nojhan/liquidprompt)] [[head](https://github.com/nojhan/liquidprompt.git)] [[stable](https://github.com/nojhan/liquidprompt/archive/v1.12.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liquidprompt.rb)]
+- [x] liquidprompt: AGPL-3.0-or-later
 - [x] liquigraph: Apache-2.0
 - [x] litecli: BSD-3-Clause
 - [x] literate-git: GPL-3.0-or-later

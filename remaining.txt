@@ -1268,7 +1268,6 @@ link-grammar
 linklint
 links
 liquidctl
-liquidprompt
 livestreamer
 lizard
 lldpd
