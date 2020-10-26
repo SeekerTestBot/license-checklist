@@ -1,6 +1,6 @@
-2886 / 5309 (54.4%) of formulae have a valid `license` stanza as of 2020-10-26 00:02:08 UTC.
+2889 / 5310 (54.4%) of formulae have a valid `license` stanza as of 2020-10-26 12:03:00 UTC.
 
-1202 / 5309 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1200 / 5310 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1528,7 +1528,7 @@
 - [ ] gcviewer: LGPL-2.1 (deprecated) [[homepage](https://github.com/chewiebug/GCViewer)] [head] [[stable](https://downloads.sourceforge.net/project/gcviewer/gcviewer-1.36.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcviewer.rb)]
 - [ ] gd [[homepage](https://libgd.github.io/)] [[head](https://github.com/libgd/libgd.git)] [[stable](https://github.com/libgd/libgd/releases/download/gd-2.3.0/libgd-2.3.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gd.rb)]
 - [x] gdal: MIT
-- [ ] gdb: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/gdb/)] [[head](https://sourceware.org/git/binutils-gdb.git)] [[stable](https://ftp.gnu.org/gnu/gdb/gdb-9.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gdb.rb)]
+- [x] gdb: GPL-3.0-or-later
 - [x] gdbgui: GPL-3.0-only
 - [ ] gdbm: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gdbm/)] [head] [[stable](https://ftp.gnu.org/gnu/gdbm/gdbm-1.18.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gdbm.rb)]
 - [x] gdcm: BSD-3-Clause
@@ -2087,7 +2087,7 @@
 - [ ] i2p [[homepage](https://geti2p.net)] [head] [[stable](https://download.i2p2.de/releases/0.9.47/i2pinstall_0.9.47.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i2p.rb)]
 - [x] i2pd: BSD-3-Clause
 - [ ] i2util [[homepage](https://software.internet2.edu/)] [head] [[stable](https://software.internet2.edu/sources/I2util/I2util-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i2util.rb)]
-- [ ] i386-elf-gdb: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/gdb/)] [[head](https://sourceware.org/git/binutils-gdb.git)] [[stable](https://ftp.gnu.org/gnu/gdb/gdb-9.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i386-elf-gdb.rb)]
+- [x] i386-elf-gdb: GPL-3.0-or-later
 - [ ] i686-elf-binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i686-elf-binutils.rb)]
 - [ ] i686-elf-gcc: GPL-2.0 (deprecated) [[homepage](https://gcc.gnu.org)] [head] [[stable](https://ftp.gnu.org/gnu/gcc/gcc-10.2.0/gcc-10.2.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i686-elf-gcc.rb)]
 - [x] iam-policy-json-to-terraform: Apache-2.0
@@ -2799,6 +2799,7 @@
 - [ ] libsigsegv: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/libsigsegv/)] [head] [[stable](https://ftp.gnu.org/gnu/libsigsegv/libsigsegv-2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsigsegv.rb)]
 - [ ] libsixel [[homepage](https://github.com/saitoha/sixel)] [head] [[stable](https://github.com/saitoha/libsixel/releases/download/v1.8.6/libsixel-1.8.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsixel.rb)]
 - [x] libslax: BSD-3-Clause
+- [x] libslirp: BSD-3-Clause
 - [x] libsm: MIT
 - [ ] libsmf [[homepage](https://sourceforge.net/projects/libsmf/)] [head] [[stable](https://downloads.sourceforge.net/project/libsmf/libsmf/1.3/libsmf-1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsmf.rb)]
 - [ ] libsmi [[homepage](https://www.ibr.cs.tu-bs.de/projects/libsmi/)] [head] [[stable](https://www.ibr.cs.tu-bs.de/projects/libsmi/download/libsmi-0.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsmi.rb)]

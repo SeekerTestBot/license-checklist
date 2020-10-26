@@ -645,7 +645,6 @@ gcore
 gcutil
 gcviewer
 gd
-gdb
 gdbm
 gdk-pixbuf
 gdl
@@ -869,7 +868,6 @@ hyperestraier
 hyperspec
 i2p
 i2util
-i386-elf-gdb
 i686-elf-binutils
 i686-elf-gcc
 iat
