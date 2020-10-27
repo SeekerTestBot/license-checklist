@@ -1,6 +1,6 @@
-2891 / 5311 (54.4%) of formulae have a valid `license` stanza as of 2020-10-27 00:02:08 UTC.
+2892 / 5312 (54.4%) of formulae have a valid `license` stanza as of 2020-10-27 12:01:30 UTC.
 
-1199 / 5311 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1199 / 5312 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -338,7 +338,7 @@
 - [x] bde: Apache-2.0
 - [x] bdw-gc: MIT
 - [ ] beagle: LGPL-3.0 (deprecated) [[homepage](https://github.com/beagle-dev/beagle-lib)] [head] [[stable](https://github.com/beagle-dev/beagle-lib/archive/v3.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/beagle.rb)]
-- [ ] beancount: GPL-2.0 (deprecated) [[homepage](http://furius.ca/beancount/)] [[head](https://github.com/beancount/beancount.git)] [[stable](https://files.pythonhosted.org/packages/34/16/41f47df1a7929addab1c75a0f8905890827f00694d4de9d10c83bd5799ff/beancount-2.3.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/beancount.rb)]
+- [ ] beancount: GPL-2.0 (deprecated) [[homepage](http://furius.ca/beancount/)] [[head](https://github.com/beancount/beancount.git)] [[stable](https://files.pythonhosted.org/packages/d4/77/5a50f2082fa837deabac7a2da7e477a3db3c7dc907b8e815e7134fa65e91/beancount-2.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/beancount.rb)]
 - [x] beansdb: BSD-3-Clause
 - [x] beanstalkd: MIT
 - [x] bear: GPL-3.0-or-later
@@ -380,6 +380,7 @@
 - [x] bison: GPL-3.0-or-later
 - [ ] bison@2.7 [[homepage](https://www.gnu.org/software/bison/)] [head] [[stable](https://ftp.gnu.org/gnu/bison/bison-2.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bison@2.7.rb)]
 - [x] bit: Apache-2.0
+- [x] bit-git: Apache-2.0
 - [ ] bitchx [[homepage](https://bitchx.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/bitchx/ircii-pana/bitchx-1.2.1/bitchx-1.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitchx.rb)]
 - [x] bitcoin: MIT
 - [ ] bitlbee: GPL-2.0 (deprecated) [[homepage](https://www.bitlbee.org/)] [[head](https://github.com/bitlbee/bitlbee.git)] [[stable](https://get.bitlbee.org/src/bitlbee-3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitlbee.rb)]
@@ -4533,7 +4534,7 @@
 - [x] sonobuoy: Apache-2.0
 - [x] sops: MPL-2.0
 - [x] sord: ISC
-- [ ] sound-touch: LGPL-2.1 (deprecated) [[homepage](https://www.surina.net/soundtouch/)] [head] [[stable](https://gitlab.com/soundtouch/soundtouch/-/archive/2.1.2/soundtouch-2.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sound-touch.rb)]
+- [ ] sound-touch: LGPL-2.1 (deprecated) [[homepage](https://www.surina.net/soundtouch/)] [head] [[stable](https://gitlab.com/soundtouch/soundtouch/-/archive/2.2/soundtouch-2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sound-touch.rb)]
 - [x] soundpipe: MIT
 - [ ] source-highlight [[homepage](https://www.gnu.org/software/src-highlite/)] [head] [[stable](https://ftp.gnu.org/gnu/src-highlite/source-highlight-3.1.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/source-highlight.rb)]
 - [x] source-to-image: Apache-2.0
