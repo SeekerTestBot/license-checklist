@@ -1,6 +1,6 @@
-2889 / 5310 (54.4%) of formulae have a valid `license` stanza as of 2020-10-26 12:03:07 UTC.
+2891 / 5311 (54.4%) of formulae have a valid `license` stanza as of 2020-10-27 00:02:15 UTC.
 
-1200 / 5310 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1199 / 5311 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1394,6 +1394,7 @@
 - [ ] fmsx [[homepage](https://fms.komkon.org/fMSX/)] [head] [[stable](https://fms.komkon.org/fMSX/fMSX54.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fmsx.rb)]
 - [x] fmt: MIT
 - [x] fn: Apache-2.0
+- [x] fnm: GPL-3.0-only
 - [x] fobis: GPL-3.0-or-later
 - [x] folderify: MIT
 - [x] folly: Apache-2.0
@@ -3845,7 +3846,7 @@
 - [ ] pngcrush [[homepage](https://pmt.sourceforge.io/pngcrush)] [head] [[stable](https://downloads.sourceforge.net/project/pmt/pngcrush/1.8.13/pngcrush-1.8.13.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pngcrush.rb)]
 - [ ] pngnq [[homepage](https://pngnq.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pngnq/pngnq/1.1/pngnq-1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pngnq.rb)]
 - [x] pngpaste: BSD-2-Clause
-- [ ] pngquant: GPL-3.0 (deprecated) [[homepage](https://pngquant.org/)] [[head](https://github.com/kornelski/pngquant.git)] [[stable](https://pngquant.org/pngquant-2.13.0-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pngquant.rb)]
+- [x] pngquant: `cannot_represent`
 - [x] pnpm: MIT
 - [ ] po4a: GPL-2.0 (deprecated) [[homepage](https://po4a.org)] [[head](https://github.com/mquinson/po4a.git)] [[stable](https://github.com/mquinson/po4a/releases/download/v0.61/po4a-0.61.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/po4a.rb)]
 - [x] poco: BSL-1.0
