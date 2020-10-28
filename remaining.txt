@@ -34,7 +34,6 @@ alluxio
 alot
 alure
 amap
-amdatu-bootstrap
 amp
 amtterm
 analog
@@ -741,7 +740,6 @@ gnuski
 gnustep-make
 gobo
 gocr
-golangci-lint
 gom
 goocanvas
 google-sql-tool
