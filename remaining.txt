@@ -1467,7 +1467,6 @@ mysql++
 mysql-client
 mysql-client@5.7
 mysql-connector-c++
-mysql-connector-c++@1.1
 mysql-search-replace
 mysql@5.6
 mysql@5.7
@@ -1667,7 +1666,6 @@ pdfpc
 pdfsandwich
 pdftohtml
 pdnsd
-pdnsrec
 pdsh
 peg
 perceptualdiff

@@ -1,6 +1,6 @@
-2892 / 5312 (54.4%) of formulae have a valid `license` stanza as of 2020-10-27 12:01:38 UTC.
+2892 / 5310 (54.5%) of formulae have a valid `license` stanza as of 2020-10-28 00:02:15 UTC.
 
-1199 / 5312 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1198 / 5310 (22.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -422,9 +422,7 @@
 - [x] boost-mpi: BSL-1.0
 - [x] boost-python: BSL-1.0
 - [x] boost-python3: BSL-1.0
-- [x] boost@1.55: BSL-1.0
 - [x] boost@1.57: BSL-1.0
-- [x] boost@1.59: BSL-1.0
 - [x] boost@1.60: BSL-1.0
 - [x] boot-clj: EPL-1.0
 - [ ] bootloadhid [[homepage](https://www.obdev.at/products/vusb/bootloadhid.html)] [head] [[stable](https://www.obdev.at/downloads/vusb/bootloadHID.2012-12-08.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bootloadhid.rb)]
@@ -3307,7 +3305,6 @@
 - [ ] mysql-client [[homepage](https://dev.mysql.com/doc/refman/8.0/en/)] [head] [[stable](https://cdn.mysql.com/Downloads/MySQL-8.0/mysql-boost-8.0.22.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-client.rb)]
 - [ ] mysql-client@5.7 [[homepage](https://dev.mysql.com/doc/refman/5.7/en/)] [head] [[stable](https://cdn.mysql.com/Downloads/MySQL-5.7/mysql-boost-5.7.29.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-client@5.7.rb)]
 - [ ] mysql-connector-c++ [[homepage](https://dev.mysql.com/downloads/connector/cpp/)] [head] [[stable](https://dev.mysql.com/get/Downloads/Connector-C++/mysql-connector-c++-8.0.22-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-connector-c++.rb)]
-- [ ] mysql-connector-c++@1.1 [[homepage](https://dev.mysql.com/downloads/connector/cpp/)] [head] [[stable](https://dev.mysql.com/get/Downloads/Connector-C++/mysql-connector-c++-1.1.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-connector-c++@1.1.rb)]
 - [x] mysql-sandbox: Apache-2.0
 - [ ] mysql-search-replace: GPL-3.0 (deprecated) [[homepage](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/)] [head] [[stable](https://github.com/interconnectit/Search-Replace-DB/archive/4.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-search-replace.rb)]
 - [ ] mysql@5.6: GPL-2.0 (deprecated) [[homepage](https://dev.mysql.com/doc/refman/5.6/en/)] [head] [[stable](https://dev.mysql.com/get/Downloads/MySQL-5.6/mysql-5.6.50.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql@5.6.rb)]
@@ -3430,6 +3427,7 @@
 - [x] node-sass: MIT
 - [x] node@10: MIT
 - [x] node@12: MIT
+- [x] node@14: MIT
 - [x] node_exporter: Apache-2.0
 - [x] nodebrew: MIT
 - [x] nodeenv: BSD-3-Clause
@@ -3726,9 +3724,10 @@
 - [x] pdftk-java: GPL-2.0-or-later
 - [ ] pdftohtml [[homepage](https://pdftohtml.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pdftohtml/Experimental%20Versions/pdftohtml%200.40/pdftohtml-0.40a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdftohtml.rb)]
 - [x] pdftoipe: GPL-2.0-or-later
+- [x] pdm: MIT
 - [x] pdns: GPL-2.0-or-later
 - [ ] pdnsd: GPL-3.0 (deprecated) [[homepage](http://members.home.nl/p.a.rombouts/pdnsd/)] [head] [[stable](http://members.home.nl/p.a.rombouts/pdnsd/releases/pdnsd-1.2.9a-par.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdnsd.rb)]
-- [ ] pdnsrec: GPL-2.0 (deprecated) [[homepage](https://www.powerdns.com/recursor.html)] [head] [[stable](https://downloads.powerdns.com/releases/pdns-recursor-4.3.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdnsrec.rb)]
+- [x] pdnsrec: GPL-2.0-only
 - [ ] pdsh: GPL-2.0 (deprecated) [[homepage](https://github.com/chaos/pdsh)] [[head](https://github.com/chaos/pdsh.git)] [[stable](https://github.com/chaos/pdsh/releases/download/pdsh-2.34/pdsh-2.34.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdsh.rb)]
 - [x] peco: MIT
 - [ ] peg [[homepage](https://www.piumarta.com/software/peg/)] [head] [[stable](https://www.piumarta.com/software/peg/peg-0.1.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/peg.rb)]
@@ -4311,7 +4310,6 @@
 - [x] scummvm: GPL-2.0-or-later
 - [x] scummvm-tools: GPL-2.0-or-later
 - [x] scw: Apache-2.0
-- [x] scw@1: MIT
 - [x] scws: BSD-3-Clause
 - [x] sd: MIT
 - [x] sdb: MIT
