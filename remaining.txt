@@ -1134,7 +1134,6 @@ libident
 libidl
 libidn
 libidn2
-libimagequant
 libimobiledevice
 libinfinity
 libiptcdata
@@ -1988,7 +1987,6 @@ sngrep
 snownews
 sntop
 socat
-sofia-sip
 softhsm
 solid
 sollya

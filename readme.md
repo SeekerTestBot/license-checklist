@@ -1,6 +1,6 @@
-2895 / 5311 (54.5%) of formulae have a valid `license` stanza as of 2020-10-28 12:02:02 UTC.
+2897 / 5311 (54.5%) of formulae have a valid `license` stanza as of 2020-10-29 00:02:16 UTC.
 
-1197 / 5311 (22.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1196 / 5311 (22.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -2654,7 +2654,7 @@
 - [ ] libidn [[homepage](https://www.gnu.org/software/libidn/)] [head] [[stable](https://ftp.gnu.org/gnu/libidn/libidn-1.36.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libidn.rb)]
 - [ ] libidn2: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/libidn/#libidn2)] [[head](https://gitlab.com/libidn/libidn2.git)] [[stable](https://ftp.gnu.org/gnu/libidn/libidn2-2.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libidn2.rb)]
 - [x] libilbc: BSD-3-Clause
-- [ ] libimagequant: GPL-3.0 (deprecated) [[homepage](https://pngquant.org/lib/)] [head] [[stable](https://github.com/ImageOptim/libimagequant/archive/2.12.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libimagequant.rb)]
+- [x] libimagequant: `cannot_represent`
 - [ ] libimobiledevice: LGPL-2.1 (deprecated) [[homepage](https://www.libimobiledevice.org/)] [[head](https://git.libimobiledevice.org/libimobiledevice.git)] [[stable](https://github.com/libimobiledevice/libimobiledevice/releases/download/1.3.0/libimobiledevice-1.3.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libimobiledevice.rb)]
 - [ ] libinfinity: LGPL-2.1 (deprecated) [[homepage](https://gobby.github.io)] [head] [[stable](http://releases.0x539.de/libinfinity/libinfinity-0.6.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libinfinity.rb)]
 - [x] libiodbc: BSD-3-Clause
@@ -4515,7 +4515,7 @@
 - [x] so: MIT
 - [ ] socat: GPL-2.0 (deprecated) [[homepage](http://www.dest-unreach.org/socat/)] [head] [[stable](http://www.dest-unreach.org/socat/download/socat-1.7.3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/socat.rb)]
 - [x] soci: BSL-1.0
-- [ ] sofia-sip [[homepage](https://sofia-sip.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/sofia-sip/sofia-sip/1.12.11/sofia-sip-1.12.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sofia-sip.rb)]
+- [x] sofia-sip: LGPL-2.1-or-later
 - [ ] softhsm [[homepage](https://www.opendnssec.org/softhsm/)] [head] [[stable](https://dist.opendnssec.org/source/softhsm-2.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/softhsm.rb)]
 - [x] solarus: GPL-3.0-or-later
 - [ ] solid [[homepage](http://www.dtecta.com/)] [head] [[stable](http://www.dtecta.com/files/solid-3.5.6.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/solid.rb)]
