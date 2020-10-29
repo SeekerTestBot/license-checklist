@@ -1,6 +1,6 @@
-2897 / 5311 (54.5%) of formulae have a valid `license` stanza as of 2020-10-29 00:02:23 UTC.
+2901 / 5312 (54.6%) of formulae have a valid `license` stanza as of 2020-10-29 12:01:42 UTC.
 
-1196 / 5311 (22.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1194 / 5312 (22.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2105,7 +2105,7 @@
 - [ ] iftop: GPL-2.0 (deprecated) [[homepage](https://www.ex-parrot.com/~pdw/iftop/)] [[head](https://code.blinkace.com/pdw/iftop.git)] [[stable](https://www.ex-parrot.com/pdw/iftop/download/iftop-1.0pre4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/iftop.rb)]
 - [ ] ifuse: LGPL-2.1 (deprecated) [[homepage](https://www.libimobiledevice.org/)] [[head](https://cgit.sukimashita.com/ifuse.git)] [[stable](https://github.com/libimobiledevice/ifuse/archive/1.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ifuse.rb)]
 - [x] igraph: GPL-2.0-or-later
-- [ ] igv [[homepage](https://www.broadinstitute.org/software/igv)] [head] [[stable](https://data.broadinstitute.org/igv/projects/downloads/2.8/IGV_2.8.10.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/igv.rb)]
+- [ ] igv [[homepage](https://www.broadinstitute.org/software/igv)] [head] [[stable](https://data.broadinstitute.org/igv/projects/downloads/2.8/IGV_2.8.11.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/igv.rb)]
 - [x] ii: MIT
 - [ ] ike-scan: GPL-3.0 (deprecated) [[homepage](https://github.com/royhills/ike-scan)] [[head](https://github.com/royhills/ike-scan.git)] [[stable](https://github.com/royhills/ike-scan/archive/1.9.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ike-scan.rb)]
 - [x] ilmbase: BSD-3-Clause
@@ -2585,6 +2585,7 @@
 - [x] libfs: MIT
 - [ ] libftdi [[homepage](https://www.intra2net.com/en/developer/libftdi)] [head] [[stable](https://www.intra2net.com/en/developer/libftdi/download/libftdi1-1.5.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libftdi.rb)]
 - [ ] libftdi0 [[homepage](https://www.intra2net.com/en/developer/libftdi)] [head] [[stable](https://www.intra2net.com/en/developer/libftdi/download/libftdi-0.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libftdi0.rb)]
+- [x] libfuse: `{:any_of=>["LGPL-2.1-only", "GPL-2.0-only"]}`
 - [ ] libgadu: LGPL-2.1 (deprecated) [[homepage](https://libgadu.net/)] [head] [[stable](https://github.com/wojtekka/libgadu/releases/download/1.12.2/libgadu-1.12.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgadu.rb)]
 - [ ] libgaiagraphics [[homepage](https://www.gaia-gis.it/fossil/libgaiagraphics/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/gaiagraphics-sources/libgaiagraphics-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgaiagraphics.rb)]
 - [x] libgccjit: `{"GPL-3.0-or-later"=>{:with=>"GCC-exception-3.1"}}`
@@ -2820,7 +2821,7 @@
 - [x] libtorch: BSD-3-Clause
 - [ ] libtorrent-rakshasa: GPL-2.0 (deprecated) [[homepage](https://github.com/rakshasa/libtorrent)] [head] [[stable](https://github.com/rakshasa/libtorrent/archive/v0.13.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libtorrent-rakshasa.rb)]
 - [x] libtorrent-rasterbar: BSD-3-Clause
-- [ ] libtrace: GPL-3.0 (deprecated) [[homepage](https://research.wand.net.nz/software/libtrace.php)] [head] [[stable](https://research.wand.net.nz/software/libtrace/libtrace-4.0.14.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libtrace.rb)]
+- [x] libtrace: GPL-3.0-or-later
 - [x] libtrng: BSD-3-Clause
 - [ ] libu2f-host: GPL-3.0 (deprecated) [[homepage](https://developers.yubico.com/libu2f-host/)] [head] [[stable](https://developers.yubico.com/libu2f-host/Releases/libu2f-host-1.1.10.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libu2f-host.rb)]
 - [x] libu2f-server: BSD-2-Clause
@@ -2935,7 +2936,7 @@
 - [x] llvm@8: NCSA
 - [x] llvm@9: Apache-2.0
 - [ ] lm4tools: GPL-2.0 (deprecated) [[homepage](https://github.com/utzig/lm4tools)] [head] [[stable](https://github.com/utzig/lm4tools/archive/v0.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lm4tools.rb)]
-- [ ] lmdb [[homepage](https://symas.com/lmdb/)] [[head](https://git.openldap.org/openldap/openldap.git)] [[stable](https://git.openldap.org/openldap/openldap/-/archive/LMDB_0.9.26/openldap-LMDB_0.9.26.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lmdb.rb)]
+- [x] lmdb: OLDAP-2.8
 - [x] lmod: MIT
 - [x] lnav: BSD-2-Clause
 - [x] loc: MIT
@@ -3402,7 +3403,7 @@
 - [ ] ngircd [[homepage](https://ngircd.barton.de/)] [head] [[stable](https://ngircd.barton.de/pub/ngircd/ngircd-26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ngircd.rb)]
 - [ ] ngrep [[homepage](https://github.com/jpr5/ngrep)] [head] [[stable](https://github.com/jpr5/ngrep/archive/V1_47.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ngrep.rb)]
 - [ ] ngs: GPL-3.0 (deprecated) [[homepage](https://ngs-lang.org/)] [[head](https://github.com/ngs-lang/ngs.git)] [[stable](https://github.com/ngs-lang/ngs/archive/v0.2.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ngs.rb)]
-- [ ] ngspice [[homepage](https://ngspice.sourceforge.io/)] [[head](https://git.code.sf.net/p/ngspice/ngspice.git)] [[stable](https://downloads.sourceforge.net/project/ngspice/ng-spice-rework/32/ngspice-32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ngspice.rb)]
+- [ ] ngspice [[homepage](https://ngspice.sourceforge.io/)] [[head](https://git.code.sf.net/p/ngspice/ngspice.git)] [[stable](https://downloads.sourceforge.net/project/ngspice/ng-spice-rework/33/ngspice-33.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ngspice.rb)]
 - [x] ngt: Apache-2.0
 - [ ] nickle [[homepage](https://www.nickle.org/)] [head] [[stable](https://www.nickle.org/release/nickle-2.86.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nickle.rb)]
 - [x] nicotine-plus: GPL-3.0-or-later
@@ -4005,7 +4006,7 @@
 ### Q
 
 - [x] q: GPL-3.0-or-later
-- [ ] qalculate-gtk: GPL-2.0 (deprecated) [[homepage](https://qalculate.github.io/)] [head] [[stable](https://github.com/Qalculate/qalculate-gtk/releases/download/v3.12.1/qalculate-gtk-3.12.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qalculate-gtk.rb)]
+- [x] qalculate-gtk: GPL-2.0-or-later
 - [ ] qbs [[homepage](https://wiki.qt.io/Qbs)] [[head](https://code.qt.io/qbs/qbs.git)] [[stable](https://download.qt.io/official_releases/qbs/1.17.0/qbs-src-1.17.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qbs.rb)]
 - [ ] qca: LGPL-2.1 (deprecated) [[homepage](https://userbase.kde.org/QCA)] [[head](https://invent.kde.org/libraries/qca.git)] [[stable](https://download.kde.org/stable/qca/2.3.1/qca-2.3.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qca.rb)]
 - [x] qcachegrind: GPL-2.0-or-later

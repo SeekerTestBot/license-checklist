@@ -1231,7 +1231,6 @@ libtasn1
 libtecla
 libtool
 libtorrent-rakshasa
-libtrace
 libu2f-host
 libuecc
 libunistring
@@ -1267,7 +1266,6 @@ livestreamer
 lizard
 lldpd
 lm4tools
-lmdb
 locateme
 lockrun
 log4c
@@ -1781,7 +1779,6 @@ py2cairo
 pyinstaller
 pympress
 pytouhou
-qalculate-gtk
 qbs
 qca
 qcli
