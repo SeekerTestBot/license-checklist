@@ -1,4 +1,4 @@
-2901 / 5312 (54.6%) of formulae have a valid `license` stanza as of 2020-10-29 12:01:35 UTC.
+2902 / 5312 (54.6%) of formulae have a valid `license` stanza as of 2020-10-30 00:02:03 UTC.
 
 1194 / 5312 (22.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -126,7 +126,7 @@
 - [x] apache-spark: Apache-2.0
 - [ ] apachetop [[homepage](https://web.archive.org/web/20170809160553/freecode.com/projects/apachetop)] [head] [[stable](https://deb.debian.org/debian/pool/main/a/apachetop/apachetop_0.19.7.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/apachetop.rb)]
 - [ ] apcupsd: GPL-2.0 (deprecated) [[homepage](http://www.apcupsd.org)] [head] [[stable](https://downloads.sourceforge.net/project/apcupsd/apcupsd%20-%20Stable/3.14.14/apcupsd-3.14.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/apcupsd.rb)]
-- [ ] ape: GPL-2.0 (deprecated) [[homepage](http://www.ape-project.org/)] [head] [[stable](https://github.com/APE-Project/APE_Server/archive/v1.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ape.rb)]
+- [ ] ape: GPL-2.0 (deprecated) [[homepage](https://web.archive.org/web/20200810042306/www.ape-project.org/)] [head] [[stable](https://github.com/APE-Project/APE_Server/archive/v1.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ape.rb)]
 - [x] apgdiff: MIT
 - [x] apib: Apache-2.0
 - [x] apibuilder-cli: MIT
@@ -2277,7 +2277,7 @@
 - [x] jooby-bootstrap: Apache-2.0
 - [x] jose: Apache-2.0
 - [ ] joshua [[homepage](https://joshua.incubator.apache.org/)] [head] [[stable](https://cs.jhu.edu/~post/files/joshua-6.0.5.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/joshua.rb)]
-- [ ] jove [[homepage](https://directory.fsf.org/wiki/Jove)] [head] [[stable](http://ftp.cs.toronto.edu/cs/ftp/pub/hugh/jove-dev/jove4.16.0.73.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jove.rb)]
+- [ ] jove [[homepage](https://directory.fsf.org/wiki/Jove)] [head] [[stable](https://www.cs.toronto.edu/pub/hugh/jove-dev/jove4.16.0.73.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jove.rb)]
 - [x] jp: MIT
 - [ ] jp2a: GPL-2.0 (deprecated) [[homepage](https://csl.name/jp2a/)] [head] [[stable](https://downloads.sourceforge.net/project/jp2a/jp2a/1.0.6/jp2a-1.0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jp2a.rb)]
 - [x] jpeg: IJG
@@ -3335,7 +3335,7 @@
 - [ ] mysql@5.6: GPL-2.0 (deprecated) [[homepage](https://dev.mysql.com/doc/refman/5.6/en/)] [head] [[stable](https://dev.mysql.com/get/Downloads/MySQL-5.6/mysql-5.6.50.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql@5.6.rb)]
 - [ ] mysql@5.7: GPL-2.0 (deprecated) [[homepage](https://dev.mysql.com/doc/refman/5.7/en/)] [head] [[stable](https://cdn.mysql.com/Downloads/MySQL-5.7/mysql-boost-5.7.32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql@5.7.rb)]
 - [ ] mysqltuner: GPL-3.0 (deprecated) [[homepage](https://raw.github.com/major/MySQLTuner-perl/master/mysqltuner.pl)] [[head](https://github.com/major/MySQLTuner-perl.git)] [[stable](https://github.com/major/MySQLTuner-perl/archive/1.7.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysqltuner.rb)]
-- [ ] mytop [[homepage](http://www.mysqlfanboy.com/mytop-3/)] [head] [[stable](http://www.mysqlfanboy.com/mytop-3/mytop-1.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mytop.rb)]
+- [ ] mytop [[homepage](https://web.archive.org/web/20200221154243/www.mysqlfanboy.com/mytop-3/)] [head] [[stable](https://web.archive.org/web/20150602163826/www.mysqlfanboy.com/mytop-3/mytop-1.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mytop.rb)]
 
 </details>
 
@@ -3942,7 +3942,7 @@
 - [ ] procyon-decompiler [[homepage](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)] [head] [[stable](https://bitbucket.org/mstrobel/procyon/downloads/procyon-decompiler-0.5.36.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/procyon-decompiler.rb)]
 - [ ] prodigal: GPL-3.0 (deprecated) [[homepage](https://github.com/hyattpd/Prodigal)] [head] [[stable](https://github.com/hyattpd/Prodigal/archive/v2.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/prodigal.rb)]
 - [ ] profanity: GPL-3.0 (deprecated) [[homepage](https://profanity-im.github.io)] [[head](https://github.com/profanity-im/profanity.git)] [[stable](https://profanity-im.github.io/profanity-0.9.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/profanity.rb)]
-- [ ] proftpd: GPL-2.0 (deprecated) [[homepage](http://www.proftpd.org/)] [head] [[stable](ftp://ftp.proftpd.org/distrib/source/proftpd-1.3.7a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proftpd.rb)]
+- [ ] proftpd: GPL-2.0 (deprecated) [[homepage](http://www.proftpd.org/)] [head] [[stable](https://github.com/proftpd/proftpd/archive/v1.3.7a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proftpd.rb)]
 - [ ] progress: GPL-3.0 (deprecated) [[homepage](https://github.com/Xfennec/progress)] [[head](https://github.com/Xfennec/progress.git)] [[stable](https://github.com/Xfennec/progress/archive/v0.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/progress.rb)]
 - [ ] proguard: GPL-2.0 (deprecated) [[homepage](https://www.guardsquare.com/en/products/proguard)] [head] [[stable](https://github.com/Guardsquare/proguard/releases/download/v7.0.0/proguard-7.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proguard.rb)]
 - [x] proj: MIT
@@ -4133,7 +4133,7 @@
 - [ ] rbenv-whatis [[homepage](https://github.com/rkh/rbenv-whatis)] [head] [[stable](https://github.com/rkh/rbenv-whatis/archive/v1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rbenv-whatis.rb)]
 - [x] rbspy: MIT
 - [x] rbtools: MIT
-- [ ] rc [[homepage](http://doc.cat-v.org/plan_9/4th_edition/papers/rc)] [head] [[stable](http://static.tobold.org/rc/rc-1.7.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rc.rb)]
+- [ ] rc [[homepage](http://doc.cat-v.org/plan_9/4th_edition/papers/rc)] [head] [[stable](https://web.archive.org/web/20200227085442/static.tobold.org/rc/rc-1.7.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rc.rb)]
 - [x] rclone: MIT
 - [x] rcm: BSD-3-Clause
 - [x] rcs: GPL-3.0-or-later
@@ -4190,7 +4190,7 @@
 - [ ] reprepro [[homepage](https://salsa.debian.org/brlink/reprepro)] [head] [[stable](https://deb.debian.org/debian/pool/main/r/reprepro/reprepro_5.3.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/reprepro.rb)]
 - [x] rest-shell: Apache-2.0
 - [x] restic: BSD-2-Clause
-- [ ] restund [[homepage](http://www.creytiv.com)] [head] [[stable](http://www.creytiv.com/pub/restund-0.4.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/restund.rb)]
+- [ ] restund [[homepage](https://web.archive.org/web/20200427184619/www.creytiv.com/restund.html)] [head] [[stable](https://sources.openwrt.org/restund-0.4.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/restund.rb)]
 - [ ] restview: GPL-3.0 (deprecated) [[homepage](https://mg.pov.lt/restview/)] [head] [[stable](https://github.com/mgedmin/restview/archive/2.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/restview.rb)]
 - [x] resty: MIT
 - [x] rethinkdb: Apache-2.0
@@ -4454,7 +4454,7 @@
 - [x] simple-tiles: MIT
 - [x] simutrans: Artistic-1.0
 - [ ] since: GPL-3.0 (deprecated) [[homepage](http://welz.org.za/projects/since)] [head] [[stable](http://welz.org.za/projects/since/since-1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/since.rb)]
-- [ ] singular: GPL-2.0 (deprecated) [[homepage](https://www.singular.uni-kl.de/)] [[head](https://github.com/Singular/Singular.git)] [[stable](ftp://jim.mathematik.uni-kl.de/pub/Math/Singular/SOURCES/4-1-3/singular-4.1.3p2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/singular.rb)]
+- [ ] singular: GPL-2.0 (deprecated) [[homepage](https://www.singular.uni-kl.de/)] [[head](https://github.com/Singular/Singular.git)] [[stable](https://www.mathematik.uni-kl.de/ftp/pub/Math/Singular/src/4-1-3/singular-4.1.3p2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/singular.rb)]
 - [x] sip: `{:any_of=>["GPL-2.0-only", "GPL-3.0-only"]}`
 - [ ] sipcalc [[homepage](https://www.routemeister.net/projects/sipcalc/)] [head] [[stable](https://www.routemeister.net/projects/sipcalc/files/sipcalc-1.1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sipcalc.rb)]
 - [x] sipp: BSD-3-Clause
@@ -5312,7 +5312,7 @@
 - [ ] xplanet [[homepage](https://xplanet.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/xplanet/xplanet/1.3.1/xplanet-1.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xplanet.rb)]
 - [ ] xqilla [[homepage](https://xqilla.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/xqilla/XQilla-2.3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xqilla.rb)]
 - [ ] xrick [[homepage](https://www.bigorno.net/xrick/)] [head] [[stable](https://www.bigorno.net/xrick/xrick-021212.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xrick.rb)]
-- [ ] xrootd [[homepage](https://xrootd.slac.stanford.edu/)] [[head](https://github.com/xrootd/xrootd.git)] [[stable](https://xrootd.slac.stanford.edu/download/v4.12.3/xrootd-4.12.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xrootd.rb)]
+- [x] xrootd: LGPL-3.0-or-later
 - [ ] xsane [[homepage](https://wiki.ubuntuusers.de/XSane/)] [head] [[stable](https://ftp.osuosl.org/pub/blfs/conglomeration/xsane/xsane-0.999.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xsane.rb)]
 - [ ] xsd [[homepage](https://www.codesynthesis.com/products/xsd/)] [head] [[stable](https://www.codesynthesis.com/download/xsd/4.0/xsd-4.0.0+dep.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xsd.rb)]
 - [x] xshogi: GPL-3.0-or-later
