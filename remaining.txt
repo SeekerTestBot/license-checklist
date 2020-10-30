@@ -869,7 +869,6 @@ i2util
 i686-elf-binutils
 i686-elf-gcc
 iat
-ibex
 icarus-verilog
 icbirc
 ice
@@ -1582,7 +1581,6 @@ opencsg
 opendbx
 openjazz
 openjdk
-openjdk@11
 openkim-models
 openlibm
 openmotif
@@ -2147,7 +2145,6 @@ ttf2pt1
 ttfautohint
 tth
 ttyrec
-tup
 tweak
 two-lame
 twoping

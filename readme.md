@@ -1,6 +1,6 @@
-2902 / 5312 (54.6%) of formulae have a valid `license` stanza as of 2020-10-30 00:02:03 UTC.
+2905 / 5312 (54.7%) of formulae have a valid `license` stanza as of 2020-10-30 12:01:46 UTC.
 
-1194 / 5312 (22.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1191 / 5312 (22.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1330,7 +1330,7 @@
 - [x] fennel: MIT
 - [x] fetch: MIT
 - [x] fetch-crl: Apache-2.0
-- [ ] fetchmail [[homepage](https://www.fetchmail.info/)] [head] [[stable](https://downloads.sourceforge.net/project/fetchmail/branch_6.4/fetchmail-6.4.12.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fetchmail.rb)]
+- [ ] fetchmail [[homepage](https://www.fetchmail.info/)] [head] [[stable](https://downloads.sourceforge.net/project/fetchmail/branch_6.4/fetchmail-6.4.13.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fetchmail.rb)]
 - [ ] fex [[homepage](https://www.semicomplete.com/projects/fex/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/semicomplete/fex-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fex.rb)]
 - [ ] ffe: GPL-2.0 (deprecated) [[homepage](https://ff-extractor.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/ff-extractor/ff-extractor/0.3.9/ffe-0.3.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffe.rb)]
 - [x] fff: MIT
@@ -1623,7 +1623,7 @@
 - [ ] git-ftp: GPL-3.0 (deprecated) [[homepage](https://git-ftp.github.io/)] [[head](https://github.com/git-ftp/git-ftp.git)] [[stable](https://github.com/git-ftp/git-ftp/archive/1.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-ftp.rb)]
 - [x] git-game: MIT
 - [x] git-gerrit: BSD-3-Clause
-- [ ] git-gui: GPL-2.0 (deprecated) [[homepage](https://git-scm.com)] [[head](https://github.com/git/git.git)] [[stable](https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.29.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-gui.rb)]
+- [ ] git-gui: GPL-2.0 (deprecated) [[homepage](https://git-scm.com)] [[head](https://github.com/git/git.git)] [[stable](https://mirrors.edge.kernel.org/pub/software/scm/git/git-2.29.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-gui.rb)]
 - [ ] git-hooks [[homepage](https://github.com/icefox/git-hooks)] [[head](https://github.com/icefox/git-hooks.git)] [[stable](https://github.com/icefox/git-hooks/archive/1.00.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-hooks.rb)]
 - [x] git-hooks-go: MIT
 - [x] git-hound: MIT
@@ -2010,7 +2010,7 @@
 - [ ] hfsutils [[homepage](https://www.mars.org/home/rob/proj/hfs/)] [head] [[stable](https://www.mars.org/pub/hfs/hfsutils-3.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hfsutils.rb)]
 - [ ] hg-fast-export: GPL-2.0 (deprecated) [[homepage](https://repo.or.cz/fast-export.git)] [head] [[stable](https://github.com/frej/fast-export/archive/v200213.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hg-fast-export.rb)]
 - [ ] hicolor-icon-theme: GPL-2.0 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/icon-theme/)] [[head](https://anongit.freedesktop.org/git/xdg/default-icon-theme.git)] [[stable](https://icon-theme.freedesktop.org/releases/hicolor-icon-theme-0.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hicolor-icon-theme.rb)]
-- [ ] hidapi: GPL-3.0 (deprecated) [[homepage](https://github.com/libusb/hidapi)] [[head](https://github.com/libusb/hidapi.git)] [[stable](https://github.com/libusb/hidapi/archive/hidapi-0.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hidapi.rb)]
+- [ ] hidapi: GPL-3.0 (deprecated) [[homepage](https://github.com/libusb/hidapi)] [[head](https://github.com/libusb/hidapi.git)] [[stable](https://github.com/libusb/hidapi/archive/hidapi-0.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hidapi.rb)]
 - [x] highlight: GPL-3.0-or-later
 - [ ] hilite [[homepage](https://sourceforge.net/projects/hilite/)] [head] [[stable](https://downloads.sourceforge.net/project/hilite/hilite/1.5/hilite.c)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hilite.rb)]
 - [x] hiredis: BSD-3-Clause
@@ -2093,7 +2093,7 @@
 - [x] iam-policy-json-to-terraform: Apache-2.0
 - [x] iamy: MIT
 - [ ] iat: GPL-3.0 (deprecated) [[homepage](https://sourceforge.net/projects/iat.berlios/)] [head] [[stable](https://downloads.sourceforge.net/project/iat.berlios/iat-0.1.7.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/iat.rb)]
-- [ ] ibex: LGPL-3.0 (deprecated) [[homepage](https://web.archive.org/web/20190826220512/www.ibex-lib.org/)] [[head](https://github.com/ibex-team/ibex-lib.git)] [[stable](https://github.com/ibex-team/ibex-lib/archive/ibex-2.8.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ibex.rb)]
+- [x] ibex: LGPL-3.0-only
 - [x] iblinter: MIT
 - [x] ical-buddy: MIT
 - [ ] icarus-verilog: LGPL-2.1 (deprecated) [[homepage](http://iverilog.icarus.com/)] [[head](https://github.com/steveicarus/iverilog.git)] [[stable](https://github.com/steveicarus/iverilog/archive/v11_0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icarus-verilog.rb)]
@@ -2716,7 +2716,7 @@
 - [x] libnfnetlink: LGPL-2.1-or-later
 - [ ] libnfs: LGPL-2.1 (deprecated) [[homepage](https://github.com/sahlberg/libnfs)] [head] [[stable](https://github.com/sahlberg/libnfs/archive/libnfs-4.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnfs.rb)]
 - [ ] libngspice [[homepage](https://ngspice.sourceforge.io/)] [[head](https://git.code.sf.net/p/ngspice/ngspice.git)] [[stable](https://downloads.sourceforge.net/project/ngspice/ng-spice-rework/33/ngspice-33.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libngspice.rb)]
-- [ ] libnice: LGPL-2.1 (deprecated) [[homepage](https://wiki.freedesktop.org/nice/)] [head] [[stable](https://nice.freedesktop.org/releases/libnice-0.1.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnice.rb)]
+- [ ] libnice: LGPL-2.1 (deprecated) [[homepage](https://wiki.freedesktop.org/nice/)] [head] [[stable](https://nice.freedesktop.org/releases/libnice-0.1.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnice.rb)]
 - [ ] libnids [[homepage](https://libnids.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/libnids/libnids/1.24/libnids-1.24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnids.rb)]
 - [ ] libnotify: LGPL-2.1 (deprecated) [[homepage](https://developer.gnome.org/libnotify)] [head] [[stable](https://download.gnome.org/sources/libnotify/0.7/libnotify-0.7.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnotify.rb)]
 - [ ] libnova [[homepage](https://libnova.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/libnova/libnova/v%200.15.0/libnova-0.15.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libnova.rb)]
@@ -3601,8 +3601,8 @@
 - [x] openhmd: BSL-1.0
 - [x] openimageio: BSD-3-Clause
 - [ ] openjazz: GPL-2.0 (deprecated) [[homepage](http://www.alister.eu/jazz/oj/)] [[head](https://github.com/AlisterT/openjazz.git)] [[stable](https://github.com/AlisterT/openjazz/archive/20190106.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openjazz.rb)]
-- [ ] openjdk [[homepage](https://openjdk.java.net/)] [head] [[stable](https://hg.openjdk.java.net/jdk-updates/jdk14u/archive/jdk-14.0.1-ga.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openjdk.rb)]
-- [ ] openjdk@11: GPL-2.0 (deprecated) [[homepage](https://openjdk.java.net/)] [head] [[stable](https://hg.openjdk.java.net/jdk-updates/jdk11u/archive/jdk-11.0.8-ga.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openjdk@11.rb)]
+- [ ] openjdk [[homepage](https://openjdk.java.net/)] [head] [[stable](https://hg.openjdk.java.net/jdk-updates/jdk15u/archive/jdk-15.0.1-ga.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openjdk.rb)]
+- [x] openjdk@11: GPL-2.0-only
 - [x] openjdk@8: GPL-2.0-only
 - [x] openjpeg: BSD-2-Clause
 - [ ] openkim-models [[homepage](https://openkim.org)] [head] [[stable](https://s3.openkim.org/archives/collection/openkim-models-2019-07-25.txz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openkim-models.rb)]
@@ -4945,7 +4945,7 @@
 - [ ] ttyrec [[homepage](http://0xcc.net/ttyrec/)] [head] [[stable](http://0xcc.net/ttyrec/ttyrec-1.0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ttyrec.rb)]
 - [x] tundra: MIT
 - [x] tunnel: MIT
-- [ ] tup: GPL-2.0 (deprecated) [[homepage](http://gittup.org/tup/)] [[head](https://github.com/gittup/tup.git)] [[stable](https://github.com/gittup/tup/archive/v0.7.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tup.rb)]
+- [x] tup: GPL-2.0-only
 - [x] tvnamer: Unlicense
 - [x] twarc: MIT
 - [ ] tweak [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/tweak/)] [head] [[stable](https://www.chiark.greenend.org.uk/~sgtatham/tweak/tweak-3.02.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tweak.rb)]
@@ -5208,7 +5208,7 @@
 - [x] wiki: MIT
 - [x] wildfly-as: LGPL-2.1-or-later
 - [x] willgit: MIT
-- [ ] wimlib [[homepage](https://wimlib.net/)] [head] [[stable](https://wimlib.net/downloads/wimlib-1.13.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wimlib.rb)]
+- [ ] wimlib [[homepage](https://wimlib.net/)] [head] [[stable](https://wimlib.net/downloads/wimlib-1.13.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wimlib.rb)]
 - [ ] winetricks: LGPL-2.1 (deprecated) [[homepage](https://github.com/Winetricks/winetricks)] [[head](https://github.com/Winetricks/winetricks.git)] [[stable](https://github.com/Winetricks/winetricks/archive/20200412.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/winetricks.rb)]
 - [ ] winexe: GPL-3.0 (deprecated) [[homepage](https://sourceforge.net/projects/winexe/)] [head] [[stable](https://downloads.sourceforge.net/project/winexe/winexe-1.00.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/winexe.rb)]
 - [ ] wiredtiger [[homepage](http://www.wiredtiger.com)] [head] [[stable](https://github.com/wiredtiger/wiredtiger/releases/download/3.2.0/wiredtiger-3.2.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wiredtiger.rb)]
