@@ -1,6 +1,6 @@
-2907 / 5312 (54.7%) of formulae have a valid `license` stanza as of 2020-10-31 00:01:50 UTC.
+2909 / 5312 (54.8%) of formulae have a valid `license` stanza as of 2020-10-31 12:01:24 UTC.
 
-1189 / 5312 (22.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1188 / 5312 (22.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1994,7 +1994,7 @@
 - [x] hey: Apache-2.0
 - [x] hfstospell: Apache-2.0
 - [ ] hfsutils [[homepage](https://www.mars.org/home/rob/proj/hfs/)] [head] [[stable](https://www.mars.org/pub/hfs/hfsutils-3.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hfsutils.rb)]
-- [ ] hg-fast-export: GPL-2.0 (deprecated) [[homepage](https://repo.or.cz/fast-export.git)] [head] [[stable](https://github.com/frej/fast-export/archive/v200213.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hg-fast-export.rb)]
+- [x] hg-fast-export: GPL-2.0-or-later
 - [ ] hicolor-icon-theme: GPL-2.0 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/icon-theme/)] [[head](https://anongit.freedesktop.org/git/xdg/default-icon-theme.git)] [[stable](https://icon-theme.freedesktop.org/releases/hicolor-icon-theme-0.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hicolor-icon-theme.rb)]
 - [ ] hidapi: GPL-3.0 (deprecated) [[homepage](https://github.com/libusb/hidapi)] [[head](https://github.com/libusb/hidapi.git)] [[stable](https://github.com/libusb/hidapi/archive/hidapi-0.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hidapi.rb)]
 - [x] highlight: GPL-3.0-or-later
@@ -5171,7 +5171,7 @@
 - [x] wireguard-go: MIT
 - [ ] wireguard-tools: GPL-2.0 (deprecated) [[homepage](https://www.wireguard.com/)] [[head](https://git.zx2c4.com/wireguard-tools)] [[stable](https://git.zx2c4.com/wireguard-tools/snapshot/wireguard-tools-1.0.20200827.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireguard-tools.rb)]
 - [x] wiremock-standalone: Apache-2.0
-- [ ] wireshark [[homepage](https://www.wireshark.org)] [[head](https://code.wireshark.org/review/wireshark)] [[stable](https://www.wireshark.org/download/src/all-versions/wireshark-3.2.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireshark.rb)]
+- [x] wireshark: GPL-2.0-or-later
 - [ ] wirouter_keyrec: GPL-3.0 (deprecated) [[homepage](https://www.salvatorefresta.net/tools/)] [head] [[stable](https://www.mirrorservice.org/sites/distfiles.macports.org/wirouterkeyrec/WiRouter_KeyRec_1.1.2.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wirouter_keyrec.rb)]
 - [ ] with-readline [[homepage](https://www.greenend.org.uk/rjk/sw/withreadline.html)] [head] [[stable](https://www.greenend.org.uk/rjk/sw/with-readline-0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/with-readline.rb)]
 - [ ] wla-dx: GPL-2.0 (deprecated) [[homepage](https://github.com/vhelin/wla-dx)] [head] [[stable](https://github.com/vhelin/wla-dx/archive/v9.11-fix-fix-fix.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wla-dx.rb)]

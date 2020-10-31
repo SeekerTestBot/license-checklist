@@ -835,7 +835,6 @@ hevea
 hexcurse
 hexgui
 hfsutils
-hg-fast-export
 hicolor-icon-theme
 hidapi
 hilite
@@ -2290,7 +2289,6 @@ winetricks
 winexe
 wiredtiger
 wireguard-tools
-wireshark
 wirouter_keyrec
 with-readline
 wla-dx
