@@ -1,6 +1,6 @@
-2905 / 5312 (54.7%) of formulae have a valid `license` stanza as of 2020-10-30 12:01:54 UTC.
+2907 / 5312 (54.7%) of formulae have a valid `license` stanza as of 2020-10-31 00:01:50 UTC.
 
-1191 / 5312 (22.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1189 / 5312 (22.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -182,7 +182,7 @@
 - [x] arturo: MIT
 - [ ] arx-libertatis: GPL-3.0 (deprecated) [[homepage](https://arx-libertatis.org/)] [[head](https://github.com/arx/ArxLibertatis.git)] [[stable](https://arx-libertatis.org/files/arx-libertatis-1.1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arx-libertatis.rb)]
 - [x] ascii: BSD-2-Clause
-- [ ] asciidoc: GPL-2.0 (deprecated) [[homepage](https://asciidoc.org/)] [[head](https://github.com/asciidoc/asciidoc-py3.git)] [[stable](https://github.com/asciidoc/asciidoc-py3/archive/9.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/asciidoc.rb)]
+- [x] asciidoc: GPL-2.0-only
 - [x] asciidoctor: MIT
 - [x] asciidoctorj: Apache-2.0
 - [ ] asciinema: GPL-3.0 (deprecated) [[homepage](https://asciinema.org)] [[head](https://github.com/asciinema/asciinema.git)] [[stable](https://files.pythonhosted.org/packages/a7/71/771c859795e02c71c187546f34f7535487b97425bc1dad1e5f6ad2651357/asciinema-2.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/asciinema.rb)]
@@ -4253,7 +4253,7 @@
 - [x] s2geometry: Apache-2.0
 - [x] s2n: Apache-2.0
 - [x] s3-backer: GPL-2.0-or-later
-- [ ] s3cmd: GPL-2.0 (deprecated) [[homepage](https://s3tools.org/s3cmd)] [[head](https://github.com/s3tools/s3cmd.git)] [[stable](https://files.pythonhosted.org/packages/c7/eb/5143fe1884af2303cb7b23f453e5c9f337af46c2281581fc40ab5322dee4/s3cmd-2.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/s3cmd.rb)]
+- [x] s3cmd: GPL-2.0-or-later
 - [x] s3fs: GPL-2.0-or-later
 - [ ] s3ql: GPL-3.0 (deprecated) [[homepage](https://github.com/s3ql/s3ql)] [head] [[stable](https://github.com/s3ql/s3ql/releases/download/release-3.3.2/s3ql-3.3.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/s3ql.rb)]
 - [x] s6: ISC
@@ -4967,7 +4967,7 @@
 - [ ] unp [[homepage](https://packages.debian.org/source/stable/unp)] [head] [[stable](https://deb.debian.org/debian/pool/main/u/unp/unp_2.0~pre7+nmu1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unp.rb)]
 - [ ] unp64 [[homepage](http://iancoog.altervista.org/)] [head] [[stable](http://iancoog.altervista.org/C/unp64_236_src.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unp64.rb)]
 - [ ] unpaper [[homepage](https://www.flameeyes.com/projects/unpaper)] [[head](https://github.com/Flameeyes/unpaper.git)] [[stable](https://www.flameeyes.com/files/unpaper-6.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unpaper.rb)]
-- [ ] unrar [[homepage](https://www.rarlab.com/)] [head] [[stable](https://www.rarlab.com/rar/unrarsrc-5.9.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unrar.rb)]
+- [ ] unrar [[homepage](https://www.rarlab.com/)] [head] [[stable](https://www.rarlab.com/rar/unrarsrc-6.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unrar.rb)]
 - [ ] unrtf: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/unrtf/)] [[head](https://hg.savannah.gnu.org/hgweb/unrtf/)] [[stable](https://ftp.gnu.org/gnu/unrtf/unrtf-0.21.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unrtf.rb)]
 - [x] unshield: MIT
 - [ ] unum [[homepage](https://www.fourmilab.ch/webtools/unum/)] [head] [[stable](https://www.fourmilab.ch/webtools/unum/prior-releases/3.2/unum.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unum.rb)]

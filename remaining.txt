@@ -75,7 +75,6 @@ arpoison
 arss
 artifactory
 arx-libertatis
-asciidoc
 asciinema
 asciiquarium
 asciitex
@@ -1893,7 +1892,6 @@ rxvt-unicode
 rzip
 s-lang
 s-nail
-s3cmd
 s3ql
 saldl
 sampler
