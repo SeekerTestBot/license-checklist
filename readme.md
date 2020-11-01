@@ -1,6 +1,6 @@
-2909 / 5312 (54.8%) of formulae have a valid `license` stanza as of 2020-10-31 12:01:17 UTC.
+2915 / 5312 (54.9%) of formulae have a valid `license` stanza as of 2020-11-01 00:01:44 UTC.
 
-1188 / 5312 (22.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1182 / 5312 (22.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -2311,7 +2311,7 @@
 - [x] jsvc: Apache-2.0
 - [ ] jthread [[homepage](https://research.edm.uhasselt.be/jori/jthread)] [head] [[stable](https://research.edm.uhasselt.be/jori/jthread/jthread-1.3.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jthread.rb)]
 - [x] juise: BSD-3-Clause
-- [ ] juju: AGPL-3.0 (deprecated) [[homepage](https://juju.is/)] [head] [[stable](https://github.com/juju/juju.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/juju.rb)]
+- [x] juju: AGPL-3.0-only
 - [x] juju-wait: GPL-3.0-only
 - [x] julius: BSD-3-Clause
 - [ ] juman [[homepage](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)] [head] [[stable](http://nlp.ist.i.kyoto-u.ac.jp/nl-resource/juman/juman-7.01.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/juman.rb)]
@@ -2429,7 +2429,7 @@
 - [ ] lablgtk: LGPL-2.1 (deprecated) [[homepage](http://lablgtk.forge.ocamlcore.org)] [head] [[stable](https://github.com/garrigue/lablgtk/archive/2.18.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lablgtk.rb)]
 - [x] ladspa-sdk: LGPL-2.1-only
 - [ ] lame: LGPL-2.0 (deprecated) [[homepage](https://lame.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lame/lame/3.100/lame-3.100.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lame.rb)]
-- [ ] lammps: GPL-2.0 (deprecated) [[homepage](https://lammps.sandia.gov/)] [head] [[stable](https://github.com/lammps/lammps/archive/stable_3Mar2020.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lammps.rb)]
+- [x] lammps: GPL-2.0-only
 - [x] landscaper: Apache-2.0
 - [x] languagetool: LGPL-2.1-or-later
 - [x] lanraragi: MIT
@@ -2865,7 +2865,7 @@
 - [x] libvirt-glib: LGPL-2.1-or-later
 - [ ] libvisio [[homepage](https://wiki.documentfoundation.org/DLP/Libraries/libvisio)] [head] [[stable](https://dev-www.libreoffice.org/src/libvisio/libvisio-0.1.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libvisio.rb)]
 - [x] libvmaf: BSD-2-Clause-Patent
-- [ ] libvncserver: GPL-2.0 (deprecated) [[homepage](https://libvnc.github.io)] [head] [[stable](https://github.com/LibVNC/libvncserver/archive/LibVNCServer-0.9.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libvncserver.rb)]
+- [x] libvncserver: GPL-2.0-or-later
 - [x] libvo-aacenc: Apache-2.0
 - [ ] libvoikko [[homepage](https://voikko.puimula.org/)] [head] [[stable](https://www.puimula.org/voikko-sources/libvoikko/libvoikko-4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libvoikko.rb)]
 - [x] libvorbis: BSD-3-Clause
@@ -3708,7 +3708,7 @@
 - [x] parallel: GPL-3.0-or-later
 - [x] parallel-hashmap: Apache-2.0
 - [x] parallelstl: Apache-2.0
-- [ ] pari: GPL-2.0 (deprecated) [[homepage](https://pari.math.u-bordeaux.fr/)] [head] [[stable](https://pari.math.u-bordeaux.fr/pub/pari/unix/pari-2.11.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pari.rb)]
+- [x] pari: GPL-2.0-or-later
 - [x] parquet-tools: Apache-2.0
 - [x] parrot: Artistic-2.0
 - [x] partio: BSD-3-Clause
@@ -3837,7 +3837,7 @@
 - [ ] pioneers [[homepage](https://pio.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pio/Source/pioneers-15.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pioneers.rb)]
 - [ ] pip-completion [[homepage](https://github.com/ekalinin/pip-bash-completion)] [[head](https://github.com/ekalinin/pip-bash-completion.git)] [[stable](https://github.com/ekalinin/pip-bash-completion.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pip-completion.rb)]
 - [ ] pipebench: GPL-2.0 (deprecated) [[homepage](http://www.habets.pp.se/synscan/programs.php?prog=pipebench)] [head] [[stable](https://deb.debian.org/debian/pool/main/p/pipebench/pipebench_0.40.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pipebench.rb)]
-- [ ] pipemeter: GPL-2.0 (deprecated) [[homepage](https://launchpad.net/pipemeter)] [head] [[stable](https://launchpad.net/pipemeter/trunk/1.1.3/+download/pipemeter-1.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pipemeter.rb)]
+- [x] pipemeter: GPL-2.0-or-later
 - [x] pipenv: MIT
 - [x] pipes-sh: MIT
 - [x] pipgrip: BSD-3-Clause
@@ -5046,7 +5046,7 @@
 - [ ] v8@3.15 [[homepage](https://github.com/v8/v8/wiki)] [head] [[stable](https://github.com/v8/v8-git-mirror/archive/3.15.11.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/v8@3.15.rb)]
 - [x] vagrant-completion: MIT
 - [x] vala: LGPL-2.1-or-later
-- [ ] valabind: GPL-3.0 (deprecated) [[homepage](https://github.com/radare/valabind)] [[head](https://github.com/radare/valabind.git)] [[stable](https://github.com/radare/valabind/archive/1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/valabind.rb)]
+- [x] valabind: GPL-3.0-or-later
 - [x] vale: MIT
 - [ ] valgrind: GPL-2.0 (deprecated) [[homepage](https://www.valgrind.org/)] [[head](https://sourceware.org/git/valgrind.git)] [[stable](https://sourceware.org/pub/valgrind/valgrind-3.16.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/valgrind.rb)]
 - [ ] vamp-plugin-sdk [[homepage](https://www.vamp-plugins.org/)] [[head](https://code.soundsoftware.ac.uk/hg/vamp-plugin-sdk)] [[stable](https://code.soundsoftware.ac.uk/attachments/download/2691/vamp-plugin-sdk-2.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vamp-plugin-sdk.rb)]

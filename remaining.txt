@@ -962,7 +962,6 @@ jrtplib
 jslint4java
 jsmin
 jthread
-juju
 juman
 jvmtop
 jxrlib
@@ -995,7 +994,6 @@ kyoto-cabinet
 kyoto-tycoon
 lablgtk
 lame
-lammps
 lasi
 lasso
 lastpass-cli
@@ -1236,7 +1234,6 @@ libusb
 libusb-compat
 libusbmuxd
 libvisio
-libvncserver
 libvoikko
 libwandevent
 libwbxml
@@ -1625,7 +1622,6 @@ paperkey
 paps
 par
 par2
-pari
 pass
 pass-git-helper
 pass-otp
@@ -1690,7 +1686,6 @@ pioneer
 pioneers
 pip-completion
 pipebench
-pipemeter
 pius
 pixman
 pjproject
@@ -2199,7 +2194,6 @@ uudeview
 uwsgi
 v
 v8@3.15
-valabind
 valgrind
 vamp-plugin-sdk
 vapoursynth
