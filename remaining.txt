@@ -535,7 +535,6 @@ ext4fuse
 exult
 eye-d3
 ezstream
-f3
 faac
 faad2
 fabric-completion
@@ -2365,7 +2364,6 @@ yydecode
 z.lua
 z80asm
 zabbix-cli
-zanata-client
 zbackup
 zboy
 zdelta

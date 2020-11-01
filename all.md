@@ -1,6 +1,6 @@
-2915 / 5312 (54.9%) of formulae have a valid `license` stanza as of 2020-11-01 00:01:51 UTC.
+2919 / 5314 (54.9%) of formulae have a valid `license` stanza as of 2020-11-01 12:01:06 UTC.
 
-1182 / 5312 (22.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1181 / 5314 (22.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1270,7 +1270,7 @@
 
 ### F
 
-- [ ] f3: GPL-3.0 (deprecated) [[homepage](https://web.archive.org/web/20200110163924/oss.digirati.com.br/f3/)] [[head](https://github.com/AltraMayor/f3.git)] [[stable](https://github.com/AltraMayor/f3/archive/v7.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/f3.rb)]
+- [x] f3: GPL-3.0-only
 - [ ] faac [[homepage](https://www.audiocoding.com/faac.html)] [head] [[stable](https://downloads.sourceforge.net/project/faac/faac-src/faac-1.29/faac-1.29.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/faac.rb)]
 - [ ] faad2 [[homepage](https://www.audiocoding.com/faad2.html)] [head] [[stable](https://downloads.sourceforge.net/project/faac/faad2-src/faad2-2.8.0/faad2-2.8.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/faad2.rb)]
 - [x] faas-cli: MIT
@@ -2310,6 +2310,7 @@
 ### K
 
 - [x] k3d: MIT
+- [x] k3sup: MIT
 - [x] k6: AGPL-3.0-or-later
 - [x] k9s: Apache-2.0
 - [x] kafka: Apache-2.0
@@ -3768,6 +3769,7 @@
 - [x] pgtoolkit: PostgreSQL
 - [x] pgtune: BSD-3-Clause
 - [x] pgweb: MIT
+- [x] phive: BSD-3-Clause
 - [ ] phoon [[homepage](https://www.acme.com/software/phoon/)] [head] [[stable](https://www.acme.com/software/phoon/phoon_14Aug2014.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phoon.rb)]
 - [ ] phoronix-test-suite: GPL-3.0 (deprecated) [[homepage](https://www.phoronix-test-suite.com/)] [[head](https://github.com/phoronix-test-suite/phoronix-test-suite.git)] [[stable](https://github.com/phoronix-test-suite/phoronix-test-suite/archive/v9.8.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phoronix-test-suite.rb)]
 - [x] php: PHP-3.01
@@ -5335,7 +5337,7 @@
 - [x] z80dasm: GPL-2.0-or-later
 - [x] zabbix: GPL-2.0-or-later
 - [ ] zabbix-cli: GPL-3.0 (deprecated) [[homepage](https://github.com/unioslo/zabbix-cli/)] [[head](https://github.com/unioslo/zabbix-cli.git)] [[stable](https://github.com/unioslo/zabbix-cli/archive/2.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zabbix-cli.rb)]
-- [ ] zanata-client [[homepage](http://zanata.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/zanata/zanata-cli/4.6.2/zanata-cli-4.6.2-dist.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zanata-client.rb)]
+- [x] zanata-client: LGPL-2.1-or-later
 - [ ] zbackup [[homepage](http://zbackup.org)] [head] [[stable](https://github.com/zbackup/zbackup/archive/1.4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zbackup.rb)]
 - [x] zbar: LGPL-2.1-only
 - [ ] zboy: GPL-3.0 (deprecated) [[homepage](https://zboy.sourceforge.io/)] [[head](https://svn.code.sf.net/p/zboy/code/trunk)] [[stable](https://downloads.sourceforge.net/project/zboy/zBoy%20v0.71/zboy-0.71.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zboy.rb)]
