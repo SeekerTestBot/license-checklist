@@ -1,6 +1,6 @@
-2935 / 5314 (55.2%) of formulae have a valid `license` stanza as of 2020-11-02 00:01:41 UTC.
+2938 / 5314 (55.3%) of formulae have a valid `license` stanza as of 2020-11-02 12:01:18 UTC.
 
-1178 / 5314 (22.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1176 / 5314 (22.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1814,7 +1814,7 @@
 - [ ] gplcver [[homepage](https://gplcver.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/gplcver/gplcver/2.12a/gplcver-2.12a.src.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gplcver.rb)]
 - [x] gpm: MIT
 - [ ] gpp: GPL-3.0 (deprecated) [[homepage](https://logological.org/gpp)] [head] [[stable](https://files.nothingisreal.com/software/gpp/gpp-2.27.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpp.rb)]
-- [ ] gpredict: GPL-2.0 (deprecated) [[homepage](http://gpredict.oz9aec.net/)] [head] [[stable](https://github.com/csete/gpredict/releases/download/v2.2.1/gpredict-2.2.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpredict.rb)]
+- [x] gpredict: GPL-2.0-or-later
 - [ ] gprof2dot: LGPL-3.0 (deprecated) [[homepage](https://github.com/jrfonseca/gprof2dot)] [[head](https://github.com/jrfonseca/gprof2dot.git)] [[stable](https://files.pythonhosted.org/packages/fd/77/3158821acc45cc26d5815d4250275d03c254572ff53c0388af8df168ce78/gprof2dot-2019.11.30.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gprof2dot.rb)]
 - [ ] gpsbabel: GPL-2.0 (deprecated) [[homepage](https://www.gpsbabel.org/)] [head] [[stable](https://github.com/gpsbabel/gpsbabel/archive/gpsbabel_1_7_0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpsbabel.rb)]
 - [ ] gpsd [[homepage](http://catb.org/gpsd/)] [head] [[stable](https://download.savannah.gnu.org/releases/gpsd/gpsd-3.21.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpsd.rb)]
@@ -1922,7 +1922,7 @@
 - [ ] gupnp-av [[homepage](https://wiki.gnome.org/GUPnP/)] [head] [[stable](https://download.gnome.org/sources/gupnp-av/0.12/gupnp-av-0.12.11.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gupnp-av.rb)]
 - [ ] gupnp-tools [[homepage](https://wiki.gnome.org/GUPnP/)] [head] [[stable](https://download.gnome.org/sources/gupnp-tools/0.10/gupnp-tools-0.10.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gupnp-tools.rb)]
 - [x] gvp: MIT
-- [ ] gwenhywfar [[homepage](https://www.aquamaniac.de/)] [head] [[stable](https://www.aquamaniac.de/rdm/attachments/download/331/gwenhywfar-5.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gwenhywfar.rb)]
+- [x] gwenhywfar: LGPL-2.1-or-later
 - [x] gws: MIT
 - [x] gwt: Apache-2.0
 - [ ] gwyddion: GPL-2.0 (deprecated) [[homepage](http://gwyddion.net/)] [head] [[stable](http://gwyddion.net/download/2.56/gwyddion-2.56.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gwyddion.rb)]
@@ -2928,7 +2928,7 @@
 - [x] little-cms: MIT
 - [x] little-cms2: MIT
 - [ ] livestreamer [[homepage](https://livestreamer.io/)] [head] [[stable](https://files.pythonhosted.org/packages/ee/d6/efbe3456160a2c62e3dd841c5d9504d071c94449a819148bb038b50d862a/livestreamer-1.12.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/livestreamer.rb)]
-- [ ] lizard: GPL-2.0 (deprecated) [[homepage](https://github.com/inikep/lizard)] [head] [[stable](https://github.com/inikep/lizard/archive/v2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lizard.rb)]
+- [x] lizard: `{:all_of=>["BSD-2-Clause", "GPL-2.0-or-later"]}`
 - [x] lizard-analyzer: MIT
 - [x] lldpd: ISC
 - [x] llnode: MIT
