@@ -56,7 +56,6 @@ app-engine-java
 app-engine-python
 apparix
 apt-dater
-aqbanking
 arb
 arcade-learning-environment
 archivemount
@@ -1350,7 +1349,6 @@ minbif
 minetest
 minicom
 minidjvu
-minimal-racket
 minimodem
 minipro
 miniupnpc

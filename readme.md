@@ -1,4 +1,4 @@
-2947 / 5317 (55.4%) of formulae have a valid `license` stanza as of 2020-11-03 00:01:46 UTC.
+2949 / 5317 (55.5%) of formulae have a valid `license` stanza as of 2020-11-03 12:01:10 UTC.
 
 1172 / 5317 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -148,7 +148,7 @@
 - [x] apr-util: Apache-2.0
 - [ ] apt-dater: GPL-2.0 (deprecated) [[homepage](https://github.com/DE-IBH/apt-dater)] [head] [[stable](https://github.com/DE-IBH/apt-dater/archive/v1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/apt-dater.rb)]
 - [x] aptly: MIT
-- [ ] aqbanking [[homepage](https://www.aquamaniac.de/sites/aqbanking/)] [[head](https://git.aquamaniac.de/git/aqbanking.git)] [[stable](https://www.aquamaniac.de/rdm/attachments/download/334/aqbanking-6.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aqbanking.rb)]
+- [x] aqbanking: GPL-2.0-or-later
 - [x] arabica: BSD-3-Clause
 - [x] arangodb: Apache-2.0
 - [x] aravis: LGPL-2.1-or-later
@@ -3171,7 +3171,7 @@
 - [ ] minidjvu: GPL-2.0 (deprecated) [[homepage](https://minidjvu.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/minidjvu/minidjvu/0.8/minidjvu-0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/minidjvu.rb)]
 - [x] minidlna: GPL-2.0-only
 - [x] minikube: Apache-2.0
-- [ ] minimal-racket [[homepage](https://racket-lang.org/)] [head] [[stable](https://mirror.racket-lang.org/installers/7.8/racket-minimal-7.8-src-builtpkgs.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/minimal-racket.rb)]
+- [x] minimal-racket: `{:any_of=>["MIT", "Apache-2.0"]}`
 - [x] minimesos: Apache-2.0
 - [ ] minimodem [[homepage](http://www.whence.com/minimodem/)] [head] [[stable](http://www.whence.com/minimodem/minimodem-0.24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/minimodem.rb)]
 - [x] minio: Apache-2.0
