@@ -1,6 +1,6 @@
-2938 / 5314 (55.3%) of formulae have a valid `license` stanza as of 2020-11-02 12:01:18 UTC.
+2947 / 5317 (55.4%) of formulae have a valid `license` stanza as of 2020-11-03 00:01:53 UTC.
 
-1176 / 5314 (22.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1172 / 5317 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -178,7 +178,7 @@
 - [ ] arpoison [[homepage](http://www.arpoison.net/)] [head] [[stable](http://www.arpoison.net/arpoison-0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arpoison.rb)]
 - [x] arrayfire: BSD-3-Clause
 - [ ] arss [[homepage](https://arss.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/arss/arss/0.2.3/arss-0.2.3-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arss.rb)]
-- [ ] artifactory [[homepage](https://www.jfrog.com/artifactory/)] [head] [[stable](https://dl.bintray.com/jfrog/artifactory/jfrog-artifactory-oss-6.23.0.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/artifactory.rb)]
+- [x] artifactory: AGPL-3.0-or-later
 - [x] arturo: MIT
 - [ ] arx-libertatis: GPL-3.0 (deprecated) [[homepage](https://arx-libertatis.org/)] [[head](https://github.com/arx/ArxLibertatis.git)] [[stable](https://arx-libertatis.org/files/arx-libertatis-1.1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arx-libertatis.rb)]
 - [x] ascii: BSD-2-Clause
@@ -771,7 +771,7 @@
 - [x] consul: MPL-2.0
 - [x] consul-backinator: MPL-2.0
 - [x] consul-template: MPL-2.0
-- [ ] contacts: GPL-2.0 (deprecated) [[homepage](https://web.archive.org/web/20181108222900/gnufoo.org/contacts/contacts.html)] [head] [[stable](https://github.com/dhess/contacts/archive/4092a3c6615d7a22852a3bafc44e4aeeb698aa8f.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/contacts.rb)]
+- [x] contacts: GPL-2.0-only
 - [x] container-diff: Apache-2.0
 - [x] container-structure-test: Apache-2.0
 - [x] contentful-cli: MIT
@@ -1353,6 +1353,7 @@
 - [x] fits: Apache-2.0
 - [x] fizmo: BSD-3-Clause
 - [x] fizsh: BSD-3-Clause
+- [x] fizz: BSD-2-Clause
 - [ ] flac [[homepage](https://xiph.org/flac/)] [[head](https://gitlab.xiph.org/xiph/flac.git)] [[stable](https://downloads.xiph.org/releases/flac/flac-1.3.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flac.rb)]
 - [ ] flac123: GPL-2.0 (deprecated) [[homepage](https://flac-tools.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/flac-tools/flac123/flac123-0.0.12-release.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flac123.rb)]
 - [ ] flactag [[homepage](https://flactag.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/flactag/v2.0.4/flactag-2.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/flactag.rb)]
@@ -2180,7 +2181,7 @@
 - [x] ired: MIT
 - [ ] ironcli [[homepage](https://github.com/iron-io/ironcli)] [head] [[stable](https://github.com/iron-io/ironcli/archive/0.1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ironcli.rb)]
 - [ ] irrlicht [[homepage](https://irrlicht.sourceforge.io/)] [[head](https://svn.code.sf.net/p/irrlicht/code/trunk)] [[stable](https://downloads.sourceforge.net/project/irrlicht/Irrlicht%20SDK/1.8/1.8.4/irrlicht-1.8.4.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/irrlicht.rb)]
-- [ ] irrtoolset: GPL-2.0 (deprecated) [[homepage](https://github.com/irrtoolset/irrtoolset)] [[head](https://github.com/irrtoolset/irrtoolset.git)] [[stable](https://github.com/irrtoolset/irrtoolset/archive/release-5.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/irrtoolset.rb)]
+- [x] irrtoolset: `cannot_represent`
 - [ ] irssi: GPL-2.0 (deprecated) [[homepage](https://irssi.org/)] [[head](https://github.com/irssi/irssi.git)] [[stable](https://github.com/irssi/irssi/releases/download/1.2.2/irssi-1.2.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/irssi.rb)]
 - [x] isc-dhcp: MPL-2.0
 - [x] isl: MIT
@@ -2339,7 +2340,7 @@
 - [x] kepubify: MIT
 - [x] kerl: MIT
 - [ ] kestrel [[homepage](https://twitter-archive.github.io/kestrel/)] [head] [[stable](https://twitter-archive.github.io/kestrel/download/kestrel-2.4.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kestrel.rb)]
-- [ ] kettle [[homepage](https://community.hitachivantara.com/docs/DOC-1009931-downloads)] [head] [[stable](https://downloads.sourceforge.net/project/pentaho/Pentaho%209.0/client-tools/pdi-ce-9.0.0.0-423.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kettle.rb)]
+- [ ] kettle [[homepage](https://www.hitachivantara.com/en-us/products/data-management-analytics.html)] [head] [[stable](https://downloads.sourceforge.net/project/pentaho/Pentaho%209.1/client-tools/pdi-ce-9.1.0.0-324.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kettle.rb)]
 - [ ] keychain [[homepage](https://www.funtoo.org/Keychain)] [head] [[stable](https://build.funtoo.org/distfiles/keychain/keychain-2.8.5.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/keychain.rb)]
 - [x] keydb: BSD-3-Clause
 - [ ] keystone: GPL-2.0 (deprecated) [[homepage](https://www.keystone-engine.org/)] [[head](https://github.com/keystone-engine/keystone.git)] [[stable](https://github.com/keystone-engine/keystone/archive/0.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/keystone.rb)]
@@ -3239,7 +3240,7 @@
 - [ ] mp3gain [[homepage](https://mp3gain.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/mp3gain/mp3gain/1.6.2/mp3gain-1_6_2-src.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mp3gain.rb)]
 - [ ] mp3info: GPL-2.0 (deprecated) [[homepage](https://www.ibiblio.org/mp3info/)] [head] [[stable](https://www.ibiblio.org/pub/linux/apps/sound/mp3-utils/mp3info/mp3info-0.8.5a.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mp3info.rb)]
 - [ ] mp3splt [[homepage](https://mp3splt.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/mp3splt/mp3splt/2.6.2/mp3splt-2.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mp3splt.rb)]
-- [ ] mp3unicode: GPL-2.0 (deprecated) [[homepage](https://mp3unicode.sourceforge.io/)] [[head](https://github.com/alonbl/mp3unicode.git)] [[stable](https://github.com/downloads/alonbl/mp3unicode/mp3unicode-1.2.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mp3unicode.rb)]
+- [x] mp3unicode: GPL-2.0-only
 - [ ] mp3val: GPL-2.0 (deprecated) [[homepage](https://mp3val.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mp3val/mp3val/mp3val%200.1.8/mp3val-0.1.8-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mp3val.rb)]
 - [ ] mp3wrap [[homepage](https://mp3wrap.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mp3wrap/mp3wrap/mp3wrap%200.5/mp3wrap-0.5-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mp3wrap.rb)]
 - [ ] mp4v2 [[homepage](https://code.google.com/archive/p/mp4v2/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mp4v2/mp4v2-2.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mp4v2.rb)]
@@ -3641,6 +3642,7 @@
 - [x] overmind: MIT
 - [x] owamp: Apache-2.0
 - [x] owfs: GPL-2.0-only
+- [x] ox: GPL-2.0-only
 - [x] oxipng: MIT
 - [ ] oysttyer [[homepage](https://github.com/oysttyer/oysttyer)] [[head](https://github.com/oysttyer/oysttyer.git)] [[stable](https://github.com/oysttyer/oysttyer/archive/2.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/oysttyer.rb)]
 
@@ -3872,7 +3874,7 @@
 - [x] popt: MIT
 - [ ] portaudio [[homepage](http://www.portaudio.com)] [[head](https://git.assembla.com/portaudio.git)] [[stable](http://www.portaudio.com/archives/pa_stable_v190600_20161030.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/portaudio.rb)]
 - [ ] portmidi [[homepage](https://sourceforge.net/projects/portmedia/)] [head] [[stable](https://downloads.sourceforge.net/project/portmedia/portmidi/217/portmidi-src-217.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/portmidi.rb)]
-- [ ] posh: GPL-2.0 (deprecated) [[homepage](https://salsa.debian.org/clint/posh)] [head] [[stable](https://salsa.debian.org/clint/posh/-/archive/debian/0.14.1/posh-debian-0.14.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/posh.rb)]
+- [x] posh: GPL-3.0-or-later
 - [ ] poster: GPL-2.0 (deprecated) [[homepage](https://schrfr.github.io/poster/)] [head] [[stable](https://github.com/schrfr/poster/archive/1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/poster.rb)]
 - [x] postgis: GPL-2.0-or-later
 - [x] postgresql: PostgreSQL
@@ -4449,7 +4451,7 @@
 - [x] sloc: MIT
 - [ ] sloccount: GPL-2.0 (deprecated) [[homepage](https://www.dwheeler.com/sloccount/)] [head] [[stable](https://www.dwheeler.com/sloccount/sloccount-2.26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sloccount.rb)]
 - [x] slowhttptest: Apache-2.0
-- [ ] slrn [[homepage](https://slrn.sourceforge.io/)] [[head](git://git.jedsoft.org/git/slrn.git)] [[stable](https://jedsoft.org/releases/slrn/slrn-1.0.3a.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/slrn.rb)]
+- [x] slrn: GPL-2.0-or-later
 - [x] slugify: MIT
 - [ ] slurm: GPL-2.0 (deprecated) [[homepage](https://github.com/mattthias/slurm)] [head] [[stable](https://github.com/mattthias/slurm/archive/upstream/0.4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/slurm.rb)]
 - [ ] smake [[homepage](https://s-make.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/s-make/smake-1.2.5.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/smake.rb)]
@@ -5098,6 +5100,7 @@
 - [x] vttest: BSD-3-Clause
 - [x] vulkan-headers: Apache-2.0
 - [x] vultr: MIT
+- [x] vulture: MIT
 
 ### W
 

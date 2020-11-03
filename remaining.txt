@@ -73,7 +73,6 @@ arp-sk
 arping
 arpoison
 arss
-artifactory
 arx-libertatis
 asciinema
 asciiquarium
@@ -315,7 +314,6 @@ commandbox
 compface
 confluent-platform
 connect
-contacts
 convertlit
 convmv
 coq
@@ -912,7 +910,6 @@ ircd-irc2
 ircii
 ironcli
 irrlicht
-irrtoolset
 irssi
 iso-codes
 ispell
@@ -1399,7 +1396,6 @@ mp3fs
 mp3gain
 mp3info
 mp3splt
-mp3unicode
 mp3val
 mp3wrap
 mp4v2
@@ -1699,7 +1695,6 @@ polyml
 ponysay
 portaudio
 portmidi
-posh
 poster
 postmark
 potrace
@@ -1941,7 +1936,6 @@ slashem
 sleepwatcher
 sleuthkit
 sloccount
-slrn
 slurm
 smake
 smartmontools
