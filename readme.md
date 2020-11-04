@@ -1,6 +1,6 @@
-2949 / 5317 (55.5%) of formulae have a valid `license` stanza as of 2020-11-03 12:01:10 UTC.
+2953 / 5318 (55.5%) of formulae have a valid `license` stanza as of 2020-11-04 00:01:49 UTC.
 
-1172 / 5317 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1170 / 5318 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -391,7 +391,7 @@
 - [x] black: MIT
 - [x] blackbox: MIT
 - [ ] blahtexml [[homepage](http://gva.noekeon.org/blahtexml/)] [head] [[stable](http://gva.noekeon.org/blahtexml/blahtexml-0.9-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blahtexml.rb)]
-- [ ] blast: LGPL-2.1 (deprecated) [[homepage](https://blast.ncbi.nlm.nih.gov/)] [head] [[stable](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.10.1/ncbi-blast-2.10.1+-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blast.rb)]
+- [x] blast: `public_domain`
 - [x] blastem: GPL-3.0-or-later
 - [x] blaze: BSD-3-Clause
 - [ ] blazeblogger: GPL-3.0 (deprecated) [[homepage](http://blaze.blackened.cz/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/blazeblogger/blazeblogger-1.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/blazeblogger.rb)]
@@ -598,6 +598,7 @@
 - [ ] cfengine [[homepage](https://cfengine.com/)] [head] [[stable](https://cfengine-package-repos.s3.amazonaws.com/tarballs/cfengine-3.16.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cfengine.rb)]
 - [ ] cfitsio [[homepage](https://heasarc.gsfc.nasa.gov/docs/software/fitsio/fitsio.html)] [head] [[stable](https://heasarc.gsfc.nasa.gov/FTP/software/fitsio/c/cfitsio-3.49.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cfitsio.rb)]
 - [ ] cflow: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/cflow/)] [head] [[stable](https://ftp.gnu.org/gnu/cflow/cflow-1.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cflow.rb)]
+- [x] cfn-flip: Apache-2.0
 - [x] cfn-lint: MIT
 - [x] cfr-decompiler: MIT
 - [x] cfssl: BSD-2-Clause
@@ -2158,7 +2159,7 @@
 - [ ] innotop: GPL-2.0 (deprecated) [[homepage](https://github.com/innotop/innotop/)] [[head](https://github.com/innotop/innotop.git)] [[stable](https://github.com/innotop/innotop/archive/v1.12.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/innotop.rb)]
 - [x] insect: MIT
 - [ ] inspectrum: GPL-3.0 (deprecated) [[homepage](https://github.com/miek/inspectrum)] [[head](https://github.com/miek/inspectrum.git)] [[stable](https://github.com/miek/inspectrum/archive/v0.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/inspectrum.rb)]
-- [ ] inspircd: GPL-2.0 (deprecated) [[homepage](https://www.inspircd.org/)] [head] [[stable](https://github.com/inspircd/inspircd/archive/v3.7.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/inspircd.rb)]
+- [x] inspircd: GPL-2.0-only
 - [ ] instalooter: GPL-3.0 (deprecated) [[homepage](https://github.com/althonos/instalooter)] [head] [[stable](https://files.pythonhosted.org/packages/30/13/907e6aaba6280e1001080ab47e750068ffc5fb7174203985b3c9d678e3f2/instalooter-2.4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/instalooter.rb)]
 - [x] instead: MIT
 - [ ] intercal: GPL-2.0 (deprecated) [[homepage](http://catb.org/~esr/intercal/)] [[head](https://gitlab.com/esr/intercal.git)] [[stable](http://catb.org/~esr/intercal/intercal-0.31.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/intercal.rb)]
@@ -5090,7 +5091,7 @@
 - [ ] vice [[homepage](https://sourceforge.net/projects/vice-emu/)] [[head](https://svn.code.sf.net/p/vice-emu/code/trunk/vice)] [[stable](https://downloads.sourceforge.net/project/vice-emu/releases/vice-3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vice.rb)]
 - [ ] viennacl [[homepage](https://viennacl.sourceforge.io/)] [[head](https://github.com/viennacl/viennacl-dev.git)] [[stable](https://downloads.sourceforge.net/project/viennacl/1.7.x/ViennaCL-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/viennacl.rb)]
 - [x] viewvc: BSD-2-Clause
-- [ ] vifm [[homepage](https://vifm.info/)] [head] [[stable](https://github.com/vifm/vifm/releases/download/v0.10.1/vifm-0.10.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vifm.rb)]
+- [x] vifm: GPL-2.0-or-later
 - [ ] vilistextum: GPL-2.0 (deprecated) [[homepage](https://bhaak.net/vilistextum/)] [head] [[stable](https://bhaak.net/vilistextum/vilistextum-2.6.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vilistextum.rb)]
 - [x] vim: Vim
 - [ ] vimpager [[homepage](https://github.com/rkitover/vimpager)] [[head](https://github.com/rkitover/vimpager.git)] [[stable](https://github.com/rkitover/vimpager/archive/2.06.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vimpager.rb)]

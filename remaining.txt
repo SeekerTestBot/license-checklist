@@ -164,7 +164,6 @@ bittwist
 bitwarden-cli
 bitwise
 blahtexml
-blast
 blazeblogger
 blazegraph
 blitzwave
@@ -886,7 +885,6 @@ inadyn
 inetutils
 innotop
 inspectrum
-inspircd
 instalooter
 intercal
 intltool
@@ -2192,7 +2190,6 @@ vfuse
 vgrep
 vice
 viennacl
-vifm
 vilistextum
 vimpager
 vimpc
