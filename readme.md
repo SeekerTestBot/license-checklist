@@ -1,6 +1,6 @@
-2953 / 5318 (55.5%) of formulae have a valid `license` stanza as of 2020-11-04 00:01:49 UTC.
+2955 / 5320 (55.5%) of formulae have a valid `license` stanza as of 2020-11-04 12:04:15 UTC.
 
-1170 / 5318 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1170 / 5320 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -4593,7 +4593,7 @@
 - [x] sqlite-analyzer: blessing
 - [x] sqlite-utils: Apache-2.0
 - [ ] sqliteodbc [[homepage](https://ch-werner.homepage.t-online.de/sqliteodbc/)] [head] [[stable](https://ch-werner.homepage.t-online.de/sqliteodbc/sqliteodbc-0.9998.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqliteodbc.rb)]
-- [ ] sqlmap: GPL-2.0 (deprecated) [[homepage](http://sqlmap.org)] [[head](https://github.com/sqlmapproject/sqlmap.git)] [[stable](https://github.com/sqlmapproject/sqlmap/archive/1.4.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqlmap.rb)]
+- [ ] sqlmap: GPL-2.0 (deprecated) [[homepage](http://sqlmap.org)] [[head](https://github.com/sqlmapproject/sqlmap.git)] [[stable](https://github.com/sqlmapproject/sqlmap/archive/1.4.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqlmap.rb)]
 - [x] sqlparse: BSD-3-Clause
 - [x] sqoop: Apache-2.0
 - [ ] sqtop: GPL-2.0 (deprecated) [[homepage](https://github.com/paleg/sqtop)] [head] [[stable](https://github.com/paleg/sqtop/archive/v2015-02-08.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqtop.rb)]
@@ -4926,6 +4926,7 @@
 - [ ] tre [[homepage](https://laurikari.net/tre/)] [head] [[stable](https://laurikari.net/tre/tre-0.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tre.rb)]
 - [x] tre-command: MIT
 - [ ] tree: GPL-2.0 (deprecated) [[homepage](http://mama.indstate.edu/users/ice/tree/)] [head] [[stable](https://deb.debian.org/debian/pool/main/t/tree/tree_1.8.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tree.rb)]
+- [x] tree-sitter: MIT
 - [ ] treecc: GPL-2.0 (deprecated) [[homepage](https://gnu.org/software/dotgnu/treecc/treecc.html)] [head] [[stable](https://download.savannah.gnu.org/releases/dotgnu-pnet/treecc-0.3.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/treecc.rb)]
 - [x] treefrog: BSD-3-Clause
 - [ ] trezor-agent: LGPL-3.0 (deprecated) [[homepage](https://github.com/romanz/trezor-agent)] [head] [[stable](https://files.pythonhosted.org/packages/f1/a7/8989377dfce48abf9115055baf6d2cfba55102929a7c5f3e5b9c8e8b5c18/trezor_agent-0.11.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/trezor-agent.rb)]
@@ -5366,6 +5367,7 @@
 - [x] yelp-tools: GPL-2.0-or-later
 - [x] yeti: BSD-3-Clause
 - [ ] yetris: GPL-3.0 (deprecated) [[homepage](https://github.com/alexdantas/yetris)] [head] [[stable](https://github.com/alexdantas/yetris/archive/v2.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yetris.rb)]
+- [x] yh: Apache-2.0
 - [x] yj: Apache-2.0
 - [x] ykclient: BSD-2-Clause
 - [x] ykman: BSD-2-Clause
