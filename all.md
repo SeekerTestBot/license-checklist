@@ -1,6 +1,6 @@
-2955 / 5320 (55.5%) of formulae have a valid `license` stanza as of 2020-11-04 12:04:23 UTC.
+2957 / 5321 (55.6%) of formulae have a valid `license` stanza as of 2020-11-05 00:01:48 UTC.
 
-1170 / 5320 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1170 / 5321 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -645,7 +645,7 @@
 - [ ] chromaprint: LGPL-2.1 (deprecated) [[homepage](https://acoustid.org/chromaprint)] [head] [[stable](https://github.com/acoustid/chromaprint/releases/download/v1.5.0/chromaprint-1.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chromaprint.rb)]
 - [x] chrome-cli: MIT
 - [x] chrome-export: ISC
-- [ ] chronograf: AGPL-3.0 (deprecated) [[homepage](https://docs.influxdata.com/chronograf/latest/)] [[head](https://github.com/influxdata/chronograf.git)] [[stable](https://github.com/influxdata/chronograf/archive/1.8.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chronograf.rb)]
+- [ ] chronograf: AGPL-3.0 (deprecated) [[homepage](https://docs.influxdata.com/chronograf/latest/)] [[head](https://github.com/influxdata/chronograf.git)] [[stable](https://github.com/influxdata/chronograf/archive/1.8.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chronograf.rb)]
 - [x] chrony: GPL-2.0-only
 - [x] chruby: MIT
 - [x] chruby-fish: MIT
@@ -1081,6 +1081,7 @@
 - [x] dosbox-staging: GPL-2.0-or-later
 - [x] dosbox-x: GPL-2.0-or-later
 - [ ] dosfstools: GPL-3.0 (deprecated) [[homepage](https://github.com/dosfstools)] [[head](https://github.com/dosfstools/dosfstools.git)] [[stable](https://github.com/dosfstools/dosfstools/releases/download/v4.1/dosfstools-4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dosfstools.rb)]
+- [x] dotenv-linter: MIT
 - [x] dotnet: MIT
 - [x] double-conversion: BSD-3-Clause
 - [ ] doublecpp: GPL-2.0 (deprecated) [[homepage](https://doublecpp.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/doublecpp/doublecpp/0.6.3/doublecpp-0.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/doublecpp.rb)]
@@ -3736,7 +3737,7 @@
 - [x] pdnsrec: GPL-2.0-only
 - [ ] pdsh: GPL-2.0 (deprecated) [[homepage](https://github.com/chaos/pdsh)] [[head](https://github.com/chaos/pdsh.git)] [[stable](https://github.com/chaos/pdsh/releases/download/pdsh-2.34/pdsh-2.34.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdsh.rb)]
 - [x] peco: MIT
-- [ ] peg [[homepage](https://www.piumarta.com/software/peg/)] [head] [[stable](https://www.piumarta.com/software/peg/peg-0.1.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/peg.rb)]
+- [x] peg: MIT
 - [x] peg-markdown: MIT
 - [x] pegtl: MIT
 - [x] pelikan: Apache-2.0

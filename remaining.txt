@@ -1630,7 +1630,6 @@ pdfsandwich
 pdftohtml
 pdnsd
 pdsh
-peg
 perceptualdiff
 percona-server
 percona-xtrabackup
