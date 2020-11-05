@@ -1,6 +1,6 @@
-2957 / 5321 (55.6%) of formulae have a valid `license` stanza as of 2020-11-05 00:01:48 UTC.
+2958 / 5322 (55.6%) of formulae have a valid `license` stanza as of 2020-11-05 12:01:21 UTC.
 
-1170 / 5321 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1170 / 5322 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2187,6 +2187,7 @@
 - [ ] irssi: GPL-2.0 (deprecated) [[homepage](https://irssi.org/)] [[head](https://github.com/irssi/irssi.git)] [[stable](https://github.com/irssi/irssi/releases/download/1.2.2/irssi-1.2.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/irssi.rb)]
 - [x] isc-dhcp: MPL-2.0
 - [x] isl: MIT
+- [x] isl@0.18: MIT
 - [ ] iso-codes: LGPL-2.1 (deprecated) [[homepage](https://salsa.debian.org/iso-codes-team/iso-codes)] [[head](https://salsa.debian.org/iso-codes-team/iso-codes.git)] [[stable](https://deb.debian.org/debian/pool/main/i/iso-codes/iso-codes_4.5.0.orig.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/iso-codes.rb)]
 - [x] isort: MIT
 - [x] ispc: BSD-3-Clause
@@ -3920,7 +3921,7 @@
 - [ ] profanity: GPL-3.0 (deprecated) [[homepage](https://profanity-im.github.io)] [[head](https://github.com/profanity-im/profanity.git)] [[stable](https://profanity-im.github.io/profanity-0.9.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/profanity.rb)]
 - [ ] proftpd: GPL-2.0 (deprecated) [[homepage](http://www.proftpd.org/)] [head] [[stable](https://github.com/proftpd/proftpd/archive/v1.3.7a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proftpd.rb)]
 - [ ] progress: GPL-3.0 (deprecated) [[homepage](https://github.com/Xfennec/progress)] [[head](https://github.com/Xfennec/progress.git)] [[stable](https://github.com/Xfennec/progress/archive/v0.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/progress.rb)]
-- [ ] proguard: GPL-2.0 (deprecated) [[homepage](https://www.guardsquare.com/en/products/proguard)] [head] [[stable](https://github.com/Guardsquare/proguard/releases/download/v7.0.0/proguard-7.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proguard.rb)]
+- [ ] proguard: GPL-2.0 (deprecated) [[homepage](https://www.guardsquare.com/en/products/proguard)] [head] [[stable](https://github.com/Guardsquare/proguard/releases/download/v7.0.1/proguard-7.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proguard.rb)]
 - [x] proj: MIT
 - [x] prometheus: Apache-2.0
 - [x] prometheus-cpp: MIT
