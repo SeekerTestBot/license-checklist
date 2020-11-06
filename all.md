@@ -1,6 +1,6 @@
-2958 / 5322 (55.6%) of formulae have a valid `license` stanza as of 2020-11-05 12:01:21 UTC.
+2961 / 5325 (55.6%) of formulae have a valid `license` stanza as of 2020-11-06 00:01:53 UTC.
 
-1170 / 5322 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1170 / 5325 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1949,7 +1949,7 @@
 - [x] hamlib: LGPL-2.1-or-later
 - [ ] handbrake: GPL-2.0 (deprecated) [[homepage](https://handbrake.fr/)] [[head](https://github.com/HandBrake/HandBrake.git)] [[stable](https://github.com/HandBrake/HandBrake/releases/download/1.3.3/HandBrake-1.3.3-source.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/handbrake.rb)]
 - [x] hapi-fhir-cli: Apache-2.0
-- [ ] haproxy [[homepage](https://www.haproxy.org/)] [head] [[stable](https://www.haproxy.org/download/2.2/src/haproxy-2.2.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/haproxy.rb)]
+- [ ] haproxy [[homepage](https://www.haproxy.org/)] [head] [[stable](https://www.haproxy.org/download/2.2/src/haproxy-2.2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/haproxy.rb)]
 - [ ] harbour: GPL-2.0 (deprecated) [[homepage](https://harbour.github.io)] [[head](https://github.com/harbour/core.git)] [[stable](https://downloads.sourceforge.net/project/harbour-project/source/3.0.0/harbour-3.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/harbour.rb)]
 - [ ] hardlink [[homepage](https://jak-linux.org/projects/hardlink/)] [head] [[stable](https://jak-linux.org/projects/hardlink/hardlink_0.3.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hardlink.rb)]
 - [ ] hardlink-osx [[homepage](https://github.com/selkhateeb/hardlink)] [head] [[stable](https://github.com/selkhateeb/hardlink/archive/v0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hardlink-osx.rb)]
@@ -3050,6 +3050,7 @@
 - [x] mariadb@10.3: GPL-2.0-only
 - [x] mariadb@10.4: GPL-2.0-only
 - [ ] markdown [[homepage](https://daringfireball.net/projects/markdown/)] [head] [[stable](https://daringfireball.net/projects/downloads/Markdown_1.0.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/markdown.rb)]
+- [x] markdownlint-cli: MIT
 - [x] marked: MIT
 - [ ] marst: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/marst)] [head] [[stable](https://ftp.gnu.org/gnu/marst/marst-2.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/marst.rb)]
 - [x] mas: MIT
@@ -4189,6 +4190,7 @@
 - [ ] rkhunter [[homepage](https://rkhunter.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/rkhunter/rkhunter/1.4.6/rkhunter-1.4.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rkhunter.rb)]
 - [ ] rlog: LGPL-2.1 (deprecated) [[homepage](https://www.arg0.net/rlog)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/rlog/rlog-1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rlog.rb)]
 - [ ] rlwrap: GPL-2.0 (deprecated) [[homepage](https://github.com/hanslub42/rlwrap)] [[head](https://github.com/hanslub42/rlwrap.git)] [[stable](https://github.com/hanslub42/rlwrap/archive/v0.43.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rlwrap.rb)]
+- [x] rm-improved: GPL-3.0-or-later
 - [x] rmate: MIT
 - [ ] rmcast [[homepage](http://www.land.ufrj.br/tools/rmcast/rmcast.html)] [head] [[stable](http://www.land.ufrj.br/tools/rmcast/download/rmcast-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rmcast.rb)]
 - [ ] rmlint: GPL-3.0 (deprecated) [[homepage](https://github.com/sahib/rmlint)] [head] [[stable](https://github.com/sahib/rmlint/archive/v2.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rmlint.rb)]
@@ -5119,6 +5121,7 @@
 - [ ] walkmod [[homepage](https://walkmod.com/)] [head] [[stable](https://bitbucket.org/rpau/walkmod/downloads/walkmod-3.0.0-installer.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/walkmod.rb)]
 - [x] wallpaper: MIT
 - [ ] wandio: GPL-3.0 (deprecated) [[homepage](https://research.wand.net.nz/software/libwandio.php)] [head] [[stable](https://research.wand.net.nz/software/wandio/wandio-4.2.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wandio.rb)]
+- [x] wangle: Apache-2.0
 - [ ] waon: GPL-2.0 (deprecated) [[homepage](https://kichiki.github.io/WaoN/)] [head] [[stable](https://github.com/kichiki/WaoN/archive/v0.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/waon.rb)]
 - [x] wapm: MIT
 - [x] wartremover: Apache-2.0
