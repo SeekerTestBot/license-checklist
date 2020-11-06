@@ -1,6 +1,6 @@
-2961 / 5325 (55.6%) of formulae have a valid `license` stanza as of 2020-11-06 00:01:45 UTC.
+2964 / 5326 (55.7%) of formulae have a valid `license` stanza as of 2020-11-06 12:01:08 UTC.
 
-1170 / 5325 (22.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1169 / 5326 (21.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1478,7 +1478,7 @@
 - [ ] funcoeszz [[homepage](https://funcoeszz.net/)] [head] [[stable](https://funcoeszz.net/download/funcoeszz-18.3.sh)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/funcoeszz.rb)]
 - [x] functionalplus: BSL-1.0
 - [ ] fuse-emulator: GPL-2.0 (deprecated) [[homepage](https://fuse-emulator.sourceforge.io/)] [[head](https://svn.code.sf.net/p/fuse-emulator/code/trunk/fuse)] [[stable](https://downloads.sourceforge.net/project/fuse-emulator/fuse/1.5.7/fuse-1.5.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fuse-emulator.rb)]
-- [ ] fuse-zip: GPL-3.0 (deprecated) [[homepage](https://bitbucket.org/agalanin/fuse-zip)] [[head](https://bitbucket.org/agalanin/fuse-zip)] [[stable](https://bitbucket.org/agalanin/fuse-zip/downloads/fuse-zip-0.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fuse-zip.rb)]
+- [x] fuse-zip: GPL-3.0-or-later
 - [x] fuseki: Apache-2.0
 - [x] futhark: ISC
 - [ ] fuzzy-find [[homepage](https://github.com/silentbicycle/ff)] [[head](https://github.com/silentbicycle/ff.git)] [[stable](https://github.com/silentbicycle/ff/archive/v0.6-flag-features.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fuzzy-find.rb)]
@@ -2124,7 +2124,7 @@
 - [ ] iftop: GPL-2.0 (deprecated) [[homepage](https://www.ex-parrot.com/~pdw/iftop/)] [[head](https://code.blinkace.com/pdw/iftop.git)] [[stable](https://www.ex-parrot.com/pdw/iftop/download/iftop-1.0pre4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/iftop.rb)]
 - [ ] ifuse: LGPL-2.1 (deprecated) [[homepage](https://www.libimobiledevice.org/)] [[head](https://cgit.sukimashita.com/ifuse.git)] [[stable](https://github.com/libimobiledevice/ifuse/archive/1.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ifuse.rb)]
 - [x] igraph: GPL-2.0-or-later
-- [ ] igv [[homepage](https://www.broadinstitute.org/software/igv)] [head] [[stable](https://data.broadinstitute.org/igv/projects/downloads/2.8/IGV_2.8.11.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/igv.rb)]
+- [ ] igv [[homepage](https://www.broadinstitute.org/software/igv)] [head] [[stable](https://data.broadinstitute.org/igv/projects/downloads/2.8/IGV_2.8.12.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/igv.rb)]
 - [x] ii: MIT
 - [ ] ike-scan: GPL-3.0 (deprecated) [[homepage](https://github.com/royhills/ike-scan)] [[head](https://github.com/royhills/ike-scan.git)] [[stable](https://github.com/royhills/ike-scan/archive/1.9.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ike-scan.rb)]
 - [x] ilmbase: BSD-3-Clause
@@ -2944,6 +2944,7 @@
 - [x] linkerd: Apache-2.0
 - [ ] linklint [[homepage](http://linklint.org)] [head] [[stable](http://linklint.org/download/linklint-2.3.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/linklint.rb)]
 - [ ] links: GPL-2.0 (deprecated) [[homepage](http://links.twibright.com/)] [head] [[stable](http://links.twibright.com/download/links-2.21.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/links.rb)]
+- [x] linux-headers: GPL-2.0-only
 - [x] liquibase: Apache-2.0
 - [x] liquid-dsp: MIT
 - [x] liquidctl: GPL-3.0-or-later
@@ -3202,7 +3203,7 @@
 - [ ] mkcue: LGPL-2.1 (deprecated) [[homepage](https://packages.debian.org/sid/mkcue)] [head] [[stable](https://deb.debian.org/debian/pool/main/m/mkcue/mkcue_1.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mkcue.rb)]
 - [x] mkdocs: BSD-2-Clause
 - [ ] mkhexgrid: GPL-2.0 (deprecated) [[homepage](http://www.nomic.net/~uckelman/mkhexgrid/)] [head] [[stable](http://www.nomic.net/~uckelman/mkhexgrid/releases/mkhexgrid-0.1.1.src.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mkhexgrid.rb)]
-- [ ] mksh [[homepage](https://www.mirbsd.org/mksh.htm)] [head] [[stable](https://www.mirbsd.org/MirOS/dist/mir/mksh/mksh-R59b.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mksh.rb)]
+- [ ] mksh [[homepage](https://www.mirbsd.org/mksh.htm)] [head] [[stable](https://www.mirbsd.org/MirOS/dist/mir/mksh/mksh-R59c.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mksh.rb)]
 - [ ] mktorrent: GPL-2.0 (deprecated) [[homepage](https://github.com/Rudde/mktorrent/wiki)] [head] [[stable](https://github.com/Rudde/mktorrent/archive/v1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mktorrent.rb)]
 - [ ] mkvalidator [[homepage](https://www.matroska.org/downloads/mkvalidator.html)] [head] [[stable](https://downloads.sourceforge.net/project/matroska/mkvalidator/mkvalidator-0.5.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mkvalidator.rb)]
 - [x] mkvdts2ac3: Apache-2.0
@@ -3591,7 +3592,7 @@
 - [x] openclonk: ISC
 - [x] opencoarrays: BSD-3-Clause
 - [x] opencolorio: BSD-3-Clause
-- [ ] openconnect [[homepage](https://www.infradead.org/openconnect/)] [[head](git://git.infradead.org/users/dwmw2/openconnect.git)] [[stable](ftp://ftp.infradead.org/pub/openconnect/openconnect-8.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openconnect.rb)]
+- [x] openconnect: LGPL-2.1-only
 - [x] opencore-amr: Apache-2.0
 - [ ] opencsg [[homepage](http://www.opencsg.org)] [head] [[stable](http://www.opencsg.org/OpenCSG-1.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/opencsg.rb)]
 - [x] opencv: Apache-2.0
@@ -5411,7 +5412,7 @@
 - [x] zero-install: LGPL-2.1-or-later
 - [ ] zeromq [[homepage](https://zeromq.org/)] [[head](https://github.com/zeromq/libzmq.git)] [[stable](https://github.com/zeromq/libzmq/releases/download/v4.3.3/zeromq-4.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zeromq.rb)]
 - [x] zig: MIT
-- [ ] zile [[homepage](https://www.gnu.org/software/zile/)] [head] [[stable](https://ftp.gnu.org/gnu/zile/zile-2.4.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zile.rb)]
+- [ ] zile [[homepage](https://www.gnu.org/software/zile/)] [head] [[stable](https://ftp.gnu.org/gnu/zile/zile-2.4.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zile.rb)]
 - [ ] zim: GPL-2.0 (deprecated) [[homepage](https://zim-wiki.org/)] [[head](https://github.com/jaap-karssenberg/zim-desktop-wiki.git)] [[stable](https://github.com/jaap-karssenberg/zim-desktop-wiki/archive/0.73.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zim.rb)]
 - [x] zimg: WTFPL
 - [ ] zinc [[homepage](https://github.com/typesafehub/zinc)] [head] [[stable](https://downloads.typesafe.com/zinc/0.3.15/zinc-0.3.15.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zinc.rb)]

@@ -613,7 +613,6 @@ ftjam
 fuego
 funcoeszz
 fuse-emulator
-fuse-zip
 fuzzy-find
 gabedit
 gaffitter
@@ -1548,7 +1547,6 @@ open-tyrian
 open-zwave
 openal-soft
 opencascade
-openconnect
 opencsg
 opendbx
 openjazz
