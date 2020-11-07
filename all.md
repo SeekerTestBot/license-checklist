@@ -1,6 +1,6 @@
-2964 / 5326 (55.7%) of formulae have a valid `license` stanza as of 2020-11-06 12:01:15 UTC.
+2967 / 5328 (55.7%) of formulae have a valid `license` stanza as of 2020-11-07 00:01:57 UTC.
 
-1169 / 5326 (21.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1168 / 5328 (21.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -605,7 +605,7 @@
 - [x] cgl: EPL-1.0
 - [x] cglm: MIT
 - [x] cgns: BSD-3-Clause
-- [ ] cgoban: GPL-2.0 (deprecated) [[homepage](https://cgoban1.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/cgoban1/cgoban1/1.9.14/cgoban-1.9.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cgoban.rb)]
+- [x] cgoban: GPL-2.0-or-later
 - [ ] cgrep: GPL-2.0 (deprecated) [[homepage](https://github.com/awgn/cgrep)] [[head](https://github.com/awgn/cgrep.git)] [[stable](https://github.com/awgn/cgrep/archive/v6.6.32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cgrep.rb)]
 - [ ] cgvg: GPL-2.0 (deprecated) [[homepage](http://www.uzix.org/cgvg.html)] [head] [[stable](http://www.uzix.org/cgvg/cgvg-1.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cgvg.rb)]
 - [ ] chadwick: GPL-2.0 (deprecated) [[homepage](https://chadwick.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/chadwick/chadwick-0.7/chadwick-0.7.2/chadwick-0.7.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chadwick.rb)]
@@ -618,6 +618,7 @@
 - [x] charge: MIT
 - [ ] charm: GPL-3.0 (deprecated) [[homepage](https://github.com/juju/charmstore-client)] [head] [[stable](https://github.com/juju/charmstore-client/archive/v2.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/charm.rb)]
 - [ ] charm-tools: GPL-3.0 (deprecated) [[homepage](https://github.com/juju/charm-tools)] [head] [[stable](https://files.pythonhosted.org/packages/1a/77/552dbd44cfc28daa6db06436cce906bbdf452ba6de0059b58b5d892b3317/charm-tools-2.7.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/charm-tools.rb)]
+- [x] chars: MIT
 - [x] chart-testing: Apache-2.0
 - [ ] chcase [[homepage](http://www.primaledge.ca/chcase.html)] [head] [[stable](http://www.primaledge.ca/chcase)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chcase.rb)]
 - [x] cheapglk: MIT
@@ -1949,7 +1950,7 @@
 - [x] hamlib: LGPL-2.1-or-later
 - [ ] handbrake: GPL-2.0 (deprecated) [[homepage](https://handbrake.fr/)] [[head](https://github.com/HandBrake/HandBrake.git)] [[stable](https://github.com/HandBrake/HandBrake/releases/download/1.3.3/HandBrake-1.3.3-source.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/handbrake.rb)]
 - [x] hapi-fhir-cli: Apache-2.0
-- [ ] haproxy [[homepage](https://www.haproxy.org/)] [head] [[stable](https://www.haproxy.org/download/2.2/src/haproxy-2.2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/haproxy.rb)]
+- [ ] haproxy [[homepage](https://www.haproxy.org/)] [head] [[stable](https://www.haproxy.org/download/2.3/src/haproxy-2.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/haproxy.rb)]
 - [ ] harbour: GPL-2.0 (deprecated) [[homepage](https://harbour.github.io)] [[head](https://github.com/harbour/core.git)] [[stable](https://downloads.sourceforge.net/project/harbour-project/source/3.0.0/harbour-3.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/harbour.rb)]
 - [ ] hardlink [[homepage](https://jak-linux.org/projects/hardlink/)] [head] [[stable](https://jak-linux.org/projects/hardlink/hardlink_0.3.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hardlink.rb)]
 - [ ] hardlink-osx [[homepage](https://github.com/selkhateeb/hardlink)] [head] [[stable](https://github.com/selkhateeb/hardlink/archive/v0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hardlink-osx.rb)]
@@ -3558,7 +3559,7 @@
 - [ ] openal-soft: LGPL-2.0 (deprecated) [[homepage](https://openal-soft.org/)] [[head](https://github.com/kcat/openal-soft.git)] [[stable](https://openal-soft.org/openal-releases/openal-soft-1.20.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openal-soft.rb)]
 - [x] openapi-generator: Apache-2.0
 - [x] openblas: BSD-3-Clause
-- [ ] opencascade [[homepage](https://www.opencascade.com/content/overview)] [head] [[stable](https://git.dev.opencascade.org/gitweb/?p=occt.git;a=snapshot;h=refs/tags/V7_4_0;sf=tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/opencascade.rb)]
+- [ ] opencascade [[homepage](https://www.opencascade.com/content/overview)] [head] [[stable](https://git.dev.opencascade.org/gitweb/?p=occt.git;a=snapshot;h=refs/tags/V7_5_0;sf=tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/opencascade.rb)]
 - [x] opencbm: GPL-2.0-only
 - [x] opencc: Apache-2.0
 - [x] openclonk: ISC
@@ -4628,6 +4629,7 @@
 - [x] stormssh-completion: MIT
 - [x] stout: MIT
 - [ ] stow: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/stow/)] [head] [[stable](https://ftp.gnu.org/gnu/stow/stow-2.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stow.rb)]
+- [x] strace: LGPL-2.1-or-later
 - [x] streamlink: BSD-2-Clause
 - [ ] streamripper [[homepage](https://streamripper.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/streamripper/streamripper%20%28current%29/1.64.6/streamripper-1.64.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/streamripper.rb)]
 - [ ] stress: GPL-2.0 (deprecated) [[homepage](https://people.seas.harvard.edu/~apw/stress/)] [head] [[stable](https://people.seas.harvard.edu/~apw/stress/stress-1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stress.rb)]

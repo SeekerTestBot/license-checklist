@@ -250,7 +250,6 @@ cflow
 cfv
 cgdb
 cgit
-cgoban
 cgrep
 cgvg
 chadwick
