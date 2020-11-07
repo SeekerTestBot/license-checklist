@@ -1,6 +1,6 @@
-2967 / 5328 (55.7%) of formulae have a valid `license` stanza as of 2020-11-07 00:01:57 UTC.
+2971 / 5329 (55.8%) of formulae have a valid `license` stanza as of 2020-11-07 12:01:29 UTC.
 
-1168 / 5328 (21.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1167 / 5329 (21.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -4681,7 +4681,7 @@
 - [x] swimat: MIT
 - [ ] switch-lan-play: GPL-3.0 (deprecated) [[homepage](https://github.com/spacemeowx2/switch-lan-play)] [head] [[stable](https://github.com/spacemeowx2/switch-lan-play.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/switch-lan-play.rb)]
 - [x] switchaudio-osx: MIT
-- [ ] sword [[homepage](https://www.crosswire.org/sword/index.jsp)] [head] [[stable](https://www.crosswire.org/ftpmirror/pub/sword/source/v1.8/sword-1.8.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sword.rb)]
+- [x] sword: GPL-2.0-only
 - [ ] sxiv: GPL-2.0 (deprecated) [[homepage](https://github.com/muennich/sxiv)] [[head](https://github.com/muennich/sxiv.git)] [[stable](https://github.com/muennich/sxiv/archive/v26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sxiv.rb)]
 - [x] syck: MIT
 - [ ] sylpheed [[homepage](https://sylpheed.sraoss.jp/en/)] [head] [[stable](https://sylpheed.sraoss.jp/sylpheed/v3.7/sylpheed-3.7.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sylpheed.rb)]
@@ -4963,7 +4963,7 @@
 - [x] unar: LGPL-2.1-or-later
 - [ ] unarj [[homepage](http://www.arjsoftware.com/files.htm)] [head] [[stable](https://src.fedoraproject.org/repo/pkgs/unarj/unarj-2.65.tar.gz/c6fe45db1741f97155c7def322aa74aa/unarj-2.65.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unarj.rb)]
 - [x] unbound: BSD-3-Clause
-- [ ] uncrustify: GPL-2.0 (deprecated) [[homepage](https://uncrustify.sourceforge.io/)] [[head](https://github.com/uncrustify/uncrustify.git)] [[stable](https://github.com/uncrustify/uncrustify/archive/uncrustify-0.71.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uncrustify.rb)]
+- [x] uncrustify: GPL-2.0-or-later
 - [x] ungit: MIT
 - [x] uni: MIT
 - [ ] uni2ascii: GPL-3.0 (deprecated) [[homepage](https://billposer.org/Software/uni2ascii.html)] [head] [[stable](https://deb.debian.org/debian/pool/main/u/uni2ascii/uni2ascii_4.18.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uni2ascii.rb)]
@@ -5237,6 +5237,7 @@
 - [ ] xapian: GPL-2.0 (deprecated) [[homepage](https://xapian.org/)] [head] [[stable](https://oligarchy.co.uk/xapian/1.4.17/xapian-core-1.4.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xapian.rb)]
 - [ ] xaric: GPL-2.0 (deprecated) [[homepage](https://xaric.org/)] [head] [[stable](https://xaric.org/software/xaric/releases/xaric-0.13.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xaric.rb)]
 - [ ] xbee-comm: GPL-3.0 (deprecated) [[homepage](https://github.com/guyzmo/xbee-comm)] [[head](https://github.com/guyzmo/xbee-comm.git)] [[stable](https://github.com/guyzmo/xbee-comm/archive/v1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xbee-comm.rb)]
+- [x] xbitmaps: MIT
 - [ ] xboard [[homepage](https://www.gnu.org/software/xboard/)] [[head](https://git.savannah.gnu.org/git/xboard.git)] [[stable](https://ftp.gnu.org/gnu/xboard/xboard-4.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xboard.rb)]
 - [x] xcb-proto: MIT
 - [x] xcenv: MIT
@@ -5356,7 +5357,7 @@
 - [x] zbar: LGPL-2.1-only
 - [ ] zboy: GPL-3.0 (deprecated) [[homepage](https://zboy.sourceforge.io/)] [[head](https://svn.code.sf.net/p/zboy/code/trunk)] [[stable](https://downloads.sourceforge.net/project/zboy/zBoy%20v0.71/zboy-0.71.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zboy.rb)]
 - [ ] zdelta [[homepage](https://web.archive.org/web/20150804051750/cis.poly.edu/zdelta/)] [[head](https://github.com/snej/zdelta.git)] [[stable](https://web.archive.org/web/20150804051752/cis.poly.edu/zdelta/downloads/zdelta-2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zdelta.rb)]
-- [ ] zebra [[homepage](https://www.indexdata.com/zebra)] [head] [[stable](http://ftp.indexdata.dk/pub/zebra/idzebra-2.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zebra.rb)]
+- [x] zebra: GPL-2.0-or-later
 - [x] zeek: BSD-3-Clause
 - [ ] zelda-roth-se [[homepage](https://www.solarus-games.org/en/games/the-legend-of-zelda-return-of-the-hylian-se)] [[head](https://gitlab.com/solarus-games/zelda-roth-se.git)] [[stable](https://gitlab.com/solarus-games/zelda-roth-se/-/archive/v1.2.1/zelda-roth-se-v1.2.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zelda-roth-se.rb)]
 - [x] zenith: MIT

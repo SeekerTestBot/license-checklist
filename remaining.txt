@@ -2012,7 +2012,6 @@ swftools
 swig
 swig@3
 switch-lan-play
-sword
 sxiv
 sylpheed
 synfig
@@ -2128,7 +2127,6 @@ uggconv
 umlet
 unac
 unarj
-uncrustify
 uni2ascii
 unibilium
 unicorn
@@ -2333,7 +2331,6 @@ zabbix-cli
 zbackup
 zboy
 zdelta
-zebra
 zelda-roth-se
 zenity
 zeromq
