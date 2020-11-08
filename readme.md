@@ -1,6 +1,6 @@
-2975 / 5332 (55.8%) of formulae have a valid `license` stanza as of 2020-11-08 00:01:44 UTC.
+2980 / 5333 (55.9%) of formulae have a valid `license` stanza as of 2020-11-08 12:04:03 UTC.
 
-1166 / 5332 (21.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1162 / 5333 (21.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1242,7 +1242,7 @@
 - [x] eslint: MIT
 - [x] esniper: BSD-2-Clause
 - [ ] espeak [[homepage](https://espeak.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/espeak/espeak/espeak-1.48/espeak-1.48.04-source.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/espeak.rb)]
-- [ ] esptool: GPL-2.0 (deprecated) [[homepage](https://github.com/espressif/esptool)] [head] [[stable](https://github.com/espressif/esptool/archive/v2.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/esptool.rb)]
+- [x] esptool: GPL-2.0-or-later
 - [x] etcd: Apache-2.0
 - [x] ethereum: LGPL-3.0-or-later
 - [ ] etl: GPL-3.0 (deprecated) [[homepage](https://synfig.org)] [head] [[stable](https://downloads.sourceforge.net/project/synfig/releases/1.2.2/source/ETL-1.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/etl.rb)]
@@ -2449,7 +2449,7 @@
 - [ ] latex2html: GPL-2.0 (deprecated) [[homepage](https://www.latex2html.org)] [head] [[stable](https://github.com/latex2html/latex2html/archive/v2020.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/latex2html.rb)]
 - [ ] latex2rtf [[homepage](https://latex2rtf.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/latex2rtf/latex2rtf-unix/2.3.18/latex2rtf-2.3.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/latex2rtf.rb)]
 - [ ] latexdiff: GPL-3.0 (deprecated) [[homepage](https://www.ctan.org/pkg/latexdiff)] [head] [[stable](https://github.com/ftilmann/latexdiff/releases/download/1.3.1.1/latexdiff-1.3.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/latexdiff.rb)]
-- [ ] latexindent: GPL-3.0 (deprecated) [[homepage](https://ctan.org/pkg/latexindent)] [head] [[stable](https://github.com/cmhughes/latexindent.pl/archive/V3.8.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/latexindent.rb)]
+- [x] latexindent: GPL-3.0-or-later
 - [ ] latexml [[homepage](https://dlmf.nist.gov/LaTeXML/)] [[head](https://github.com/brucemiller/LaTeXML.git)] [[stable](https://dlmf.nist.gov/LaTeXML/releases/LaTeXML-0.8.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/latexml.rb)]
 - [x] launch: BSD-3-Clause
 - [ ] launch4j [[homepage](https://launch4j.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/launch4j/launch4j-3/3.12/launch4j-3.12-macosx-x86.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/launch4j.rb)]
@@ -2917,6 +2917,7 @@
 - [x] libxmp-lite: MIT
 - [x] libxmu: MIT
 - [x] libxo: BSD-2-Clause
+- [x] libxp: MIT
 - [x] libxpm: MIT
 - [x] libxrandr: MIT
 - [x] libxrender: MIT
@@ -4721,7 +4722,7 @@
 - [ ] switch-lan-play: GPL-3.0 (deprecated) [[homepage](https://github.com/spacemeowx2/switch-lan-play)] [head] [[stable](https://github.com/spacemeowx2/switch-lan-play.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/switch-lan-play.rb)]
 - [x] switchaudio-osx: MIT
 - [x] sword: GPL-2.0-only
-- [ ] sxiv: GPL-2.0 (deprecated) [[homepage](https://github.com/muennich/sxiv)] [[head](https://github.com/muennich/sxiv.git)] [[stable](https://github.com/muennich/sxiv/archive/v26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sxiv.rb)]
+- [x] sxiv: GPL-2.0-or-later
 - [x] syck: MIT
 - [ ] sylpheed [[homepage](https://sylpheed.sraoss.jp/en/)] [head] [[stable](https://sylpheed.sraoss.jp/sylpheed/v3.7/sylpheed-3.7.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sylpheed.rb)]
 - [x] sync_gateway: Apache-2.0
@@ -5290,7 +5291,7 @@
 - [ ] xboard [[homepage](https://www.gnu.org/software/xboard/)] [[head](https://git.savannah.gnu.org/git/xboard.git)] [[stable](https://ftp.gnu.org/gnu/xboard/xboard-4.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xboard.rb)]
 - [x] xcb-proto: MIT
 - [x] xcenv: MIT
-- [ ] xclip: GPL-2.0 (deprecated) [[homepage](https://github.com/astrand/xclip)] [head] [[stable](https://github.com/astrand/xclip/archive/0.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xclip.rb)]
+- [x] xclip: GPL-2.0-or-later
 - [x] xclogparser: Apache-2.0
 - [x] xcodegen: MIT
 - [ ] xcproj [[homepage](https://github.com/0xced/xcproj)] [[head](https://github.com/0xced/xcproj.git)] [[stable](https://github.com/0xced/xcproj/archive/0.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xcproj.rb)]

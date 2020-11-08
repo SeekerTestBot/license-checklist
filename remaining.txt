@@ -509,7 +509,6 @@ epsilon
 epstool
 es
 espeak
-esptool
 etl
 etsh
 eventlog
@@ -984,7 +983,6 @@ laszip
 latex2html
 latex2rtf
 latexdiff
-latexindent
 latexml
 launch4j
 launchctl-completion
@@ -2011,7 +2009,6 @@ swftools
 swig
 swig@3
 switch-lan-play
-sxiv
 sylpheed
 synfig
 synscan
@@ -2273,7 +2270,6 @@ xapian
 xaric
 xbee-comm
 xboard
-xclip
 xcproj
 xcv
 xdelta
