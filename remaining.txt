@@ -232,7 +232,6 @@ cdb
 cdecl
 cdk
 cdlabelgen
-cdo
 cdogs-sdl
 cdparanoia
 cdpr

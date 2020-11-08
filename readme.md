@@ -1,6 +1,6 @@
-2971 / 5329 (55.8%) of formulae have a valid `license` stanza as of 2020-11-07 12:01:21 UTC.
+2975 / 5332 (55.8%) of formulae have a valid `license` stanza as of 2020-11-08 00:01:44 UTC.
 
-1167 / 5329 (21.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1166 / 5332 (21.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -576,7 +576,7 @@
 - [x] cdk8s: Apache-2.0
 - [x] cdktf: MPL-2.0
 - [ ] cdlabelgen [[homepage](https://www.aczoom.com/tools/cdinsert/)] [head] [[stable](https://www.aczoom.com/pub/tools/cdlabelgen-4.3.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdlabelgen.rb)]
-- [ ] cdo: GPL-2.0 (deprecated) [[homepage](https://code.mpimet.mpg.de/projects/cdo)] [head] [[stable](https://code.mpimet.mpg.de/attachments/download/20826/cdo-1.9.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdo.rb)]
+- [x] cdo: GPL-2.0-only
 - [ ] cdogs-sdl: GPL-2.0 (deprecated) [[homepage](https://cxong.github.io/cdogs-sdl/)] [[head](https://github.com/cxong/cdogs-sdl.git)] [[stable](https://github.com/cxong/cdogs-sdl/archive/0.8.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdogs-sdl.rb)]
 - [ ] cdparanoia [[homepage](https://www.xiph.org/paranoia/)] [head] [[stable](https://downloads.xiph.org/releases/cdparanoia/cdparanoia-III-10.2.src.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdparanoia.rb)]
 - [ ] cdpr [[homepage](http://www.monkeymental.com/)] [head] [[stable](https://downloads.sourceforge.net/project/cdpr/cdpr/2.4/cdpr-2.4.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdpr.rb)]
@@ -1690,6 +1690,7 @@
 - [x] gjs: `{:all_of=>["LGPL-2.0-or-later", "MIT"]}`
 - [ ] gkrellm [[homepage](https://billw2.github.io/gkrellm/gkrellm.html)] [head] [[stable](http://gkrellm.srcbox.net/releases/gkrellm-2.3.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gkrellm.rb)]
 - [x] gl2ps: GL2PS
+- [x] glab: MIT
 - [x] glade: LGPL-2.1-or-later
 - [ ] glances: LGPL-3.0 (deprecated) [[homepage](https://nicolargo.github.io/glances/)] [head] [[stable](https://github.com/nicolargo/glances/archive/v3.1.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/glances.rb)]
 - [x] glassfish: EPL-2.0
@@ -2432,6 +2433,7 @@
 <details><summary>L</summary>
 
 - [x] l-smash: ISC
+- [x] lab: CC0-1.0
 - [ ] lablgtk: LGPL-2.1 (deprecated) [[homepage](http://lablgtk.forge.ocamlcore.org)] [head] [[stable](https://github.com/garrigue/lablgtk/archive/2.18.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lablgtk.rb)]
 - [x] ladspa-sdk: LGPL-2.1-only
 - [ ] lame: LGPL-2.0 (deprecated) [[homepage](https://lame.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lame/lame/3.100/lame-3.100.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lame.rb)]
@@ -4440,6 +4442,7 @@
 - [ ] shntool: GPL-2.0 (deprecated) [[homepage](https://web.archive.org/web/20180903160820/etree.org/shnutils/shntool/)] [head] [[stable](https://web.archive.org/web/20180903160820/etree.org/shnutils/shntool/dist/src/shntool-3.0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/shntool.rb)]
 - [x] shogun: BSD-3-Clause
 - [ ] shorten [[homepage](https://web.archive.org/web/20180903155129/www.etree.org/shnutils/shorten/)] [head] [[stable](https://web.archive.org/web/20180903155129/www.etree.org/shnutils/shorten/dist/src/shorten-3.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/shorten.rb)]
+- [x] showkey: MIT
 - [x] shpotify: MIT
 - [ ] shtool: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/shtool/)] [head] [[stable](https://ftp.gnu.org/gnu/shtool/shtool-2.0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/shtool.rb)]
 - [x] shtools: BSD-3-Clause
