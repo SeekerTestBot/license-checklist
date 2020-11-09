@@ -473,7 +473,6 @@ dwarf
 dwarfutils
 dwatch
 dwdiff
-dwm
 dxflib
 dyld-headers
 dynamips
@@ -1275,7 +1274,6 @@ mafft
 magnetix
 mailcheck
 mairix
-make
 makeicns
 makensis
 makepkg
@@ -1373,7 +1371,6 @@ monitoring-plugins
 monkeysphere
 montage
 moon-buggy
-morse
 mosh
 mosml
 most
@@ -1449,7 +1446,6 @@ ncview
 ndiff
 ne
 neatvi
-nedit
 negfix8
 neo4j
 neon
@@ -1545,7 +1541,6 @@ opendbx
 openjazz
 openkim-models
 openlibm
-openmotif
 openmsx
 opensaml
 opensc
@@ -1719,7 +1714,6 @@ puf
 pulp
 pulseaudio
 pure-ftpd
-pushpin
 putmail
 putmail-queue
 putty
@@ -1792,7 +1786,6 @@ redstore
 regex-opt
 regina-rexx
 regldg
-remake
 remctl
 remind
 reminiscence

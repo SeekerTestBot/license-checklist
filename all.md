@@ -1,6 +1,6 @@
-2987 / 5335 (56.0%) of formulae have a valid `license` stanza as of 2020-11-09 00:01:49 UTC.
+2995 / 5336 (56.1%) of formulae have a valid `license` stanza as of 2020-11-09 12:01:21 UTC.
 
-1160 / 5335 (21.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1155 / 5336 (21.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1075,6 +1075,7 @@
 - [x] doctl: Apache-2.0
 - [ ] docutils [[homepage](https://docutils.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/docutils/docutils/0.16/docutils-0.16.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/docutils.rb)]
 - [ ] docx2txt: GPL-3.0 (deprecated) [[homepage](https://docx2txt.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/docx2txt/docx2txt/v1.4/docx2txt-1.4.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/docx2txt.rb)]
+- [x] dog: EUPL-1.2
 - [ ] doitlive [[homepage](https://doitlive.readthedocs.io/en/latest/)] [head] [[stable](https://files.pythonhosted.org/packages/e5/d9/4ce969d98f521c253ec3b15a0c759104a01061ac90fb9d8636b015bcb4ea/doitlive-4.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/doitlive.rb)]
 - [x] dolt: Apache-2.0
 - [ ] dopewars [[homepage](https://dopewars.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/dopewars/dopewars/1.5.12/dopewars-1.5.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dopewars.rb)]
@@ -1142,7 +1143,7 @@
 - [ ] dwarfutils [[homepage](https://www.prevanders.net/dwarf.html)] [head] [[stable](https://www.prevanders.net/libdwarf-20201020.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwarfutils.rb)]
 - [ ] dwatch: GPL-2.0 (deprecated) [[homepage](https://siag.nu/dwatch/)] [head] [[stable](https://siag.nu/pub/dwatch/dwatch-0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwatch.rb)]
 - [ ] dwdiff [[homepage](https://os.ghalkes.nl/dwdiff.html)] [head] [[stable](https://os.ghalkes.nl/dist/dwdiff-2.1.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwdiff.rb)]
-- [ ] dwm [[homepage](https://dwm.suckless.org/)] [[head](https://git.suckless.org/dwm)] [[stable](https://dl.suckless.org/dwm/dwm-6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwm.rb)]
+- [x] dwm: MIT
 - [ ] dxflib [[homepage](https://www.ribbonsoft.com/en/what-is-dxflib)] [head] [[stable](https://www.ribbonsoft.com/archives/dxflib/dxflib-2.5.0.0-1.src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dxflib.rb)]
 - [x] dxpy: Apache-2.0
 - [ ] dyld-headers [[homepage](https://opensource.apple.com/)] [head] [[stable](https://opensource.apple.com/tarballs/dyld/dyld-750.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dyld-headers.rb)]
@@ -3029,7 +3030,7 @@
 - [x] mailhog: MIT
 - [x] mailutils: GPL-3.0-or-later
 - [ ] mairix: GPL-2.0 (deprecated) [[homepage](http://www.rpcurnow.force9.co.uk/mairix/)] [[head](https://github.com/rc0/mairix.git)] [[stable](https://downloads.sourceforge.net/project/mairix/mairix/0.24/mairix-0.24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mairix.rb)]
-- [ ] make: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/make/)] [head] [[stable](https://ftp.gnu.org/gnu/make/make-4.3.tar.lz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/make.rb)]
+- [x] make: GPL-3.0-only
 - [x] makedepend: MIT
 - [x] makefile2graph: MIT
 - [ ] makeicns [[homepage](https://bitbucket.org/mkae/makeicns)] [[head](https://bitbucket.org/mkae/makeicns)] [[stable](https://bitbucket.org/mkae/makeicns/downloads/makeicns-1.4.10a.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/makeicns.rb)]
@@ -3234,7 +3235,7 @@
 - [ ] montage [[homepage](http://montage.ipac.caltech.edu)] [head] [[stable](http://montage.ipac.caltech.edu/download/Montage_v4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/montage.rb)]
 - [ ] moon-buggy: GPL-3.0 (deprecated) [[homepage](https://www.seehuhn.de/pages/moon-buggy.html)] [[head](https://github.com/seehuhn/moon-buggy.git)] [[stable](https://m.seehuhn.de/programs/moon-buggy-1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/moon-buggy.rb)]
 - [x] moreutils: `{:all_of=>["GPL-2.0-or-later", {:any_of=>["GPL-2.0-only", "Artistic-2.0"]}]}`
-- [ ] morse [[homepage](http://www.catb.org/~esr/morse/)] [head] [[stable](http://www.catb.org/~esr/morse/morse-2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/morse.rb)]
+- [x] morse: BSD-2-Clause
 - [ ] mosh: GPL-3.0 (deprecated) [[homepage](https://mosh.org)] [[head](https://github.com/mobile-shell/mosh.git)] [[stable](https://mosh.org/mosh-1.3.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mosh.rb)]
 - [ ] mosml: GPL-2.0 (deprecated) [[homepage](https://mosml.org/)] [head] [[stable](https://github.com/kfl/mosml/archive/ver-2.10.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mosml.rb)]
 - [x] mosquitto: EPL-1.0
@@ -3371,7 +3372,7 @@
 - [ ] ne: GPL-3.0 (deprecated) [[homepage](https://github.com/vigna/ne)] [[head](https://github.com/vigna/ne.git)] [[stable](https://github.com/vigna/ne/archive/3.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ne.rb)]
 - [ ] neatvi [[homepage](https://repo.or.cz/neatvi.git)] [[head](https://repo.or.cz/neatvi.git)] [[stable](https://repo.or.cz/neatvi.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/neatvi.rb)]
 - [x] nebula: MIT
-- [ ] nedit: GPL-2.0 (deprecated) [[homepage](https://sourceforge.net/projects/nedit/)] [head] [[stable](https://downloads.sourceforge.net/project/nedit/nedit-source/nedit-5.7-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nedit.rb)]
+- [x] nedit: GPL-2.0-or-later
 - [x] needle: Apache-2.0
 - [x] nef: Apache-2.0
 - [ ] negfix8 [[homepage](https://sites.google.com/site/negfix)] [head] [[stable](https://sites.google.com/site/negfix/downloads/negfix8.3.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/negfix8.rb)]
@@ -3592,7 +3593,7 @@
 - [ ] openkim-models [[homepage](https://openkim.org)] [head] [[stable](https://s3.openkim.org/archives/collection/openkim-models-2019-07-25.txz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openkim-models.rb)]
 - [x] openldap: OLDAP-2.8
 - [ ] openlibm [[homepage](https://openlibm.org)] [head] [[stable](https://github.com/JuliaMath/openlibm/archive/v0.7.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openlibm.rb)]
-- [ ] openmotif: LGPL-2.1 (deprecated) [[homepage](https://motif.ics.com/motif)] [head] [[stable](https://downloads.sourceforge.net/project/motif/Motif%202.3.8%20Source%20Code/motif-2.3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openmotif.rb)]
+- [x] openmotif: LGPL-2.1-or-later
 - [ ] openmsx: GPL-2.0 (deprecated) [[homepage](https://openmsx.org/)] [[head](https://github.com/openMSX/openMSX.git)] [[stable](https://github.com/openMSX/openMSX/releases/download/RELEASE_0_15_0/openmsx-0.15.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openmsx.rb)]
 - [x] openrct2: GPL-3.0-only
 - [x] openrtsp: LGPL-3.0-or-later
@@ -3977,7 +3978,7 @@
 - [x] pup: MIT
 - [ ] pure-ftpd [[homepage](https://www.pureftpd.org/)] [head] [[stable](https://download.pureftpd.org/pub/pure-ftpd/releases/pure-ftpd-1.0.49.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pure-ftpd.rb)]
 - [x] purescript: BSD-3-Clause
-- [ ] pushpin: AGPL-3.0 (deprecated) [[homepage](https://pushpin.org/)] [[head](https://github.com/fanout/pushpin.git)] [[stable](https://dl.bintray.com/fanout/source/pushpin-1.30.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pushpin.rb)]
+- [x] pushpin: AGPL-3.0-or-later
 - [ ] putmail [[homepage](https://putmail.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/putmail/putmail.py/1.4/putmail.py-1.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/putmail.rb)]
 - [ ] putmail-queue [[homepage](https://putmail.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/putmail/putmail-queue/0.2/putmail-queue-0.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/putmail-queue.rb)]
 - [ ] putty [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/putty/)] [[head](https://git.tartarus.org/simon/putty.git)] [[stable](https://the.earth.li/~sgtatham/putty/0.74/putty-0.74.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/putty.rb)]
@@ -4154,7 +4155,7 @@
 - [ ] regina-rexx [[homepage](https://regina-rexx.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/regina-rexx/regina-rexx/3.9.3/regina-rexx-3.9.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/regina-rexx.rb)]
 - [ ] regldg [[homepage](https://regldg.com/)] [head] [[stable](https://regldg.com/regldg-1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/regldg.rb)]
 - [x] rem: Apache-2.0
-- [ ] remake: GPL-3.0 (deprecated) [[homepage](https://bashdb.sourceforge.io/remake)] [head] [[stable](https://downloads.sourceforge.net/project/bashdb/remake/4.3%2Bdbg-1.5/remake-4.3%2Bdbg-1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/remake.rb)]
+- [x] remake: GPL-3.0-only
 - [x] remarshal: MIT
 - [ ] remctl [[homepage](https://www.eyrie.org/~eagle/software/remctl/)] [head] [[stable](https://archives.eyrie.org/software/kerberos/remctl-3.16.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/remctl.rb)]
 - [ ] remind [[homepage](https://dianne.skoll.ca/projects/remind/)] [head] [[stable](https://dianne.skoll.ca/projects/remind/download/remind-03.03.01.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/remind.rb)]
