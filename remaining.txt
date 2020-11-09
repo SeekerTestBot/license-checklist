@@ -928,7 +928,6 @@ jflex
 jhead
 jhiccup
 jigdo
-jnethack
 jnettop
 jo
 joe
@@ -1364,7 +1363,6 @@ mmix
 mmsrip
 mmv
 moc
-mockserver
 modgit
 modules
 moe
@@ -1541,7 +1539,6 @@ open-scene-graph
 open-sp
 open-tyrian
 open-zwave
-openal-soft
 opencascade
 opencsg
 opendbx
@@ -1694,7 +1691,6 @@ ppl
 ppss
 pqiv
 prefixsuffix
-prestodb
 primer3
 prips
 privoxy
@@ -1951,7 +1947,6 @@ spades
 spandsp
 sparse
 spatialite-gui
-spatialite-tools
 speech-tools
 sphinx
 spice-gtk

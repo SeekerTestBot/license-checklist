@@ -1,6 +1,6 @@
-2980 / 5333 (55.9%) of formulae have a valid `license` stanza as of 2020-11-08 12:04:03 UTC.
+2987 / 5335 (56.0%) of formulae have a valid `license` stanza as of 2020-11-09 00:01:42 UTC.
 
-1162 / 5333 (21.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1160 / 5335 (21.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -350,7 +350,7 @@
 - [x] befunge93: BSD-3-Clause
 - [x] bench: BSD-3-Clause
 - [x] benthos: MIT
-- [ ] bento4 [[homepage](https://www.bento4.com/)] [head] [[stable](https://www.bok.net/Bento4/source/Bento4-SRC-1-6-0-632.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bento4.rb)]
+- [ ] bento4 [[homepage](https://www.bento4.com/)] [head] [[stable](https://www.bok.net/Bento4/source/Bento4-SRC-1-6-0-637.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bento4.rb)]
 - [x] berglas: Apache-2.0
 - [ ] berkeley-db [[homepage](https://www.oracle.com/technology/products/berkeley-db/index.html)] [head] [[stable](https://dl.bintray.com/homebrew/mirror/berkeley-db-18.1.32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/berkeley-db.rb)]
 - [ ] berkeley-db@4 [[homepage](https://www.oracle.com/technology/products/berkeley-db/index.html)] [head] [[stable](https://download.oracle.com/berkeley-db/db-4.8.30.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/berkeley-db@4.rb)]
@@ -766,6 +766,7 @@
 - [x] composer: MIT
 - [x] conan: MIT
 - [x] concurrencykit: BSD-2-Clause
+- [x] condure: Apache-2.0
 - [x] confd: MIT
 - [x] configen: MIT
 - [ ] confluent-platform [[homepage](https://www.confluent.io/product/confluent-platform/)] [head] [[stable](https://packages.confluent.io/archive/5.5/confluent-5.5.1-2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/confluent-platform.rb)]
@@ -2272,7 +2273,7 @@
 - [x] jmeter: Apache-2.0
 - [x] jmxterm: Apache-2.0
 - [x] jmxtrans: MIT
-- [ ] jnethack [[homepage](https://jnethack.osdn.jp/)] [head] [[stable](https://downloads.sourceforge.net/project/nethack/nethack/3.4.3/nethack-343-src.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jnethack.rb)]
+- [x] jnethack: NGPL
 - [ ] jnettop [[homepage](https://web.archive.org/web/20161127214942/jnettop.kubs.info/wiki/)] [head] [[stable](https://downloads.sourceforge.net/project/jnettop/jnettop/0.13/jnettop-0.13.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jnettop.rb)]
 - [ ] jo: GPL-2.0 (deprecated) [[homepage](https://github.com/jpmens/jo)] [[head](https://github.com/jpmens/jo.git)] [[stable](https://github.com/jpmens/jo/releases/download/1.4/jo-1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jo.rb)]
 - [x] jobber: MIT
@@ -3229,7 +3230,7 @@
 - [x] mobiledevice: MIT
 - [ ] moc [[homepage](https://moc.daper.net/)] [[head](svn://daper.net/moc/trunk)] [[stable](http://ftp.daper.net/pub/soft/moc/stable/moc-2.5.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/moc.rb)]
 - [x] mockolo: Apache-2.0
-- [ ] mockserver [[homepage](https://www.mock-server.com/)] [head] [[stable](https://oss.sonatype.org/content/repositories/releases/org/mock-server/mockserver-netty/5.11.1/mockserver-netty-5.11.1-brew-tar.tar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mockserver.rb)]
+- [x] mockserver: Apache-2.0
 - [x] moco: MIT
 - [x] modd: MIT
 - [ ] modgit [[homepage](https://github.com/jreinke/modgit)] [head] [[stable](https://github.com/jreinke/modgit/archive/v1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/modgit.rb)]
@@ -3587,7 +3588,7 @@
 - [ ] open-sp [[homepage](https://openjade.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/openjade/opensp/1.5.2/OpenSP-1.5.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-sp.rb)]
 - [ ] open-tyrian: GPL-2.0 (deprecated) [[homepage](https://github.com/opentyrian/opentyrian)] [[head](https://github.com/opentyrian/opentyrian.git)] [[stable](https://www.camanis.net/opentyrian/releases/opentyrian-2.1.20130907-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-tyrian.rb)]
 - [ ] open-zwave: LGPL-3.0 (deprecated) [[homepage](http://www.openzwave.com)] [head] [[stable](http://old.openzwave.com/downloads/openzwave-1.6.1080.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-zwave.rb)]
-- [ ] openal-soft: LGPL-2.0 (deprecated) [[homepage](https://openal-soft.org/)] [[head](https://github.com/kcat/openal-soft.git)] [[stable](https://openal-soft.org/openal-releases/openal-soft-1.20.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openal-soft.rb)]
+- [x] openal-soft: LGPL-2.0-or-later
 - [x] openapi-generator: Apache-2.0
 - [x] openblas: BSD-3-Clause
 - [ ] opencascade [[homepage](https://www.opencascade.com/content/overview)] [head] [[stable](https://git.dev.opencascade.org/gitweb/?p=occt.git;a=snapshot;h=refs/tags/V7_5_0;sf=tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/opencascade.rb)]
@@ -3941,7 +3942,7 @@
 - [ ] prefixsuffix: GPL-2.0 (deprecated) [[homepage](https://github.com/murraycu/prefixsuffix)] [head] [[stable](https://download.gnome.org/sources/prefixsuffix/0.6/prefixsuffix-0.6.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/prefixsuffix.rb)]
 - [x] premake: BSD-3-Clause
 - [x] prest: MIT
-- [ ] prestodb [[homepage](https://prestodb.io)] [head] [[stable](https://search.maven.org/remotecontent?filepath=com/facebook/presto/presto-server/0.235.1/presto-server-0.235.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/prestodb.rb)]
+- [x] prestodb: Apache-2.0
 - [x] prestosql: Apache-2.0
 - [x] prettier: MIT
 - [x] prettyping: MIT
@@ -4566,7 +4567,7 @@
 - [ ] sparse [[homepage](https://sparse.wiki.kernel.org/)] [[head](https://git.kernel.org/pub/scm/devel/sparse/sparse.git)] [[stable](https://www.kernel.org/pub/software/devel/sparse/dist/sparse-0.6.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sparse.rb)]
 - [x] spatialindex: MIT
 - [ ] spatialite-gui: GPL-3.0 (deprecated) [[homepage](https://www.gaia-gis.it/fossil/spatialite_gui/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/spatialite-gui-sources/spatialite_gui-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/spatialite-gui.rb)]
-- [ ] spatialite-tools: GPL-3.0 (deprecated) [[homepage](https://www.gaia-gis.it/fossil/spatialite-tools/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/spatialite-tools-sources/spatialite-tools-4.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/spatialite-tools.rb)]
+- [x] spatialite-tools: GPL-3.0-or-later
 - [x] spawn-fcgi: BSD-3-Clause
 - [x] spdlog: MIT
 - [x] spdylay: MIT
@@ -5342,6 +5343,7 @@
 - [ ] xsw: GPL-3.0 (deprecated) [[homepage](https://code.google.com/archive/p/xsw/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/xsw/xsw-0.3.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xsw.rb)]
 - [ ] xtail [[homepage](https://www.unicom.com/sw/xtail)] [head] [[stable](https://www.unicom.com/files/xtail-2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xtail.rb)]
 - [x] xtensor: BSD-3-Clause
+- [x] xterm: `cannot_represent`
 - [ ] xtitle [[homepage](https://www.cs.indiana.edu/~kinzler/xtitle/)] [head] [[stable](https://www.cs.indiana.edu/~kinzler/xtitle/xtitle-1.0.4.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xtitle.rb)]
 - [x] xtrans: MIT
 - [ ] xvid: GPL-2.0 (deprecated) [[homepage](https://labs.xvid.com/)] [head] [[stable](https://downloads.xvid.com/downloads/xvidcore-1.3.7.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xvid.rb)]
