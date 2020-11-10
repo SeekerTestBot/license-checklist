@@ -93,7 +93,6 @@ aubio
 audiofile
 augeas
 autobench
-autoconf
 autoconf-archive
 autoconf@2.13
 autogen
@@ -592,7 +591,6 @@ fragroute
 freealut
 freeciv
 freedink
-freeglut
 freeradius-server
 freexl
 frei0r
@@ -631,7 +629,6 @@ gcore
 gcutil
 gcviewer
 gdbm
-gdk-pixbuf
 gdl
 gdmap
 geant4
@@ -1409,7 +1406,6 @@ msktutil
 mspdebug
 mtoc
 multitail
-mupdf
 mupdf-tools
 mupen64plus
 musepack

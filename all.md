@@ -1,6 +1,6 @@
-2999 / 5337 (56.2%) of formulae have a valid `license` stanza as of 2020-11-10 00:02:05 UTC.
+3004 / 5338 (56.3%) of formulae have a valid `license` stanza as of 2020-11-10 12:01:22 UTC.
 
-1153 / 5337 (21.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1151 / 5338 (21.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -229,7 +229,7 @@
 - [x] austin: GPL-3.0-or-later
 - [ ] autobench: GPL-2.0 (deprecated) [[homepage](http://www.xenoclast.org/autobench/)] [head] [[stable](http://www.xenoclast.org/autobench/downloads/autobench-2.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autobench.rb)]
 - [x] autocode: Apache-2.0
-- [ ] autoconf: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/autoconf)] [head] [[stable](https://ftp.gnu.org/gnu/autoconf/autoconf-2.69.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autoconf.rb)]
+- [x] autoconf: GPL-2.0-or-later
 - [ ] autoconf-archive: GPL-3.0 (deprecated) [[homepage](https://savannah.gnu.org/projects/autoconf-archive/)] [head] [[stable](https://ftp.gnu.org/gnu/autoconf-archive/autoconf-archive-2019.01.06.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autoconf-archive.rb)]
 - [ ] autoconf@2.13: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/autoconf/)] [head] [[stable](https://ftp.gnu.org/gnu/autoconf/autoconf-2.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/autoconf@2.13.rb)]
 - [x] autodiff: MIT
@@ -1437,7 +1437,7 @@
 - [ ] freeciv: GPL-2.0 (deprecated) [[homepage](http://freeciv.org)] [[head](https://github.com/freeciv/freeciv.git)] [[stable](https://downloads.sourceforge.net/project/freeciv/Freeciv%202.6/2.6.2/freeciv-2.6.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freeciv.rb)]
 - [x] freediameter: BSD-3-Clause
 - [ ] freedink [[homepage](https://www.gnu.org/software/freedink/)] [head] [[stable](https://ftp.gnu.org/gnu/freedink/freedink-109.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freedink.rb)]
-- [ ] freeglut [[homepage](https://freeglut.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/freeglut/freeglut/3.2.1/freeglut-3.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freeglut.rb)]
+- [x] freeglut: MIT
 - [x] freeimage: FreeImage
 - [x] freeipmi: GPL-3.0-or-later
 - [x] freeling: AGPL-3.0-only
@@ -1527,7 +1527,7 @@
 - [x] gdbgui: GPL-3.0-only
 - [ ] gdbm: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gdbm/)] [head] [[stable](https://ftp.gnu.org/gnu/gdbm/gdbm-1.18.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gdbm.rb)]
 - [x] gdcm: BSD-3-Clause
-- [ ] gdk-pixbuf [[homepage](https://gtk.org)] [head] [[stable](https://download.gnome.org/sources/gdk-pixbuf/2.40/gdk-pixbuf-2.40.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gdk-pixbuf.rb)]
+- [x] gdk-pixbuf: LGPL-2.1-or-later
 - [ ] gdl [[homepage](https://developer.gnome.org/gdl/)] [head] [[stable](https://download.gnome.org/sources/gdl/3.34/gdl-3.34.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gdl.rb)]
 - [x] gdm: Unlicense
 - [ ] gdmap [[homepage](https://sourceforge.net/projects/gdmap/)] [head] [[stable](https://downloads.sourceforge.net/project/gdmap/gdmap/0.8.1/gdmap-0.8.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gdmap.rb)]
@@ -1800,6 +1800,7 @@
 - [ ] gor: LGPL-3.0 (deprecated) [[homepage](https://goreplay.org)] [[head](https://github.com/buger/goreplay.git)] [[stable](https://github.com/buger/goreplay.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gor.rb)]
 - [x] goreleaser: MIT
 - [x] goreman: MIT
+- [x] gosec: Apache-2.0
 - [x] gost: MIT
 - [x] gostatic: ISC
 - [x] gosu: Apache-2.0
@@ -3303,7 +3304,7 @@
 - [x] multimarkdown: MIT
 - [ ] multitail: GPL-2.0 (deprecated) [[homepage](https://vanheusden.com/multitail/)] [[head](https://github.com/flok99/multitail.git)] [[stable](https://vanheusden.com/multitail/multitail-6.5.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/multitail.rb)]
 - [x] muparser: BSD-2-Clause
-- [ ] mupdf: AGPL-3.0 (deprecated) [[homepage](https://mupdf.com/)] [[head](https://git.ghostscript.com/mupdf.git)] [[stable](https://mupdf.com/downloads/archive/mupdf-1.18.0-source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mupdf.rb)]
+- [x] mupdf: AGPL-3.0-or-later
 - [ ] mupdf-tools: AGPL-3.0 (deprecated) [[homepage](https://mupdf.com/)] [[head](https://git.ghostscript.com/mupdf.git)] [[stable](https://mupdf.com/downloads/archive/mupdf-1.18.0-source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mupdf-tools.rb)]
 - [ ] mupen64plus: GPL-2.0 (deprecated) [[homepage](https://www.mupen64plus.org/)] [head] [[stable](https://github.com/mupen64plus/mupen64plus-core/releases/download/2.5/mupen64plus-bundle-src-2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mupen64plus.rb)]
 - [ ] musepack [[homepage](https://www.musepack.net/)] [head] [[stable](https://files.musepack.net/source/musepack_src_r475.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/musepack.rb)]
