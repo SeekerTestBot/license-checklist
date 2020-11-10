@@ -1,6 +1,6 @@
-2995 / 5336 (56.1%) of formulae have a valid `license` stanza as of 2020-11-09 12:01:21 UTC.
+2999 / 5337 (56.2%) of formulae have a valid `license` stanza as of 2020-11-10 00:02:05 UTC.
 
-1155 / 5336 (21.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1153 / 5337 (21.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -626,6 +626,7 @@
 - [ ] check: LGPL-2.1 (deprecated) [[homepage](https://libcheck.github.io/check/)] [head] [[stable](https://github.com/libcheck/check/releases/download/0.15.2/check-0.15.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/check.rb)]
 - [x] check_postgres: BSD-2-Clause
 - [ ] checkbashisms [[homepage](https://launchpad.net/ubuntu/+source/devscripts/)] [head] [[stable](https://deb.debian.org/debian/pool/main/d/devscripts/devscripts_2.20.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/checkbashisms.rb)]
+- [x] checkov: Apache-2.0
 - [x] checkstyle: LGPL-2.1-or-later
 - [ ] cheops: GPL-3.0 (deprecated) [[homepage](https://logological.org/cheops)] [head] [[stable](https://files.nothingisreal.com/software/cheops/cheops-1.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cheops.rb)]
 - [x] chezmoi: MIT
@@ -939,7 +940,7 @@
 - [ ] dcraw [[homepage](https://www.dechifro.org/dcraw/)] [head] [[stable](https://www.dechifro.org/dcraw/archive/dcraw-9.28.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dcraw.rb)]
 - [ ] ddate [[homepage](https://github.com/bo0ts/ddate)] [head] [[stable](https://github.com/bo0ts/ddate/archive/v0.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ddate.rb)]
 - [ ] ddclient: GPL-2.0 (deprecated) [[homepage](https://ddclient.net/)] [[head](https://github.com/wimpunk/ddclient.git)] [[stable](https://github.com/ddclient/ddclient/archive/v3.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ddclient.rb)]
-- [ ] ddd [[homepage](https://www.gnu.org/s/ddd/)] [head] [[stable](https://ftp.gnu.org/gnu/ddd/ddd-3.3.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ddd.rb)]
+- [x] ddd: `{:all_of=>["GPL-3.0-only", "GFDL-1.1-or-later"]}`
 - [ ] ddgr: GPL-3.0 (deprecated) [[homepage](https://github.com/jarun/ddgr)] [head] [[stable](https://github.com/jarun/ddgr/archive/v1.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ddgr.rb)]
 - [ ] ddrescue: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/ddrescue/ddrescue.html)] [head] [[stable](https://ftp.gnu.org/gnu/ddrescue/ddrescue-1.25.tar.lz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ddrescue.rb)]
 - [ ] deark [[homepage](https://entropymine.com/deark/)] [head] [[stable](https://entropymine.com/deark/releases/deark-1.5.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/deark.rb)]
@@ -2600,7 +2601,7 @@
 - [ ] libgaiagraphics [[homepage](https://www.gaia-gis.it/fossil/libgaiagraphics/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/gaiagraphics-sources/libgaiagraphics-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgaiagraphics.rb)]
 - [x] libgccjit: `{"GPL-3.0-or-later"=>{:with=>"GCC-exception-3.1"}}`
 - [x] libgcrypt: GPL-2.0-only
-- [ ] libgda: GPL-2.0 (deprecated) [[homepage](https://www.gnome-db.org/)] [head] [[stable](https://download.gnome.org/sources/libgda/5.2/libgda-5.2.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgda.rb)]
+- [x] libgda: GPL-2.0-or-later
 - [ ] libgdata [[homepage](https://wiki.gnome.org/Projects/libgdata)] [head] [[stable](https://download.gnome.org/sources/libgdata/0.16/libgdata-0.16.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgdata.rb)]
 - [ ] libgee: LGPL-2.1 (deprecated) [[homepage](https://wiki.gnome.org/Projects/Libgee)] [head] [[stable](https://download.gnome.org/sources/libgee/0.20/libgee-0.20.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgee.rb)]
 - [x] libgeotiff: MIT
@@ -3471,7 +3472,7 @@
 - [ ] nsuds: GPL-2.0 (deprecated) [[homepage](https://nsuds.sourceforge.io/)] [[head](https://git.code.sf.net/p/nsuds/code.git)] [[stable](https://downloads.sourceforge.net/project/nsuds/nsuds/nsuds-0.7B/nsuds-0.7B.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nsuds.rb)]
 - [ ] ntfs-3g [[homepage](https://www.tuxera.com/community/open-source-ntfs-3g/)] [[head](https://git.code.sf.net/p/ntfs-3g/ntfs-3g.git)] [[stable](https://tuxera.com/opensource/ntfs-3g_ntfsprogs-2017.3.23.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntfs-3g.rb)]
 - [ ] ntl [[homepage](https://www.shoup.net/ntl)] [head] [[stable](https://www.shoup.net/ntl/ntl-11.4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntl.rb)]
-- [ ] ntopng: GPL-3.0 (deprecated) [[homepage](https://www.ntop.org/products/traffic-analysis/ntop/)] [[head](https://github.com/ntop/ntopng.git)] [[stable](https://github.com/ntop/ntopng/archive/4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntopng.rb)]
+- [ ] ntopng: GPL-3.0 (deprecated) [[homepage](https://www.ntop.org/products/traffic-analysis/ntop/)] [[head](https://github.com/ntop/ntopng.git)] [[stable](https://github.com/ntop/ntopng/archive/4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntopng.rb)]
 - [ ] ntp [[homepage](https://www.eecis.udel.edu/~mills/ntp/html/)] [head] [[stable](https://www.eecis.udel.edu/~ntp/ntp_spool/ntp4/ntp-4.2/ntp-4.2.8p15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntp.rb)]
 - [x] nu: Apache-2.0
 - [ ] nu-smv [[homepage](http://nusmv.fbk.eu)] [head] [[stable](http://nusmv.fbk.eu/distrib/NuSMV-2.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nu-smv.rb)]
@@ -3499,7 +3500,7 @@
 
 ### O
 
-- [ ] oath-toolkit [[homepage](https://www.nongnu.org/oath-toolkit/)] [head] [[stable](https://download.savannah.gnu.org/releases/oath-toolkit/oath-toolkit-2.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/oath-toolkit.rb)]
+- [ ] oath-toolkit [[homepage](https://www.nongnu.org/oath-toolkit/)] [head] [[stable](https://download.savannah.gnu.org/releases/oath-toolkit/oath-toolkit-2.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/oath-toolkit.rb)]
 - [x] oauth2_proxy: MIT
 - [x] oauth2l: Apache-2.0
 - [x] objc-codegenutils: Apache-2.0
@@ -3678,7 +3679,7 @@
 - [x] paket: MIT
 - [x] pam-u2f: BSD-2-Clause
 - [x] pam_yubico: BSD-2-Clause
-- [ ] pandoc: GPL-2.0 (deprecated) [[homepage](https://pandoc.org/)] [[head](https://github.com/jgm/pandoc.git)] [[stable](https://hackage.haskell.org/package/pandoc-2.10.1/pandoc-2.10.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pandoc.rb)]
+- [ ] pandoc: GPL-2.0 (deprecated) [[homepage](https://pandoc.org/)] [[head](https://github.com/jgm/pandoc.git)] [[stable](https://hackage.haskell.org/package/pandoc-2.11.1/pandoc-2.11.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pandoc.rb)]
 - [x] pandoc-citeproc: BSD-3-Clause
 - [x] pandoc-crossref: GPL-2.0-or-later
 - [x] pandoc-include-code: MPL-2.0
@@ -4284,7 +4285,7 @@
 - [x] sane-backends: GPL-2.0-or-later
 - [x] sassc: MIT
 - [ ] savana: LGPL-3.0 (deprecated) [[homepage](https://github.com/codehaus/savana)] [head] [[stable](https://bintray.com/artifact/download/bintray/jcenter/org/codehaus/savana/1.2/savana-1.2-install.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/savana.rb)]
-- [ ] saxon [[homepage](https://saxon.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/saxon/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/saxon.rb)]
+- [ ] saxon [[homepage](https://saxon.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/saxon/Saxon-HE/10/Java/SaxonHE10-3J.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/saxon.rb)]
 - [ ] saxon-b [[homepage](https://saxon.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/saxon/Saxon-B/9.1.0.8/saxonb9-1-0-8j.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/saxon-b.rb)]
 - [x] sbcl: `{:all_of=>[:public_domain, "MIT", "Xerox", "BSD-3-Clause"]}`
 - [x] sbjson: BSD-3-Clause
@@ -4459,7 +4460,7 @@
 - [ ] slashem [[homepage](https://slashem.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/slashem/slashem-source/0.0.8E0F1/se008e0f1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/slashem.rb)]
 - [x] sleef: BSL-1.0
 - [ ] sleepwatcher [[homepage](https://www.bernhard-baehr.de/)] [head] [[stable](https://www.bernhard-baehr.de/sleepwatcher_2.2.1.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sleepwatcher.rb)]
-- [ ] sleuthkit: GPL-2.0 (deprecated) [[homepage](https://www.sleuthkit.org/)] [head] [[stable](https://github.com/sleuthkit/sleuthkit/releases/download/sleuthkit-4.10.0/sleuthkit-4.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sleuthkit.rb)]
+- [ ] sleuthkit: GPL-2.0 (deprecated) [[homepage](https://www.sleuthkit.org/)] [head] [[stable](https://github.com/sleuthkit/sleuthkit/releases/download/sleuthkit-4.10.1/sleuthkit-4.10.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sleuthkit.rb)]
 - [x] slimerjs: MPL-2.0
 - [x] sloc: MIT
 - [ ] sloccount: GPL-2.0 (deprecated) [[homepage](https://www.dwheeler.com/sloccount/)] [head] [[stable](https://www.dwheeler.com/sloccount/sloccount-2.26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sloccount.rb)]
@@ -5144,7 +5145,7 @@
 - [x] watson: MIT
 - [x] wavpack: BSD-3-Clause
 - [ ] wbox [[homepage](http://hping.org/wbox/)] [head] [[stable](http://www.hping.org/wbox/wbox-5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wbox.rb)]
-- [ ] wcslib: GPL-3.0 (deprecated) [[homepage](https://www.atnf.csiro.au/people/mcalabre/WCS/)] [head] [[stable](https://www.atnf.csiro.au/pub/software/wcslib/wcslib-7.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wcslib.rb)]
+- [x] wcslib: GPL-3.0-or-later
 - [ ] wdc [[homepage](https://cloudpolis.github.io/webdav-client-cpp)] [head] [[stable](https://github.com/CloudPolis/webdav-client-cpp/archive/v1.1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wdc.rb)]
 - [ ] wdfs [[homepage](http://noedler.de/projekte/wdfs/)] [head] [[stable](http://noedler.de/projekte/wdfs/wdfs-1.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wdfs.rb)]
 - [ ] wdiff [[homepage](https://www.gnu.org/software/wdiff/)] [head] [[stable](https://ftp.gnu.org/gnu/wdiff/wdiff-1.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wdiff.rb)]

@@ -383,7 +383,6 @@ dcmtk
 dcraw
 ddate
 ddclient
-ddd
 ddgr
 ddrescue
 deark
@@ -1079,7 +1078,6 @@ libftdi
 libftdi0
 libgadu
 libgaiagraphics
-libgda
 libgdata
 libgee
 libgetdata
@@ -2207,7 +2205,6 @@ waon
 wasm-pack
 watch
 wbox
-wcslib
 wdc
 wdfs
 wdiff
