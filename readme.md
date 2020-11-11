@@ -1,6 +1,6 @@
-3004 / 5338 (56.3%) of formulae have a valid `license` stanza as of 2020-11-10 12:01:15 UTC.
+3008 / 5340 (56.3%) of formulae have a valid `license` stanza as of 2020-11-11 00:01:48 UTC.
 
-1151 / 5338 (21.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1150 / 5340 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1167,6 +1167,7 @@
 - [ ] e2tools: GPL-2.0 (deprecated) [[homepage](https://e2tools.github.io/)] [head] [[stable](https://github.com/e2tools/e2tools/releases/download/v0.1.0/e2tools-0.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/e2tools.rb)]
 - [x] earthly: MPL-2.0
 - [ ] easy-git [[homepage](https://people.gnome.org/~newren/eg/)] [head] [[stable](https://people.gnome.org/~newren/eg/download/1.7.5.2/eg)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/easy-git.rb)]
+- [x] easy-rsa: GPL-2.0-only
 - [ ] easy-tag [[homepage](https://projects.gnome.org/easytag)] [head] [[stable](https://download.gnome.org//sources/easytag/2.4/easytag-2.4.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/easy-tag.rb)]
 - [x] easyengine: MIT
 - [x] easyrpg-player: GPL-3.0-or-later
@@ -1847,7 +1848,7 @@
 - [ ] gqlplus [[homepage](https://gqlplus.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/gqlplus/gqlplus/1.16/gqlplus-1.16.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gqlplus.rb)]
 - [ ] gqview [[homepage](https://gqview.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/gqview/gqview/2.0.4/gqview-2.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gqview.rb)]
 - [x] gr-osmosdr: GPL-3.0-or-later
-- [ ] grace: GPL-2.0 (deprecated) [[homepage](https://plasma-gate.weizmann.ac.il/Grace/)] [head] [[stable](https://deb.debian.org/debian/pool/main/g/grace/grace_5.1.25.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/grace.rb)]
+- [x] grace: GPL-2.0-only
 - [ ] gradio: GPL-3.0 (deprecated) [[homepage](https://github.com/haecker-felix/Gradio)] [head] [[stable](https://github.com/haecker-felix/Gradio/archive/v7.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gradio.rb)]
 - [x] gradle: Apache-2.0
 - [x] gradle-completion: MIT
@@ -2410,6 +2411,7 @@
 - [x] ktmpl: MIT
 - [ ] ktoblzcheck: LGPL-2.1 (deprecated) [[homepage](https://ktoblzcheck.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/ktoblzcheck/ktoblzcheck-1.53.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ktoblzcheck.rb)]
 - [x] kube-aws: Apache-2.0
+- [x] kube-linter: Apache-2.0
 - [x] kube-ps1: Apache-2.0
 - [x] kubeaudit: MIT
 - [x] kubebuilder: Apache-2.0
@@ -2689,7 +2691,7 @@
 - [ ] liblqr: LGPL-3.0 (deprecated) [[homepage](https://liblqr.wikidot.com/)] [[head](https://github.com/carlobaldassi/liblqr.git)] [[stable](https://github.com/carlobaldassi/liblqr/archive/v0.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liblqr.rb)]
 - [ ] libltc: LGPL-3.0 (deprecated) [[homepage](https://x42.github.io/libltc/)] [head] [[stable](https://github.com/x42/libltc/releases/download/v1.3.1/libltc-1.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libltc.rb)]
 - [ ] liblunar [[homepage](https://code.google.com/archive/p/liblunar/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/liblunar/liblunar-2.2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liblunar.rb)]
-- [ ] liblwgeom [[homepage](https://postgis.net/)] [[head](https://git.osgeo.org/gitea/postgis/postgis)] [[stable](https://download.osgeo.org/postgis/source/postgis-2.5.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liblwgeom.rb)]
+- [ ] liblwgeom [[homepage](https://postgis.net/)] [[head](https://git.osgeo.org/gitea/postgis/postgis.git)] [[stable](https://download.osgeo.org/postgis/source/postgis-2.5.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liblwgeom.rb)]
 - [ ] liblzf [[homepage](http://oldhome.schmorp.de/marc/liblzf.html)] [head] [[stable](http://dist.schmorp.de/liblzf/liblzf-3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/liblzf.rb)]
 - [ ] libmaa [[homepage](http://www.dict.org/)] [head] [[stable](https://downloads.sourceforge.net/project/dict/libmaa/libmaa-1.4.7/libmaa-1.4.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmaa.rb)]
 - [ ] libmagic [[homepage](https://www.darwinsys.com/file/)] [head] [[stable](https://astron.com/pub/file/file-5.39.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmagic.rb)]
@@ -4536,7 +4538,7 @@
 - [ ] socat: GPL-2.0 (deprecated) [[homepage](http://www.dest-unreach.org/socat/)] [head] [[stable](http://www.dest-unreach.org/socat/download/socat-1.7.3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/socat.rb)]
 - [x] soci: BSL-1.0
 - [x] sofia-sip: LGPL-2.1-or-later
-- [ ] softhsm [[homepage](https://www.opendnssec.org/softhsm/)] [head] [[stable](https://dist.opendnssec.org/source/softhsm-2.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/softhsm.rb)]
+- [x] softhsm: BSD-2-Clause
 - [x] solarus: GPL-3.0-or-later
 - [ ] solid [[homepage](http://www.dtecta.com/)] [head] [[stable](http://www.dtecta.com/files/solid-3.5.6.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/solid.rb)]
 - [x] solidity: `{:all_of=>["GPL-3.0-or-later", "MIT", "BSD-3-Clause", "Apache-2.0", "CC0-1.0"]}`
@@ -4611,7 +4613,7 @@
 - [x] sqlparse: BSD-3-Clause
 - [x] sqoop: Apache-2.0
 - [ ] sqtop: GPL-2.0 (deprecated) [[homepage](https://github.com/paleg/sqtop)] [head] [[stable](https://github.com/paleg/sqtop/archive/v2015-02-08.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqtop.rb)]
-- [ ] squashfs: GPL-2.0 (deprecated) [[homepage](https://github.com/plougher/squashfs-tools)] [[head](https://github.com/plougher/squashfs-tools)] [[stable](https://github.com/plougher/squashfs-tools/archive/4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/squashfs.rb)]
+- [ ] squashfs: GPL-2.0 (deprecated) [[homepage](https://github.com/plougher/squashfs-tools)] [[head](https://github.com/plougher/squashfs-tools.git)] [[stable](https://github.com/plougher/squashfs-tools/archive/4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/squashfs.rb)]
 - [x] squashfuse: BSD-2-Clause
 - [ ] squid: GPL-2.0 (deprecated) [[homepage](http://www.squid-cache.org/)] [[head](lp:squid)] [[stable](http://www.squid-cache.org/Versions/v4/squid-4.13.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/squid.rb)]
 - [x] squirrel: MIT
@@ -5236,7 +5238,7 @@
 - [ ] winexe: GPL-3.0 (deprecated) [[homepage](https://sourceforge.net/projects/winexe/)] [head] [[stable](https://downloads.sourceforge.net/project/winexe/winexe-1.00.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/winexe.rb)]
 - [ ] wiredtiger [[homepage](http://www.wiredtiger.com)] [head] [[stable](https://github.com/wiredtiger/wiredtiger/releases/download/3.2.0/wiredtiger-3.2.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wiredtiger.rb)]
 - [x] wireguard-go: MIT
-- [ ] wireguard-tools: GPL-2.0 (deprecated) [[homepage](https://www.wireguard.com/)] [[head](https://git.zx2c4.com/wireguard-tools)] [[stable](https://git.zx2c4.com/wireguard-tools/snapshot/wireguard-tools-1.0.20200827.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireguard-tools.rb)]
+- [ ] wireguard-tools: GPL-2.0 (deprecated) [[homepage](https://www.wireguard.com/)] [[head](https://git.zx2c4.com/wireguard-tools.git)] [[stable](https://git.zx2c4.com/wireguard-tools/snapshot/wireguard-tools-1.0.20200827.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wireguard-tools.rb)]
 - [x] wiremock-standalone: Apache-2.0
 - [x] wireshark: GPL-2.0-or-later
 - [ ] wirouter_keyrec: GPL-3.0 (deprecated) [[homepage](https://www.salvatorefresta.net/tools/)] [head] [[stable](https://www.mirrorservice.org/sites/distfiles.macports.org/wirouterkeyrec/WiRouter_KeyRec_1.1.2.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wirouter_keyrec.rb)]

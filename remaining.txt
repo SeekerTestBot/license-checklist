@@ -747,7 +747,6 @@ gputils
 gpx
 gqlplus
 gqview
-grace
 gradio
 grap
 graph-tool
@@ -1921,7 +1920,6 @@ sngrep
 snownews
 sntop
 socat
-softhsm
 solid
 sollya
 somagic
