@@ -1,6 +1,6 @@
-3008 / 5340 (56.3%) of formulae have a valid `license` stanza as of 2020-11-11 00:02:02 UTC.
+3012 / 5338 (56.4%) of formulae have a valid `license` stanza as of 2020-11-11 12:01:17 UTC.
 
-1150 / 5340 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1150 / 5338 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2125,7 +2125,7 @@
 - [x] imageoptim-cli: MIT
 - [ ] imagesnap [[homepage](https://iharder.sourceforge.io/current/macosx/imagesnap/)] [head] [[stable](https://github.com/rharder/imagesnap/archive/0.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/imagesnap.rb)]
 - [x] imageworsener: MIT
-- [ ] imake [[homepage](https://xorg.freedesktop.org)] [head] [[stable](https://xorg.freedesktop.org/releases/individual/util/imake-1.0.8.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/imake.rb)]
+- [x] imake: MIT
 - [ ] imap-uw [[homepage](https://web.archive.org/web/20191028114408/https://www.washington.edu/imap/)] [head] [[stable](https://mirrorservice.org/sites/ftp.cac.washington.edu/imap/imap-2007f.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/imap-uw.rb)]
 - [x] imapfilter: MIT
 - [x] imapsync: NLPL
@@ -3626,7 +3626,6 @@
 - [ ] orbit [[homepage](https://projects.gnome.org/ORBit2)] [head] [[stable](https://download.gnome.org/sources/ORBit2/2.14/ORBit2-2.14.19.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orbit.rb)]
 - [ ] orc [[homepage](https://cgit.freedesktop.org/gstreamer/orc/)] [head] [[stable](https://gstreamer.freedesktop.org/src/orc/orc-0.4.32.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc.rb)]
 - [ ] orc-tools [[homepage](https://orc.apache.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/apache/orc/orc-tools/1.6.5/orc-tools-1.6.5-uber.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc-tools.rb)]
-- [ ] ori [[homepage](http://ori.scs.stanford.edu/)] [head] [[stable](https://bitbucket.org/orifs/ori/downloads/ori-0.8.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ori.rb)]
 - [x] orientdb: Apache-2.0
 - [x] ormolu: BSD-3-Clause
 - [ ] orocos-kdl: LGPL-2.1 (deprecated) [[homepage](https://orocos.org/)] [head] [[stable](https://github.com/orocos/orocos_kinematics_dynamics/archive/v1.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orocos-kdl.rb)]
@@ -3779,9 +3778,8 @@
 - [x] pgformatter: PostgreSQL
 - [x] pgloader: PostgreSQL
 - [x] pgpdump: BSD-3-Clause
-- [ ] pgplot [[homepage](https://www.astro.caltech.edu/~tjp/pgplot/)] [head] [[stable](ftp://ftp.astro.caltech.edu/pub/pgplot/pgplot522.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgplot.rb)]
 - [ ] pgpool-ii [[homepage](https://www.pgpool.net/mediawiki/index.php/Main_Page)] [head] [[stable](https://www.pgpool.net/mediawiki/images/pgpool-II-4.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgpool-ii.rb)]
-- [ ] pgroonga [[homepage](https://pgroonga.github.io/)] [head] [[stable](https://packages.groonga.org/source/pgroonga/pgroonga-2.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgroonga.rb)]
+- [x] pgroonga: PostgreSQL
 - [ ] pgrouting: GPL-2.0 (deprecated) [[homepage](https://pgrouting.org/)] [[head](https://github.com/pgRouting/pgrouting.git)] [[stable](https://github.com/pgRouting/pgrouting/releases/download/v3.1.0/pgrouting-3.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgrouting.rb)]
 - [x] pgtoolkit: PostgreSQL
 - [x] pgtune: BSD-3-Clause
@@ -4807,7 +4805,7 @@
 - [x] tfenv: MIT
 - [x] tflint: MPL-2.0
 - [x] tfsec: MIT
-- [ ] tgif [[homepage](http://bourbon.usc.edu/tgif/)] [head] [[stable](https://downloads.sourceforge.net/project/tgif/tgif/4.2.5/tgif-QPL-4.2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tgif.rb)]
+- [x] tgif: QPL-1.0
 - [x] tgui: Zlib
 - [x] thanos: Apache-2.0
 - [x] the_platinum_searcher: MIT
@@ -5206,7 +5204,7 @@
 - [x] wolfssl: GPL-2.0-or-later
 - [ ] woof [[homepage](http://www.home.unix-ag.org/simon/woof.html)] [head] [[stable](http://www.home.unix-ag.org/simon/woof-2012-05-31.py)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/woof.rb)]
 - [ ] wordgrinder [[homepage](https://cowlark.com/wordgrinder)] [[head](https://github.com/davidgiven/wordgrinder.git)] [[stable](https://github.com/davidgiven/wordgrinder/archive/0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordgrinder.rb)]
-- [ ] wordnet [[homepage](https://wordnet.princeton.edu/)] [head] [[stable](https://wordnetcode.princeton.edu/3.0/WordNet-3.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordnet.rb)]
+- [x] wordnet: `cannot_represent`
 - [ ] wordplay [[homepage](http://hsvmovies.com/static_subpages/personal_orig/wordplay/index.html)] [head] [[stable](http://hsvmovies.com/static_subpages/personal_orig/wordplay/wordplay722.tar.Z)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordplay.rb)]
 - [x] wownero: BSD-3-Clause
 - [x] wp-cli: MIT

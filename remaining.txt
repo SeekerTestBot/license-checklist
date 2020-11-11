@@ -869,7 +869,6 @@ igv
 ike-scan
 imagejs
 imagesnap
-imake
 imap-uw
 inadyn
 inetutils
@@ -1546,7 +1545,6 @@ optipng
 orbit
 orc
 orc-tools
-ori
 orocos-kdl
 ortp
 osc
@@ -1616,9 +1614,7 @@ pev
 pg_top
 pgbouncer
 pgdbf
-pgplot
 pgpool-ii
-pgroonga
 pgrouting
 phoon
 phoronix-test-suite
@@ -2027,7 +2023,6 @@ texi2html
 texinfo
 texlab
 texmath
-tgif
 theharvester
 theora
 thrulay
@@ -2227,7 +2222,6 @@ wla-dx
 wmctrl
 woof
 wordgrinder
-wordnet
 wordplay
 wput
 wrangler
