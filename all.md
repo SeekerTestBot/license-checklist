@@ -1,6 +1,6 @@
-3012 / 5338 (56.4%) of formulae have a valid `license` stanza as of 2020-11-11 12:01:17 UTC.
+3014 / 5339 (56.5%) of formulae have a valid `license` stanza as of 2020-11-12 00:01:46 UTC.
 
-1150 / 5338 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1150 / 5339 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -3125,6 +3125,7 @@
 - [ ] mergelog: GPL-2.0 (deprecated) [[homepage](https://mergelog.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mergelog/mergelog/4.5/mergelog-4.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mergelog.rb)]
 - [ ] mergepbx: GPL-3.0 (deprecated) [[homepage](https://github.com/simonwagner/mergepbx)] [head] [[stable](https://github.com/simonwagner/mergepbx/archive/v0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mergepbx.rb)]
 - [x] mesa: MIT
+- [x] mesa-glu: `{:any_of=>["GPL-3.0-or-later", "GPL-2.0-or-later", "MIT", "SGI-B-2.0"]}`
 - [ ] mesalib-glw [[homepage](https://www.mesa3d.org)] [head] [[stable](https://mesa.freedesktop.org/archive/glw/glw-8.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mesalib-glw.rb)]
 - [x] meson: Apache-2.0
 - [x] mesos: Apache-2.0
@@ -3631,7 +3632,7 @@
 - [ ] orocos-kdl: LGPL-2.1 (deprecated) [[homepage](https://orocos.org/)] [head] [[stable](https://github.com/orocos/orocos_kinematics_dynamics/archive/v1.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orocos-kdl.rb)]
 - [ ] ortp: GPL-3.0 (deprecated) [[homepage](https://www.linphone.org/technical-corner/ortp)] [[head](https://gitlab.linphone.org/BC/public/ortp.git)] [[stable](https://gitlab.linphone.org/BC/public/ortp/-/archive/4.3.2/ortp-4.3.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ortp.rb)]
 - [x] ory-hydra: Apache-2.0
-- [ ] osc: GPL-2.0 (deprecated) [[homepage](https://github.com/openSUSE/osc)] [[head](https://github.com/openSUSE/osc.git)] [[stable](https://github.com/openSUSE/osc/archive/0.170.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/osc.rb)]
+- [ ] osc: GPL-2.0 (deprecated) [[homepage](https://github.com/openSUSE/osc)] [[head](https://github.com/openSUSE/osc.git)] [[stable](https://github.com/openSUSE/osc/archive/0.171.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/osc.rb)]
 - [ ] oscats [[homepage](https://code.google.com/archive/p/oscats/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/oscats/oscats-0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/oscats.rb)]
 - [x] osi: EPL-1.0
 - [x] osm: MIT
@@ -4259,7 +4260,7 @@
 - [x] rustc-completion: MIT
 - [x] rustscan: GPL-3.0-or-later
 - [x] rustup-init: Apache-2.0
-- [ ] rxvt-unicode [[homepage](http://software.schmorp.de/pkg/rxvt-unicode.html)] [head] [[stable](http://dist.schmorp.de/rxvt-unicode/rxvt-unicode-9.22.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rxvt-unicode.rb)]
+- [x] rxvt-unicode: GPL-3.0-only
 - [x] ry: MIT
 - [ ] rzip: GPL-2.0 (deprecated) [[homepage](https://rzip.samba.org/)] [head] [[stable](https://rzip.samba.org/ftp/rzip/rzip-2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rzip.rb)]
 

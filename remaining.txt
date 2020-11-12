@@ -1827,7 +1827,6 @@ rubberband
 runcocoa
 runit
 rush
-rxvt-unicode
 rzip
 s-lang
 s-nail
