@@ -639,7 +639,6 @@ gengetopt
 genstats
 geocode-glib
 geoip
-geomview
 geos
 geoserver
 gerbv
@@ -1754,7 +1753,6 @@ rbenv-use
 rbenv-whatis
 rc
 rdate
-rdesktop
 rdfind
 rdiff-backup
 rds-command-line-tools
@@ -2118,7 +2116,6 @@ urdfdom
 urdfdom_headers
 urh
 uriparser
-urlview
 uru
 urweb
 usbredir
@@ -2218,7 +2215,6 @@ wireguard-tools
 wirouter_keyrec
 with-readline
 wla-dx
-wmctrl
 woof
 wordgrinder
 wordplay
