@@ -1,4 +1,4 @@
-3020 / 5341 (56.5%) of formulae have a valid `license` stanza as of 2020-11-12 12:02:03 UTC.
+3021 / 5341 (56.6%) of formulae have a valid `license` stanza as of 2020-11-13 00:01:39 UTC.
 
 1148 / 5341 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -4525,7 +4525,7 @@
 - [x] snappy: BSD-3-Clause
 - [x] snappystream: Apache-2.0
 - [ ] snapraid: GPL-3.0 (deprecated) [[homepage](https://snapraid.sourceforge.io/)] [[head](https://github.com/amadvance/snapraid.git)] [[stable](https://github.com/amadvance/snapraid/releases/download/v11.5/snapraid-11.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/snapraid.rb)]
-- [ ] sng [[homepage](https://sng.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/sng/sng-1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sng.rb)]
+- [x] sng: Zlib
 - [ ] sngrep: GPL-3.0 (deprecated) [[homepage](https://github.com/irontec/sngrep)] [head] [[stable](https://github.com/irontec/sngrep/archive/v1.4.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sngrep.rb)]
 - [x] sniffglue: GPL-3.0-or-later
 - [x] snobol4: BSD-2-Clause

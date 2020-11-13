@@ -1908,7 +1908,6 @@ smpeg
 smpeg2
 snap7
 snapraid
-sng
 sngrep
 snownews
 sntop
