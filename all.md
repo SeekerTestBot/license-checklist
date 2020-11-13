@@ -1,6 +1,6 @@
-3021 / 5341 (56.6%) of formulae have a valid `license` stanza as of 2020-11-13 00:01:46 UTC.
+3023 / 5341 (56.6%) of formulae have a valid `license` stanza as of 2020-11-13 12:02:46 UTC.
 
-1148 / 5341 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1147 / 5341 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -217,7 +217,7 @@
 - [ ] atomicparsley: GPL-2.0 (deprecated) [[homepage](https://github.com/wez/atomicparsley)] [[head](https://github.com/wez/atomicparsley.git)] [[stable](https://github.com/wez/atomicparsley/archive/20200701.154658.b0d6223.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/atomicparsley.rb)]
 - [x] atomist-cli: Apache-2.0
 - [ ] atool: GPL-3.0 (deprecated) [[homepage](https://savannah.nongnu.org/projects/atool/)] [head] [[stable](https://savannah.nongnu.org/download/atool/atool-0.39.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/atool.rb)]
-- [ ] ats2-postiats: GPL-3.0 (deprecated) [[homepage](http://www.ats-lang.org/)] [head] [[stable](https://downloads.sourceforge.net/project/ats2-lang/ats2-lang/ats2-postiats-0.4.1/ATS2-Postiats-0.4.1.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ats2-postiats.rb)]
+- [x] ats2-postiats: GPL-3.0-only
 - [ ] aubio [[homepage](https://aubio.org/)] [head] [[stable](https://aubio.org/pub/aubio-0.4.9.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aubio.rb)]
 - [x] audacious: BSD-2-Clause
 - [ ] audiofile: LGPL-2.1 (deprecated) [[homepage](https://audiofile.68k.org/)] [[head](https://github.com/mpruett/audiofile.git)] [[stable](https://audiofile.68k.org/audiofile-0.3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/audiofile.rb)]
@@ -766,7 +766,6 @@
 - [x] condure: Apache-2.0
 - [x] confd: MIT
 - [x] configen: MIT
-- [ ] confluent-platform [[homepage](https://www.confluent.io/product/confluent-platform/)] [head] [[stable](https://packages.confluent.io/archive/5.5/confluent-5.5.1-2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/confluent-platform.rb)]
 - [x] confuse: ISC
 - [x] conjure-up: MIT
 - [ ] connect [[homepage](https://bitbucket.org/gotoh/connect/wiki/Home)] [head] [[stable](https://bitbucket.org/gotoh/connect/get/1.105.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/connect.rb)]
@@ -2521,6 +2520,7 @@
 - [ ] libbtbb: GPL-2.0 (deprecated) [[homepage](https://github.com/greatscottgadgets/libbtbb)] [[head](https://github.com/greatscottgadgets/libbtbb.git)] [[stable](https://github.com/greatscottgadgets/libbtbb/archive/2018-12-R1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libbtbb.rb)]
 - [x] libcaca: WTFPL
 - [ ] libcanberra [[homepage](http://0pointer.de/lennart/projects/libcanberra/)] [[head](git://git.0pointer.de/libcanberra)] [[stable](http://0pointer.de/lennart/projects/libcanberra/libcanberra-0.30.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libcanberra.rb)]
+- [x] libcap: `{:all_of=>["BSD-3-Clause", "GPL-2.0-or-later"]}`
 - [x] libcapn: MIT
 - [x] libcbor: MIT
 - [x] libccd: BSD-3-Clause
@@ -3616,7 +3616,7 @@
 - [ ] opentsdb: LGPL-2.1 (deprecated) [[homepage](http://opentsdb.net/)] [head] [[stable](https://github.com/OpenTSDB/opentsdb/releases/download/v2.4.0/opentsdb-2.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/opentsdb.rb)]
 - [ ] openttd: GPL-2.0 (deprecated) [[homepage](https://www.openttd.org/)] [[head](https://github.com/OpenTTD/OpenTTD.git)] [[stable](https://cdn.openttd.org/openttd-releases/1.10.3/openttd-1.10.3-source.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openttd.rb)]
 - [x] openvdb: MPL-2.0
-- [ ] openvpn [[homepage](https://openvpn.net/index.php/download/community-downloads.html)] [head] [[stable](https://swupdate.openvpn.org/community/releases/openvpn-2.4.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openvpn.rb)]
+- [ ] openvpn [[homepage](https://openvpn.net/index.php/download/community-downloads.html)] [head] [[stable](https://swupdate.openvpn.org/community/releases/openvpn-2.5.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openvpn.rb)]
 - [x] operator-sdk: Apache-2.0
 - [ ] ophcrack [[homepage](https://ophcrack.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/ophcrack/ophcrack/3.8.0/ophcrack-3.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ophcrack.rb)]
 - [ ] optipng [[homepage](https://optipng.sourceforge.io/)] [[head](http://hg.code.sf.net/p/optipng/mercurial)] [[stable](https://downloads.sourceforge.net/project/optipng/OptiPNG/optipng-0.7.7/optipng-0.7.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/optipng.rb)]

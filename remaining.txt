@@ -88,7 +88,6 @@ atkmm
 atlassian-cli
 atomicparsley
 atool
-ats2-postiats
 aubio
 audiofile
 augeas
@@ -307,7 +306,6 @@ colorsvn
 colortail
 commandbox
 compface
-confluent-platform
 connect
 convertlit
 convmv
