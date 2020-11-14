@@ -309,7 +309,6 @@ compface
 connect
 convertlit
 convmv
-coq
 corkscrew
 cosi
 couchpotatoserver
@@ -574,7 +573,6 @@ flowgrind
 fltk
 flvmeta
 flvstreamer
-fmsx
 fon-flash-cli
 fondu
 fontforge
@@ -992,7 +990,6 @@ leela-zero
 lemon
 lensfun
 lesspipe
-lesstif
 lft
 lgogdownloader
 lib3ds
@@ -1430,12 +1427,10 @@ ncftp
 ncmpcpp
 ncp
 ncrack
-ncview
 ndiff
 ne
 neatvi
 negfix8
-neo4j
 neon
 neopop-sdl
 nesc
@@ -1592,7 +1587,6 @@ pcre++
 pcsc-lite
 pdf-redact-tools
 pdf2htmlex
-pdf2image
 pdf2json
 pdf2svg
 pdfcrack
@@ -1948,7 +1942,6 @@ stanford-corenlp
 stanford-ner
 stanford-parser
 star
-startup-notification
 stgit
 stk
 stlviewer
@@ -2254,7 +2247,6 @@ xmltoman
 xmount
 xmp
 xorriso
-xpa
 xpdf
 xplanet
 xqilla
