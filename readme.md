@@ -1,6 +1,6 @@
-3023 / 5341 (56.6%) of formulae have a valid `license` stanza as of 2020-11-13 12:02:39 UTC.
+3028 / 5343 (56.7%) of formulae have a valid `license` stanza as of 2020-11-14 00:01:35 UTC.
 
-1147 / 5341 (21.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1145 / 5343 (21.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -3151,7 +3151,7 @@
 - [ ] mergepbx: GPL-3.0 (deprecated) [[homepage](https://github.com/simonwagner/mergepbx)] [head] [[stable](https://github.com/simonwagner/mergepbx/archive/v0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mergepbx.rb)]
 - [x] mesa: MIT
 - [x] mesa-glu: `{:any_of=>["GPL-3.0-or-later", "GPL-2.0-or-later", "MIT", "SGI-B-2.0"]}`
-- [ ] mesalib-glw [[homepage](https://www.mesa3d.org)] [head] [[stable](https://mesa.freedesktop.org/archive/glw/glw-8.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mesalib-glw.rb)]
+- [x] mesalib-glw: `cannot_represent`
 - [x] meson: Apache-2.0
 - [x] mesos: Apache-2.0
 - [x] metabase: AGPL-3.0-only
@@ -3683,6 +3683,7 @@
 - [ ] otf2 [[homepage](https://www.vi-hps.org/projects/score-p/)] [head] [[stable](https://www.vi-hps.org/cms/upload/packages/otf2/otf2-2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/otf2.rb)]
 - [ ] otf2bdf [[homepage](http://sofia.nmsu.edu/~mleisher/Software/otf2bdf/)] [head] [[stable](http://sofia.nmsu.edu/~mleisher/Software/otf2bdf/otf2bdf-3.1.tbz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/otf2bdf.rb)]
 - [x] ott: BSD-3-Clause
+- [x] overdrive: MIT
 - [x] overmind: MIT
 - [x] owamp: Apache-2.0
 - [x] owfs: GPL-2.0-only
@@ -4191,6 +4192,7 @@
 - [x] reg: MIT
 - [ ] regex-opt: GPL-2.0 (deprecated) [[homepage](https://bisqwit.iki.fi/source/regexopt.html)] [head] [[stable](https://bisqwit.iki.fi/src/arch/regex-opt-1.2.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/regex-opt.rb)]
 - [ ] regina-rexx [[homepage](https://regina-rexx.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/regina-rexx/regina-rexx/3.9.3/regina-rexx-3.9.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/regina-rexx.rb)]
+- [x] regipy: MIT
 - [ ] regldg [[homepage](https://regldg.com/)] [head] [[stable](https://regldg.com/regldg-1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/regldg.rb)]
 - [x] rem: Apache-2.0
 - [x] remake: GPL-3.0-only
@@ -4238,7 +4240,7 @@
 - [x] rm-improved: GPL-3.0-or-later
 - [x] rmate: MIT
 - [ ] rmcast [[homepage](http://www.land.ufrj.br/tools/rmcast/rmcast.html)] [head] [[stable](http://www.land.ufrj.br/tools/rmcast/download/rmcast-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rmcast.rb)]
-- [ ] rmlint: GPL-3.0 (deprecated) [[homepage](https://github.com/sahib/rmlint)] [head] [[stable](https://github.com/sahib/rmlint/archive/v2.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rmlint.rb)]
+- [x] rmlint: GPL-3.0-or-later
 - [ ] rmtrash [[homepage](http://www.nightproductions.net/cli.htm)] [head] [[stable](http://www.nightproductions.net/downloads/rmtrash_source.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rmtrash.rb)]
 - [ ] rnv [[homepage](https://sourceforge.net/projects/rnv/)] [head] [[stable](https://downloads.sourceforge.net/project/rnv/Sources/1.7.11/rnv-1.7.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rnv.rb)]
 - [ ] robodoc: GPL-3.0 (deprecated) [[homepage](https://www.xs4all.nl/~rfsber/Robo/index.html)] [[head](https://github.com/gumpu/ROBODoc.git)] [[stable](https://rfsber.home.xs4all.nl/Robo/archives/robodoc-4.99.43.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/robodoc.rb)]
@@ -5282,7 +5284,7 @@
 <details><summary>X</summary>
 
 - [ ] x11vnc: GPL-2.0 (deprecated) [[homepage](https://github.com/LibVNC/x11vnc)] [head] [[stable](https://github.com/LibVNC/x11vnc/archive/0.9.16.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/x11vnc.rb)]
-- [ ] x264: GPL-2.0 (deprecated) [[homepage](https://www.videolan.org/developers/x264.html)] [[head](https://code.videolan.org/videolan/x264.git)] [[stable](https://code.videolan.org/videolan/x264.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/x264.rb)]
+- [x] x264: GPL-2.0-only
 - [x] x265: GPL-2.0-only
 - [x] x3270: BSD-3-Clause
 - [ ] x86_64-elf-binutils [[homepage](https://www.gnu.org/software/binutils/)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/x86_64-elf-binutils.rb)]

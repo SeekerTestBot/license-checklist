@@ -1311,7 +1311,6 @@ memcacheq
 menhir
 mergelog
 mergepbx
-mesalib-glw
 metashell
 metis
 mfcuk
@@ -1793,7 +1792,6 @@ rkhunter
 rlog
 rlwrap
 rmcast
-rmlint
 rmtrash
 rnv
 robodoc
@@ -2227,7 +2225,6 @@ wwwoffle
 wxmac
 wy60
 x11vnc
-x264
 x86_64-elf-binutils
 x86_64-elf-gcc
 xa
