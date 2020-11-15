@@ -1041,7 +1041,6 @@ libdvdnav
 libdvdread
 libebml
 libedit
-libelf
 libestr
 libetonyek
 libev
@@ -1293,7 +1292,6 @@ mecab-ko
 mecab-unidic
 mecab-unidic-extended
 mediaconch
-mednafen
 megatools
 memcache-top
 memcacheq

@@ -1,6 +1,6 @@
-3047 / 5344 (57.0%) of formulae have a valid `license` stanza as of 2020-11-15 00:02:04 UTC.
+3049 / 5344 (57.1%) of formulae have a valid `license` stanza as of 2020-11-15 12:01:18 UTC.
 
-1135 / 5344 (21.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1133 / 5344 (21.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -384,7 +384,7 @@
 - [ ] bitlbee: GPL-2.0 (deprecated) [[homepage](https://www.bitlbee.org/)] [[head](https://github.com/bitlbee/bitlbee.git)] [[stable](https://get.bitlbee.org/src/bitlbee-3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitlbee.rb)]
 - [x] bitrise: MIT
 - [ ] bittwist: GPL-2.0 (deprecated) [[homepage](https://bittwist.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/bittwist/Mac%20OS%20X/Bit-Twist%202.0/bittwist-macosx-2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bittwist.rb)]
-- [ ] bitwarden-cli: GPL-3.0 (deprecated) [[homepage](https://bitwarden.com/)] [head] [[stable](https://registry.npmjs.org/@bitwarden/cli/-/cli-1.13.1.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitwarden-cli.rb)]
+- [ ] bitwarden-cli: GPL-3.0 (deprecated) [[homepage](https://bitwarden.com/)] [head] [[stable](https://registry.npmjs.org/@bitwarden/cli/-/cli-1.13.2.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitwarden-cli.rb)]
 - [ ] bitwise: GPL-3.0 (deprecated) [[homepage](https://github.com/mellowcandle/bitwise)] [head] [[stable](https://github.com/mellowcandle/bitwise/releases/download/v0.41/bitwise-v0.41.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitwise.rb)]
 - [x] black: MIT
 - [x] blackbox: MIT
@@ -2569,7 +2569,7 @@
 - [ ] libebml: LGPL-2.1 (deprecated) [[homepage](https://www.matroska.org/)] [[head](https://github.com/Matroska-Org/libebml.git)] [[stable](https://dl.matroska.org/downloads/libebml/libebml-1.4.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libebml.rb)]
 - [x] libebur128: MIT
 - [ ] libedit [[homepage](https://thrysoee.dk/editline/)] [head] [[stable](https://thrysoee.dk/editline/libedit-20191231-3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libedit.rb)]
-- [ ] libelf: LGPL-2.0 (deprecated) [[homepage](https://web.archive.org/web/20181111033959/www.mr511.de/software/english.html)] [head] [[stable](https://dl.bintray.com/homebrew/mirror/libelf-0.8.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libelf.rb)]
+- [x] libelf: LGPL-2.0-or-later
 - [x] libepoxy: MIT
 - [x] liberasurecode: BSD-2-Clause
 - [ ] libestr: LGPL-2.1 (deprecated) [[homepage](https://libestr.adiscon.com/)] [head] [[stable](https://libestr.adiscon.com/files/download/libestr-0.1.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libestr.rb)]
@@ -3111,7 +3111,7 @@
 - [ ] mecab-unidic-extended [[homepage](https://osdn.net/projects/unidic/)] [head] [[stable](https://dotsrc.dl.osdn.net/osdn/unidic/58338/unidic-mecab_kana-accent-2.1.2_src.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mecab-unidic-extended.rb)]
 - [x] media-info: BSD-2-Clause
 - [ ] mediaconch [[homepage](https://mediaarea.net/MediaConch)] [head] [[stable](https://mediaarea.net/download/binary/mediaconch/18.03.2/MediaConch_CLI_18.03.2_GNU_FromSource.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mediaconch.rb)]
-- [ ] mednafen: GPL-2.0 (deprecated) [[homepage](https://mednafen.github.io/)] [head] [[stable](https://mednafen.github.io/releases/files/mednafen-1.24.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mednafen.rb)]
+- [x] mednafen: GPL-2.0-or-later
 - [x] megacmd: MIT
 - [ ] megatools: GPL-2.0 (deprecated) [[homepage](https://megatools.megous.com/)] [head] [[stable](https://megatools.megous.com/builds/megatools-1.10.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/megatools.rb)]
 - [x] meilisearch: MIT
