@@ -1,4 +1,4 @@
-3049 / 5344 (57.1%) of formulae have a valid `license` stanza as of 2020-11-15 12:01:18 UTC.
+3049 / 5344 (57.1%) of formulae have a valid `license` stanza as of 2020-11-16 00:02:05 UTC.
 
 1133 / 5344 (21.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -462,7 +462,7 @@
 - [x] buildifier: Apache-2.0
 - [x] buildkit: Apache-2.0
 - [x] buildozer: Apache-2.0
-- [ ] buku: GPL-3.0 (deprecated) [[homepage](https://github.com/jarun/buku)] [head] [[stable](https://github.com/jarun/buku/archive/v4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/buku.rb)]
+- [ ] buku: GPL-3.0 (deprecated) [[homepage](https://github.com/jarun/buku)] [[head](https://github.com/jarun/buku.git)] [[stable](https://files.pythonhosted.org/packages/67/89/84eb841cf5958371c16c31d03adad5f1555235d1172ed065c01e597cc1fc/buku-4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/buku.rb)]
 - [x] bulk_extractor: MIT
 - [x] bullet: Zlib
 - [x] bumpversion: MIT
@@ -918,7 +918,7 @@
 - [x] datetime-fortran: MIT
 - [x] dateutils: BSD-3-Clause
 - [x] dav1d: BSD-2-Clause
-- [ ] davix: LGPL-2.1 (deprecated) [[homepage](https://dmc.web.cern.ch/projects/davix/home)] [[head](https://github.com/cern-fts/davix.git)] [[stable](https://github.com/cern-fts/davix/releases/download/R_0_7_6/davix-0.7.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/davix.rb)]
+- [ ] davix: LGPL-2.1 (deprecated) [[homepage](https://github.com/cern-fts/davix)] [[head](https://github.com/cern-fts/davix.git)] [[stable](https://github.com/cern-fts/davix/releases/download/R_0_7_6/davix-0.7.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/davix.rb)]
 - [ ] davmail [[homepage](https://davmail.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/davmail/davmail/5.5.1/davmail-5.5.1-3299.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/davmail.rb)]
 - [x] db-vcs: MIT
 - [ ] dbacl: GPL-3.0 (deprecated) [[homepage](https://dbacl.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/dbacl/dbacl/1.14.1/dbacl-1.14.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dbacl.rb)]
@@ -1908,7 +1908,7 @@
 - [ ] gtk-vnc [[homepage](https://wiki.gnome.org/Projects/gtk-vnc)] [head] [[stable](https://download.gnome.org/sources/gtk-vnc/1.0/gtk-vnc-1.0.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtk-vnc.rb)]
 - [ ] gtkdatabox: LGPL-2.1 (deprecated) [[homepage](https://sourceforge.net/projects/gtkdatabox/)] [head] [[stable](https://downloads.sourceforge.net/project/gtkdatabox/gtkdatabox/0.9.3.1/gtkdatabox-0.9.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkdatabox.rb)]
 - [ ] gtkextra [[homepage](https://gtkextra.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/gtkextra/3.3/gtkextra-3.3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkextra.rb)]
-- [ ] gtkglext [[homepage](https://projects.gnome.org/gtkglext/)] [head] [[stable](https://download.gnome.org/sources/gtkglext/1.2/gtkglext-1.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkglext.rb)]
+- [ ] gtkglext [[homepage](https://developer.gnome.org/gtkglext/stable/)] [head] [[stable](https://download.gnome.org/sources/gtkglext/1.2/gtkglext-1.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkglext.rb)]
 - [ ] gtkmm [[homepage](https://www.gtkmm.org/)] [head] [[stable](https://download.gnome.org/sources/gtkmm/2.24/gtkmm-2.24.5.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkmm.rb)]
 - [ ] gtkmm3: LGPL-2.1 (deprecated) [[homepage](https://www.gtkmm.org/)] [head] [[stable](https://download.gnome.org/sources/gtkmm/3.24/gtkmm-3.24.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkmm3.rb)]
 - [ ] gtksourceview [[homepage](https://projects.gnome.org/gtksourceview/)] [head] [[stable](https://download.gnome.org/sources/gtksourceview/2.10/gtksourceview-2.10.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtksourceview.rb)]
