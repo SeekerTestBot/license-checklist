@@ -205,7 +205,6 @@ cafeobj
 cairo
 cairomm
 calabash
-calc
 camellia
 cap-completion
 carton
@@ -648,7 +647,6 @@ gifsicle
 ginac
 git-annex-remote-rclone
 git-bug
-git-cinnabar
 git-crypt
 git-ftp
 git-gui
@@ -723,7 +721,6 @@ gpa
 gpatch
 gpcslots2
 gperf
-gpgme
 gplcver
 gpp
 gprof2dot
@@ -1452,7 +1449,6 @@ no-more-secrets
 nopoll
 normalize
 notifiers
-notmuch
 notmuch-mutt
 npth
 npush
@@ -1895,7 +1891,6 @@ solid
 sollya
 somagic
 somagic-tools
-sonarqube-lts
 sound-touch
 source-highlight
 sox
@@ -2034,7 +2029,6 @@ tractorgen
 trader
 trafshow
 transmission-cli
-trash-cli
 tre
 tree
 treecc
