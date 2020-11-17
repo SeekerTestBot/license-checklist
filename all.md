@@ -1,4 +1,4 @@
-3055 / 5344 (57.2%) of formulae have a valid `license` stanza as of 2020-11-16 12:01:30 UTC.
+3055 / 5344 (57.2%) of formulae have a valid `license` stanza as of 2020-11-17 00:01:54 UTC.
 
 1131 / 5344 (21.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1730,7 +1730,7 @@
 - [ ] gnu-chess: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/chess/)] [[head](https://svn.savannah.gnu.org/svn/chess/trunk)] [[stable](https://ftp.gnu.org/gnu/chess/gnuchess-6.2.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-chess.rb)]
 - [ ] gnu-cobol [[homepage](https://sourceforge.net/projects/open-cobol/)] [head] [[stable](https://downloads.sourceforge.net/project/open-cobol/gnucobol/2.2/gnucobol-2.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-cobol.rb)]
 - [ ] gnu-complexity: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/complexity)] [head] [[stable](https://ftp.gnu.org/gnu/complexity/complexity-1.10.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-complexity.rb)]
-- [ ] gnu-getopt: GPL-2.0 (deprecated) [[homepage](https://github.com/karelzak/util-linux)] [head] [[stable](https://www.kernel.org/pub/linux/utils/util-linux/v2.36/util-linux-2.36.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-getopt.rb)]
+- [ ] gnu-getopt: GPL-2.0 (deprecated) [[homepage](https://github.com/karelzak/util-linux)] [head] [[stable](https://www.kernel.org/pub/linux/utils/util-linux/v2.36/util-linux-2.36.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-getopt.rb)]
 - [ ] gnu-go [[homepage](https://www.gnu.org/software/gnugo/gnugo.html)] [[head](https://git.savannah.gnu.org/git/gnugo.git)] [[stable](https://ftp.gnu.org/gnu/gnugo/gnugo-3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-go.rb)]
 - [ ] gnu-indent [[homepage](https://www.gnu.org/software/indent/)] [head] [[stable](https://ftp.gnu.org/gnu/indent/indent-2.2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-indent.rb)]
 - [ ] gnu-prolog [[homepage](http://www.gprolog.org/)] [head] [[stable](http://www.gprolog.org/gprolog-1.4.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-prolog.rb)]
@@ -4133,7 +4133,7 @@
 - [x] re2c: `public_domain`
 - [x] react-native-cli: BSD-3-Clause
 - [ ] readline: GPL-3.0 (deprecated) [[homepage](https://tiswww.case.edu/php/chet/readline/rltop.html)] [head] [[stable](https://ftp.gnu.org/gnu/readline/readline-8.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/readline.rb)]
-- [ ] readosm [[homepage](https://www.gaia-gis.it/fossil/readosm/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/readosm-1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/readosm.rb)]
+- [ ] readosm [[homepage](https://www.gaia-gis.it/fossil/readosm/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/readosm-sources/readosm-1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/readosm.rb)]
 - [x] reattach-to-user-namespace: BSD-2-Clause
 - [ ] reaver: GPL-2.0 (deprecated) [[homepage](https://code.google.com/archive/p/reaver-wps/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/reaver-wps/reaver-1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/reaver.rb)]
 - [x] rebar: Apache-2.0
@@ -4654,7 +4654,7 @@
 - [ ] sub2srt: GPL-2.0 (deprecated) [[homepage](https://github.com/robelix/sub2srt)] [[head](https://github.com/robelix/sub2srt.git)] [[stable](https://github.com/robelix/sub2srt/archive/0.5.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sub2srt.rb)]
 - [x] subfinder: MIT
 - [x] subliminal: MIT
-- [ ] subnetcalc: GPL-3.0 (deprecated) [[homepage](https://www.uni-due.de/~be0001/subnetcalc/)] [[head](https://github.com/dreibh/subnetcalc.git)] [[stable](https://www.uni-due.de/~be0001/subnetcalc/download/subnetcalc-2.4.16.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/subnetcalc.rb)]
+- [ ] subnetcalc: GPL-3.0 (deprecated) [[homepage](https://www.uni-due.de/~be0001/subnetcalc/)] [[head](https://github.com/dreibh/subnetcalc.git)] [[stable](https://www.uni-due.de/~be0001/subnetcalc/download/subnetcalc-2.4.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/subnetcalc.rb)]
 - [x] subversion: Apache-2.0
 - [x] subversion@1.8: Apache-2.0
 - [x] suil: ISC
