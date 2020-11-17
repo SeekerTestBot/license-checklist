@@ -1,4 +1,4 @@
-3055 / 5344 (57.2%) of formulae have a valid `license` stanza as of 2020-11-17 00:01:47 UTC.
+3055 / 5344 (57.2%) of formulae have a valid `license` stanza as of 2020-11-17 12:01:05 UTC.
 
 1131 / 5344 (21.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
