@@ -1,6 +1,6 @@
-3055 / 5344 (57.2%) of formulae have a valid `license` stanza as of 2020-11-17 12:01:12 UTC.
+3060 / 5347 (57.2%) of formulae have a valid `license` stanza as of 2020-11-18 00:02:34 UTC.
 
-1131 / 5344 (21.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1129 / 5347 (21.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -524,6 +524,7 @@
 - [x] capnp: MIT
 - [x] capstone: BSD-3-Clause
 - [x] cargo-c: MIT
+- [x] cargo-edit: MIT
 - [x] cargo-instruments: MIT
 - [x] carina: Apache-2.0
 - [x] carla: GPL-2.0-or-later
@@ -595,6 +596,7 @@
 - [ ] cfitsio [[homepage](https://heasarc.gsfc.nasa.gov/docs/software/fitsio/fitsio.html)] [head] [[stable](https://heasarc.gsfc.nasa.gov/FTP/software/fitsio/c/cfitsio-3.49.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cfitsio.rb)]
 - [ ] cflow: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/cflow/)] [head] [[stable](https://ftp.gnu.org/gnu/cflow/cflow-1.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cflow.rb)]
 - [x] cfn-flip: Apache-2.0
+- [x] cfn-format: Apache-2.0
 - [x] cfn-lint: MIT
 - [x] cfr-decompiler: MIT
 - [x] cfssl: BSD-2-Clause
@@ -813,7 +815,7 @@
 - [ ] cppman: GPL-3.0 (deprecated) [[homepage](https://github.com/aitjcize/cppman)] [head] [[stable](https://files.pythonhosted.org/packages/e4/a0/6c8af0f95dc7fe418f2cf812a8704780f83295235c7f32b12e87e77a79e4/cppman-0.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cppman.rb)]
 - [ ] cppp [[homepage](https://www.muppetlabs.com/~breadbox/software/cppp.html)] [head] [[stable](https://www.muppetlabs.com/~breadbox/pub/software/cppp-2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cppp.rb)]
 - [x] cpprestsdk: MIT
-- [ ] cpptest: LGPL-2.1 (deprecated) [[homepage](https://cpptest.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/cpptest/cpptest/cpptest-2.0.0/cpptest-2.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpptest.rb)]
+- [x] cpptest: LGPL-2.1-or-later
 - [ ] cppunit: LGPL-2.1 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/cppunit/)] [head] [[stable](https://dev-www.libreoffice.org/src/cppunit-1.15.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cppunit.rb)]
 - [x] cpputest: BSD-3-Clause
 - [x] cpr: MIT
@@ -1333,7 +1335,7 @@
 - [ ] ffind: GPL-3.0 (deprecated) [[homepage](https://github.com/sjl/friendly-find)] [head] [[stable](https://github.com/sjl/friendly-find/archive/v1.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffind.rb)]
 - [x] ffmpeg: GPL-2.0-or-later
 - [ ] ffmpeg2theora [[homepage](https://v2v.cc/~j/ffmpeg2theora/)] [[head](https://gitlab.xiph.org/xiph/ffmpeg2theora.git)] [[stable](https://v2v.cc/~j/ffmpeg2theora/downloads/ffmpeg2theora-0.30.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpeg2theora.rb)]
-- [ ] ffmpeg@2.8: GPL-2.0 (deprecated) [[homepage](https://ffmpeg.org/)] [head] [[stable](https://ffmpeg.org/releases/ffmpeg-2.8.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpeg@2.8.rb)]
+- [x] ffmpeg@2.8: GPL-2.0-or-later
 - [ ] ffmpegthumbnailer: GPL-2.0 (deprecated) [[homepage](https://github.com/dirkvdb/ffmpegthumbnailer)] [[head](https://github.com/dirkvdb/ffmpegthumbnailer.git)] [[stable](https://github.com/dirkvdb/ffmpegthumbnailer/archive/2.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpegthumbnailer.rb)]
 - [ ] ffms2: GPL-2.0 (deprecated) [[homepage](https://github.com/FFMS/ffms2)] [[head](https://github.com/FFMS/ffms2.git)] [[stable](https://github.com/FFMS/ffms2/archive/2.23.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffms2.rb)]
 - [x] ffsend: GPL-3.0-only
@@ -1820,6 +1822,7 @@
 - [x] gperftools: BSD-3-Clause
 - [x] gpgme: LGPL-2.1-or-later
 - [x] gphoto2: GPL-2.0-or-later
+- [x] gping: MIT
 - [ ] gplcver [[homepage](https://gplcver.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/gplcver/gplcver/2.12a/gplcver-2.12a.src.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gplcver.rb)]
 - [x] gpm: MIT
 - [ ] gpp: GPL-3.0 (deprecated) [[homepage](https://logological.org/gpp)] [head] [[stable](https://files.nothingisreal.com/software/gpp/gpp-2.27.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gpp.rb)]

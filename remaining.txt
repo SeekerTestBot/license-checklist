@@ -317,7 +317,6 @@ cppcms
 cppi
 cppman
 cppp
-cpptest
 cppunit
 cpulimit
 cracklib
@@ -540,7 +539,6 @@ fex
 ffe
 ffind
 ffmpeg2theora
-ffmpeg@2.8
 ffmpegthumbnailer
 ffms2
 fftw
