@@ -1,6 +1,6 @@
-3074 / 5349 (57.5%) of formulae have a valid `license` stanza as of 2020-11-18 12:03:56 UTC.
+3076 / 5351 (57.5%) of formulae have a valid `license` stanza as of 2020-11-19 00:01:54 UTC.
 
-1118 / 5349 (20.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1118 / 5351 (20.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2782,6 +2782,7 @@
 - [x] librsvg: LGPL-2.1-or-later
 - [ ] librsync: LGPL-2.1 (deprecated) [[homepage](https://librsync.github.io/)] [head] [[stable](https://github.com/librsync/librsync/archive/v2.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/librsync.rb)]
 - [ ] librtlsdr: GPL-2.0 (deprecated) [[homepage](https://osmocom.org/projects/rtl-sdr/wiki)] [[head](https://git.osmocom.org/rtl-sdr)] [[stable](https://github.com/steve-m/librtlsdr/archive/0.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/librtlsdr.rb)]
+- [x] librttopo: GPL-2.0-or-later
 - [x] libsamplerate: BSD-2-Clause
 - [x] libsass: MIT
 - [x] libsbol: Apache-2.0
@@ -5017,6 +5018,7 @@
 - [x] usb.ids: `{:any_of=>["GPL-2.0-or-later", "BSD-3-Clause"]}`
 - [ ] usbredir: GPL-2.0 (deprecated) [[homepage](https://www.spice-space.org)] [head] [[stable](https://www.spice-space.org/download/usbredir/usbredir-0.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/usbredir.rb)]
 - [ ] userspace-rcu [[homepage](https://liburcu.org)] [head] [[stable](https://lttng.org/files/urcu/userspace-rcu-0.12.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/userspace-rcu.rb)]
+- [x] utf8cpp: BSL-1.0
 - [x] utf8proc: `{:all_of=>["MIT", "Unicode-DFS-2015"]}`
 - [ ] util-linux: GPL-2.0 (deprecated) [[homepage](https://github.com/karelzak/util-linux)] [head] [[stable](https://mirrors.edge.kernel.org/pub/linux/utils/util-linux/v2.36/util-linux-2.36.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/util-linux.rb)]
 - [x] util-macros: MIT
