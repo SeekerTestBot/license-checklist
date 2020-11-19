@@ -1,6 +1,6 @@
-3076 / 5351 (57.5%) of formulae have a valid `license` stanza as of 2020-11-19 00:01:54 UTC.
+3077 / 5351 (57.5%) of formulae have a valid `license` stanza as of 2020-11-19 12:01:18 UTC.
 
-1118 / 5351 (20.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1117 / 5351 (20.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -3223,7 +3223,7 @@
 - [x] modd: MIT
 - [ ] modgit [[homepage](https://github.com/jreinke/modgit)] [head] [[stable](https://github.com/jreinke/modgit/archive/v1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/modgit.rb)]
 - [x] modman: Apache-2.0
-- [ ] modules [[homepage](https://modules.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/modules/Modules/modules-4.6.0/modules-4.6.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/modules.rb)]
+- [ ] modules [[homepage](https://modules.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/modules/Modules/modules-4.6.1/modules-4.6.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/modules.rb)]
 - [ ] moe: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/moe/moe.html)] [head] [[stable](https://ftp.gnu.org/gnu/moe/moe-1.10.tar.lz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/moe.rb)]
 - [x] mogenerator: MIT
 - [x] molecule: MIT
@@ -3486,7 +3486,7 @@
 - [ ] ntp [[homepage](https://www.eecis.udel.edu/~mills/ntp/html/)] [head] [[stable](https://www.eecis.udel.edu/~ntp/ntp_spool/ntp4/ntp-4.2/ntp-4.2.8p15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntp.rb)]
 - [x] nu: Apache-2.0
 - [ ] nu-smv [[homepage](http://nusmv.fbk.eu)] [head] [[stable](http://nusmv.fbk.eu/distrib/NuSMV-2.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nu-smv.rb)]
-- [ ] nudoku: GPL-3.0 (deprecated) [[homepage](https://jubalh.github.io/nudoku/)] [[head](https://github.com/jubalh/nudoku.git)] [[stable](https://github.com/jubalh/nudoku/archive/2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nudoku.rb)]
+- [x] nudoku: GPL-3.0-or-later
 - [ ] nuget [[homepage](https://www.nuget.org/)] [head] [[stable](https://dist.nuget.org/win-x86-commandline/v5.7.0/nuget.exe)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nuget.rb)]
 - [ ] num-utils [[homepage](https://suso.suso.org/programs/num-utils/)] [head] [[stable](https://suso.suso.org/programs/num-utils/downloads/num-utils-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/num-utils.rb)]
 - [x] numcpp: MIT
@@ -3603,7 +3603,7 @@
 - [x] openjpeg: BSD-2-Clause
 - [ ] openkim-models [[homepage](https://openkim.org)] [head] [[stable](https://s3.openkim.org/archives/collection/openkim-models-2019-07-25.txz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openkim-models.rb)]
 - [x] openldap: OLDAP-2.8
-- [ ] openlibm [[homepage](https://openlibm.org)] [head] [[stable](https://github.com/JuliaMath/openlibm/archive/v0.7.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openlibm.rb)]
+- [ ] openlibm [[homepage](https://openlibm.org)] [head] [[stable](https://github.com/JuliaMath/openlibm/archive/v0.7.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openlibm.rb)]
 - [x] openmotif: LGPL-2.1-or-later
 - [ ] openmsx: GPL-2.0 (deprecated) [[homepage](https://openmsx.org/)] [[head](https://github.com/openMSX/openMSX.git)] [[stable](https://github.com/openMSX/openMSX/releases/download/RELEASE_0_15_0/openmsx-0.15.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openmsx.rb)]
 - [x] openrct2: GPL-3.0-only
@@ -4012,7 +4012,7 @@
 - [x] pygitup: MIT
 - [x] pygments: BSD-2-Clause
 - [x] pygobject3: LGPL-2.1-or-later
-- [ ] pyinstaller: GPL-2.0 (deprecated) [[homepage](https://www.pyinstaller.org)] [[head](https://github.com/pyinstaller/pyinstaller.git)] [[stable](https://files.pythonhosted.org/packages/82/96/21ba3619647bac2b34b4996b2dbbea8e74a703767ce24192899d9153c058/pyinstaller-4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pyinstaller.rb)]
+- [ ] pyinstaller: GPL-2.0 (deprecated) [[homepage](https://www.pyinstaller.org)] [[head](https://github.com/pyinstaller/pyinstaller.git)] [[stable](https://files.pythonhosted.org/packages/9e/ed/fbdad7f5d8f794c901076b814b8e9f5ce31d32c0bc3b63ddd27b61db9530/pyinstaller-4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pyinstaller.rb)]
 - [x] pyinvoke: BSD-2-Clause
 - [x] pylint: GPL-2.0-or-later
 - [ ] pympress: GPL-2.0 (deprecated) [[homepage](https://github.com/Cimbali/pympress/)] [[head](https://github.com/Cimbali/pympress.git)] [[stable](https://files.pythonhosted.org/packages/92/80/c63ad7748e877dfeb5d7d756c1bdd4c2657e5a857814b4d6edf96d44678c/pympress-1.5.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pympress.rb)]

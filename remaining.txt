@@ -1454,7 +1454,6 @@ ntl
 ntopng
 ntp
 nu-smv
-nudoku
 nuget
 num-utils
 nut
