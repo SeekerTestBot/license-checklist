@@ -1,6 +1,6 @@
-3079 / 5352 (57.5%) of formulae have a valid `license` stanza as of 2020-11-20 00:01:51 UTC.
+3084 / 5357 (57.6%) of formulae have a valid `license` stanza as of 2020-11-20 12:01:45 UTC.
 
-1117 / 5352 (20.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1116 / 5357 (20.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -437,6 +437,7 @@
 - [x] box2d: MIT
 - [ ] boxes: GPL-2.0 (deprecated) [[homepage](https://boxes.thomasjensen.com/)] [[head](https://github.com/ascii-boxes/boxes.git)] [[stable](https://github.com/ascii-boxes/boxes/archive/v1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/boxes.rb)]
 - [ ] bpm-tools: GPL-2.0 (deprecated) [[homepage](https://www.pogo.org.uk/~mark/bpm-tools/)] [[head](https://www.pogo.org.uk/~mark/bpm-tools.git)] [[stable](https://www.pogo.org.uk/~mark/bpm-tools/releases/bpm-tools-0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bpm-tools.rb)]
+- [x] bpytop: Apache-2.0
 - [ ] brag [[homepage](https://brag.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/brag/brag/1.4.3/brag-1.4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/brag.rb)]
 - [x] braid: MIT
 - [x] brainfuck: Apache-2.0
@@ -1412,7 +1413,7 @@
 - [ ] fondu [[homepage](https://fondu.sourceforge.io/)] [head] [[stable](https://fondu.sourceforge.io/fondu_src-060102.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fondu.rb)]
 - [x] font-util: MIT
 - [x] fontconfig: MIT
-- [ ] fontforge: GPL-3.0 (deprecated) [[homepage](https://fontforge.github.io)] [head] [[stable](https://github.com/fontforge/fontforge/archive/20200314.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fontforge.rb)]
+- [ ] fontforge [[homepage](https://fontforge.github.io)] [head] [[stable](https://github.com/fontforge/fontforge/releases/download/20201107/fontforge-20201107.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fontforge.rb)]
 - [x] fonttools: MIT
 - [x] fop: Apache-2.0
 - [x] forcecli: MIT
@@ -1748,7 +1749,7 @@
 - [ ] gnu-which: GPL-3.0 (deprecated) [[homepage](https://savannah.gnu.org/projects/which/)] [head] [[stable](https://ftp.gnu.org/gnu/which/which-2.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-which.rb)]
 - [x] gnumeric: `{:any_of=>["GPL-3.0-only", "GPL-2.0-only"]}`
 - [x] gnunet: AGPL-3.0-or-later
-- [ ] gnupg [[homepage](https://gnupg.org/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.2.23.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnupg.rb)]
+- [ ] gnupg [[homepage](https://gnupg.org/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.2.24.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnupg.rb)]
 - [x] gnupg-pkcs11-scd: BSD-3-Clause
 - [ ] gnupg@1.4 [[homepage](https://www.gnupg.org/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-1.4.23.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnupg@1.4.rb)]
 - [x] gnuplot: gnuplot
@@ -1801,6 +1802,7 @@
 - [ ] goolabs [[homepage](https://pypi.python.org/pypi/goolabs)] [head] [[stable](https://files.pythonhosted.org/packages/ce/86/2d3b5bd85311ee3a7ae7a661b3619095431503cd0cae03048c646b700cad/goolabs-0.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/goolabs.rb)]
 - [x] goose: MIT
 - [x] gopass: MIT
+- [x] gopls: BSD-3-Clause
 - [ ] gor: LGPL-3.0 (deprecated) [[homepage](https://goreplay.org)] [[head](https://github.com/buger/goreplay.git)] [[stable](https://github.com/buger/goreplay.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gor.rb)]
 - [x] goreleaser: MIT
 - [x] goreman: MIT
@@ -2400,6 +2402,7 @@
 - [x] kubeaudit: MIT
 - [x] kubebuilder: Apache-2.0
 - [x] kubecfg: Apache-2.0
+- [x] kubecm: Apache-2.0
 - [x] kubectx: Apache-2.0
 - [x] kubeless: Apache-2.0
 - [x] kubeprod: Apache-2.0
@@ -3240,7 +3243,7 @@
 - [ ] mongroup [[homepage](https://github.com/jgallen23/mongroup)] [head] [[stable](https://github.com/jgallen23/mongroup/archive/0.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mongroup.rb)]
 - [ ] monit [[homepage](https://mmonit.com/monit/)] [head] [[stable](https://mmonit.com/monit/dist/monit-5.27.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monit.rb)]
 - [ ] monitoring-plugins [[homepage](https://www.monitoring-plugins.org)] [head] [[stable](https://www.monitoring-plugins.org/download/monitoring-plugins-2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monitoring-plugins.rb)]
-- [ ] monkeysphere [[homepage](https://web.monkeysphere.info/)] [[head](git://git.monkeysphere.info/monkeysphere)] [[stable](https://deb.debian.org/debian/pool/main/m/monkeysphere/monkeysphere_0.44.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monkeysphere.rb)]
+- [ ] monkeysphere [[homepage](http://web.monkeysphere.info/)] [[head](git://git.monkeysphere.info/monkeysphere)] [[stable](https://deb.debian.org/debian/pool/main/m/monkeysphere/monkeysphere_0.44.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monkeysphere.rb)]
 - [x] mono: MIT
 - [x] mono-libgdiplus: MIT
 - [x] monolith: Unlicense
@@ -3690,7 +3693,7 @@
 - [x] paket: MIT
 - [x] pam-u2f: BSD-2-Clause
 - [x] pam_yubico: BSD-2-Clause
-- [ ] pandoc: GPL-2.0 (deprecated) [[homepage](https://pandoc.org/)] [[head](https://github.com/jgm/pandoc.git)] [[stable](https://hackage.haskell.org/package/pandoc-2.11.1.1/pandoc-2.11.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pandoc.rb)]
+- [ ] pandoc: GPL-2.0 (deprecated) [[homepage](https://pandoc.org/)] [[head](https://github.com/jgm/pandoc.git)] [[stable](https://hackage.haskell.org/package/pandoc-2.11.2/pandoc-2.11.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pandoc.rb)]
 - [x] pandoc-citeproc: BSD-3-Clause
 - [x] pandoc-crossref: GPL-2.0-or-later
 - [x] pandoc-include-code: MPL-2.0
@@ -5031,6 +5034,7 @@
 ### V
 
 - [ ] v [[homepage](https://github.com/rupa/v)] [[head](https://github.com/rupa/v.git)] [[stable](https://github.com/rupa/v/archive/v1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/v.rb)]
+- [x] v2ray: `{:all_of=>["MIT", "CC-BY-SA-4.0"]}`
 - [x] v2ray-plugin: MIT
 - [x] v8: BSD-3-Clause
 - [ ] v8@3.15 [[homepage](https://github.com/v8/v8/wiki)] [head] [[stable](https://github.com/v8/v8-git-mirror/archive/3.15.11.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/v8@3.15.rb)]
@@ -5275,6 +5279,7 @@
 - [x] xgboost: Apache-2.0
 - [ ] xhyve [[homepage](https://github.com/machyve/xhyve)] [[head](https://github.com/machyve/xhyve.git)] [[stable](https://github.com/machyve/xhyve/archive/v0.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xhyve.rb)]
 - [ ] xidel: GPL-3.0 (deprecated) [[homepage](http://www.videlibri.de/xidel.html)] [head] [[stable](https://github.com/benibela/xidel/releases/download/Xidel_0.9.8/xidel-0.9.8.src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xidel.rb)]
+- [x] xinput: MIT
 - [x] xkeyboardconfig: MIT
 - [x] xlearn: Apache-2.0
 - [ ] xlispstat [[homepage](https://homepage.stat.uiowa.edu/~luke/xls/xlsinfo/)] [head] [[stable](https://homepage.cs.uiowa.edu/~luke/xls/xlispstat/current/xlispstat-3-52-23.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xlispstat.rb)]
