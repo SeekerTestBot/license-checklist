@@ -1,6 +1,6 @@
-3077 / 5351 (57.5%) of formulae have a valid `license` stanza as of 2020-11-19 12:01:11 UTC.
+3079 / 5352 (57.5%) of formulae have a valid `license` stanza as of 2020-11-20 00:01:44 UTC.
 
-1117 / 5351 (20.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1117 / 5352 (20.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -2117,7 +2117,7 @@
 - [ ] icecast [[homepage](https://icecast.org/)] [head] [[stable](https://downloads.xiph.org/releases/icecast/icecast-2.4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icecast.rb)]
 - [ ] icecream: GPL-2.0 (deprecated) [[homepage](https://en.opensuse.org/Icecream)] [head] [[stable](https://github.com/icecc/icecream/archive/1.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icecream.rb)]
 - [ ] icemon: GPL-2.0 (deprecated) [[homepage](https://github.com/icecc/icemon)] [head] [[stable](https://github.com/icecc/icemon/archive/v3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icemon.rb)]
-- [ ] icon [[homepage](https://www.cs.arizona.edu/icon/)] [head] [[stable](https://www2.cs.arizona.edu/icon/ftp/packages/unix/icon-v951src.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icon.rb)]
+- [ ] icon [[homepage](https://www.cs.arizona.edu/icon/)] [head] [[stable](https://github.com/gtownsend/icon/archive/v9.5.20i.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icon.rb)]
 - [ ] icon-naming-utils: GPL-2.0 (deprecated) [[homepage](https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html)] [head] [[stable](https://deb.debian.org/debian/pool/main/i/icon-naming-utils/icon-naming-utils_0.8.90.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icon-naming-utils.rb)]
 - [ ] icoutils: GPL-3.0 (deprecated) [[homepage](https://www.nongnu.org/icoutils/)] [head] [[stable](https://savannah.nongnu.org/download/icoutils/icoutils-0.32.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/icoutils.rb)]
 - [x] icu4c: ICU
@@ -2248,7 +2248,7 @@
 - [x] jbig2dec: AGPL-3.0-or-later
 - [x] jbig2enc: Apache-2.0
 - [ ] jbigkit: GPL-2.0 (deprecated) [[homepage](https://www.cl.cam.ac.uk/~mgk25/jbigkit/)] [[head](https://www.cl.cam.ac.uk/~mgk25/git/jbigkit)] [[stable](https://www.cl.cam.ac.uk/~mgk25/jbigkit/download/jbigkit-2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jbigkit.rb)]
-- [ ] jboss-forge [[homepage](https://forge.jboss.org/)] [head] [[stable](https://downloads.jboss.org/forge/releases/3.9.7.Final/forge-distribution-3.9.7.Final-offline.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jboss-forge.rb)]
+- [ ] jboss-forge [[homepage](https://forge.jboss.org/)] [head] [[stable](https://downloads.jboss.org/forge/releases/3.9.8.Final/forge-distribution-3.9.8.Final-offline.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jboss-forge.rb)]
 - [x] jc: MIT
 - [ ] jcal: GPL-3.0 (deprecated) [[homepage](https://savannah.nongnu.org/projects/jcal/)] [head] [[stable](https://download.savannah.gnu.org/releases/jcal/jcal-0.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jcal.rb)]
 - [x] jd: MIT
@@ -2543,6 +2543,7 @@
 - [x] libbluray: LGPL-2.1-or-later
 - [ ] libbpg [[homepage](https://bellard.org/bpg/)] [head] [[stable](https://bellard.org/bpg/libbpg-0.9.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libbpg.rb)]
 - [x] libbs2b: MIT
+- [x] libbsd: BSD-3-Clause
 - [ ] libbtbb: GPL-2.0 (deprecated) [[homepage](https://github.com/greatscottgadgets/libbtbb)] [[head](https://github.com/greatscottgadgets/libbtbb.git)] [[stable](https://github.com/greatscottgadgets/libbtbb/archive/2018-12-R1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libbtbb.rb)]
 - [x] libcaca: WTFPL
 - [ ] libcanberra [[homepage](http://0pointer.de/lennart/projects/libcanberra/)] [[head](git://git.0pointer.de/libcanberra)] [[stable](http://0pointer.de/lennart/projects/libcanberra/libcanberra-0.30.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libcanberra.rb)]
@@ -2829,7 +2830,7 @@
 - [x] libsoundio: MIT
 - [x] libsoup: LGPL-2.0-or-later
 - [x] libsoxr: LGPL-2.1-or-later
-- [ ] libspatialite [[homepage](https://www.gaia-gis.it/fossil/libspatialite/index)] [[head](https://www.gaia-gis.it/fossil/libspatialite)] [[stable](https://www.gaia-gis.it/gaia-sins/libspatialite-sources/libspatialite-4.3.0a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspatialite.rb)]
+- [x] libspatialite: `{:any_of=>["MPL-1.1", "GPL-2.0-or-later", "LGPL-2.1-or-later"]}`
 - [x] libspectre: GPL-2.0-or-later
 - [ ] libspectrum [[homepage](https://fuse-emulator.sourceforge.io/libspectrum.php)] [[head](https://svn.code.sf.net/p/fuse-emulator/code/trunk/libspectrum)] [[stable](https://downloads.sourceforge.net/project/fuse-emulator/libspectrum/1.4.4/libspectrum-1.4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspectrum.rb)]
 - [ ] libspiro: GPL-3.0 (deprecated) [[homepage](https://github.com/fontforge/libspiro)] [[head](https://github.com/fontforge/libspiro.git)] [[stable](https://github.com/fontforge/libspiro/releases/download/20200505/libspiro-dist-20200505.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libspiro.rb)]
@@ -3468,7 +3469,7 @@
 - [ ] nkf [[homepage](https://osdn.net/projects/nkf/)] [head] [[stable](https://dotsrc.dl.osdn.net/osdn/nkf/70406/nkf-2.1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nkf.rb)]
 - [ ] nload: GPL-2.0 (deprecated) [[homepage](http://www.roland-riegel.de/nload/)] [head] [[stable](http://www.roland-riegel.de/nload/nload-0.7.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nload.rb)]
 - [x] nlohmann-json: MIT
-- [ ] nlopt: LGPL-2.1 (deprecated) [[homepage](https://nlopt.readthedocs.io/)] [[head](https://github.com/stevengj/nlopt.git)] [[stable](https://github.com/stevengj/nlopt/archive/v2.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nlopt.rb)]
+- [ ] nlopt: LGPL-2.1 (deprecated) [[homepage](https://nlopt.readthedocs.io/)] [[head](https://github.com/stevengj/nlopt.git)] [[stable](https://github.com/stevengj/nlopt/archive/v2.7.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nlopt.rb)]
 - [x] nmap: `cannot_represent`
 - [ ] nmh [[homepage](https://www.nongnu.org/nmh/)] [[head](https://git.savannah.nongnu.org/git/nmh.git)] [[stable](https://download.savannah.gnu.org/releases/nmh/nmh-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nmh.rb)]
 - [x] nng: MIT
@@ -3810,7 +3811,7 @@
 - [x] pfetch: MIT
 - [ ] pg_top [[homepage](https://pg_top.gitlab.io)] [head] [[stable](https://ftp.postgresql.org/pub/projects/pgFoundry/ptop/pg_top/3.7.0/pg_top-3.7.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pg_top.rb)]
 - [x] pgbadger: PostgreSQL
-- [ ] pgbouncer [[homepage](https://www.pgbouncer.org/)] [head] [[stable](https://www.pgbouncer.org/downloads/files/1.14.0/pgbouncer-1.14.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgbouncer.rb)]
+- [ ] pgbouncer [[homepage](https://www.pgbouncer.org/)] [head] [[stable](https://www.pgbouncer.org/downloads/files/1.15.0/pgbouncer-1.15.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgbouncer.rb)]
 - [x] pgcli: BSD-3-Clause
 - [ ] pgdbf: GPL-3.0 (deprecated) [[homepage](https://github.com/kstrauser/pgdbf)] [head] [[stable](https://downloads.sourceforge.net/project/pgdbf/pgdbf/0.6.2/pgdbf-0.6.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgdbf.rb)]
 - [x] pgformatter: PostgreSQL
@@ -3998,7 +3999,7 @@
 - [ ] psgrep: GPL-3.0 (deprecated) [[homepage](https://github.com/jvz/psgrep)] [[head](https://github.com/jvz/psgrep.git)] [[stable](https://github.com/jvz/psgrep/archive/1.0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/psgrep.rb)]
 - [x] pspg: BSD-2-Clause
 - [x] psql2csv: MIT
-- [ ] psqlodbc [[homepage](https://odbc.postgresql.org)] [[head](https://git.postgresql.org/git/psqlodbc.git)] [[stable](https://ftp.postgresql.org/pub/odbc/versions/src/psqlodbc-12.02.0000.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/psqlodbc.rb)]
+- [ ] psqlodbc [[homepage](https://odbc.postgresql.org)] [[head](https://git.postgresql.org/git/psqlodbc.git)] [[stable](https://ftp.postgresql.org/pub/odbc/versions/src/psqlodbc-13.00.0000.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/psqlodbc.rb)]
 - [x] pssh: BSD-3-Clause
 - [ ] pstoedit: GPL-2.0 (deprecated) [[homepage](http://www.pstoedit.net/)] [head] [[stable](https://downloads.sourceforge.net/project/pstoedit/pstoedit/3.75/pstoedit-3.75.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pstoedit.rb)]
 - [ ] pstree [[homepage](http://www.thp.uni-duisburg.de/pstree/)] [head] [[stable](ftp://ftp.thp.uni-duisburg.de/pub/source/pstree-2.39.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pstree.rb)]
