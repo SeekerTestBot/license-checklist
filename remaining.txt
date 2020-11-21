@@ -1535,7 +1535,6 @@ p7zip
 pachi
 pacman4console
 pacparser
-pacvim
 pagmo
 pakchois
 pandoc
@@ -1562,7 +1561,6 @@ pcb2gcode
 pce
 pcre++
 pcsc-lite
-pdf2htmlex
 pdf2json
 pdf2svg
 pdfcrack
@@ -1645,7 +1643,6 @@ privoxy
 procmail
 proctools
 procyon-decompiler
-prodigal
 profanity
 proftpd
 progress
@@ -1915,7 +1912,6 @@ stanford-parser
 star
 stgit
 stk
-stlviewer
 stm32flash
 stoken
 stone
@@ -2218,7 +2214,6 @@ xqilla
 xrick
 xsane
 xsd
-xspin
 xsv
 xsw
 xtail

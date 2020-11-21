@@ -1,6 +1,6 @@
-3086 / 5358 (57.6%) of formulae have a valid `license` stanza as of 2020-11-21 00:01:53 UTC.
+3089 / 5356 (57.7%) of formulae have a valid `license` stanza as of 2020-11-21 12:01:29 UTC.
 
-1115 / 5358 (20.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1112 / 5356 (20.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -3688,7 +3688,7 @@
 - [x] packr: MIT
 - [ ] pacman4console: GPL-2.0 (deprecated) [[homepage](https://sites.google.com/site/doctormike/pacman.html)] [head] [[stable](https://sites.google.com/site/doctormike/pacman-1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pacman4console.rb)]
 - [ ] pacparser: LGPL-3.0 (deprecated) [[homepage](https://github.com/pacparser/pacparser)] [[head](https://github.com/pacparser/pacparser.git)] [[stable](https://github.com/pacparser/pacparser/archive/1.3.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pacparser.rb)]
-- [ ] pacvim: LGPL-3.0 (deprecated) [[homepage](https://github.com/jmoon018/PacVim)] [[head](https://github.com/jmoon018/PacVim.git)] [[stable](https://github.com/jmoon018/PacVim/archive/v1.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pacvim.rb)]
+- [x] pacvim: LGPL-3.0-or-later
 - [ ] pagmo: GPL-3.0 (deprecated) [[homepage](https://esa.github.io/pagmo2/)] [head] [[stable](https://github.com/esa/pagmo2/archive/v2.15.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pagmo.rb)]
 - [ ] pakchois [[homepage](https://web.archive.org/web/www.manyfish.co.uk/pakchois/)] [head] [[stable](https://web.archive.org/web/20161220165909/www.manyfish.co.uk/pakchois/pakchois-0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pakchois.rb)]
 - [x] paket: MIT
@@ -3743,7 +3743,7 @@
 - [ ] pcsc-lite [[homepage](https://pcsclite.apdu.fr/)] [head] [[stable](https://pcsclite.apdu.fr/files/pcsc-lite-1.9.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pcsc-lite.rb)]
 - [x] pdal: BSD-3-Clause
 - [x] pdf-redact-tools: GPL-3.0-or-later
-- [ ] pdf2htmlex: GPL-3.0 (deprecated) [[homepage](https://coolwanglu.github.io/pdf2htmlEX/)] [[head](https://github.com/coolwanglu/pdf2htmlEX.git)] [[stable](https://github.com/coolwanglu/pdf2htmlEX/archive/v0.14.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdf2htmlex.rb)]
+- [x] pdf2htmlex: GPL-3.0-or-later
 - [x] pdf2image: FSFUL
 - [ ] pdf2json: GPL-2.0 (deprecated) [[homepage](https://github.com/flexpaper/pdf2json)] [head] [[stable](https://github.com/flexpaper/pdf2json/archive/0.71.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdf2json.rb)]
 - [ ] pdf2svg: GPL-2.0 (deprecated) [[homepage](https://cityinthesky.co.uk/opensource/pdf2svg)] [head] [[stable](https://github.com/db9052/pdf2svg/archive/v0.2.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdf2svg.rb)]
@@ -3940,7 +3940,7 @@
 - [x] procs: MIT
 - [ ] proctools [[homepage](https://proctools.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/proctools/proctools/0.4pre1/proctools-0.4pre1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proctools.rb)]
 - [ ] procyon-decompiler [[homepage](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)] [head] [[stable](https://bitbucket.org/mstrobel/procyon/downloads/procyon-decompiler-0.5.36.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/procyon-decompiler.rb)]
-- [ ] prodigal: GPL-3.0 (deprecated) [[homepage](https://github.com/hyattpd/Prodigal)] [head] [[stable](https://github.com/hyattpd/Prodigal/archive/v2.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/prodigal.rb)]
+- [x] prodigal: GPL-3.0-or-later
 - [ ] profanity: GPL-3.0 (deprecated) [[homepage](https://profanity-im.github.io)] [[head](https://github.com/profanity-im/profanity.git)] [[stable](https://profanity-im.github.io/profanity-0.9.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/profanity.rb)]
 - [ ] proftpd: GPL-2.0 (deprecated) [[homepage](http://www.proftpd.org/)] [head] [[stable](https://github.com/proftpd/proftpd/archive/v1.3.7a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proftpd.rb)]
 - [ ] progress: GPL-3.0 (deprecated) [[homepage](https://github.com/Xfennec/progress)] [[head](https://github.com/Xfennec/progress.git)] [[stable](https://github.com/Xfennec/progress/archive/v0.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/progress.rb)]
@@ -4638,7 +4638,6 @@
 - [ ] stgit: GPL-2.0 (deprecated) [[homepage](https://stacked-git.github.io)] [[head](https://github.com/stacked-git/stgit.git)] [[stable](https://github.com/stacked-git/stgit/releases/download/v0.23/stgit-0.23.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stgit.rb)]
 - [ ] stk [[homepage](https://ccrma.stanford.edu/software/stk/)] [head] [[stable](https://ccrma.stanford.edu/software/stk/release/stk-4.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stk.rb)]
 - [x] stlink: BSD-3-Clause
-- [ ] stlviewer [[homepage](https://github.com/vishpat/stlviewer#readme)] [head] [[stable](https://github.com/vishpat/stlviewer/archive/release-0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stlviewer.rb)]
 - [ ] stm32flash [[homepage](https://sourceforge.net/projects/stm32flash/)] [head] [[stable](https://downloads.sourceforge.net/project/stm32flash/stm32flash-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stm32flash.rb)]
 - [x] stockfish: GPL-3.0-only
 - [ ] stoken [[homepage](https://stoken.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/stoken/stoken-0.92.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stoken.rb)]
@@ -5315,7 +5314,6 @@
 - [ ] xsd [[homepage](https://www.codesynthesis.com/products/xsd/)] [head] [[stable](https://www.codesynthesis.com/download/xsd/4.0/xsd-4.0.0+dep.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xsd.rb)]
 - [x] xshogi: GPL-3.0-or-later
 - [x] xsimd: BSD-3-Clause
-- [ ] xspin [[homepage](https://spinroot.com/spin/Src/index.html)] [head] [[stable](https://spinroot.com/spin/Src/xspin525.tcl)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xspin.rb)]
 - [ ] xsv [[homepage](https://github.com/BurntSushi/xsv)] [[head](https://github.com/BurntSushi/xsv.git)] [[stable](https://github.com/BurntSushi/xsv/archive/0.13.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xsv.rb)]
 - [ ] xsw: GPL-3.0 (deprecated) [[homepage](https://code.google.com/archive/p/xsw/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/xsw/xsw-0.3.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xsw.rb)]
 - [ ] xtail [[homepage](https://www.unicom.com/sw/xtail)] [head] [[stable](https://www.unicom.com/files/xtail-2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xtail.rb)]
