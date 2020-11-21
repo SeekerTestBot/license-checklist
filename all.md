@@ -1,6 +1,6 @@
-3084 / 5357 (57.6%) of formulae have a valid `license` stanza as of 2020-11-20 12:01:45 UTC.
+3086 / 5358 (57.6%) of formulae have a valid `license` stanza as of 2020-11-21 00:01:53 UTC.
 
-1116 / 5357 (20.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1115 / 5358 (20.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2839,6 +2839,7 @@
 - [x] libtextcat: BSD-3-Clause
 - [x] libtiff: libtiff
 - [x] libtins: BSD-2-Clause
+- [x] libtirpc: BSD-3-Clause
 - [x] libtomcrypt: Unlicense
 - [x] libtommath: Unlicense
 - [ ] libtool: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/libtool/)] [head] [[stable](https://ftp.gnu.org/gnu/libtool/libtool-2.4.6.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libtool.rb)]
@@ -3741,7 +3742,7 @@
 - [x] pcre2: BSD-3-Clause
 - [ ] pcsc-lite [[homepage](https://pcsclite.apdu.fr/)] [head] [[stable](https://pcsclite.apdu.fr/files/pcsc-lite-1.9.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pcsc-lite.rb)]
 - [x] pdal: BSD-3-Clause
-- [ ] pdf-redact-tools: GPL-3.0 (deprecated) [[homepage](https://github.com/firstlookmedia/pdf-redact-tools)] [[head](https://github.com/firstlookmedia/pdf-redact-tools.git)] [[stable](https://github.com/firstlookmedia/pdf-redact-tools/archive/v0.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdf-redact-tools.rb)]
+- [x] pdf-redact-tools: GPL-3.0-or-later
 - [ ] pdf2htmlex: GPL-3.0 (deprecated) [[homepage](https://coolwanglu.github.io/pdf2htmlEX/)] [[head](https://github.com/coolwanglu/pdf2htmlEX.git)] [[stable](https://github.com/coolwanglu/pdf2htmlEX/archive/v0.14.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdf2htmlex.rb)]
 - [x] pdf2image: FSFUL
 - [ ] pdf2json: GPL-2.0 (deprecated) [[homepage](https://github.com/flexpaper/pdf2json)] [head] [[stable](https://github.com/flexpaper/pdf2json/archive/0.71.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdf2json.rb)]
@@ -4759,7 +4760,7 @@
 - [ ] tcptrace [[homepage](http://www.tcptrace.org/)] [head] [[stable](https://www.mirrorservice.org/sites/distfiles.macports.org/tcptrace/tcptrace-6.6.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tcptrace.rb)]
 - [ ] tcptraceroute: GPL-2.0 (deprecated) [[homepage](https://github.com/mct/tcptraceroute)] [[head](https://github.com/mct/tcptraceroute.git)] [[stable](https://github.com/mct/tcptraceroute/archive/tcptraceroute-1.5beta7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tcptraceroute.rb)]
 - [ ] tcptunnel: GPL-2.0 (deprecated) [[homepage](http://www.vakuumverpackt.de/tcptunnel/)] [head] [[stable](https://github.com/vakuum/tcptunnel/archive/v0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tcptunnel.rb)]
-- [ ] tcsh [[homepage](https://www.tcsh.org/)] [head] [[stable](https://astron.com/pub/tcsh/tcsh-6.22.02.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tcsh.rb)]
+- [ ] tcsh [[homepage](https://www.tcsh.org/)] [head] [[stable](https://astron.com/pub/tcsh/tcsh-6.22.03.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tcsh.rb)]
 - [x] td: MIT
 - [x] tdkjs: Apache-2.0
 - [x] tdlib: BSL-1.0

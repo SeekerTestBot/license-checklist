@@ -1562,7 +1562,6 @@ pcb2gcode
 pce
 pcre++
 pcsc-lite
-pdf-redact-tools
 pdf2htmlex
 pdf2json
 pdf2svg
