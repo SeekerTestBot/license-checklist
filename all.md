@@ -1,6 +1,6 @@
-3092 / 5357 (57.7%) of formulae have a valid `license` stanza as of 2020-11-22 00:02:09 UTC.
+3092 / 5356 (57.7%) of formulae have a valid `license` stanza as of 2020-11-22 12:01:22 UTC.
 
-1110 / 5357 (20.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1110 / 5356 (20.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -702,7 +702,7 @@
 - [x] clojure: EPL-1.0
 - [x] clojure-lsp: MIT
 - [x] clojurescript: EPL-1.0
-- [ ] cloog [[homepage](https://www.bastoul.net/cloog/)] [head] [[stable](https://www.bastoul.net/cloog/pages/download/count.php3?url=./cloog-0.18.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cloog.rb)]
+- [ ] cloog [[homepage](http://www.bastoul.net/cloog/)] [head] [[stable](http://www.bastoul.net/cloog/pages/download/count.php3?url=./cloog-0.18.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cloog.rb)]
 - [x] closure-compiler: Apache-2.0
 - [x] closure-stylesheets: Apache-2.0
 - [x] cloud-nuke: MIT
@@ -978,7 +978,7 @@
 - [x] dfix: BSL-1.0
 - [x] dfmt: BSL-1.0
 - [ ] dfu-programmer: GPL-2.0 (deprecated) [[homepage](https://dfu-programmer.sourceforge.io/)] [[head](https://github.com/dfu-programmer/dfu-programmer.git)] [[stable](https://downloads.sourceforge.net/project/dfu-programmer/dfu-programmer/0.7.2/dfu-programmer-0.7.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dfu-programmer.rb)]
-- [ ] dfu-util: GPL-2.0 (deprecated) [[homepage](https://dfu-util.sourceforge.io/)] [[head](https://git.code.sf.net/p/dfu-util/dfu-util.git)] [[stable](https://downloads.sourceforge.net/project/dfu-util/dfu-util-0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dfu-util.rb)]
+- [ ] dfu-util: GPL-2.0 (deprecated) [[homepage](https://dfu-util.sourceforge.io/)] [[head](https://git.code.sf.net/p/dfu-util/dfu-util.git)] [[stable](https://downloads.sourceforge.net/project/dfu-util/dfu-util-0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dfu-util.rb)]
 - [ ] dgen [[homepage](https://dgen.sourceforge.io/)] [[head](https://git.code.sf.net/p/dgen/dgen.git)] [[stable](https://downloads.sourceforge.net/project/dgen/dgen/1.33/dgen-sdl-1.33.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dgen.rb)]
 - [x] dgraph: Apache-2.0
 - [x] dhall: BSD-3-Clause
@@ -1021,9 +1021,9 @@
 - [x] dive: MIT
 - [x] django-completion: BSD-3-Clause
 - [ ] djbdns [[homepage](https://cr.yp.to/djbdns.html)] [head] [[stable](https://cr.yp.to/djbdns/djbdns-1.05.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/djbdns.rb)]
-- [ ] djview4 [[homepage](https://djvu.sourceforge.io/djview4.html)] [head] [[stable](https://downloads.sourceforge.net/project/djvu/DjView/4.10/djview-4.10.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/djview4.rb)]
+- [ ] djview4 [[homepage](https://djvu.sourceforge.io/djview4.html)] [head] [[stable](https://downloads.sourceforge.net/project/djvu/DjView/4.12/djview-4.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/djview4.rb)]
 - [ ] djvu2pdf [[homepage](https://0x2a.at/site/projects/djvu2pdf/)] [head] [[stable](https://0x2a.at/site/projects/djvu2pdf/djvu2pdf-0.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/djvu2pdf.rb)]
-- [ ] djvulibre [[homepage](https://djvu.sourceforge.io/)] [[head](https://git.code.sf.net/p/djvu/djvulibre-git.git)] [[stable](https://downloads.sourceforge.net/project/djvu/DjVuLibre/3.5.27/djvulibre-3.5.27.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/djvulibre.rb)]
+- [ ] djvulibre [[homepage](https://djvu.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/djvu/DjVuLibre/3%2C5%2C28/djvulibre-3.5.28.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/djvulibre.rb)]
 - [x] dlib: BSL-1.0
 - [x] dlite: MIT
 - [x] dmagnetic: BSD-2-Clause
@@ -5000,7 +5000,6 @@
 - [ ] unnethack [[homepage](https://unnethack.wordpress.com/)] [[head](https://github.com/UnNetHack/UnNetHack.git)] [[stable](https://github.com/UnNetHack/UnNetHack/archive/5.3.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unnethack.rb)]
 - [ ] unoconv: GPL-2.0 (deprecated) [[homepage](https://github.com/unoconv/unoconv)] [[head](https://github.com/unoconv/unoconv.git)] [[stable](https://files.pythonhosted.org/packages/ab/40/b4cab1140087f3f07b2f6d7cb9ca1c14b9bdbb525d2d83a3b29c924fe9ae/unoconv-0.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unoconv.rb)]
 - [ ] unp [[homepage](https://packages.debian.org/source/stable/unp)] [head] [[stable](https://deb.debian.org/debian/pool/main/u/unp/unp_2.0~pre7+nmu1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unp.rb)]
-- [ ] unp64 [[homepage](http://iancoog.altervista.org/)] [head] [[stable](http://iancoog.altervista.org/C/unp64_236_src.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unp64.rb)]
 - [ ] unpaper [[homepage](https://www.flameeyes.com/projects/unpaper)] [[head](https://github.com/Flameeyes/unpaper.git)] [[stable](https://www.flameeyes.com/files/unpaper-6.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unpaper.rb)]
 - [ ] unrar [[homepage](https://www.rarlab.com/)] [head] [[stable](https://www.rarlab.com/rar/unrarsrc-6.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unrar.rb)]
 - [ ] unrtf: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/unrtf/)] [[head](https://hg.savannah.gnu.org/hgweb/unrtf/)] [[stable](https://ftp.gnu.org/gnu/unrtf/unrtf-0.21.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unrtf.rb)]
@@ -5273,7 +5272,7 @@
 - [x] xctool: Apache-2.0
 - [ ] xcv [[homepage](https://github.com/busterc/xcv)] [[head](https://github.com/busterc/xcv.git)] [[stable](https://github.com/busterc/xcv/archive/v1.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xcv.rb)]
 - [ ] xdelta [[homepage](http://xdelta.org)] [head] [[stable](https://github.com/jmacd/xdelta/archive/v3.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xdelta.rb)]
-- [ ] xdot: LGPL-3.0 (deprecated) [[homepage](https://github.com/jrfonseca/xdot.py)] [[head](https://github.com/jrfonseca/xdot.py.git)] [[stable](https://files.pythonhosted.org/packages/0f/1b/7ae17e0931ff011bba1c86000674666176021756d07ed29ce0b263b3fddf/xdot-1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xdot.rb)]
+- [ ] xdot: LGPL-3.0 (deprecated) [[homepage](https://github.com/jrfonseca/xdot.py)] [[head](https://github.com/jrfonseca/xdot.py.git)] [[stable](https://files.pythonhosted.org/packages/8b/f5/f5282a470a1c0f16b6600edae18ffdc3715cdd6ac8753205df034650cebe/xdot-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xdot.rb)]
 - [ ] xdotool [[homepage](https://www.semicomplete.com/projects/xdotool/)] [head] [[stable](https://github.com/jordansissel/xdotool/archive/v3.20160805.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xdotool.rb)]
 - [x] xdpyinfo: MIT
 - [x] xerces-c: Apache-2.0
@@ -5394,7 +5393,7 @@
 - [ ] zeromq [[homepage](https://zeromq.org/)] [[head](https://github.com/zeromq/libzmq.git)] [[stable](https://github.com/zeromq/libzmq/releases/download/v4.3.3/zeromq-4.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zeromq.rb)]
 - [x] zig: MIT
 - [ ] zile [[homepage](https://www.gnu.org/software/zile/)] [head] [[stable](https://ftp.gnu.org/gnu/zile/zile-2.4.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zile.rb)]
-- [ ] zim: GPL-2.0 (deprecated) [[homepage](https://zim-wiki.org/)] [[head](https://github.com/jaap-karssenberg/zim-desktop-wiki.git)] [[stable](https://github.com/jaap-karssenberg/zim-desktop-wiki/archive/0.73.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zim.rb)]
+- [ ] zim: GPL-2.0 (deprecated) [[homepage](https://zim-wiki.org/)] [[head](https://github.com/jaap-karssenberg/zim-desktop-wiki.git)] [[stable](https://github.com/jaap-karssenberg/zim-desktop-wiki/archive/0.73.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zim.rb)]
 - [x] zimg: WTFPL
 - [ ] zinc [[homepage](https://github.com/typesafehub/zinc)] [head] [[stable](https://downloads.typesafe.com/zinc/0.3.15/zinc-0.3.15.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zinc.rb)]
 - [x] zint: GPL-3.0-or-later
