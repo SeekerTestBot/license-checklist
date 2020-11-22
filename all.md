@@ -1,6 +1,6 @@
-3089 / 5356 (57.7%) of formulae have a valid `license` stanza as of 2020-11-21 12:01:29 UTC.
+3092 / 5357 (57.7%) of formulae have a valid `license` stanza as of 2020-11-22 00:02:09 UTC.
 
-1112 / 5356 (20.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1110 / 5357 (20.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1252,6 +1252,7 @@
 - [x] eva: MIT
 - [ ] eventlog [[homepage](https://my.balabit.com/downloads/eventlog/)] [head] [[stable](https://my.balabit.com/downloads/syslog-ng/sources/3.4.3/source/eventlog_0.2.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/eventlog.rb)]
 - [ ] eventql: AGPL-3.0 (deprecated) [[homepage](https://eventql.io)] [[head](https://github.com/eventql/eventql.git)] [[stable](https://github.com/eventql/eventql/releases/download/v0.4.1/eventql-0.4.1.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/eventql.rb)]
+- [x] evernote2md: MIT
 - [x] evince: GPL-2.0-or-later
 - [ ] ex-vi [[homepage](https://ex-vi.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/ex-vi/ex-vi/050325/ex-050325.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ex-vi.rb)]
 - [x] exa: MIT
@@ -1697,7 +1698,7 @@
 - [x] glib: LGPL-2.1-or-later
 - [x] glib-networking: LGPL-2.1-or-later
 - [ ] glib-openssl [[homepage](https://launchpad.net/glib-networking)] [head] [[stable](https://download.gnome.org/sources/glib-openssl/2.50/glib-openssl-2.50.8.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/glib-openssl.rb)]
-- [ ] glibmm: LGPL-2.1 (deprecated) [[homepage](https://www.gtkmm.org/)] [head] [[stable](https://download.gnome.org/sources/glibmm/2.64/glibmm-2.64.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/glibmm.rb)]
+- [x] glibmm: LGPL-2.1-or-later
 - [x] glide: MIT
 - [ ] glkterm [[homepage](https://www.eblong.com/zarf/glk/)] [head] [[stable](https://www.eblong.com/zarf/glk/glkterm-104.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/glkterm.rb)]
 - [ ] glktermw [[homepage](https://www.eblong.com/zarf/glk/)] [head] [[stable](https://www.eblong.com/zarf/glk/glktermw-104.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/glktermw.rb)]
@@ -1721,7 +1722,7 @@
 - [x] gmic: CECILL-2.1
 - [ ] gmime: LGPL-2.1 (deprecated) [[homepage](https://spruce.sourceforge.io/gmime/)] [head] [[stable](https://download.gnome.org/sources/gmime/3.2/gmime-3.2.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gmime.rb)]
 - [x] gmp: `{:any_of=>["LGPL-3.0-or-later", "GPL-2.0-or-later"]}`
-- [ ] gmsh [[homepage](https://gmsh.info/)] [[head](https://gitlab.onelab.info/gmsh/gmsh.git)] [[stable](https://gmsh.info/src/gmsh-4.7.0-source.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gmsh.rb)]
+- [ ] gmsh [[homepage](https://gmsh.info/)] [[head](https://gitlab.onelab.info/gmsh/gmsh.git)] [[stable](https://gmsh.info/src/gmsh-4.7.1-source.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gmsh.rb)]
 - [x] gmt: LGPL-3.0-or-later
 - [ ] gmt@5: LGPL-3.0 (deprecated) [[homepage](https://www.generic-mapping-tools.org/)] [head] [[stable](https://github.com/GenericMappingTools/gmt/releases/download/5.4.5/gmt-5.4.5-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gmt@5.rb)]
 - [x] gnirehtet: Apache-2.0
@@ -2503,7 +2504,7 @@
 - [x] libass: ISC
 - [x] libassuan: GPL-3.0-only
 - [ ] libatomic_ops: GPL-2.0 (deprecated) [[homepage](https://github.com/ivmai/libatomic_ops/)] [head] [[stable](https://github.com/ivmai/libatomic_ops/releases/download/v7.6.10/libatomic_ops-7.6.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libatomic_ops.rb)]
-- [ ] libav: GPL-2.0 (deprecated) [[homepage](https://libav.org/)] [[head](https://git.libav.org/libav.git)] [[stable](https://libav.org/releases/libav-12.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libav.rb)]
+- [x] libav: GPL-2.0-or-later
 - [x] libb2: CC0-1.0
 - [ ] libb64 [[homepage](https://libb64.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/libb64/libb64/libb64/libb64-1.2.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libb64.rb)]
 - [ ] libbdplus: LGPL-2.1 (deprecated) [[homepage](https://www.videolan.org/developers/libbdplus.html)] [[head](https://code.videolan.org/videolan/libbdplus.git)] [[stable](https://download.videolan.org/pub/videolan/libbdplus/0.1.2/libbdplus-0.1.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libbdplus.rb)]
@@ -3492,7 +3493,7 @@
 - [x] nu: Apache-2.0
 - [ ] nu-smv [[homepage](http://nusmv.fbk.eu)] [head] [[stable](http://nusmv.fbk.eu/distrib/NuSMV-2.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nu-smv.rb)]
 - [x] nudoku: GPL-3.0-or-later
-- [ ] nuget [[homepage](https://www.nuget.org/)] [head] [[stable](https://dist.nuget.org/win-x86-commandline/v5.7.0/nuget.exe)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nuget.rb)]
+- [ ] nuget [[homepage](https://www.nuget.org/)] [head] [[stable](https://dist.nuget.org/win-x86-commandline/v5.8.0/nuget.exe)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nuget.rb)]
 - [ ] num-utils [[homepage](https://suso.suso.org/programs/num-utils/)] [head] [[stable](https://suso.suso.org/programs/num-utils/downloads/num-utils-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/num-utils.rb)]
 - [x] numcpp: MIT
 - [x] numpy: BSD-3-Clause

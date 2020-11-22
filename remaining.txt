@@ -668,7 +668,6 @@ gitslave
 gkrellm
 glances
 glib-openssl
-glibmm
 glkterm
 glktermw
 global
@@ -983,7 +982,6 @@ libao
 libarchive
 libart
 libatomic_ops
-libav
 libb64
 libbdplus
 libbi
