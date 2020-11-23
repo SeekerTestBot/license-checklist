@@ -102,7 +102,6 @@ avra
 avrdude
 awf
 aws-cfn-tools
-axel
 b43-fwcutter
 backupninja
 bacula-fd
@@ -493,7 +492,6 @@ epsilon
 epstool
 es
 espeak
-etl
 etsh
 eventlog
 eventql
@@ -1032,7 +1030,6 @@ libedit
 libestr
 libetonyek
 libev
-libewf
 libexif
 libexosip
 libextractor
@@ -1396,7 +1393,6 @@ nagios
 nagios-plugins
 namazu
 nanorc
-naturaldocs
 nauty
 nbimg
 ncftp

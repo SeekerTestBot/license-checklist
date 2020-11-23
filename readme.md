@@ -1,6 +1,6 @@
-3093 / 5355 (57.8%) of formulae have a valid `license` stanza as of 2020-11-23 00:01:38 UTC.
+3097 / 5355 (57.8%) of formulae have a valid `license` stanza as of 2020-11-23 12:01:59 UTC.
 
-1109 / 5355 (20.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1106 / 5355 (20.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -274,7 +274,7 @@
 - [x] awslogs: BSD-3-Clause
 - [x] awsume: MIT
 - [x] awsweeper: MPL-2.0
-- [ ] axel: GPL-2.0 (deprecated) [[homepage](https://github.com/eribertomota/axel)] [[head](https://github.com/eribertomota/axel.git)] [[stable](https://github.com/axel-download-accelerator/axel/releases/download/v2.17.9/axel-2.17.9.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/axel.rb)]
+- [x] axel: GPL-2.0-or-later
 - [x] azcopy: MIT
 - [x] azure-cli: MIT
 - [x] azure-storage-cpp: Apache-2.0
@@ -1252,7 +1252,7 @@
 - [x] esptool: GPL-2.0-or-later
 - [x] etcd: Apache-2.0
 - [x] ethereum: LGPL-3.0-or-later
-- [ ] etl: GPL-3.0 (deprecated) [[homepage](https://synfig.org)] [head] [[stable](https://downloads.sourceforge.net/project/synfig/releases/1.2.2/source/ETL-1.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/etl.rb)]
+- [x] etl: GPL-2.0-or-later
 - [ ] etsh [[homepage](https://etsh.nl/)] [head] [[stable](https://etsh.nl/src/etsh_5.4.0/etsh-5.4.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/etsh.rb)]
 - [x] ettercap: GPL-2.0-or-later
 - [x] euler-py: MIT
@@ -2610,7 +2610,7 @@
 - [ ] libev [[homepage](http://software.schmorp.de/pkg/libev.html)] [head] [[stable](http://dist.schmorp.de/libev/Attic/libev-4.33.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libev.rb)]
 - [x] libevent: BSD-3-Clause
 - [x] libevhtp: BSD-3-Clause
-- [ ] libewf: LGPL-3.0 (deprecated) [[homepage](https://github.com/libyal/libewf)] [[head](https://github.com/libyal/libewf.git)] [[stable](https://github.com/libyal/libewf-legacy/releases/download/20140808/libewf-20140808.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libewf.rb)]
+- [x] libewf: LGPL-3.0-or-later
 - [ ] libexif: LGPL-2.1 (deprecated) [[homepage](https://libexif.github.io/)] [head] [[stable](https://github.com/libexif/libexif/releases/download/libexif-0_6_22-release/libexif-0.6.22.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libexif.rb)]
 - [ ] libexosip: GPL-2.0 (deprecated) [[homepage](https://savannah.nongnu.org/projects/exosip)] [head] [[stable](https://download.savannah.gnu.org/releases/exosip/libexosip2-5.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libexosip.rb)]
 - [ ] libextractor: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/libextractor/)] [head] [[stable](https://ftp.gnu.org/gnu/libextractor/libextractor-1.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libextractor.rb)]
@@ -3391,7 +3391,7 @@
 - [x] nativefier: MIT
 - [x] nats-server: Apache-2.0
 - [x] nats-streaming-server: Apache-2.0
-- [ ] naturaldocs [[homepage](https://www.naturaldocs.org/)] [head] [[stable](https://downloads.sourceforge.net/project/naturaldocs/Stable%20Releases/2.0.2/Natural_Docs_2.0.2.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/naturaldocs.rb)]
+- [x] naturaldocs: AGPL-3.0-only
 - [ ] nauty [[homepage](https://pallini.di.uniroma1.it/)] [head] [[stable](https://pallini.di.uniroma1.it/nauty27r1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nauty.rb)]
 - [x] nave: ISC
 - [x] navi: Apache-2.0
@@ -4744,7 +4744,7 @@
 - [ ] sylpheed [[homepage](https://sylpheed.sraoss.jp/en/)] [head] [[stable](https://sylpheed.sraoss.jp/sylpheed/v3.7/sylpheed-3.7.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sylpheed.rb)]
 - [x] sync_gateway: Apache-2.0
 - [x] syncthing: MPL-2.0
-- [ ] synfig [[homepage](https://synfig.org/)] [[head](https://svn.code.sf.net/p/synfig/code/)] [[stable](https://downloads.sourceforge.net/project/synfig/releases/1.2.2/source/synfig-1.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/synfig.rb)]
+- [ ] synfig [[homepage](https://synfig.org/)] [[head](https://svn.code.sf.net/p/synfig/code/)] [[stable](https://downloads.sourceforge.net/project/synfig/releases/1.4.0/source/synfig-1.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/synfig.rb)]
 - [ ] synscan [[homepage](http://digit-labs.org/files/tools/synscan/)] [head] [[stable](http://digit-labs.org/files/tools/synscan/releases/synscan-5.02.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/synscan.rb)]
 - [x] syntaxerl: MIT
 - [ ] sysbench: GPL-2.0 (deprecated) [[homepage](https://github.com/akopytov/sysbench)] [head] [[stable](https://github.com/akopytov/sysbench/archive/1.0.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sysbench.rb)]
@@ -4846,7 +4846,7 @@
 - [x] tesseract: Apache-2.0
 - [x] tesseract-lang: Apache-2.0
 - [ ] testdisk: GPL-2.0 (deprecated) [[homepage](https://www.cgsecurity.org/wiki/TestDisk)] [head] [[stable](https://www.cgsecurity.org/testdisk-7.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/testdisk.rb)]
-- [ ] testssl: GPL-2.0 (deprecated) [[homepage](https://testssl.sh/)] [[head](https://github.com/drwetter/testssl.sh.git)] [[stable](https://github.com/drwetter/testssl.sh/archive/3.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/testssl.rb)]
+- [ ] testssl: GPL-2.0 (deprecated) [[homepage](https://testssl.sh/)] [[head](https://github.com/drwetter/testssl.sh.git)] [[stable](https://github.com/drwetter/testssl.sh/archive/3.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/testssl.rb)]
 - [ ] texapp [[homepage](https://www.floodgap.com/software/texapp/)] [head] [[stable](https://www.floodgap.com/software/texapp/dist0/0.6.11.txt)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/texapp.rb)]
 - [ ] texi2html: GPL-2.0 (deprecated) [[homepage](https://www.nongnu.org/texi2html/)] [head] [[stable](https://download.savannah.gnu.org/releases/texi2html/texi2html-5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/texi2html.rb)]
 - [ ] texinfo: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/texinfo/)] [head] [[stable](https://ftp.gnu.org/gnu/texinfo/texinfo-6.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/texinfo.rb)]
@@ -5350,7 +5350,7 @@
 - [x] xorgrgb: MIT
 - [ ] xorriso [[homepage](https://www.gnu.org/software/xorriso/)] [head] [[stable](https://ftp.gnu.org/gnu/xorriso/xorriso-1.5.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xorriso.rb)]
 - [x] xpa: MIT
-- [ ] xpdf: GPL-2.0 (deprecated) [[homepage](https://www.xpdfreader.com/)] [head] [[stable](https://xpdfreader-dl.s3.amazonaws.com/xpdf-4.02.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xpdf.rb)]
+- [ ] xpdf: GPL-2.0 (deprecated) [[homepage](https://www.xpdfreader.com/)] [head] [[stable](https://dl.xpdfreader.com/xpdf-4.02.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xpdf.rb)]
 - [ ] xplanet [[homepage](https://xplanet.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/xplanet/xplanet/1.3.1/xplanet-1.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xplanet.rb)]
 - [ ] xqilla [[homepage](https://xqilla.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/xqilla/XQilla-2.3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xqilla.rb)]
 - [ ] xrick [[homepage](https://www.bigorno.net/xrick/)] [head] [[stable](https://www.bigorno.net/xrick/xrick-021212.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/xrick.rb)]
@@ -5378,7 +5378,7 @@
 - [ ] yacas: LGPL-2.1 (deprecated) [[homepage](https://www.yacas.org/)] [head] [[stable](https://github.com/grzegorzmazur/yacas/archive/v1.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yacas.rb)]
 - [ ] yadm: GPL-3.0 (deprecated) [[homepage](https://yadm.io/)] [head] [[stable](https://github.com/TheLocehiliosan/yadm/archive/2.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yadm.rb)]
 - [x] yaegi: Apache-2.0
-- [ ] yaf [[homepage](https://tools.netsa.cert.org/yaf/)] [head] [[stable](https://tools.netsa.cert.org/releases/yaf-2.11.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yaf.rb)]
+- [ ] yaf [[homepage](https://tools.netsa.cert.org/yaf/)] [head] [[stable](https://tools.netsa.cert.org/releases/yaf-2.11.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yaf.rb)]
 - [ ] yafc [[homepage](https://github.com/sebastinas/yafc)] [head] [[stable](https://deb.debian.org/debian/pool/main/y/yafc/yafc_1.3.7.orig.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yafc.rb)]
 - [x] yajl: ISC
 - [ ] yamcha: LGPL-2.1 (deprecated) [[homepage](http://chasen.org/~taku/software/yamcha/)] [head] [[stable](http://chasen.org/~taku/software/yamcha/src/yamcha-0.33.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yamcha.rb)]
