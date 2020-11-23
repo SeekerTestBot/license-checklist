@@ -1,4 +1,3 @@
-abcm2ps
 abnfgen
 abook
 abuse
@@ -1755,7 +1754,6 @@ rkhunter
 rlog
 rlwrap
 rmcast
-rmtrash
 rnv
 robodoc
 robotfindskitten

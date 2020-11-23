@@ -1,6 +1,6 @@
-3092 / 5356 (57.7%) of formulae have a valid `license` stanza as of 2020-11-22 12:01:22 UTC.
+3093 / 5355 (57.8%) of formulae have a valid `license` stanza as of 2020-11-23 00:01:46 UTC.
 
-1110 / 5356 (20.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1109 / 5355 (20.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -12,7 +12,7 @@
 - [x] aardvark_shell_utils: GPL-2.0-or-later
 - [x] abcde: GPL-2.0-or-later
 - [x] abcl: `{"GPL-2.0-or-later"=>{:with=>"Classpath-exception-2.0"}}`
-- [ ] abcm2ps: GPL-3.0 (deprecated) [[homepage](http://moinejf.free.fr)] [head] [[stable](https://github.com/leesavide/abcm2ps/archive/v8.14.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abcm2ps.rb)]
+- [x] abcm2ps: GPL-3.0-or-later
 - [x] abcmidi: GPL-2.0-or-later
 - [x] abduco: ISC
 - [ ] abnfgen [[homepage](http://www.quut.com/abnfgen/)] [head] [[stable](http://www.quut.com/abnfgen/abnfgen-0.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/abnfgen.rb)]
@@ -2669,7 +2669,7 @@
 - [ ] libkate [[homepage](https://code.google.com/archive/p/libkate/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/libkate/libkate-0.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libkate.rb)]
 - [x] libkeccak: ISC
 - [ ] libkml [[homepage](https://code.google.com/archive/p/libkml/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/libkml/libkml-1.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libkml.rb)]
-- [ ] libksba: GPL-2.0 (deprecated) [[homepage](https://www.gnupg.org/related_software/libksba/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/libksba/libksba-1.4.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libksba.rb)]
+- [ ] libksba: GPL-2.0 (deprecated) [[homepage](https://www.gnupg.org/related_software/libksba/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/libksba/libksba-1.5.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libksba.rb)]
 - [x] liblas: BSD-3-Clause
 - [x] liblcf: MIT
 - [x] liblinear: BSD-3-Clause
@@ -3131,7 +3131,7 @@
 - [x] memcached: BSD-3-Clause
 - [ ] memcacheq [[homepage](https://code.google.com/archive/p/memcacheq/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/memcacheq/memcacheq-0.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/memcacheq.rb)]
 - [x] memtester: GPL-2.0-only
-- [ ] menhir [[homepage](http://cristal.inria.fr/~fpottier/menhir)] [head] [[stable](https://gitlab.inria.fr/fpottier/menhir/-/archive/20200624/menhir-20200624.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/menhir.rb)]
+- [ ] menhir [[homepage](http://cristal.inria.fr/~fpottier/menhir)] [head] [[stable](https://gitlab.inria.fr/fpottier/menhir/-/archive/20201122/menhir-20201122.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/menhir.rb)]
 - [x] mercurial: GPL-2.0-or-later
 - [x] mercury: `{:all_of=>["GPL-2.0-only", "LGPL-2.0-only", "MIT"]}`
 - [ ] mergelog: GPL-2.0 (deprecated) [[homepage](https://mergelog.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mergelog/mergelog/4.5/mergelog-4.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mergelog.rb)]
@@ -3792,9 +3792,9 @@
 - [x] pgformatter: PostgreSQL
 - [x] pgloader: PostgreSQL
 - [x] pgpdump: BSD-3-Clause
-- [ ] pgpool-ii [[homepage](https://www.pgpool.net/mediawiki/index.php/Main_Page)] [head] [[stable](https://www.pgpool.net/mediawiki/images/pgpool-II-4.1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgpool-ii.rb)]
+- [ ] pgpool-ii [[homepage](https://www.pgpool.net/mediawiki/index.php/Main_Page)] [head] [[stable](https://www.pgpool.net/mediawiki/images/pgpool-II-4.1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgpool-ii.rb)]
 - [x] pgroonga: PostgreSQL
-- [ ] pgrouting: GPL-2.0 (deprecated) [[homepage](https://pgrouting.org/)] [[head](https://github.com/pgRouting/pgrouting.git)] [[stable](https://github.com/pgRouting/pgrouting/releases/download/v3.1.0/pgrouting-3.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgrouting.rb)]
+- [ ] pgrouting: GPL-2.0 (deprecated) [[homepage](https://pgrouting.org/)] [[head](https://github.com/pgRouting/pgrouting.git)] [[stable](https://github.com/pgRouting/pgrouting/releases/download/v3.1.1/pgrouting-3.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pgrouting.rb)]
 - [x] pgtoolkit: PostgreSQL
 - [x] pgtune: BSD-3-Clause
 - [x] pgweb: MIT
@@ -4218,7 +4218,6 @@
 - [x] rmate: MIT
 - [ ] rmcast [[homepage](http://www.land.ufrj.br/tools/rmcast/rmcast.html)] [head] [[stable](http://www.land.ufrj.br/tools/rmcast/download/rmcast-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rmcast.rb)]
 - [x] rmlint: GPL-3.0-or-later
-- [ ] rmtrash [[homepage](http://www.nightproductions.net/cli.htm)] [head] [[stable](http://www.nightproductions.net/downloads/rmtrash_source.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rmtrash.rb)]
 - [ ] rnv [[homepage](https://sourceforge.net/projects/rnv/)] [head] [[stable](https://downloads.sourceforge.net/project/rnv/Sources/1.7.11/rnv-1.7.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rnv.rb)]
 - [ ] robodoc: GPL-3.0 (deprecated) [[homepage](https://www.xs4all.nl/~rfsber/Robo/index.html)] [[head](https://github.com/gumpu/ROBODoc.git)] [[stable](https://rfsber.home.xs4all.nl/Robo/archives/robodoc-4.99.43.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/robodoc.rb)]
 - [x] robot-framework: Apache-2.0
