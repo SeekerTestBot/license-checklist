@@ -1,4 +1,4 @@
-3099 / 5355 (57.9%) of formulae have a valid `license` stanza as of 2020-11-24 00:02:25 UTC.
+3099 / 5355 (57.9%) of formulae have a valid `license` stanza as of 2020-11-24 12:05:34 UTC.
 
 1105 / 5355 (20.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1340,7 +1340,7 @@
 - [ ] ffmpeg2theora [[homepage](https://v2v.cc/~j/ffmpeg2theora/)] [[head](https://gitlab.xiph.org/xiph/ffmpeg2theora.git)] [[stable](https://v2v.cc/~j/ffmpeg2theora/downloads/ffmpeg2theora-0.30.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpeg2theora.rb)]
 - [x] ffmpeg@2.8: GPL-2.0-or-later
 - [ ] ffmpegthumbnailer: GPL-2.0 (deprecated) [[homepage](https://github.com/dirkvdb/ffmpegthumbnailer)] [[head](https://github.com/dirkvdb/ffmpegthumbnailer.git)] [[stable](https://github.com/dirkvdb/ffmpegthumbnailer/archive/2.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpegthumbnailer.rb)]
-- [ ] ffms2: GPL-2.0 (deprecated) [[homepage](https://github.com/FFMS/ffms2)] [[head](https://github.com/FFMS/ffms2.git)] [[stable](https://github.com/FFMS/ffms2/archive/2.23.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffms2.rb)]
+- [ ] ffms2: GPL-2.0 (deprecated) [[homepage](https://github.com/FFMS/ffms2)] [[head](https://github.com/FFMS/ffms2.git)] [[stable](https://github.com/FFMS/ffms2/archive/2.40.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffms2.rb)]
 - [x] ffsend: GPL-3.0-only
 - [ ] fftw [[homepage](http://www.fftw.org)] [head] [[stable](http://fftw.org/fftw-3.3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fftw.rb)]
 - [x] ffuf: MIT
@@ -4397,7 +4397,7 @@
 - [ ] sfst: GPL-2.0 (deprecated) [[homepage](https://www.cis.uni-muenchen.de/~schmid/tools/SFST/)] [head] [[stable](https://www.cis.uni-muenchen.de/~schmid/tools/SFST/data/SFST-1.4.7e.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sfst.rb)]
 - [ ] sgrep [[homepage](https://www.cs.helsinki.fi/u/jjaakkol/sgrep.html)] [head] [[stable](https://www.cs.helsinki.fi/pub/Software/Local/Sgrep/sgrep-1.94a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sgrep.rb)]
 - [x] sha1dc: MIT
-- [ ] sha2 [[homepage](https://www.aarongifford.com/computers/sha.html)] [head] [[stable](https://www.aarongifford.com/computers/sha2-1.0.1.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sha2.rb)]
+- [ ] sha2 [[homepage](https://aarongifford.com/computers/sha.html)] [head] [[stable](https://aarongifford.com/computers/sha2-1.0.1.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sha2.rb)]
 - [x] sha3sum: ISC
 - [x] shadowenv: MIT
 - [ ] shadowsocks-libev: GPL-3.0 (deprecated) [[homepage](https://github.com/shadowsocks/shadowsocks-libev)] [[head](https://github.com/shadowsocks/shadowsocks-libev.git)] [[stable](https://github.com/shadowsocks/shadowsocks-libev/releases/download/v3.3.5/shadowsocks-libev-3.3.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/shadowsocks-libev.rb)]
