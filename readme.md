@@ -1,6 +1,6 @@
-3097 / 5355 (57.8%) of formulae have a valid `license` stanza as of 2020-11-23 12:01:59 UTC.
+3099 / 5355 (57.9%) of formulae have a valid `license` stanza as of 2020-11-24 00:02:17 UTC.
 
-1106 / 5355 (20.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1105 / 5355 (20.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1762,7 +1762,7 @@
 - [ ] gnu-which: GPL-3.0 (deprecated) [[homepage](https://savannah.gnu.org/projects/which/)] [head] [[stable](https://ftp.gnu.org/gnu/which/which-2.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-which.rb)]
 - [x] gnumeric: `{:any_of=>["GPL-3.0-only", "GPL-2.0-only"]}`
 - [x] gnunet: AGPL-3.0-or-later
-- [ ] gnupg [[homepage](https://gnupg.org/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.2.24.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnupg.rb)]
+- [x] gnupg: GPL-3.0-or-later
 - [x] gnupg-pkcs11-scd: BSD-3-Clause
 - [ ] gnupg@1.4 [[homepage](https://www.gnupg.org/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/gnupg/gnupg-1.4.23.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnupg@1.4.rb)]
 - [x] gnuplot: gnuplot
@@ -5447,7 +5447,7 @@
 - [ ] zinc [[homepage](https://github.com/typesafehub/zinc)] [head] [[stable](https://downloads.typesafe.com/zinc/0.3.15/zinc-0.3.15.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zinc.rb)]
 - [x] zint: GPL-3.0-or-later
 - [ ] zip [[homepage](https://infozip.sourceforge.io/Zip.html)] [head] [[stable](https://downloads.sourceforge.net/project/infozip/Zip%203.x%20%28latest%29/3.0/zip30.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zip.rb)]
-- [ ] zita-convolver: GPL-3.0 (deprecated) [[homepage](https://kokkinizita.linuxaudio.org/linuxaudio/)] [head] [[stable](https://kokkinizita.linuxaudio.org/linuxaudio/downloads/zita-convolver-4.0.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zita-convolver.rb)]
+- [x] zita-convolver: GPL-3.0-or-later
 - [x] zlib: Zlib
 - [ ] zlog: LGPL-2.1 (deprecated) [[homepage](https://github.com/HardySimpson/zlog)] [head] [[stable](https://github.com/HardySimpson/zlog/archive/1.2.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zlog.rb)]
 - [x] zmap: Apache-2.0

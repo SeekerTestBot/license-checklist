@@ -697,7 +697,6 @@ gnu-tar
 gnu-time
 gnu-typist
 gnu-which
-gnupg
 gnupg@1.4
 gnuski
 gnustep-make
@@ -2238,7 +2237,6 @@ zile
 zim
 zinc
 zip
-zita-convolver
 zlog
 znapzend
 zork
