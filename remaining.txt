@@ -75,7 +75,6 @@ asciitex
 asn1c
 aspectj
 aspell
-assimp
 atari800
 atasm
 aterm
@@ -136,7 +135,6 @@ berkeley-db
 berkeley-db@4
 bfg
 bgpdump
-bgpstream
 bib-tool
 bibclean
 bibtex2html
@@ -1095,7 +1093,6 @@ libmodbus
 libmodplug
 libmp3splt
 libmpd
-libmpeg2
 libmrss
 libmtp
 libmusicbrainz
@@ -1226,7 +1223,6 @@ m2c
 m4
 mac-robber
 mackup
-mad
 madplay
 mafft
 magnetix
@@ -1490,7 +1486,6 @@ openkim-models
 openlibm
 openmsx
 opensaml
-opensc
 openslp
 opentsdb
 openttd

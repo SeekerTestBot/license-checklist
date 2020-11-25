@@ -1,6 +1,6 @@
-3106 / 5355 (58.0%) of formulae have a valid `license` stanza as of 2020-11-25 00:02:18 UTC.
+3112 / 5356 (58.1%) of formulae have a valid `license` stanza as of 2020-11-25 12:05:50 UTC.
 
-1099 / 5355 (20.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1095 / 5356 (20.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -199,7 +199,7 @@
 - [ ] aspell: LGPL-2.1 (deprecated) [[homepage](http://aspell.net/)] [head] [[stable](https://ftp.gnu.org/gnu/aspell/aspell-0.60.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aspell.rb)]
 - [x] asroute: MIT
 - [x] assh: MIT
-- [ ] assimp: LGPL-3.0 (deprecated) [[homepage](https://www.assimp.org/)] [[head](https://github.com/assimp/assimp.git)] [[stable](https://github.com/assimp/assimp/archive/v5.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/assimp.rb)]
+- [x] assimp: `cannot_represent`
 - [x] astrometry-net: BSD-3-Clause
 - [x] astyle: MIT
 - [x] asuka: MIT
@@ -360,7 +360,7 @@
 - [ ] bfg [[homepage](https://rtyley.github.io/bfg-repo-cleaner/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=com/madgag/bfg/1.13.0/bfg-1.13.0.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bfg.rb)]
 - [ ] bgpdump: GPL-2.0 (deprecated) [[homepage](https://github.com/RIPE-NCC/bgpdump/wiki)] [head] [[stable](https://github.com/RIPE-NCC/bgpdump/archive/v1.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bgpdump.rb)]
 - [x] bgpq3: BSD-2-Clause
-- [ ] bgpstream: GPL-2.0 (deprecated) [[homepage](https://bgpstream.caida.org/)] [head] [[stable](https://bgpstream.caida.org/bundles/caidabgpstreamwebhomepage/dists/bgpstream-1.2.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bgpstream.rb)]
+- [x] bgpstream: BSD-2-Clause
 - [x] bgrep: BSD-2-Clause
 - [ ] bib-tool: GPL-2.0 (deprecated) [[homepage](http://www.gerd-neugebauer.de/software/TeX/BibTool/en/)] [head] [[stable](https://github.com/ge-ne/bibtool/releases/download/BibTool_2_68/BibTool-2.68.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bib-tool.rb)]
 - [ ] bibclean: GPL-2.0 (deprecated) [[homepage](https://www.math.utah.edu/~beebe/software/bibclean/bibclean-03.html#HDR.3)] [head] [[stable](http://ftp.math.utah.edu/pub/bibclean/bibclean-3.04.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bibclean.rb)]
@@ -678,6 +678,7 @@
 - [ ] clamz [[homepage](https://code.google.com/archive/p/clamz/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/clamz/clamz-0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clamz.rb)]
 - [x] clang-format: Apache-2.0
 - [x] clang-format@8: Apache-2.0
+- [x] clash: GPL-3.0-only
 - [ ] classads [[homepage](https://research.cs.wisc.edu/htcondor/classad/)] [head] [[stable](https://ftp.cs.wisc.edu/condor/classad/c++/classads-1.0.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/classads.rb)]
 - [x] claws-mail: GPL-3.0-or-later
 - [x] clblas: Apache-2.0
@@ -2724,7 +2725,7 @@
 - [x] libmpc: LGPL-3.0-or-later
 - [ ] libmpd [[homepage](https://gmpc.wikia.com/wiki/Gnome_Music_Player_Client)] [head] [[stable](https://www.musicpd.org/download/libmpd/11.8.17/libmpd-11.8.17.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmpd.rb)]
 - [x] libmpdclient: BSD-3-Clause
-- [ ] libmpeg2: GPL-2.0 (deprecated) [[homepage](https://libmpeg2.sourceforge.io/)] [head] [[stable](https://libmpeg2.sourceforge.io/files/libmpeg2-0.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmpeg2.rb)]
+- [x] libmpeg2: GPL-2.0-or-later
 - [ ] libmrss: LGPL-2.1 (deprecated) [[homepage](https://www.autistici.org/bakunin/libmrss/)] [head] [[stable](https://www.autistici.org/bakunin/libmrss/libmrss-0.19.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmrss.rb)]
 - [x] libmspub: MPL-2.0
 - [ ] libmtp: LGPL-2.1 (deprecated) [[homepage](https://libmtp.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/libmtp/libmtp/1.1.18/libmtp-1.1.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libmtp.rb)]
@@ -3059,7 +3060,7 @@
 - [x] macos-trash: MIT
 - [x] macosvpn: MIT
 - [x] macvim: Vim
-- [ ] mad [[homepage](https://www.underbit.com/products/mad/)] [head] [[stable](https://downloads.sourceforge.net/project/mad/libmad/0.15.1b/libmad-0.15.1b.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mad.rb)]
+- [x] mad: GPL-2.0-or-later
 - [ ] madplay [[homepage](https://www.underbit.com/products/mad/)] [head] [[stable](https://downloads.sourceforge.net/project/mad/madplay/0.15.2b/madplay-0.15.2b.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/madplay.rb)]
 - [ ] mafft [[homepage](https://mafft.cbrc.jp/alignment/software/)] [head] [[stable](https://mafft.cbrc.jp/alignment/software/mafft-7.471-with-extensions-src.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mafft.rb)]
 - [x] mage: Apache-2.0
@@ -3643,7 +3644,7 @@
 - [x] openrct2: GPL-3.0-only
 - [x] openrtsp: LGPL-3.0-or-later
 - [ ] opensaml [[homepage](https://wiki.shibboleth.net/confluence/display/OpenSAML/Home)] [head] [[stable](https://shibboleth.net/downloads/c++-opensaml/3.1.0/opensaml-3.1.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/opensaml.rb)]
-- [ ] opensc: LGPL-2.1 (deprecated) [[homepage](https://github.com/OpenSC/OpenSC/wiki)] [[head](https://github.com/OpenSC/OpenSC.git)] [[stable](https://github.com/OpenSC/OpenSC/releases/download/0.20.0/opensc-0.20.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/opensc.rb)]
+- [x] opensc: LGPL-2.1-or-later
 - [x] openshift-cli: Apache-2.0
 - [x] openslide: LGPL-2.1-only
 - [ ] openslp [[homepage](http://www.openslp.org)] [head] [[stable](https://downloads.sourceforge.net/project/openslp/2.0.0/2.0.0%20Release/openslp-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/openslp.rb)]
