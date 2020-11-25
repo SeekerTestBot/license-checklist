@@ -259,7 +259,6 @@ chronograf
 chuck
 cidrmerge
 cifer
-cimg
 citus
 civl
 clamz
@@ -1063,7 +1062,6 @@ libgtop
 libgweather
 libhid
 libhttpserver
-libical
 libicns
 libiconv
 libid3tag
@@ -1105,7 +1103,6 @@ libnatpmp
 libnfc
 libnfs
 libngspice
-libnice
 libnids
 libnotify
 libnova
@@ -1323,7 +1320,6 @@ moc
 modgit
 modules
 moe
-mongoose
 mongroup
 monit
 monitoring-plugins
@@ -1412,7 +1408,6 @@ netcat6
 nethogs
 netperf
 netris
-nettle
 nettoe
 newlisp
 newt
@@ -2002,7 +1997,6 @@ tracebox
 tractorgen
 trader
 trafshow
-transmission-cli
 tre
 tree
 treecc
@@ -2011,7 +2005,6 @@ truecrack
 truncate
 tsung
 tta
-ttf2eot
 ttf2pt1
 ttfautohint
 tth
