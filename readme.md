@@ -1,6 +1,6 @@
-3112 / 5356 (58.1%) of formulae have a valid `license` stanza as of 2020-11-25 12:05:50 UTC.
+3114 / 5356 (58.1%) of formulae have a valid `license` stanza as of 2020-11-26 00:02:31 UTC.
 
-1095 / 5356 (20.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1093 / 5356 (20.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -374,7 +374,7 @@
 - [ ] bindfs: GPL-2.0 (deprecated) [[homepage](https://bindfs.org/)] [[head](https://github.com/mpartel/bindfs.git)] [[stable](https://bindfs.org/downloads/bindfs-1.14.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bindfs.rb)]
 - [x] bingrep: MIT
 - [ ] binkd: GPL-2.0 (deprecated) [[homepage](http://binkd.grumbler.org/)] [head] [[stable](https://happy.kiev.ua/pub/fidosoft/mailer/binkd/binkd-1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/binkd.rb)]
-- [ ] binutils: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/binutils/binutils.html)] [head] [[stable](https://ftp.gnu.org/gnu/binutils/binutils-2.35.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/binutils.rb)]
+- [x] binutils: `{:all_of=>["GPL-2.0-or-later", "GPL-3.0-or-later", "LGPL-2.0-or-later", "LGPL-3.0-only"]}`
 - [x] binwalk: MIT
 - [ ] bioawk [[homepage](https://github.com/lh3/bioawk)] [head] [[stable](https://github.com/lh3/bioawk/archive/v1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bioawk.rb)]
 - [x] biosig: GPL-3.0-or-later
@@ -1300,7 +1300,7 @@
 - [x] fabric: BSD-2-Clause
 - [ ] fabric-completion [[homepage](https://github.com/kbakulin/fabric-completion)] [[head](https://github.com/kbakulin/fabric-completion.git)] [[stable](https://github.com/kbakulin/fabric-completion.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fabric-completion.rb)]
 - [ ] fades: GPL-3.0 (deprecated) [[homepage](https://fades.readthedocs.io/)] [[head](https://github.com/PyAr/fades.git)] [[stable](https://files.pythonhosted.org/packages/cd/b0/381b14139b36dcbd317349ce7c2bd2e2a66bfc772d13e568d71f3d98d977/fades-9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fades.rb)]
-- [ ] fail2ban: GPL-2.0 (deprecated) [[homepage](https://www.fail2ban.org/)] [head] [[stable](https://github.com/fail2ban/fail2ban/archive/0.11.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fail2ban.rb)]
+- [ ] fail2ban: GPL-2.0 (deprecated) [[homepage](https://www.fail2ban.org/)] [head] [[stable](https://github.com/fail2ban/fail2ban/archive/0.11.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fail2ban.rb)]
 - [ ] fairymax [[homepage](https://www.chessvariants.com/index/msdisplay.php?itemid=MSfairy-max)] [[head](http://hgm.nubati.net/git/fairymax.git)] [[stable](http://hgm.nubati.net/git/fairymax.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fairymax.rb)]
 - [x] faiss: MIT
 - [ ] fakeroot: GPL-3.0 (deprecated) [[homepage](https://tracker.debian.org/pkg/fakeroot)] [head] [[stable](https://deb.debian.org/debian/pool/main/f/fakeroot/fakeroot_1.24.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fakeroot.rb)]
@@ -2028,7 +2028,7 @@
 - [ ] hfsutils [[homepage](https://www.mars.org/home/rob/proj/hfs/)] [head] [[stable](https://www.mars.org/pub/hfs/hfsutils-3.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hfsutils.rb)]
 - [x] hg-fast-export: GPL-2.0-or-later
 - [ ] hicolor-icon-theme: GPL-2.0 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/icon-theme/)] [[head](https://gitlab.freedesktop.org/xdg/default-icon-theme.git)] [[stable](https://icon-theme.freedesktop.org/releases/hicolor-icon-theme-0.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hicolor-icon-theme.rb)]
-- [ ] hidapi: GPL-3.0 (deprecated) [[homepage](https://github.com/libusb/hidapi)] [[head](https://github.com/libusb/hidapi.git)] [[stable](https://github.com/libusb/hidapi/archive/hidapi-0.10.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hidapi.rb)]
+- [x] hidapi: `cannot_represent`
 - [x] highlight: GPL-3.0-or-later
 - [ ] hilite [[homepage](https://sourceforge.net/projects/hilite/)] [head] [[stable](https://downloads.sourceforge.net/project/hilite/hilite/1.5/hilite.c)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hilite.rb)]
 - [x] hiredis: BSD-3-Clause

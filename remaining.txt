@@ -143,7 +143,6 @@ bic
 bigloo
 bindfs
 binkd
-binutils
 bioawk
 bison@2.7
 bitchx
@@ -790,7 +789,6 @@ hexcurse
 hexgui
 hfsutils
 hicolor-icon-theme
-hidapi
 hilite
 hmmer
 hornetq
