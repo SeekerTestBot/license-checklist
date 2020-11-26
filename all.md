@@ -1,4 +1,4 @@
-3114 / 5356 (58.1%) of formulae have a valid `license` stanza as of 2020-11-26 00:02:38 UTC.
+3114 / 5356 (58.1%) of formulae have a valid `license` stanza as of 2020-11-26 12:01:40 UTC.
 
 1093 / 5356 (20.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -107,7 +107,7 @@
 - [x] antigen: MIT
 - [ ] antiword [[homepage](http://www.winfield.demon.nl/)] [head] [[stable](http://www.winfield.demon.nl/linux/antiword-0.37.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/antiword.rb)]
 - [x] antlr: BSD-3-Clause
-- [ ] antlr4-cpp-runtime [[homepage](https://www.antlr.org/)] [head] [[stable](https://www.antlr.org/download/antlr4-cpp-runtime-4.8-source.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/antlr4-cpp-runtime.rb)]
+- [ ] antlr4-cpp-runtime [[homepage](https://www.antlr.org/)] [head] [[stable](https://www.antlr.org/download/antlr4-cpp-runtime-4.9-source.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/antlr4-cpp-runtime.rb)]
 - [x] antlr@2: ANTLR-PD
 - [ ] anttweakbar [[homepage](https://anttweakbar.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/anttweakbar/AntTweakBar_116.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/anttweakbar.rb)]
 - [x] anycable-go: MIT
