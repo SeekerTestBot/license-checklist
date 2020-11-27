@@ -283,7 +283,6 @@ cmus
 cmusfm
 coccinelle
 codec2
-codespell
 cogl
 collada-dom
 collector-sidecar

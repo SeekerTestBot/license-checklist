@@ -1,6 +1,6 @@
-3114 / 5356 (58.1%) of formulae have a valid `license` stanza as of 2020-11-26 12:01:33 UTC.
+3118 / 5359 (58.2%) of formulae have a valid `license` stanza as of 2020-11-27 00:02:00 UTC.
 
-1093 / 5356 (20.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1092 / 5359 (20.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -266,6 +266,7 @@
 - [x] aws-iam-authenticator: Apache-2.0
 - [x] aws-keychain: MIT
 - [x] aws-okta: MIT
+- [x] aws-rotate-key: MIT
 - [x] aws-sdk-cpp: Apache-2.0
 - [x] aws-shell: Apache-2.0
 - [x] awscli: Apache-2.0
@@ -751,7 +752,7 @@
 - [ ] codec2: LGPL-2.1 (deprecated) [[homepage](https://www.rowetel.com/?page_id=452)] [head] [[stable](https://github.com/drowe67/codec2/archive/v0.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/codec2.rb)]
 - [x] codemod: Apache-2.0
 - [x] codequery: MPL-2.0
-- [ ] codespell: GPL-2.0 (deprecated) [[homepage](https://github.com/codespell-project/codespell)] [head] [[stable](https://files.pythonhosted.org/packages/7e/37/b15b4133e90bbef5acecfd2f3f3871c1352ee281c042fd64a22a72735fb8/codespell-1.17.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/codespell.rb)]
+- [x] codespell: GPL-2.0-only
 - [x] coffeescript: MIT
 - [ ] cogl [[homepage](https://developer.gnome.org/cogl/)] [[head](https://gitlab.gnome.org/GNOME/cogl.git)] [[stable](https://download.gnome.org/sources/cogl/1.22/cogl-1.22.8.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cogl.rb)]
 - [x] cointop: Apache-2.0
@@ -2365,6 +2366,7 @@
 - [x] karn: MIT
 - [x] katago: MIT
 - [ ] kawa [[homepage](https://www.gnu.org/software/kawa/)] [head] [[stable](https://ftp.gnu.org/gnu/kawa/kawa-3.1.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kawa.rb)]
+- [x] kcgi: ISC
 - [ ] kcov: GPL-2.0 (deprecated) [[homepage](https://simonkagstrom.github.io/kcov/)] [[head](https://github.com/SimonKagstrom/kcov.git)] [[stable](https://github.com/SimonKagstrom/kcov/archive/38.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kcov.rb)]
 - [x] kcptun: MIT
 - [ ] kde-extra-cmake-modules [[homepage](https://api.kde.org/frameworks/extra-cmake-modules/html/index.html)] [[head](https://invent.kde.org/frameworks/extra-cmake-modules.git)] [[stable](https://download.kde.org/stable/frameworks/5.76/extra-cmake-modules-5.76.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-extra-cmake-modules.rb)]
@@ -5413,6 +5415,7 @@
 - [x] yosys: ISC
 - [x] you-get: MIT
 - [x] youtube-dl: Unlicense
+- [x] youtubedr: MIT
 - [x] yq: MIT
 - [x] yubico-piv-tool: BSD-2-Clause
 - [x] yuicompressor: BSD-3-Clause
