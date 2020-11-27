@@ -158,7 +158,6 @@ bnd
 bnfc
 bochs
 bogofilter
-bombadillo
 bonnie++
 bookloupe
 bootloadhid
@@ -198,7 +197,6 @@ cabocha
 cadaver
 cafeobj
 cairo
-cairomm
 calabash
 camellia
 cap-completion
@@ -750,12 +748,8 @@ gtk-vnc
 gtkdatabox
 gtkextra
 gtkglext
-gtkmm
-gtkmm3
 gtksourceview
 gtksourceview3
-gtksourceviewmm
-gtksourceviewmm3
 gtkspell3
 gtmess
 gts
@@ -1046,9 +1040,7 @@ libgig
 libgit2
 libgit2-glib
 libglade
-libglademm
 libgnomecanvas
-libgnomecanvasmm
 libgnt
 libgpg-error
 libgsf
