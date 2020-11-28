@@ -379,7 +379,6 @@ dgen
 dhcpdump
 dhcping
 dhex
-dialog
 diamond
 diceware
 dict
@@ -783,7 +782,6 @@ hexgui
 hfsutils
 hicolor-icon-theme
 hilite
-hmmer
 hornetq
 hostdb
 hping
@@ -1658,7 +1656,6 @@ qjackctl
 qjson
 qprint
 qrupdate
-qscintilla2
 qsoas
 qtads
 qtfaststart
@@ -1691,7 +1688,6 @@ rdiff-backup
 rds-command-line-tools
 rdup
 readline
-readosm
 reaver
 recode
 recon-ng

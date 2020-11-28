@@ -1,6 +1,6 @@
-3130 / 5362 (58.4%) of formulae have a valid `license` stanza as of 2020-11-28 00:02:14 UTC.
+3134 / 5362 (58.4%) of formulae have a valid `license` stanza as of 2020-11-28 12:01:27 UTC.
 
-1089 / 5362 (20.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1087 / 5362 (20.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -993,7 +993,7 @@
 - [ ] dhcping [[homepage](https://www.mavetju.org/unix/general.php)] [head] [[stable](https://www.mavetju.org/download/dhcping-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dhcping.rb)]
 - [ ] dhex [[homepage](https://www.dettus.net/dhex/)] [head] [[stable](https://www.dettus.net/dhex/dhex_0.69.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dhex.rb)]
 - [x] di: Zlib
-- [ ] dialog: LGPL-2.1 (deprecated) [[homepage](https://invisible-island.net/dialog/)] [head] [[stable](https://invisible-mirror.net/archives/dialog/dialog-1.3-20200327.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dialog.rb)]
+- [x] dialog: LGPL-2.1-or-later
 - [ ] diamond: GPL-3.0 (deprecated) [[homepage](https://www.wsi.uni-tuebingen.de/lehrstuehle/algorithms-in-bioinformatics/software/diamond/)] [head] [[stable](https://github.com/bbuchfink/diamond/archive/v0.9.36.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/diamond.rb)]
 - [ ] diceware: GPL-3.0 (deprecated) [[homepage](https://github.com/ulif/diceware)] [head] [[stable](https://github.com/ulif/diceware/archive/v0.9.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/diceware.rb)]
 - [ ] dict: GPL-2.0 (deprecated) [[homepage](http://www.dict.org/)] [head] [[stable](https://downloads.sourceforge.net/project/dict/dictd/dictd-1.13.0/dictd-1.13.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dict.rb)]
@@ -1334,7 +1334,7 @@
 - [x] fennel: MIT
 - [x] fetch: MIT
 - [x] fetch-crl: Apache-2.0
-- [ ] fetchmail [[homepage](https://www.fetchmail.info/)] [head] [[stable](https://downloads.sourceforge.net/project/fetchmail/branch_6.4/fetchmail-6.4.13.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fetchmail.rb)]
+- [ ] fetchmail [[homepage](https://www.fetchmail.info/)] [head] [[stable](https://downloads.sourceforge.net/project/fetchmail/branch_6.4/fetchmail-6.4.14.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fetchmail.rb)]
 - [ ] fex [[homepage](https://www.semicomplete.com/projects/fex/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/semicomplete/fex-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fex.rb)]
 - [ ] ffe: GPL-2.0 (deprecated) [[homepage](https://ff-extractor.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/ff-extractor/ff-extractor/0.3.9/ffe-0.3.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffe.rb)]
 - [x] fff: MIT
@@ -2025,7 +2025,7 @@
 - [x] hivemind: MIT
 - [x] hledger: GPL-3.0-or-later
 - [x] hlint: BSD-3-Clause
-- [ ] hmmer [[homepage](http://hmmer.org/)] [head] [[stable](http://eddylab.org/software/hmmer/hmmer-3.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hmmer.rb)]
+- [x] hmmer: BSD-3-Clause
 - [x] hoedown: ISC
 - [x] homeassistant-cli: Apache-2.0
 - [x] homebank: GPL-2.0-or-later
@@ -3993,7 +3993,7 @@
 - [x] pugixml: MIT
 - [x] pulledpork: GPL-2.0-or-later
 - [ ] pulp: LGPL-3.0 (deprecated) [[homepage](https://github.com/bodil/pulp)] [head] [[stable](https://registry.npmjs.org/pulp/-/pulp-15.0.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pulp.rb)]
-- [ ] pulseaudio [[homepage](https://wiki.freedesktop.org/www/Software/PulseAudio/)] [[head](https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git)] [[stable](https://www.freedesktop.org/software/pulseaudio/releases/pulseaudio-13.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pulseaudio.rb)]
+- [ ] pulseaudio [[homepage](https://wiki.freedesktop.org/www/Software/PulseAudio/)] [[head](https://gitlab.freedesktop.org/pulseaudio/pulseaudio.git)] [[stable](https://www.freedesktop.org/software/pulseaudio/releases/pulseaudio-14.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pulseaudio.rb)]
 - [x] pulumi: Apache-2.0
 - [x] pumba: Apache-2.0
 - [x] pup: MIT
@@ -4063,7 +4063,7 @@
 - [x] qrcp: MIT
 - [x] qrencode: LGPL-2.1-or-later
 - [ ] qrupdate [[homepage](https://sourceforge.net/projects/qrupdate/)] [head] [[stable](https://downloads.sourceforge.net/project/qrupdate/qrupdate/1.2/qrupdate-1.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qrupdate.rb)]
-- [ ] qscintilla2: GPL-3.0 (deprecated) [[homepage](https://www.riverbankcomputing.com/software/qscintilla/intro)] [head] [[stable](https://www.riverbankcomputing.com/static/Downloads/QScintilla/2.11.5/QScintilla-2.11.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qscintilla2.rb)]
+- [x] qscintilla2: GPL-3.0-only
 - [ ] qsoas: GPL-2.0 (deprecated) [[homepage](http://bip.cnrs-mrs.fr/bip06/qsoas/)] [head] [[stable](http://bip.cnrs-mrs.fr/bip06/qsoas/downloads/qsoas-2.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/qsoas.rb)]
 - [x] qstat: Artistic-2.0
 - [x] qt: `{:all_of=>["GFDL-1.3-only", "GPL-2.0-only", "GPL-3.0-only", "LGPL-2.1-only", "LGPL-3.0-only"]}`
@@ -4150,7 +4150,7 @@
 - [x] re2c: `public_domain`
 - [x] react-native-cli: BSD-3-Clause
 - [ ] readline: GPL-3.0 (deprecated) [[homepage](https://tiswww.case.edu/php/chet/readline/rltop.html)] [head] [[stable](https://ftp.gnu.org/gnu/readline/readline-8.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/readline.rb)]
-- [ ] readosm [[homepage](https://www.gaia-gis.it/fossil/readosm/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/readosm-sources/readosm-1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/readosm.rb)]
+- [x] readosm: `{:any_of=>["MPL-1.1", "GPL-2.0-or-later", "LGPL-2.1-or-later"]}`
 - [x] reattach-to-user-namespace: BSD-2-Clause
 - [ ] reaver: GPL-2.0 (deprecated) [[homepage](https://code.google.com/archive/p/reaver-wps/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/reaver-wps/reaver-1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/reaver.rb)]
 - [x] rebar: Apache-2.0
