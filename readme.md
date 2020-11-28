@@ -1,6 +1,6 @@
-3127 / 5360 (58.3%) of formulae have a valid `license` stanza as of 2020-11-27 12:01:23 UTC.
+3130 / 5362 (58.4%) of formulae have a valid `license` stanza as of 2020-11-28 00:02:07 UTC.
 
-1089 / 5360 (20.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1089 / 5362 (20.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -3840,6 +3840,7 @@
 - [x] php-cs-fixer: MIT
 - [x] php@7.2: PHP-3.01
 - [x] php@7.3: PHP-3.01
+- [x] php@7.4: PHP-3.01
 - [ ] phplint [[homepage](https://www.icosaedro.it/phplint/)] [head] [[stable](https://www.icosaedro.it/phplint/phplint-4.2.0_20200308.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phplint.rb)]
 - [x] phpmd: BSD-3-Clause
 - [ ] phpmyadmin [[homepage](https://www.phpmyadmin.net)] [head] [[stable](https://files.phpmyadmin.net/phpMyAdmin/5.0.4/phpMyAdmin-5.0.4-all-languages.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/phpmyadmin.rb)]
@@ -4898,9 +4899,10 @@
 - [x] titlecase: MIT
 - [ ] tivodecode [[homepage](https://tivodecode.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/tivodecode/tivodecode/0.2pre4/tivodecode-0.2pre4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tivodecode.rb)]
 - [ ] tj [[homepage](https://github.com/sgreben/tj)] [head] [[stable](https://github.com/sgreben/tj/archive/7.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tj.rb)]
-- [ ] tkdiff [[homepage](https://tkdiff.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/tkdiff/tkdiff/4.3.5/tkdiff-4-3-5.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tkdiff.rb)]
+- [x] tkdiff: GPL-2.0-only
 - [x] tldr: MIT
 - [x] tlx: BSL-1.0
+- [x] tm: Apache-2.0
 - [x] tmate: ISC
 - [ ] tmpreaper: GPL-2.0 (deprecated) [[homepage](https://packages.debian.org/sid/tmpreaper)] [head] [[stable](https://deb.debian.org/debian/pool/main/t/tmpreaper/tmpreaper_1.6.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tmpreaper.rb)]
 - [ ] tmpwatch: GPL-2.0 (deprecated) [[homepage](https://pagure.io/tmpwatch)] [head] [[stable](https://releases.pagure.org/tmpwatch/tmpwatch-2.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tmpwatch.rb)]

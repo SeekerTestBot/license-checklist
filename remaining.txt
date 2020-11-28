@@ -1962,7 +1962,6 @@ tio
 titan-server
 tivodecode
 tj
-tkdiff
 tmpreaper
 tmpwatch
 tnef
