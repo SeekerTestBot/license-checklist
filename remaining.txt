@@ -935,7 +935,6 @@ lasso
 lastpass-cli
 laszip
 latex2html
-latex2rtf
 latexdiff
 launch4j
 launchctl-completion

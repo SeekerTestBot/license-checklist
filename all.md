@@ -1,4 +1,4 @@
-3134 / 5362 (58.4%) of formulae have a valid `license` stanza as of 2020-11-28 12:01:27 UTC.
+3135 / 5362 (58.5%) of formulae have a valid `license` stanza as of 2020-11-29 00:04:18 UTC.
 
 1087 / 5362 (20.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -2443,7 +2443,7 @@
 - [ ] lastpass-cli: GPL-2.0 (deprecated) [[homepage](https://github.com/lastpass/lastpass-cli)] [[head](https://github.com/lastpass/lastpass-cli.git)] [[stable](https://github.com/lastpass/lastpass-cli/releases/download/v1.3.3/lastpass-cli-1.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lastpass-cli.rb)]
 - [ ] laszip: LGPL-2.1 (deprecated) [[homepage](https://laszip.org/)] [[head](https://github.com/LASzip/LASzip.git)] [[stable](https://github.com/LASzip/LASzip/releases/download/3.4.3/laszip-src-3.4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/laszip.rb)]
 - [ ] latex2html: GPL-2.0 (deprecated) [[homepage](https://www.latex2html.org)] [head] [[stable](https://github.com/latex2html/latex2html/archive/v2020.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/latex2html.rb)]
-- [ ] latex2rtf [[homepage](https://latex2rtf.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/latex2rtf/latex2rtf-unix/2.3.18/latex2rtf-2.3.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/latex2rtf.rb)]
+- [x] latex2rtf: GPL-2.0-or-later
 - [ ] latexdiff: GPL-3.0 (deprecated) [[homepage](https://www.ctan.org/pkg/latexdiff)] [head] [[stable](https://github.com/ftilmann/latexdiff/releases/download/1.3.1.1/latexdiff-1.3.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/latexdiff.rb)]
 - [x] latexindent: GPL-3.0-or-later
 - [x] latexml: `public_domain`
