@@ -1,6 +1,6 @@
-3135 / 5362 (58.5%) of formulae have a valid `license` stanza as of 2020-11-29 00:04:10 UTC.
+3136 / 5362 (58.5%) of formulae have a valid `license` stanza as of 2020-11-29 12:01:20 UTC.
 
-1087 / 5362 (20.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1086 / 5362 (20.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -3971,7 +3971,7 @@
 - [ ] primer3: GPL-2.0 (deprecated) [[homepage](https://primer3.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/primer3/primer3/2.4.0/primer3-2.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/primer3.rb)]
 - [x] primesieve: BSD-2-Clause
 - [ ] prips [[homepage](https://devel.ringlet.net/sysutils/prips/)] [head] [[stable](https://devel.ringlet.net/files/sys/prips/prips-1.1.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/prips.rb)]
-- [ ] privoxy: GPL-2.0 (deprecated) [[homepage](https://www.privoxy.org/)] [head] [[stable](https://downloads.sourceforge.net/project/ijbswa/Sources/3.0.28%20%28stable%29/privoxy-3.0.28-stable-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/privoxy.rb)]
+- [x] privoxy: GPL-2.0-or-later
 - [ ] procmail [[homepage](https://web.archive.org/web/20151013184044/procmail.org/)] [head] [[stable](https://opensource.apple.com/tarballs/procmail/procmail-14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/procmail.rb)]
 - [x] procs: MIT
 - [ ] proctools [[homepage](https://proctools.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/proctools/proctools/0.4pre1/proctools-0.4pre1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/proctools.rb)]
