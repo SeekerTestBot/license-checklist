@@ -655,7 +655,6 @@ gitg
 github-keygen
 gitslave
 gkrellm
-glances
 glib-openssl
 glkterm
 glktermw
@@ -1503,7 +1502,6 @@ p7zip
 pachi
 pacman4console
 pacparser
-pagmo
 pakchois
 pandoc
 paperkey
@@ -1525,7 +1523,6 @@ pbc-sig
 pc6001vx
 pcal
 pcb
-pcb2gcode
 pce
 pcre++
 pcsc-lite
@@ -1964,7 +1961,6 @@ tnftpd
 tofrodos
 tokyo-cabinet
 tokyo-dystopia
-toot
 topgit
 tor
 torrentcheck
