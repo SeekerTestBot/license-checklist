@@ -1,6 +1,6 @@
-3141 / 5363 (58.6%) of formulae have a valid `license` stanza as of 2020-11-30 00:02:06 UTC.
+3144 / 5364 (58.6%) of formulae have a valid `license` stanza as of 2020-11-30 12:02:00 UTC.
 
-1082 / 5363 (20.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1080 / 5364 (20.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -196,7 +196,7 @@
 - [ ] asn1c: GPL-3.0 (deprecated) [[homepage](https://lionet.info/asn1c/blog/)] [[head](https://github.com/vlm/asn1c.git)] [[stable](https://github.com/vlm/asn1c/releases/download/v0.9.28/asn1c-0.9.28.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/asn1c.rb)]
 - [x] aspcud: MIT
 - [ ] aspectj [[homepage](https://eclipse.org/aspectj/)] [head] [[stable](https://www.eclipse.org/downloads/download.php?r=1&file=/tools/aspectj/aspectj-1.9.6.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aspectj.rb)]
-- [ ] aspell: LGPL-2.1 (deprecated) [[homepage](http://aspell.net/)] [head] [[stable](https://ftp.gnu.org/gnu/aspell/aspell-0.60.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aspell.rb)]
+- [x] aspell: LGPL-2.1-only
 - [x] asroute: MIT
 - [x] assh: MIT
 - [x] assimp: `cannot_represent`
@@ -697,7 +697,7 @@
 - [x] clip: Apache-2.0
 - [x] clipper: BSD-2-Clause
 - [ ] clipsafe [[homepage](https://waxandwane.org/clipsafe.html)] [head] [[stable](https://waxandwane.org/download/clipsafe-1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clipsafe.rb)]
-- [ ] clisp [[homepage](https://clisp.sourceforge.io/)] [head] [[stable](https://ftp.gnu.org/gnu/clisp/release/2.49/clisp-2.49.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clisp.rb)]
+- [ ] clisp [[homepage](https://clisp.sourceforge.io/)] [[head](https://gitlab.com/gnu-clisp/clisp.git)] [[stable](https://ftp.gnu.org/gnu/clisp/release/2.49/clisp-2.49.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clisp.rb)]
 - [ ] cln: GPL-2.0 (deprecated) [[homepage](https://www.ginac.de/CLN/)] [head] [[stable](https://www.ginac.de/CLN/cln-1.3.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cln.rb)]
 - [x] cloc: GPL-2.0-or-later
 - [ ] clockywock [[homepage](https://soomka.com/)] [head] [[stable](https://soomka.com/clockywock-0.3.1a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/clockywock.rb)]
@@ -1967,7 +1967,7 @@
 - [x] hamlib: LGPL-2.1-or-later
 - [ ] handbrake: GPL-2.0 (deprecated) [[homepage](https://handbrake.fr/)] [[head](https://github.com/HandBrake/HandBrake.git)] [[stable](https://github.com/HandBrake/HandBrake/releases/download/1.3.3/HandBrake-1.3.3-source.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/handbrake.rb)]
 - [x] hapi-fhir-cli: Apache-2.0
-- [ ] haproxy [[homepage](https://www.haproxy.org/)] [head] [[stable](https://www.haproxy.org/download/2.3/src/haproxy-2.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/haproxy.rb)]
+- [ ] haproxy [[homepage](https://www.haproxy.org/)] [head] [[stable](https://www.haproxy.org/download/2.3/src/haproxy-2.3.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/haproxy.rb)]
 - [ ] harbour: GPL-2.0 (deprecated) [[homepage](https://harbour.github.io)] [[head](https://github.com/harbour/core.git)] [[stable](https://downloads.sourceforge.net/project/harbour-project/source/3.0.0/harbour-3.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/harbour.rb)]
 - [ ] hardlink [[homepage](https://jak-linux.org/projects/hardlink/)] [head] [[stable](https://jak-linux.org/projects/hardlink/hardlink_0.3.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hardlink.rb)]
 - [ ] hardlink-osx [[homepage](https://github.com/selkhateeb/hardlink)] [head] [[stable](https://github.com/selkhateeb/hardlink/archive/v0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hardlink-osx.rb)]
@@ -1979,7 +1979,7 @@
 - [x] haskell-stack: BSD-3-Clause
 - [x] haste-client: MIT
 - [x] hasura-cli: Apache-2.0
-- [ ] hatari [[homepage](https://hatari.tuxfamily.org)] [[head](https://git.tuxfamily.org/hatari/hatari.git)] [[stable](https://download.tuxfamily.org/hatari/2.2.1/hatari-2.2.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hatari.rb)]
+- [ ] hatari [[homepage](https://hatari.tuxfamily.org)] [[head](https://git.tuxfamily.org/hatari/hatari.git)] [[stable](https://download.tuxfamily.org/hatari/2.3.0/hatari-2.3.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hatari.rb)]
 - [ ] haxe [[homepage](https://haxe.org/)] [[head](https://github.com/HaxeFoundation/haxe.git)] [[stable](https://github.com/HaxeFoundation/haxe.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/haxe.rb)]
 - [x] hayai: Apache-2.0
 - [x] hbase: Apache-2.0
@@ -2805,7 +2805,7 @@
 - [x] libsigc++: LGPL-3.0-or-later
 - [x] libsigc++@2: LGPL-3.0-or-later
 - [ ] libsignal-protocol-c: GPL-3.0 (deprecated) [[homepage](https://github.com/signalapp/libsignal-protocol-c)] [head] [[stable](https://github.com/signalapp/libsignal-protocol-c/archive/v2.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsignal-protocol-c.rb)]
-- [ ] libsigsegv: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/libsigsegv/)] [head] [[stable](https://ftp.gnu.org/gnu/libsigsegv/libsigsegv-2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsigsegv.rb)]
+- [x] libsigsegv: GPL-2.0-or-later
 - [ ] libsixel [[homepage](https://github.com/saitoha/sixel)] [head] [[stable](https://github.com/saitoha/libsixel/releases/download/v1.8.6/libsixel-1.8.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libsixel.rb)]
 - [x] libslax: BSD-3-Clause
 - [x] libslirp: BSD-3-Clause
@@ -3477,7 +3477,6 @@
 - [ ] notifiers [[homepage](https://pypi.org/project/notifiers/)] [head] [[stable](https://files.pythonhosted.org/packages/4f/36/4c300f55949b9be84284d51253ae48d564dc2c4f2bffb94f26c8c1485f07/notifiers-1.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/notifiers.rb)]
 - [x] notmuch: GPL-3.0-or-later
 - [ ] notmuch-mutt: GPL-3.0 (deprecated) [[homepage](https://notmuchmail.org/)] [[head](https://git.notmuchmail.org/git/notmuch)] [[stable](https://notmuchmail.org/releases/notmuch-0.30.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/notmuch-mutt.rb)]
-- [x] now-cli: Apache-2.0
 - [x] noweb: Noweb
 - [ ] npth: LGPL-2.1 (deprecated) [[homepage](https://gnupg.org/)] [head] [[stable](https://gnupg.org/ftp/gcrypt/npth/npth-1.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/npth.rb)]
 - [ ] npush: GPL-2.0 (deprecated) [[homepage](https://npush.sourceforge.io/)] [[head](https://svn.code.sf.net/p/npush/code/)] [[stable](https://downloads.sourceforge.net/project/npush/npush/0.7/npush-0.7.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/npush.rb)]
@@ -4784,6 +4783,7 @@
 - [x] telnetd: `{:all_of=>["BSD-4-Clause-UC", "BSD-3-Clause"]}`
 - [ ] template-glib [[homepage](https://gitlab.gnome.org/GNOME/template-glib)] [head] [[stable](https://download.gnome.org/sources/template-glib/3.34/template-glib-3.34.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/template-glib.rb)]
 - [x] temporal_tables: BSD-2-Clause
+- [x] tendermint: Apache-2.0
 - [x] tengo: MIT
 - [x] tenyr: MIT
 - [x] tepl: LGPL-2.1-or-later
@@ -5076,6 +5076,7 @@
 - [x] vegeta: MIT
 - [x] velero: Apache-2.0
 - [ ] vera++ [[homepage](https://bitbucket.org/verateam/vera)] [head] [[stable](https://bitbucket.org/verateam/vera/downloads/vera++-1.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vera++.rb)]
+- [x] vercel-cli: Apache-2.0
 - [x] verilator: `{:any_of=>["LGPL-3.0-only", "Artistic-2.0"]}`
 - [ ] vert [[homepage](https://github.com/Masterminds/vert)] [head] [[stable](https://github.com/Masterminds/vert/archive/v0.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vert.rb)]
 - [x] vert.x: `{:any_of=>["EPL-2.0", "Apache-2.0"]}`

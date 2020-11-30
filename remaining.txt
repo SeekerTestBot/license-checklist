@@ -74,7 +74,6 @@ asciiquarium
 asciitex
 asn1c
 aspectj
-aspell
 atari800
 atasm
 aterm
@@ -1124,7 +1123,6 @@ librsync
 librtlsdr
 libserialport
 libsignal-protocol-c
-libsigsegv
 libsixel
 libsmf
 libsmi
