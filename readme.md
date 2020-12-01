@@ -1,6 +1,6 @@
-3144 / 5364 (58.6%) of formulae have a valid `license` stanza as of 2020-11-30 12:01:53 UTC.
+3148 / 5365 (58.7%) of formulae have a valid `license` stanza as of 2020-12-01 12:01:27 UTC.
 
-1080 / 5364 (20.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1077 / 5365 (20.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -885,7 +885,6 @@
 - [x] cups: Apache-2.0
 - [x] curaengine: AGPL-3.0-or-later
 - [x] curl: curl
-- [x] curl-openssl: curl
 - [ ] curlftpfs [[homepage](https://curlftpfs.sourceforge.io/)] [[head](:pserver:anonymous:@curlftpfs.cvs.sourceforge.net:/cvsroot/curlftpfs)] [[stable](https://downloads.sourceforge.net/project/curlftpfs/curlftpfs/0.9.2/curlftpfs-0.9.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/curlftpfs.rb)]
 - [x] curlpp: MIT
 - [ ] curseofwar: GPL-3.0 (deprecated) [[homepage](https://a-nikolaev.github.io/curseofwar/)] [[head](https://github.com/a-nikolaev/curseofwar.git)] [[stable](https://github.com/a-nikolaev/curseofwar/archive/v1.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/curseofwar.rb)]
@@ -1453,7 +1452,7 @@
 - [x] fq: MIT
 - [ ] fragroute [[homepage](https://www.monkey.org/~dugsong/fragroute/)] [head] [[stable](https://www.monkey.org/~dugsong/fragroute/fragroute-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fragroute.rb)]
 - [ ] freealut: LGPL-2.0 (deprecated) [[homepage](https://github.com/vancegroup/freealut)] [head] [[stable](https://deb.debian.org/debian/pool/main/f/freealut/freealut_1.1.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freealut.rb)]
-- [ ] freeciv: GPL-2.0 (deprecated) [[homepage](http://freeciv.org)] [[head](https://github.com/freeciv/freeciv.git)] [[stable](https://downloads.sourceforge.net/project/freeciv/Freeciv%202.6/2.6.2/freeciv-2.6.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freeciv.rb)]
+- [x] freeciv: GPL-2.0-or-later
 - [x] freediameter: BSD-3-Clause
 - [ ] freedink [[homepage](https://www.gnu.org/software/freedink/)] [head] [[stable](https://ftp.gnu.org/gnu/freedink/freedink-109.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/freedink.rb)]
 - [x] freeglut: MIT
@@ -2649,7 +2648,7 @@
 - [ ] libgfshare [[homepage](https://www.digital-scurf.org/software/libgfshare)] [head] [[stable](https://www.digital-scurf.org/files/libgfshare/libgfshare-2.0.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgfshare.rb)]
 - [ ] libghthash [[homepage](https://web.archive.org/web/20170824230514/www.bth.se/people/ska/sim_home/libghthash.html)] [head] [[stable](https://web.archive.org/web/20170824230514/www.bth.se/people/ska/sim_home/filer/libghthash-0.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libghthash.rb)]
 - [ ] libgig: GPL-2.0 (deprecated) [[homepage](https://www.linuxsampler.org/libgig/)] [head] [[stable](https://download.linuxsampler.org/packages/libgig-4.2.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgig.rb)]
-- [ ] libgit2: GPL-2.0 (deprecated) [[homepage](https://libgit2.github.com/)] [[head](https://github.com/libgit2/libgit2.git)] [[stable](https://github.com/libgit2/libgit2/archive/v1.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgit2.rb)]
+- [x] libgit2: GPL-2.0-only
 - [ ] libgit2-glib: LGPL-2.1 (deprecated) [[homepage](https://github.com/GNOME/libgit2-glib)] [[head](https://github.com/GNOME/libgit2-glib.git)] [[stable](https://download.gnome.org/sources/libgit2-glib/0.99/libgit2-glib-0.99.0.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libgit2-glib.rb)]
 - [ ] libglade [[homepage](https://glade.gnome.org)] [head] [[stable](https://download.gnome.org/sources/libglade/2.6/libglade-2.6.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libglade.rb)]
 - [x] libglademm: LGPL-2.1-or-later
@@ -3566,7 +3565,7 @@
 - [ ] ocrad: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/ocrad/)] [head] [[stable](https://ftp.gnu.org/gnu/ocrad/ocrad-0.27.tar.lz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocrad.rb)]
 - [x] ocrmypdf: MPL-2.0
 - [x] octant: Apache-2.0
-- [ ] octave: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/octave/index.html)] [[head](https://hg.savannah.gnu.org/hgweb/octave)] [[stable](https://ftp.gnu.org/gnu/octave/octave-5.2.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/octave.rb)]
+- [x] octave: GPL-3.0-or-later
 - [x] octomap: BSD-3-Clause
 - [ ] ode [[homepage](https://www.ode.org/)] [[head](https://bitbucket.org/odedevs/ode.git)] [[stable](https://bitbucket.org/odedevs/ode/downloads/ode-0.16.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ode.rb)]
 - [x] odin: BSD-2-Clause
@@ -3957,7 +3956,7 @@
 - [x] pprint: MIT
 - [ ] ppss: GPL-3.0 (deprecated) [[homepage](https://github.com/louwrentius/PPSS)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/ppss/ppss-2.97.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ppss.rb)]
 - [x] ppsspp: `{:all_of=>["GPL-2.0-or-later", "BSD-3-Clause"]}`
-- [ ] pqiv: GPL-3.0 (deprecated) [[homepage](https://github.com/phillipberndt/pqiv)] [[head](https://github.com/phillipberndt/pqiv.git)] [[stable](https://github.com/phillipberndt/pqiv/archive/2.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pqiv.rb)]
+- [ ] pqiv: GPL-3.0 (deprecated) [[homepage](https://github.com/phillipberndt/pqiv)] [[head](https://github.com/phillipberndt/pqiv.git)] [[stable](https://github.com/phillipberndt/pqiv/archive/2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pqiv.rb)]
 - [x] pre-commit: MIT
 - [x] precomp: Apache-2.0
 - [x] predictionio: Apache-2.0
@@ -4763,6 +4762,7 @@
 <details><summary>T</summary>
 
 - [x] t-completion: MIT
+- [x] t-rec: GPL-3.0-only
 - [ ] t1lib: GPL-2.0 (deprecated) [[homepage](https://www.t1lib.org/)] [head] [[stable](https://www.ibiblio.org/pub/linux/libs/graphics/t1lib-5.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/t1lib.rb)]
 - [x] t1utils: MIT
 - [ ] ta-lib [[homepage](https://ta-lib.org/)] [head] [[stable](https://downloads.sourceforge.net/project/ta-lib/ta-lib/0.4.0/ta-lib-0.4.0-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ta-lib.rb)]
@@ -5420,6 +5420,7 @@
 - [x] yosys: ISC
 - [x] you-get: MIT
 - [x] youtube-dl: Unlicense
+- [x] youtube-dlc: Unlicense
 - [x] youtubedr: MIT
 - [x] yq: MIT
 - [x] yubico-piv-tool: BSD-2-Clause

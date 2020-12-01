@@ -563,7 +563,6 @@ fplll
 fprobe
 fragroute
 freealut
-freeciv
 freedink
 freeradius-server
 freexl
@@ -1032,7 +1031,6 @@ libgetdata
 libgfshare
 libghthash
 libgig
-libgit2
 libgit2-glib
 libglade
 libgnomecanvas
@@ -1438,7 +1436,6 @@ ocaml-num
 ocamlbuild
 ocp
 ocrad
-octave
 ode
 odo
 odt2txt
