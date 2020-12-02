@@ -1,4 +1,4 @@
-3148 / 5365 (58.7%) of formulae have a valid `license` stanza as of 2020-12-01 12:01:35 UTC.
+3148 / 5365 (58.7%) of formulae have a valid `license` stanza as of 2020-12-02 00:02:05 UTC.
 
 1077 / 5365 (20.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -3135,7 +3135,7 @@
 - [x] memcached: BSD-3-Clause
 - [ ] memcacheq [[homepage](https://code.google.com/archive/p/memcacheq/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/memcacheq/memcacheq-0.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/memcacheq.rb)]
 - [x] memtester: GPL-2.0-only
-- [ ] menhir [[homepage](http://cristal.inria.fr/~fpottier/menhir)] [head] [[stable](https://gitlab.inria.fr/fpottier/menhir/-/archive/20201122/menhir-20201122.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/menhir.rb)]
+- [ ] menhir [[homepage](http://cristal.inria.fr/~fpottier/menhir)] [head] [[stable](https://gitlab.inria.fr/fpottier/menhir/-/archive/20201201/menhir-20201201.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/menhir.rb)]
 - [x] mercurial: GPL-2.0-or-later
 - [x] mercury: `{:all_of=>["GPL-2.0-only", "LGPL-2.0-only", "MIT"]}`
 - [ ] mergelog: GPL-2.0 (deprecated) [[homepage](https://mergelog.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mergelog/mergelog/4.5/mergelog-4.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mergelog.rb)]
@@ -3554,7 +3554,7 @@
 - [ ] ola: GPL-2.0 (deprecated) [[homepage](https://www.openlighting.org/ola/)] [[head](https://github.com/OpenLightingProject/ola.git)] [[stable](https://github.com/OpenLightingProject/ola/releases/download/0.10.7/ola-0.10.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ola.rb)]
 - [x] olsrd: BSD-3-Clause
 - [x] omake: GPL-2.0-only
-- [ ] omega: GPL-2.0 (deprecated) [[homepage](https://xapian.org/)] [head] [[stable](https://oligarchy.co.uk/xapian/1.4.16/xapian-omega-1.4.16.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/omega.rb)]
+- [ ] omega: GPL-2.0 (deprecated) [[homepage](https://xapian.org/)] [head] [[stable](https://oligarchy.co.uk/xapian/1.4.17/xapian-omega-1.4.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/omega.rb)]
 - [ ] omega-rpg [[homepage](http://www.alcyone.com/max/projects/omega/)] [head] [[stable](http://www.alcyone.com/binaries/omega/omega-0.80.2-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/omega-rpg.rb)]
 - [ ] omniorb: GPL-2.0 (deprecated) [[homepage](https://omniorb.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/omniorb/omniORB/omniORB-4.2.4/omniORB-4.2.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/omniorb.rb)]
 - [x] ompl: BSD-3-Clause
@@ -4589,7 +4589,7 @@
 - [x] sqlite-analyzer: blessing
 - [x] sqlite-utils: Apache-2.0
 - [ ] sqliteodbc [[homepage](https://ch-werner.homepage.t-online.de/sqliteodbc/)] [head] [[stable](https://ch-werner.homepage.t-online.de/sqliteodbc/sqliteodbc-0.9998.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqliteodbc.rb)]
-- [ ] sqlmap: GPL-2.0 (deprecated) [[homepage](http://sqlmap.org)] [[head](https://github.com/sqlmapproject/sqlmap.git)] [[stable](https://github.com/sqlmapproject/sqlmap/archive/1.4.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqlmap.rb)]
+- [ ] sqlmap: GPL-2.0 (deprecated) [[homepage](http://sqlmap.org)] [[head](https://github.com/sqlmapproject/sqlmap.git)] [[stable](https://github.com/sqlmapproject/sqlmap/archive/1.4.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqlmap.rb)]
 - [x] sqlparse: BSD-3-Clause
 - [x] sqoop: Apache-2.0
 - [ ] sqtop: GPL-2.0 (deprecated) [[homepage](https://github.com/paleg/sqtop)] [head] [[stable](https://github.com/paleg/sqtop/archive/v2015-02-08.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sqtop.rb)]
