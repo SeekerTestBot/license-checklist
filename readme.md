@@ -1,4 +1,4 @@
-3148 / 5365 (58.7%) of formulae have a valid `license` stanza as of 2020-12-02 00:01:57 UTC.
+3148 / 5365 (58.7%) of formulae have a valid `license` stanza as of 2020-12-02 12:01:25 UTC.
 
 1077 / 5365 (20.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1152,7 +1152,7 @@
 - [x] dvm: Apache-2.0
 - [ ] dvorak7min: GPL-2.0 (deprecated) [[homepage](https://web.archive.org/web/dvorak7min.sourcearchive.com/)] [head] [[stable](https://deb.debian.org/debian/pool/main/d/dvorak7min/dvorak7min_1.6.1+repack.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dvorak7min.rb)]
 - [ ] dwarf: GPL-2.0 (deprecated) [[homepage](https://github.com/elboza/dwarf-ng/)] [head] [[stable](https://github.com/elboza/dwarf-ng/archive/dwarf-0.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwarf.rb)]
-- [ ] dwarfutils [[homepage](https://www.prevanders.net/dwarf.html)] [head] [[stable](https://www.prevanders.net/libdwarf-20201020.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwarfutils.rb)]
+- [ ] dwarfutils [[homepage](https://www.prevanders.net/dwarf.html)] [head] [[stable](https://www.prevanders.net/libdwarf-20201201.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwarfutils.rb)]
 - [ ] dwatch: GPL-2.0 (deprecated) [[homepage](https://siag.nu/dwatch/)] [head] [[stable](https://siag.nu/pub/dwatch/dwatch-0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwatch.rb)]
 - [ ] dwdiff [[homepage](https://os.ghalkes.nl/dwdiff.html)] [head] [[stable](https://os.ghalkes.nl/dist/dwdiff-2.1.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwdiff.rb)]
 - [x] dwm: MIT
