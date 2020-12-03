@@ -1,6 +1,6 @@
-3149 / 5366 (58.7%) of formulae have a valid `license` stanza as of 2020-12-03 00:02:03 UTC.
+3152 / 5367 (58.7%) of formulae have a valid `license` stanza as of 2020-12-03 12:01:20 UTC.
 
-1077 / 5366 (20.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1075 / 5367 (20.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -388,7 +388,7 @@
 - [ ] bitlbee: GPL-2.0 (deprecated) [[homepage](https://www.bitlbee.org/)] [[head](https://github.com/bitlbee/bitlbee.git)] [[stable](https://get.bitlbee.org/src/bitlbee-3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitlbee.rb)]
 - [x] bitrise: MIT
 - [ ] bittwist: GPL-2.0 (deprecated) [[homepage](https://bittwist.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/bittwist/Mac%20OS%20X/Bit-Twist%202.0/bittwist-macosx-2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bittwist.rb)]
-- [ ] bitwarden-cli: GPL-3.0 (deprecated) [[homepage](https://bitwarden.com/)] [head] [[stable](https://registry.npmjs.org/@bitwarden/cli/-/cli-1.13.2.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitwarden-cli.rb)]
+- [ ] bitwarden-cli: GPL-3.0 (deprecated) [[homepage](https://bitwarden.com/)] [head] [[stable](https://registry.npmjs.org/@bitwarden/cli/-/cli-1.13.3.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitwarden-cli.rb)]
 - [ ] bitwise: GPL-3.0 (deprecated) [[homepage](https://github.com/mellowcandle/bitwise)] [head] [[stable](https://github.com/mellowcandle/bitwise/releases/download/v0.41/bitwise-v0.41.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bitwise.rb)]
 - [x] black: MIT
 - [x] blackbox: MIT
@@ -999,7 +999,7 @@
 - [ ] dhex [[homepage](https://www.dettus.net/dhex/)] [head] [[stable](https://www.dettus.net/dhex/dhex_0.69.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dhex.rb)]
 - [x] di: Zlib
 - [x] dialog: LGPL-2.1-or-later
-- [ ] diamond: GPL-3.0 (deprecated) [[homepage](https://www.wsi.uni-tuebingen.de/lehrstuehle/algorithms-in-bioinformatics/software/diamond/)] [head] [[stable](https://github.com/bbuchfink/diamond/archive/v0.9.36.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/diamond.rb)]
+- [ ] diamond: GPL-3.0 (deprecated) [[homepage](https://www.wsi.uni-tuebingen.de/lehrstuehle/algorithms-in-bioinformatics/software/diamond/)] [head] [[stable](https://github.com/bbuchfink/diamond/archive/v2.0.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/diamond.rb)]
 - [ ] diceware: GPL-3.0 (deprecated) [[homepage](https://github.com/ulif/diceware)] [head] [[stable](https://github.com/ulif/diceware/archive/v0.9.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/diceware.rb)]
 - [ ] dict: GPL-2.0 (deprecated) [[homepage](http://www.dict.org/)] [head] [[stable](https://downloads.sourceforge.net/project/dict/dictd/dictd-1.13.0/dictd-1.13.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dict.rb)]
 - [ ] diction: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/diction/)] [head] [[stable](https://ftp.gnu.org/gnu/diction/diction-1.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/diction.rb)]
@@ -2104,7 +2104,7 @@
 
 <details><summary>I</summary>
 
-- [ ] i2p [[homepage](https://geti2p.net)] [head] [[stable](https://download.i2p2.de/releases/0.9.47/i2pinstall_0.9.47.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i2p.rb)]
+- [ ] i2p [[homepage](https://geti2p.net)] [head] [[stable](https://download.i2p2.de/releases/0.9.48/i2pinstall_0.9.48.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i2p.rb)]
 - [x] i2pd: BSD-3-Clause
 - [ ] i2util [[homepage](https://software.internet2.edu/)] [head] [[stable](https://software.internet2.edu/sources/I2util/I2util-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/i2util.rb)]
 - [x] i386-elf-gdb: GPL-3.0-or-later
@@ -3028,6 +3028,7 @@
 - [ ] ltl2ba [[homepage](https://www.lsv.ens-cachan.fr/~gastin/ltl2ba/)] [head] [[stable](https://www.lsv.fr/~gastin/ltl2ba/ltl2ba-1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ltl2ba.rb)]
 - [x] lua: MIT
 - [x] lua@5.1: MIT
+- [x] lua@5.3: MIT
 - [x] luabind: MIT
 - [x] luajit: MIT
 - [x] luaradio: MIT
@@ -3432,7 +3433,7 @@
 - [ ] neopop-sdl: GPL-2.0 (deprecated) [[homepage](https://nih.at/NeoPop-SDL/)] [[head](https://hg.nih.at/NeoPop-SDL/)] [[stable](https://nih.at/NeoPop-SDL/NeoPop-SDL-0.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/neopop-sdl.rb)]
 - [x] neovim: Apache-2.0
 - [ ] nesc: GPL-2.0 (deprecated) [[homepage](https://github.com/tinyos/nesc)] [head] [[stable](https://github.com/tinyos/nesc/archive/v1.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nesc.rb)]
-- [ ] nest: GPL-2.0 (deprecated) [[homepage](https://www.nest-simulator.org/)] [head] [[stable](https://github.com/nest/nest-simulator/archive/v2.20.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nest.rb)]
+- [x] nest: GPL-2.0-or-later
 - [ ] nestopia-ue: GPL-2.0 (deprecated) [[homepage](http://0ldsk00l.ca/nestopia/)] [[head](https://github.com/0ldsk00l/nestopia.git)] [[stable](https://github.com/0ldsk00l/nestopia/archive/1.50.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nestopia-ue.rb)]
 - [x] net-snmp: Net-SNMP
 - [ ] netcat: GPL-2.0 (deprecated) [[homepage](https://netcat.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/netcat/netcat/0.7.1/netcat-0.7.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/netcat.rb)]
@@ -4943,7 +4944,7 @@
 - [x] tpl: BSD-1-Clause
 - [ ] tpp [[homepage](https://synflood.at/tpp.html)] [head] [[stable](https://synflood.at/tpp/tpp-1.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tpp.rb)]
 - [x] trace2html: BSD-3-Clause
-- [ ] tracebox: GPL-2.0 (deprecated) [[homepage](https://www.tracebox.org/)] [[head](https://github.com/tracebox/tracebox.git)] [[stable](https://github.com/tracebox/tracebox.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tracebox.rb)]
+- [x] tracebox: GPL-2.0-only
 - [ ] tractorgen: GPL-2.0 (deprecated) [[homepage](http://www.kfish.org/software/tractorgen/)] [head] [[stable](http://www.kfish.org/software/tractorgen/dl/tractorgen-0.31.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tractorgen.rb)]
 - [ ] trader [[homepage](https://www.zap.org.au/projects/trader/)] [head] [[stable](https://ftp.zap.org.au/pub/trader/unix/trader-7.14.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/trader.rb)]
 - [x] traefik: MIT

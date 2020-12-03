@@ -1378,7 +1378,6 @@ negfix8
 neon
 neopop-sdl
 nesc
-nest
 nestopia-ue
 netcat
 netcat6
@@ -1961,7 +1960,6 @@ tor
 torrentcheck
 torsocks
 tpp
-tracebox
 tractorgen
 trader
 trafshow
