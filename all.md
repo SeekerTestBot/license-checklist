@@ -1,6 +1,6 @@
-3148 / 5365 (58.7%) of formulae have a valid `license` stanza as of 2020-12-02 12:01:32 UTC.
+3149 / 5366 (58.7%) of formulae have a valid `license` stanza as of 2020-12-03 00:02:12 UTC.
 
-1077 / 5365 (20.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1077 / 5366 (20.1%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2303,6 +2303,7 @@
 - [x] json-glib: LGPL-2.1-or-later
 - [x] json-table: EPL-1.0
 - [x] json11: MIT
+- [x] json5: MIT
 - [x] json_spirit: MIT
 - [x] jsoncpp: MIT
 - [x] jsonlint: MIT
