@@ -1,6 +1,6 @@
-3158 / 5369 (58.8%) of formulae have a valid `license` stanza as of 2020-12-04 00:01:51 UTC.
+3160 / 5369 (58.9%) of formulae have a valid `license` stanza as of 2020-12-04 12:01:23 UTC.
 
-1073 / 5369 (20.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1071 / 5369 (19.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -582,7 +582,7 @@
 - [x] cdktf: MPL-2.0
 - [ ] cdlabelgen [[homepage](https://www.aczoom.com/tools/cdinsert/)] [head] [[stable](https://www.aczoom.com/pub/tools/cdlabelgen-4.3.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdlabelgen.rb)]
 - [x] cdo: GPL-2.0-only
-- [ ] cdogs-sdl: GPL-2.0 (deprecated) [[homepage](https://cxong.github.io/cdogs-sdl/)] [[head](https://github.com/cxong/cdogs-sdl.git)] [[stable](https://github.com/cxong/cdogs-sdl/archive/0.8.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdogs-sdl.rb)]
+- [x] cdogs-sdl: GPL-2.0-or-later
 - [ ] cdparanoia [[homepage](https://www.xiph.org/paranoia/)] [head] [[stable](https://downloads.xiph.org/releases/cdparanoia/cdparanoia-III-10.2.src.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdparanoia.rb)]
 - [ ] cdpr [[homepage](http://www.monkeymental.com/)] [head] [[stable](https://downloads.sourceforge.net/project/cdpr/cdpr/2.4/cdpr-2.4.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdpr.rb)]
 - [ ] cdrdao: GPL-2.0 (deprecated) [[homepage](https://cdrdao.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/cdrdao/cdrdao-1.2.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdrdao.rb)]
@@ -657,7 +657,7 @@
 - [ ] chromaprint: LGPL-2.1 (deprecated) [[homepage](https://acoustid.org/chromaprint)] [head] [[stable](https://github.com/acoustid/chromaprint/releases/download/v1.5.0/chromaprint-1.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chromaprint.rb)]
 - [x] chrome-cli: MIT
 - [x] chrome-export: ISC
-- [ ] chronograf: AGPL-3.0 (deprecated) [[homepage](https://docs.influxdata.com/chronograf/latest/)] [[head](https://github.com/influxdata/chronograf.git)] [[stable](https://github.com/influxdata/chronograf/archive/1.8.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chronograf.rb)]
+- [ ] chronograf: AGPL-3.0 (deprecated) [[homepage](https://docs.influxdata.com/chronograf/latest/)] [[head](https://github.com/influxdata/chronograf.git)] [[stable](https://github.com/influxdata/chronograf/archive/1.8.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chronograf.rb)]
 - [x] chrony: GPL-2.0-only
 - [x] chruby: MIT
 - [x] chruby-fish: MIT
@@ -1558,7 +1558,7 @@
 - [x] geckodriver: MPL-2.0
 - [x] gecode: MIT
 - [x] gedit: GPL-2.0-or-later
-- [ ] geeqie: GPL-2.0 (deprecated) [[homepage](http://www.geeqie.org/)] [head] [[stable](http://www.geeqie.org/geeqie-1.5.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geeqie.rb)]
+- [ ] geeqie: GPL-2.0 (deprecated) [[homepage](http://www.geeqie.org/)] [head] [[stable](http://www.geeqie.org/geeqie-1.6.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/geeqie.rb)]
 - [x] gegl: `{:all_of=>["LGPL-3.0-or-later", "GPL-3.0-or-later", "BSD-3-Clause", "MIT"]}`
 - [x] gel: MIT
 - [x] gem-completion: MIT
@@ -2239,7 +2239,7 @@
 <details><summary>J</summary>
 
 - [x] jabba: Apache-2.0
-- [ ] jack: GPL-2.0 (deprecated) [[homepage](https://jackaudio.org/)] [[head](https://github.com/jackaudio/jack1.git)] [[stable](https://github.com/jackaudio/jack1.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jack.rb)]
+- [x] jack: GPL-2.0-or-later
 - [x] jadx: Apache-2.0
 - [ ] jags [[homepage](https://mcmc-jags.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/mcmc-jags/JAGS/4.x/Source/JAGS-4.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jags.rb)]
 - [ ] jailkit [[homepage](https://olivier.sessink.nl/jailkit/)] [head] [[stable](https://olivier.sessink.nl/jailkit/jailkit-2.21.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jailkit.rb)]

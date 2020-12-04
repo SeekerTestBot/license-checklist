@@ -215,7 +215,6 @@ cdb
 cdecl
 cdk
 cdlabelgen
-cdogs-sdl
 cdparanoia
 cdpr
 cdrdao
@@ -863,7 +862,6 @@ itex2mml
 itpp
 itstool
 ivykis
-jack
 jags
 jailkit
 jam
