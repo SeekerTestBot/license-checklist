@@ -1,6 +1,6 @@
-3152 / 5367 (58.7%) of formulae have a valid `license` stanza as of 2020-12-03 12:01:20 UTC.
+3158 / 5369 (58.8%) of formulae have a valid `license` stanza as of 2020-12-04 00:01:51 UTC.
 
-1075 / 5367 (20.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1073 / 5369 (20.0%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -667,7 +667,7 @@
 - [x] cig: MIT
 - [x] cimg: CECILL-2.0
 - [x] circleci: MIT
-- [ ] citus: AGPL-3.0 (deprecated) [[homepage](https://www.citusdata.com)] [[head](https://github.com/citusdata/citus.git)] [[stable](https://github.com/citusdata/citus/archive/v9.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/citus.rb)]
+- [ ] citus: AGPL-3.0 (deprecated) [[homepage](https://www.citusdata.com)] [[head](https://github.com/citusdata/citus.git)] [[stable](https://github.com/citusdata/citus/archive/v9.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/citus.rb)]
 - [x] cityhash: MIT
 - [ ] civl [[homepage](https://vsl.cis.udel.edu/civl/)] [head] [[stable](https://vsl.cis.udel.edu/lib/sw/civl/1.20/r5259/release/CIVL-1.20_5259.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/civl.rb)]
 - [x] cjdns: `{:all_of=>["GPL-3.0-or-later", "GPL-2.0-or-later", "BSD-3-Clause", "MIT"]}`
@@ -2443,7 +2443,7 @@
 - [ ] kvazaar: LGPL-2.1 (deprecated) [[homepage](https://github.com/ultravideo/kvazaar)] [[head](https://github.com/ultravideo/kvazaar.git)] [[stable](https://github.com/ultravideo/kvazaar/archive/v2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kvazaar.rb)]
 - [x] kyma-cli: Apache-2.0
 - [ ] kyoto-cabinet: GPL-3.0 (deprecated) [[homepage](https://fallabs.com/kyotocabinet/)] [head] [[stable](https://fallabs.com/kyotocabinet/pkg/kyotocabinet-1.2.77.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kyoto-cabinet.rb)]
-- [ ] kyoto-tycoon [[homepage](https://fallabs.com/kyototycoon/)] [head] [[stable](https://fallabs.com/kyototycoon/pkg/kyototycoon-0.9.56.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kyoto-tycoon.rb)]
+- [x] kyoto-tycoon: GPL-3.0-or-later
 - [x] kytea: Apache-2.0
 - [x] kyua: BSD-3-Clause
 
@@ -3070,6 +3070,7 @@
 - [ ] mafft [[homepage](https://mafft.cbrc.jp/alignment/software/)] [head] [[stable](https://mafft.cbrc.jp/alignment/software/mafft-7.475-with-extensions-src.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mafft.rb)]
 - [x] mage: Apache-2.0
 - [x] magic-wormhole: MIT
+- [x] magic_enum: MIT
 - [ ] magnetix [[homepage](http://www.maczentrisch.de/magnetiX/)] [head] [[stable](http://www.maczentrisch.de/magnetiX/downloads/magnetiX_src.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/magnetix.rb)]
 - [x] mahout: Apache-2.0
 - [ ] mailcheck: GPL-2.0 (deprecated) [[homepage](https://mailcheck.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mailcheck/mailcheck/1.91.2/mailcheck_1.91.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mailcheck.rb)]
@@ -3519,7 +3520,7 @@
 - [ ] nsuds: GPL-2.0 (deprecated) [[homepage](https://nsuds.sourceforge.io/)] [[head](https://git.code.sf.net/p/nsuds/code.git)] [[stable](https://downloads.sourceforge.net/project/nsuds/nsuds/nsuds-0.7B/nsuds-0.7B.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nsuds.rb)]
 - [ ] ntfs-3g [[homepage](https://www.tuxera.com/community/open-source-ntfs-3g/)] [[head](https://git.code.sf.net/p/ntfs-3g/ntfs-3g.git)] [[stable](https://tuxera.com/opensource/ntfs-3g_ntfsprogs-2017.3.23.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntfs-3g.rb)]
 - [ ] ntl [[homepage](https://www.shoup.net/ntl)] [head] [[stable](https://www.shoup.net/ntl/ntl-11.4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntl.rb)]
-- [ ] ntopng: GPL-3.0 (deprecated) [[homepage](https://www.ntop.org/products/traffic-analysis/ntop/)] [[head](https://github.com/ntop/ntopng.git)] [[stable](https://github.com/ntop/ntopng/archive/4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntopng.rb)]
+- [x] ntopng: GPL-3.0-only
 - [ ] ntp [[homepage](https://www.eecis.udel.edu/~mills/ntp/html/)] [head] [[stable](https://www.eecis.udel.edu/~ntp/ntp_spool/ntp4/ntp-4.2/ntp-4.2.8p15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ntp.rb)]
 - [x] nu: Apache-2.0
 - [ ] nu-smv [[homepage](http://nusmv.fbk.eu)] [head] [[stable](http://nusmv.fbk.eu/distrib/NuSMV-2.6.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nu-smv.rb)]
@@ -3935,7 +3936,7 @@
 - [ ] ponysay: GPL-3.0 (deprecated) [[homepage](https://github.com/erkin/ponysay/)] [[head](https://github.com/erkin/ponysay.git)] [[stable](https://github.com/erkin/ponysay/archive/3.0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ponysay.rb)]
 - [x] poppler: GPL-2.0-only
 - [x] popt: MIT
-- [ ] portaudio [[homepage](http://www.portaudio.com)] [[head](https://git.assembla.com/portaudio.git)] [[stable](http://www.portaudio.com/archives/pa_stable_v190600_20161030.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/portaudio.rb)]
+- [ ] portaudio [[homepage](http://www.portaudio.com)] [[head](https://github.com/PortAudio/portaudio.git)] [[stable](http://www.portaudio.com/archives/pa_stable_v190600_20161030.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/portaudio.rb)]
 - [ ] portmidi [[homepage](https://sourceforge.net/projects/portmedia/)] [head] [[stable](https://downloads.sourceforge.net/project/portmedia/portmidi/217/portmidi-src-217.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/portmidi.rb)]
 - [x] posh: GPL-3.0-or-later
 - [ ] poster: GPL-2.0 (deprecated) [[homepage](https://schrfr.github.io/poster/)] [head] [[stable](https://github.com/schrfr/poster/archive/1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/poster.rb)]
@@ -4844,6 +4845,7 @@
 - [ ] terraform-provisioner-ansible [[homepage](https://github.com/jonmorehouse/terraform-provisioner-ansible)] [[head](https://github.com/jonmorehouse/terraform-provisioner-ansible.git)] [[stable](https://github.com/jonmorehouse/terraform-provisioner-ansible/archive/0.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/terraform-provisioner-ansible.rb)]
 - [x] terraform@0.11: MPL-2.0
 - [x] terraform@0.12: MPL-2.0
+- [x] terraform@0.13: MPL-2.0
 - [x] terraform_landscape: Apache-2.0
 - [x] terraformer: Apache-2.0
 - [x] terraforming: MIT
@@ -5271,7 +5273,7 @@
 - [x] wolfmqtt: GPL-2.0-or-later
 - [x] wolfssl: GPL-2.0-or-later
 - [ ] woof [[homepage](http://www.home.unix-ag.org/simon/woof.html)] [head] [[stable](http://www.home.unix-ag.org/simon/woof-2012-05-31.py)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/woof.rb)]
-- [ ] wordgrinder [[homepage](https://cowlark.com/wordgrinder)] [[head](https://github.com/davidgiven/wordgrinder.git)] [[stable](https://github.com/davidgiven/wordgrinder/archive/0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordgrinder.rb)]
+- [x] wordgrinder: MIT
 - [x] wordnet: `cannot_represent`
 - [ ] wordplay [[homepage](http://hsvmovies.com/static_subpages/personal_orig/wordplay/index.html)] [head] [[stable](http://hsvmovies.com/static_subpages/personal_orig/wordplay/wordplay722.tar.Z)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wordplay.rb)]
 - [x] wownero: BSD-3-Clause
@@ -5491,7 +5493,7 @@
 - [ ] zsxd [[homepage](https://www.solarus-games.org/en/games/the-legend-of-zelda-mystery-of-solarus-xd)] [[head](https://gitlab.com/solarus-games/zsxd.git)] [[stable](https://gitlab.com/solarus-games/zsxd/-/archive/v1.12.2/zsxd-v1.12.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zsxd.rb)]
 - [ ] zsync [[homepage](http://zsync.moria.org.uk/)] [head] [[stable](http://zsync.moria.org.uk/download/zsync-0.6.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zsync.rb)]
 - [x] zurl: GPL-3.0-or-later
-- [ ] zxcc: GPL-2.0 (deprecated) [[homepage](https://www.seasip.info/Unix/Zxcc/)] [head] [[stable](https://www.seasip.info/Unix/Zxcc/zxcc-0.5.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zxcc.rb)]
+- [x] zxcc: GPL-2.0-or-later
 - [x] zydis: MIT
 - [ ] zyre [[homepage](https://github.com/zeromq/zyre)] [[head](https://github.com/zeromq/zyre.git)] [[stable](https://github.com/zeromq/zyre/releases/download/v2.0.0/zyre-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zyre.rb)]
 - [x] zzuf: WTFPL

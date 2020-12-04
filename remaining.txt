@@ -924,7 +924,6 @@ kstart
 ktoblzcheck
 kvazaar
 kyoto-cabinet
-kyoto-tycoon
 lablgtk
 lame
 lasi
@@ -1413,7 +1412,6 @@ nsnake
 nsuds
 ntfs-3g
 ntl
-ntopng
 ntp
 nu-smv
 nuget
@@ -2115,7 +2113,6 @@ wirouter_keyrec
 with-readline
 wla-dx
 woof
-wordgrinder
 wordplay
 wput
 wrangler
@@ -2210,6 +2207,5 @@ zshdb
 zssh
 zsxd
 zsync
-zxcc
 zyre
 zzz
