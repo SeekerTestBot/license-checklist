@@ -422,7 +422,6 @@ doxymacs
 dpkg
 dps8m
 dropbox-uploader
-druid
 dsh
 dspdfviewer
 dtach

@@ -1,4 +1,4 @@
-3160 / 5369 (58.9%) of formulae have a valid `license` stanza as of 2020-12-04 12:01:31 UTC.
+3161 / 5369 (58.9%) of formulae have a valid `license` stanza as of 2020-12-05 00:02:04 UTC.
 
 1071 / 5369 (19.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -1108,7 +1108,7 @@
 - [x] drone-cli: Apache-2.0
 - [x] dropbear: MIT
 - [ ] dropbox-uploader: GPL-3.0 (deprecated) [[homepage](https://www.andreafabrizi.it/2016/01/01/Dropbox-Uploader/)] [head] [[stable](https://github.com/andreafabrizi/Dropbox-Uploader/archive/1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dropbox-uploader.rb)]
-- [ ] druid [[homepage](https://druid.apache.org/)] [head] [[stable](http://static.druid.io/artifacts/releases/druid-0.12.3-bin.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/druid.rb)]
+- [x] druid: Apache-2.0
 - [x] dscanner: BSL-1.0
 - [ ] dsh: GPL-2.0 (deprecated) [[homepage](https://www.netfort.gr.jp/~dancer/software/dsh.html.en)] [head] [[stable](https://www.netfort.gr.jp/~dancer/software/downloads/dsh-0.25.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dsh.rb)]
 - [x] dshb: MIT
