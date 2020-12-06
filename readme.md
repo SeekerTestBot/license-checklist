@@ -1,4 +1,4 @@
-3161 / 5369 (58.9%) of formulae have a valid `license` stanza as of 2020-12-06 00:02:13 UTC.
+3161 / 5369 (58.9%) of formulae have a valid `license` stanza as of 2020-12-06 12:04:32 UTC.
 
 1071 / 5369 (19.9%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -292,7 +292,7 @@
 - [x] babeld: MIT
 - [x] babl: LGPL-3.0-or-later
 - [ ] backupninja: GPL-2.0 (deprecated) [[homepage](https://0xacab.org/riseuplabs/backupninja)] [head] [[stable](https://sourcearchive.raspbian.org/main/b/backupninja/backupninja_1.1.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/backupninja.rb)]
-- [ ] bacula-fd [[homepage](https://www.bacula.org/)] [head] [[stable](https://downloads.sourceforge.net/project/bacula/bacula/9.6.6/bacula-9.6.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bacula-fd.rb)]
+- [ ] bacula-fd [[homepage](https://www.bacula.org/)] [head] [[stable](https://downloads.sourceforge.net/project/bacula/bacula/11.0.0/bacula-11.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bacula-fd.rb)]
 - [ ] badtouch: GPL-3.0 (deprecated) [[homepage](https://github.com/kpcyrd/badtouch)] [head] [[stable](https://github.com/kpcyrd/badtouch/archive/v0.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/badtouch.rb)]
 - [x] bagit: CC0-1.0
 - [ ] balance: GPL-2.0 (deprecated) [[homepage](https://www.inlab.net/balance/)] [head] [[stable](https://www.inlab.net/wp-content/uploads/2018/05/balance-3.57.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/balance.rb)]
@@ -1219,7 +1219,7 @@
 - [x] emp: BSD-2-Clause
 - [x] empty: BSD-3-Clause
 - [x] ems-flasher: MIT
-- [x] emscripten: MIT
+- [x] emscripten: `{:all_of=>["MIT", "Apache-2.0", {"Apache-2.0"=>{:with=>"LLVM-exception"}}]}`
 - [ ] enca: GPL-2.0 (deprecated) [[homepage](https://cihar.com/software/enca/)] [[head](https://github.com/nijel/enca.git)] [[stable](https://dl.cihar.com/enca/enca-1.19.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/enca.rb)]
 - [ ] encfs: GPL-3.0 (deprecated) [[homepage](https://vgough.github.io/encfs/)] [[head](https://github.com/vgough/encfs.git)] [[stable](https://github.com/vgough/encfs/archive/v1.9.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/encfs.rb)]
 - [x] enchant: LGPL-2.1-or-later
