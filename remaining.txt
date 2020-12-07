@@ -53,7 +53,6 @@ app-engine-java
 app-engine-python
 apparix
 apt-dater
-arb
 arcade-learning-environment
 archivemount
 arduino-cli
@@ -200,7 +199,6 @@ calabash
 camellia
 cap-completion
 carton
-cask
 cattle
 ccal
 ccd2iso
@@ -706,7 +704,6 @@ gprof2dot
 gpsbabel
 gpsd
 gpsim
-gptfdisk
 gptsync
 gputils
 gpx
@@ -831,7 +828,6 @@ imap-uw
 inadyn
 inetutils
 innotop
-inspectrum
 instalooter
 intercal
 intltool
@@ -1099,7 +1095,6 @@ libplist
 libpointing
 libpoker-eval
 libprotoident
-libproxy
 libpst
 libquantum
 libquicktime
@@ -1584,7 +1579,6 @@ portmidi
 poster
 postmark
 potrace
-povray
 pow
 powerman
 ppl
