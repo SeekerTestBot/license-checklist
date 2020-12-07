@@ -771,7 +771,6 @@ henplus
 hevea
 hexcurse
 hexgui
-hfsutils
 hicolor-icon-theme
 hilite
 hornetq
@@ -789,7 +788,6 @@ httpdiff
 httperf
 httping
 httpry
-httptunnel
 httrack
 huexpress
 hunspell
@@ -882,7 +880,6 @@ jolie
 joshua
 jove
 jp2a
-jpeginfo
 jpegoptim
 jpegrescan
 jrtplib
@@ -1646,7 +1643,6 @@ quvi
 qwt
 qwtpolar
 qxmpp
-radare2
 ragel
 rancid
 randomize-lines

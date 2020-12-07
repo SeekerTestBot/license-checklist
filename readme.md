@@ -1,6 +1,6 @@
-3168 / 5370 (59.0%) of formulae have a valid `license` stanza as of 2020-12-07 00:01:58 UTC.
+3172 / 5370 (59.1%) of formulae have a valid `license` stanza as of 2020-12-07 12:01:24 UTC.
 
-1065 / 5370 (19.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1063 / 5370 (19.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -451,7 +451,7 @@
 - [x] brew-pip: MIT
 - [x] brightness: BSD-2-Clause
 - [ ] briss [[homepage](https://briss.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/briss/release%200.9/briss-0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/briss.rb)]
-- [ ] brogue [[homepage](https://sites.google.com/site/broguegame/)] [head] [[stable](https://sites.google.com/site/broguegame/brogue-1.7.5-linux-amd64.tbz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/brogue.rb)]
+- [ ] brogue [[homepage](https://sites.google.com/site/broguegame/)] [head] [[stable](https://drive.google.com/u/0/uc?id=1ED_2nPubP-P0e_PHKYVzZF42M1Y9pUb4&export=download)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/brogue.rb)]
 - [x] broot: MIT
 - [x] brotli: MIT
 - [ ] browser [[homepage](https://gist.github.com/318247/)] [head] [[stable](https://gist.github.com/defunkt/318247/raw/7720fc969d58a9bfdc74d71deaa15c1eb7582fc1/browser)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/browser.rb)]
@@ -2028,7 +2028,7 @@
 - [x] hexyl: Apache-2.0
 - [x] hey: Apache-2.0
 - [x] hfstospell: Apache-2.0
-- [ ] hfsutils [[homepage](https://www.mars.org/home/rob/proj/hfs/)] [head] [[stable](https://www.mars.org/pub/hfs/hfsutils-3.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hfsutils.rb)]
+- [x] hfsutils: GPL-2.0-or-later
 - [x] hg-fast-export: GPL-2.0-or-later
 - [ ] hicolor-icon-theme: GPL-2.0 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/icon-theme/)] [[head](https://gitlab.freedesktop.org/xdg/default-icon-theme.git)] [[stable](https://icon-theme.freedesktop.org/releases/hicolor-icon-theme-0.17.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hicolor-icon-theme.rb)]
 - [x] hidapi: `cannot_represent`
@@ -2083,7 +2083,7 @@
 - [ ] httping: GPL-2.0 (deprecated) [[homepage](https://www.vanheusden.com/httping/)] [[head](https://github.com/flok99/httping.git)] [[stable](https://www.vanheusden.com/httping/httping-2.5.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/httping.rb)]
 - [ ] httpry: GPL-2.0 (deprecated) [[homepage](https://github.com/jbittel/httpry)] [[head](https://github.com/jbittel/httpry.git)] [[stable](https://github.com/jbittel/httpry/archive/httpry-0.1.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/httpry.rb)]
 - [x] httpstat: MIT
-- [ ] httptunnel: GPL-2.0 (deprecated) [[homepage](https://github.com/larsbrinkhoff/httptunnel)] [head] [[stable](https://ftp.gnu.org/gnu/httptunnel/httptunnel-3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/httptunnel.rb)]
+- [x] httptunnel: GPL-2.0-only
 - [x] httpx: MIT
 - [ ] httrack [[homepage](https://www.httrack.com/)] [head] [[stable](https://mirror.httrack.com/historical/httrack-3.49.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/httrack.rb)]
 - [x] hub: MIT
@@ -2305,7 +2305,7 @@
 - [x] jpeg: IJG
 - [x] jpeg-archive: MIT
 - [x] jpeg-turbo: IJG
-- [ ] jpeginfo [[homepage](https://www.kokkonen.net/tjko/projects.html)] [head] [[stable](https://www.kokkonen.net/tjko/src/jpeginfo-1.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jpeginfo.rb)]
+- [x] jpeginfo: GPL-2.0-or-later
 - [ ] jpegoptim: GPL-2.0 (deprecated) [[homepage](https://github.com/tjko/jpegoptim)] [[head](https://github.com/tjko/jpegoptim.git)] [[stable](https://github.com/tjko/jpegoptim/archive/RELEASE.1.4.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jpegoptim.rb)]
 - [ ] jpegrescan [[homepage](https://github.com/kud/jpegrescan)] [[head](https://github.com/kud/jpegrescan.git)] [[stable](https://github.com/kud/jpegrescan/archive/1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jpegrescan.rb)]
 - [x] jq: MIT
@@ -4130,7 +4130,7 @@
 - [x] rabbitmq-c: MIT
 - [x] rack: Apache-2.0
 - [x] radamsa: MIT
-- [ ] radare2: LGPL-3.0 (deprecated) [[homepage](https://radare.org)] [[head](https://github.com/radareorg/radare2.git)] [[stable](https://github.com/radareorg/radare2/archive/4.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/radare2.rb)]
+- [x] radare2: LGPL-3.0-only
 - [ ] ragel: GPL-2.0 (deprecated) [[homepage](https://www.colm.net/open-source/ragel/)] [head] [[stable](https://www.colm.net/files/ragel/ragel-6.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ragel.rb)]
 - [x] rails-completion: MIT
 - [x] rain: Apache-2.0
@@ -5193,7 +5193,7 @@
 <details><summary>W</summary>
 
 - [ ] w-calc [[homepage](https://w-calc.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/w-calc/Wcalc/2.5/wcalc-2.5.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/w-calc.rb)]
-- [ ] w3m [[homepage](https://w3m.sourceforge.io/)] [[head](https://github.com/tats/w3m.git)] [[stable](https://downloads.sourceforge.net/project/w3m/w3m/w3m-0.5.3/w3m-0.5.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/w3m.rb)]
+- [ ] w3m [[homepage](https://w3m.sourceforge.io/)] [[head](https://github.com/tats/w3m.git)] [[stable](https://deb.debian.org/debian/pool/main/w/w3m/w3m_0.5.3.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/w3m.rb)]
 - [x] wabt: Apache-2.0
 - [ ] wagyu [[homepage](https://github.com/AleoHQ/wagyu)] [[head](https://github.com/AleoHQ/wagyu.git)] [[stable](https://github.com/AleoHQ/wagyu/archive/v0.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wagyu.rb)]
 - [ ] wait_on [[homepage](https://www.freshports.org/sysutils/wait_on/)] [head] [[stable](https://pkg.freebsd.org/ports-distfiles/wait_on-1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wait_on.rb)]
