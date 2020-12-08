@@ -842,7 +842,6 @@ iphotoexport
 ipinfo
 ipmiutil
 iprint
-ipv6toolkit
 ircd-irc2
 ircii
 ironcli
@@ -1979,7 +1978,6 @@ udns
 udpxy
 udunits
 ufraw
-uftp
 uggconv
 umlet
 unac
@@ -2083,7 +2081,6 @@ webarchiver
 webfs
 webkit2png
 weboob
-whatmask
 when
 whitedb
 whohas

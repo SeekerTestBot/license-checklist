@@ -1,6 +1,6 @@
-3172 / 5370 (59.1%) of formulae have a valid `license` stanza as of 2020-12-07 12:01:31 UTC.
+3175 / 5370 (59.1%) of formulae have a valid `license` stanza as of 2020-12-08 00:01:59 UTC.
 
-1063 / 5370 (19.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1060 / 5370 (19.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2193,7 +2193,7 @@
 - [x] iproute2mac: MIT
 - [x] ipsumdump: MIT
 - [x] ipv6calc: GPL-2.0-only
-- [ ] ipv6toolkit: GPL-3.0 (deprecated) [[homepage](https://www.si6networks.com/tools/ipv6toolkit/)] [head] [[stable](https://www.si6networks.com/tools/ipv6toolkit/ipv6toolkit-v2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ipv6toolkit.rb)]
+- [x] ipv6toolkit: GPL-3.0-or-later
 - [x] ipython: BSD-3-Clause
 - [x] ircd-hybrid: GPL-2.0-or-later
 - [ ] ircd-irc2 [[homepage](http://www.irc.org/)] [head] [[stable](http://www.irc.org/ftp/irc/server/irc2.11.2p3.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ircd-irc2.rb)]
@@ -4985,7 +4985,7 @@
 - [ ] udpxy [[homepage](http://www.udpxy.com/)] [head] [[stable](http://www.udpxy.com/download/1_23/udpxy.1.0.23-12-prod.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/udpxy.rb)]
 - [ ] udunits [[homepage](https://www.unidata.ucar.edu/software/udunits/)] [head] [[stable](https://github.com/Unidata/UDUNITS-2/archive/v2.2.27.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/udunits.rb)]
 - [ ] ufraw [[homepage](https://ufraw.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/ufraw/ufraw/ufraw-0.22/ufraw-0.22.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ufraw.rb)]
-- [ ] uftp: GPL-3.0 (deprecated) [[homepage](https://uftp-multicast.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/uftp-multicast/source-tar/uftp-5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uftp.rb)]
+- [x] uftp: GPL-3.0-or-later
 - [ ] uggconv [[homepage](https://wyrmcorp.com/software/uggconv/index.shtml)] [head] [[stable](https://wyrmcorp.com/software/uggconv/uggconv-1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uggconv.rb)]
 - [x] ugrep: BSD-3-Clause
 - [x] uhd: `{:all_of=>["GPL-3.0-or-later", "LGPL-3.0-or-later", "MIT", "BSD-3-Clause", "Apache-2.0"]}`
@@ -5200,7 +5200,7 @@
 - [x] wget: GPL-3.0-or-later
 - [x] wgetpaste: MIT
 - [x] whalebrew: Apache-2.0
-- [ ] whatmask: GPL-2.0 (deprecated) [[homepage](http://www.laffeycomputer.com/whatmask.html)] [head] [[stable](https://web.archive.org/web/20170107110521/downloads.laffeycomputer.com/current_builds/whatmask/whatmask-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/whatmask.rb)]
+- [x] whatmask: GPL-2.0-or-later
 - [x] whatmp3: MIT
 - [ ] when [[homepage](http://www.lightandmatter.com/when/when.html)] [[head](https://github.com/bcrowell/when.git)] [[stable](https://github.com/bcrowell/when/archive/1.1.40.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/when.rb)]
 - [x] whistle: MIT
