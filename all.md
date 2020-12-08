@@ -1,6 +1,6 @@
-3175 / 5370 (59.1%) of formulae have a valid `license` stanza as of 2020-12-08 00:01:59 UTC.
+3177 / 5372 (59.1%) of formulae have a valid `license` stanza as of 2020-12-08 12:01:27 UTC.
 
-1060 / 5370 (19.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1060 / 5372 (19.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1126,6 +1126,7 @@
 - [x] duck: GPL-3.0-only
 - [x] duckdb: MIT
 - [x] duckscript: Apache-2.0
+- [x] duf: MIT
 - [ ] duff [[homepage](https://duff.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/duff/duff/0.5.2/duff-0.5.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/duff.rb)]
 - [x] duktape: MIT
 - [ ] dumb [[homepage](https://dumb.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/dumb/dumb/0.9.3/dumb-0.9.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dumb.rb)]
@@ -2417,6 +2418,7 @@
 - [x] kubernetes-service-catalog-client: Apache-2.0
 - [x] kubeseal: Apache-2.0
 - [x] kubespy: Apache-2.0
+- [x] kubevela: Apache-2.0
 - [x] kubie: Zlib
 - [x] kumactl: Apache-2.0
 - [x] kumo: MIT
@@ -4230,7 +4232,7 @@
 - [ ] robodoc: GPL-3.0 (deprecated) [[homepage](https://www.xs4all.nl/~rfsber/Robo/index.html)] [[head](https://github.com/gumpu/ROBODoc.git)] [[stable](https://rfsber.home.xs4all.nl/Robo/archives/robodoc-4.99.43.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/robodoc.rb)]
 - [x] robot-framework: Apache-2.0
 - [ ] robotfindskitten: GPL-2.0 (deprecated) [[homepage](http://robotfindskitten.org/)] [[head](https://github.com/robotfindskitten/robotfindskitten.git)] [[stable](https://downloads.sourceforge.net/project/rfk/robotfindskitten-POSIX/ship_it_anyway/robotfindskitten-2.8284271.702.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/robotfindskitten.rb)]
-- [ ] rocksdb: GPL-2.0 (deprecated) [[homepage](https://rocksdb.org/)] [head] [[stable](https://github.com/facebook/rocksdb/archive/v6.11.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rocksdb.rb)]
+- [ ] rocksdb: GPL-2.0 (deprecated) [[homepage](https://rocksdb.org/)] [head] [[stable](https://github.com/facebook/rocksdb/archive/v6.14.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rocksdb.rb)]
 - [ ] rofs-filtered: GPL-2.0 (deprecated) [[homepage](https://github.com/gburca/rofs-filtered/)] [head] [[stable](https://github.com/gburca/rofs-filtered/archive/rel-1.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rofs-filtered.rb)]
 - [ ] rogue [[homepage](https://sourceforge.net/projects/roguelike/)] [head] [[stable](https://src.fedoraproject.org/repo/pkgs/rogue/rogue5.4.4-src.tar.gz/033288f46444b06814c81ea69d96e075/rogue5.4.4-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/rogue.rb)]
 - [ ] roll: GPL-2.0 (deprecated) [[homepage](https://matteocorti.github.io/roll/)] [[head](https://github.com/matteocorti/roll.git)] [[stable](https://github.com/matteocorti/roll/releases/download/v2.5.0/roll-2.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/roll.rb)]
