@@ -1,6 +1,6 @@
-3181 / 5372 (59.2%) of formulae have a valid `license` stanza as of 2020-12-09 00:02:21 UTC.
+3185 / 5372 (59.3%) of formulae have a valid `license` stanza as of 2020-12-09 12:01:54 UTC.
 
-1059 / 5372 (19.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1055 / 5372 (19.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -1633,7 +1633,7 @@
 - [x] git-hooks-go: MIT
 - [x] git-hound: MIT
 - [x] git-if: MIT
-- [ ] git-imerge: GPL-2.0 (deprecated) [[homepage](https://github.com/mhagger/git-imerge)] [[head](https://github.com/mhagger/git-imerge.git)] [[stable](https://github.com/mhagger/git-imerge/archive/v1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-imerge.rb)]
+- [x] git-imerge: GPL-2.0-or-later
 - [ ] git-integration: GPL-2.0 (deprecated) [[homepage](https://johnkeeping.github.io/git-integration/)] [[head](https://github.com/johnkeeping/git-integration.git)] [[stable](https://github.com/johnkeeping/git-integration/archive/v0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-integration.rb)]
 - [ ] git-interactive-rebase-tool: GPL-3.0 (deprecated) [[homepage](https://gitrebasetool.mitmaro.ca/)] [head] [[stable](https://github.com/MitMaro/git-interactive-rebase-tool/archive/1.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/git-interactive-rebase-tool.rb)]
 - [x] git-lfs: MIT
@@ -3389,7 +3389,7 @@
 - [x] nco: BSD-3-Clause
 - [x] ncompress: Unlicense
 - [ ] ncp [[homepage](https://www.fefe.de/ncp/)] [[head](:pserver:cvs:@cvs.fefe.de:/cvs)] [[stable](https://dl.fefe.de/ncp-1.2.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ncp.rb)]
-- [ ] ncrack: GPL-2.0 (deprecated) [[homepage](https://nmap.org/ncrack/)] [[head](https://github.com/nmap/ncrack.git)] [[stable](https://github.com/nmap/ncrack/archive/0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ncrack.rb)]
+- [x] ncrack: GPL-2.0-only
 - [x] ncspot: BSD-2-Clause
 - [x] ncurses: MIT
 - [x] ncview: GPL-3.0-only
@@ -4465,7 +4465,7 @@
 - [x] sip: `{:any_of=>["GPL-2.0-only", "GPL-3.0-only"]}`
 - [ ] sipcalc [[homepage](https://www.routemeister.net/projects/sipcalc/)] [head] [[stable](https://www.routemeister.net/projects/sipcalc/files/sipcalc-1.1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sipcalc.rb)]
 - [x] sipp: BSD-3-Clause
-- [ ] sipsak: GPL-2.0 (deprecated) [[homepage](https://github.com/nils-ohlmeier/sipsak/)] [head] [[stable](https://github.com/nils-ohlmeier/sipsak/releases/download/0.9.7/sipsak-0.9.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sipsak.rb)]
+- [x] sipsak: GPL-2.0-or-later
 - [x] siril: GPL-3.0-or-later
 - [ ] sisc-scheme [[homepage](http://sisc-scheme.org/)] [head] [[stable](https://downloads.sourceforge.net/project/sisc/SISC%20Lite/1.16.6/sisc-lite-1.16.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/sisc-scheme.rb)]
 - [x] sispmctl: GPL-2.0-or-later
@@ -4663,7 +4663,7 @@
 - [x] strace: LGPL-2.1-or-later
 - [x] streamlink: BSD-2-Clause
 - [ ] streamripper [[homepage](https://streamripper.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/streamripper/streamripper%20%28current%29/1.64.6/streamripper-1.64.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/streamripper.rb)]
-- [ ] stress: GPL-2.0 (deprecated) [[homepage](https://people.seas.harvard.edu/~apw/stress/)] [head] [[stable](https://people.seas.harvard.edu/~apw/stress/stress-1.0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/stress.rb)]
+- [x] stress: GPL-2.0-or-later
 - [x] stress-ng: GPL-2.0-or-later
 - [ ] strongswan [[homepage](https://www.strongswan.org)] [[head](https://git.strongswan.org/strongswan.git)] [[stable](https://download.strongswan.org/strongswan-5.9.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/strongswan.rb)]
 - [x] structurizr-cli: Apache-2.0

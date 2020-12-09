@@ -629,7 +629,6 @@ git-crypt
 git-ftp
 git-gui
 git-hooks
-git-imerge
 git-integration
 git-interactive-rebase-tool
 git-multipush
@@ -1355,7 +1354,6 @@ nbimg
 ncftp
 ncmpcpp
 ncp
-ncrack
 ndiff
 ne
 neatvi
@@ -1789,7 +1787,6 @@ simple-obfs
 since
 singular
 sipcalc
-sipsak
 sisc-scheme
 skktools
 skymaker
@@ -1855,7 +1852,6 @@ stone
 stone-soup
 stow
 streamripper
-stress
 strongswan
 style-check
 sub2srt
