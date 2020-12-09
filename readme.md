@@ -1,6 +1,6 @@
-3177 / 5372 (59.1%) of formulae have a valid `license` stanza as of 2020-12-08 12:01:20 UTC.
+3181 / 5372 (59.2%) of formulae have a valid `license` stanza as of 2020-12-09 00:02:13 UTC.
 
-1060 / 5372 (19.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1059 / 5372 (19.7%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -815,7 +815,7 @@
 - [ ] cpio [[homepage](https://www.gnu.org/software/cpio/)] [head] [[stable](https://ftp.gnu.org/gnu/cpio/cpio-2.13.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpio.rb)]
 - [ ] cpl [[homepage](https://www.eso.org/sci/software/cpl/index.html)] [head] [[stable](ftp://ftp.eso.org/pub/dfs/pipelines/libraries/cpl/cpl-7.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpl.rb)]
 - [ ] cpm [[homepage](https://metacpan.org/pod/cpm)] [head] [[stable](https://cpan.metacpan.org/authors/id/S/SK/SKAJI/App-cpm-0.993.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpm.rb)]
-- [ ] cpmtools [[homepage](http://www.moria.de/~michael/cpmtools/)] [head] [[stable](http://www.moria.de/~michael/cpmtools/files/cpmtools-2.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpmtools.rb)]
+- [x] cpmtools: GPL-3.0-or-later
 - [x] cpp-gsl: MIT
 - [x] cppad: EPL-2.0
 - [x] cppcheck: GPL-3.0-or-later
@@ -1141,7 +1141,7 @@
 - [ ] duo_unix: GPL-2.0 (deprecated) [[homepage](https://www.duosecurity.com/docs/duounix)] [head] [[stable](https://github.com/duosecurity/duo_unix/archive/duo_unix-1.11.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/duo_unix.rb)]
 - [x] duplicity: GPL-2.0-or-later
 - [ ] duply [[homepage](https://sourceforge.net/projects/ftplicity/)] [head] [[stable](https://downloads.sourceforge.net/project/ftplicity/duply%20%28simple%20duplicity%29/2.2.x/duply_2.2.2.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/duply.rb)]
-- [ ] dupseek [[homepage](http://www.beautylabs.net/software/dupseek.html)] [head] [[stable](http://www.beautylabs.net/software/dupseek-1.3.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dupseek.rb)]
+- [x] dupseek: GPL-2.0-only
 - [x] dust: Apache-2.0
 - [x] duti: `public_domain`
 - [ ] dvanalyzer [[homepage](https://mediaarea.net/DVAnalyzer)] [head] [[stable](https://mediaarea.net/download/binary/dvanalyzer/1.4.2/DVAnalyzer_CLI_1.4.2_GNU_FromSource.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dvanalyzer.rb)]
@@ -4913,7 +4913,7 @@
 - [x] tm: Apache-2.0
 - [x] tmate: ISC
 - [ ] tmpreaper: GPL-2.0 (deprecated) [[homepage](https://packages.debian.org/sid/tmpreaper)] [head] [[stable](https://deb.debian.org/debian/pool/main/t/tmpreaper/tmpreaper_1.6.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tmpreaper.rb)]
-- [ ] tmpwatch: GPL-2.0 (deprecated) [[homepage](https://pagure.io/tmpwatch)] [head] [[stable](https://releases.pagure.org/tmpwatch/tmpwatch-2.11.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tmpwatch.rb)]
+- [x] tmpwatch: GPL-2.0-only
 - [x] tmux: ISC
 - [x] tmux-mem-cpu-load: Apache-2.0
 - [x] tmux-xpanes: MIT
@@ -5149,7 +5149,7 @@
 - [ ] virtualpg [[homepage](https://www.gaia-gis.it/fossil/virtualpg/index)] [head] [[stable](https://www.gaia-gis.it/gaia-sins/virtualpg-1.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/virtualpg.rb)]
 - [ ] virtuoso [[homepage](https://virtuoso.openlinksw.com/wiki/main/)] [head] [[stable](https://github.com/openlink/virtuoso-opensource/releases/download/v7.2.5.1/virtuoso-opensource-7.2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/virtuoso.rb)]
 - [x] virustotal-cli: Apache-2.0
-- [ ] vis [[homepage](https://github.com/martanne/vis)] [[head](https://github.com/martanne/vis.git)] [[stable](https://github.com/martanne/vis/archive/v0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vis.rb)]
+- [x] vis: ISC
 - [ ] visionmedia-watch [[homepage](https://github.com/visionmedia/watch)] [[head](https://github.com/visionmedia/watch.git)] [[stable](https://github.com/visionmedia/watch/archive/0.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/visionmedia-watch.rb)]
 - [ ] visitors [[homepage](http://www.hping.org/visitors/)] [head] [[stable](http://www.hping.org/visitors/visitors-0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/visitors.rb)]
 - [ ] visp [[homepage](https://visp.inria.fr/)] [head] [[stable](https://gforge.inria.fr/frs/download.php/latestfile/475/visp-3.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/visp.rb)]

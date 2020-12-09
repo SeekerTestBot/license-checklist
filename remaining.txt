@@ -299,7 +299,6 @@ cpansearch
 cpio
 cpl
 cpm
-cpmtools
 cppcms
 cppi
 cppman
@@ -432,7 +431,6 @@ dumb
 dungeon
 duo_unix
 duply
-dupseek
 dvanalyzer
 dvd+rw-tools
 dvd-vr
@@ -1932,7 +1930,6 @@ titan-server
 tivodecode
 tj
 tmpreaper
-tmpwatch
 tnef
 tnftp
 tnftpd
@@ -2040,7 +2037,6 @@ vip
 virtualhost.sh
 virtualpg
 virtuoso
-vis
 visionmedia-watch
 visitors
 visp
