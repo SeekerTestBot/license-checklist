@@ -365,7 +365,6 @@ delta
 deployer
 depqbf
 desktop-file-utils
-devil
 devtodo
 dex
 dfu-programmer
@@ -410,7 +409,6 @@ docbook2x
 docutils
 docx2txt
 doitlive
-dopewars
 dosbox
 dosfstools
 doublecpp
@@ -1351,7 +1349,6 @@ namazu
 nanorc
 nauty
 nbimg
-ncftp
 ncmpcpp
 ncp
 ndiff
@@ -1415,7 +1412,6 @@ ocaml
 ocaml-findlib
 ocaml-num
 ocamlbuild
-ocp
 ocrad
 ode
 odo
@@ -1656,7 +1652,6 @@ rdfind
 rdiff-backup
 rds-command-line-tools
 rdup
-readline
 reaver
 recode
 recon-ng
@@ -1962,7 +1957,6 @@ uade
 ubertooth
 ucg
 uchardet
-ucl
 ucommon
 ucon64
 ucspi-tcp
@@ -2081,7 +2075,6 @@ wifi-password
 wiggle
 wiiuse
 wimlib
-winetricks
 winexe
 wiredtiger
 wireguard-tools
@@ -2172,7 +2165,6 @@ zip
 zlog
 znapzend
 zork
-zpaq
 zsdx
 zsh
 zsh-completions
