@@ -1,6 +1,6 @@
-3193 / 5372 (59.4%) of formulae have a valid `license` stanza as of 2020-12-10 12:05:17 UTC.
+3201 / 5376 (59.5%) of formulae have a valid `license` stanza as of 2020-12-11 00:02:01 UTC.
 
-1050 / 5372 (19.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1048 / 5376 (19.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -159,7 +159,7 @@
 - [x] archi-steam-farm: Apache-2.0
 - [ ] archivemount [[homepage](https://www.cybernoia.de/software/archivemount.html)] [head] [[stable](https://www.cybernoia.de/software/archivemount/archivemount-0.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/archivemount.rb)]
 - [x] archiver: MIT
-- [ ] arduino-cli: GPL-3.0 (deprecated) [[homepage](https://github.com/arduino/arduino-cli)] [[head](https://github.com/arduino/arduino-cli.git)] [[stable](https://github.com/arduino/arduino-cli.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/arduino-cli.rb)]
+- [x] arduino-cli: GPL-3.0-only
 - [x] argo: Apache-2.0
 - [x] argocd: Apache-2.0
 - [x] argon2: Apache-2.0
@@ -219,6 +219,7 @@
 - [x] atomist-cli: Apache-2.0
 - [ ] atool: GPL-3.0 (deprecated) [[homepage](https://savannah.nongnu.org/projects/atool/)] [head] [[stable](https://savannah.nongnu.org/download/atool/atool-0.39.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/atool.rb)]
 - [x] ats2-postiats: GPL-3.0-only
+- [x] attr: GPL-2.0-or-later
 - [ ] aubio [[homepage](https://aubio.org/)] [head] [[stable](https://aubio.org/pub/aubio-0.4.9.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aubio.rb)]
 - [x] audacious: BSD-2-Clause
 - [ ] audiofile: LGPL-2.1 (deprecated) [[homepage](https://audiofile.68k.org/)] [[head](https://github.com/mpruett/audiofile.git)] [[stable](https://audiofile.68k.org/audiofile-0.3.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/audiofile.rb)]
@@ -2171,6 +2172,7 @@
 - [x] inform6: Artistic-2.0
 - [x] infracost: Apache-2.0
 - [x] infrakit: Apache-2.0
+- [x] inframap: MIT
 - [x] iniparser: MIT
 - [x] inja: MIT
 - [x] inko: MPL-2.0
@@ -2887,7 +2889,7 @@
 - [ ] libunistring: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/libunistring/)] [head] [[stable](https://ftp.gnu.org/gnu/libunistring/libunistring-0.9.10.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libunistring.rb)]
 - [ ] libunwind-headers [[homepage](https://opensource.apple.com/)] [head] [[stable](https://opensource.apple.com/tarballs/libunwind/libunwind-35.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libunwind-headers.rb)]
 - [x] libupnp: BSD-3-Clause
-- [ ] libusb: LGPL-2.1 (deprecated) [[homepage](https://libusb.info/)] [[head](https://github.com/libusb/libusb.git)] [[stable](https://github.com/libusb/libusb/releases/download/v1.0.23/libusb-1.0.23.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libusb.rb)]
+- [x] libusb: LGPL-2.1-or-later
 - [ ] libusb-compat [[homepage](https://libusb.info/)] [head] [[stable](https://downloads.sourceforge.net/project/libusb/libusb-compat-0.1/libusb-compat-0.1.5/libusb-compat-0.1.5.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libusb-compat.rb)]
 - [ ] libusbmuxd: LGPL-2.1 (deprecated) [[homepage](https://www.libimobiledevice.org/)] [[head](https://github.com/libimobiledevice/libusbmuxd.git)] [[stable](https://github.com/libimobiledevice/libusbmuxd/archive/2.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libusbmuxd.rb)]
 - [x] libusrsctp: BSD-3-Clause
@@ -3866,7 +3868,7 @@
 - [ ] pidof [[homepage](http://www.nightproductions.net/cli.htm)] [head] [[stable](http://www.nightproductions.net/downloads/pidof_source.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pidof.rb)]
 - [x] pig: Apache-2.0
 - [ ] pigz [[homepage](https://zlib.net/pigz/)] [head] [[stable](https://zlib.net/pigz/pigz-2.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pigz.rb)]
-- [ ] pike [[homepage](https://pike.lysator.liu.se/)] [head] [[stable](https://pike.lysator.liu.se/pub/pike/latest-stable/Pike-v8.0.702.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pike.rb)]
+- [x] pike: `{:any_of=>["GPL-2.0-only", "LGPL-2.1-only", "MPL-1.1"]}`
 - [x] piknik: BSD-2-Clause
 - [x] pillar: MIT
 - [x] pilosa: Apache-2.0
@@ -3940,7 +3942,7 @@
 - [x] poppler: GPL-2.0-only
 - [x] popt: MIT
 - [ ] portaudio [[homepage](http://www.portaudio.com)] [[head](https://github.com/PortAudio/portaudio.git)] [[stable](http://www.portaudio.com/archives/pa_stable_v190600_20161030.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/portaudio.rb)]
-- [ ] portmidi [[homepage](https://sourceforge.net/projects/portmedia/)] [head] [[stable](https://downloads.sourceforge.net/project/portmedia/portmidi/217/portmidi-src-217.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/portmidi.rb)]
+- [x] portmidi: MIT
 - [x] posh: GPL-3.0-or-later
 - [ ] poster: GPL-2.0 (deprecated) [[homepage](https://schrfr.github.io/poster/)] [head] [[stable](https://github.com/schrfr/poster/archive/1.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/poster.rb)]
 - [x] postgis: GPL-2.0-or-later
@@ -4010,7 +4012,7 @@
 - [x] proxytunnel: GPL-2.0-or-later
 - [ ] ps2eps [[homepage](https://www.tm.uka.de/~bless/ps2eps)] [head] [[stable](https://www.tm.uka.de/~bless/ps2eps-1.68.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ps2eps.rb)]
 - [x] psc-package: BSD-3-Clause
-- [ ] psftools: GPL-2.0 (deprecated) [[homepage](https://www.seasip.info/Unix/PSF/)] [head] [[stable](https://www.seasip.info/Unix/PSF/psftools-1.0.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/psftools.rb)]
+- [ ] psftools: GPL-2.0 (deprecated) [[homepage](https://www.seasip.info/Unix/PSF/)] [head] [[stable](https://www.seasip.info/Unix/PSF/psftools-1.0.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/psftools.rb)]
 - [ ] psgrep: GPL-3.0 (deprecated) [[homepage](https://github.com/jvz/psgrep)] [[head](https://github.com/jvz/psgrep.git)] [[stable](https://github.com/jvz/psgrep/archive/1.0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/psgrep.rb)]
 - [x] pspg: BSD-2-Clause
 - [x] psql2csv: MIT
@@ -4840,6 +4842,7 @@
 - [x] termshare: BSD-2-Clause
 - [x] termshark: MIT
 - [x] termtosvg: BSD-3-Clause
+- [x] terracognita: MIT
 - [x] terraform: MPL-2.0
 - [x] terraform-docs: MIT
 - [x] terraform-inventory: MIT
@@ -5111,6 +5114,7 @@
 - [x] vaulted: MIT
 - [ ] vavrdiasm: GPL-3.0 (deprecated) [[homepage](https://github.com/vsergeev/vAVRdisasm)] [head] [[stable](https://github.com/vsergeev/vavrdisasm/archive/v3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vavrdiasm.rb)]
 - [ ] vbindiff [[homepage](https://www.cjmweb.net/vbindiff/)] [head] [[stable](https://www.cjmweb.net/vbindiff/vbindiff-3.0_beta5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vbindiff.rb)]
+- [x] vc: BSD-3-Clause
 - [ ] vc4asm [[homepage](http://maazl.de/project/vc4asm/doc/index.html)] [head] [[stable](https://github.com/maazl/vc4asm/archive/V0.2.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vc4asm.rb)]
 - [ ] vcdimager [[homepage](https://www.gnu.org/software/vcdimager/)] [head] [[stable](https://ftp.gnu.org/gnu/vcdimager/vcdimager-2.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vcdimager.rb)]
 - [ ] vcftools: LGPL-3.0 (deprecated) [[homepage](https://vcftools.github.io/)] [head] [[stable](https://github.com/vcftools/vcftools/releases/download/v0.1.16/vcftools-0.1.16.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vcftools.rb)]

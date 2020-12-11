@@ -55,7 +55,6 @@ apparix
 apt-dater
 arcade-learning-environment
 archivemount
-arduino-cli
 argp-standalone
 argtable
 argus
@@ -1126,7 +1125,6 @@ libu2f-host
 libuecc
 libunistring
 libunwind-headers
-libusb
 libusb-compat
 libusbmuxd
 libvisio
@@ -1526,7 +1524,6 @@ picocom
 pidgin
 pidof
 pigz
-pike
 pinboard-notes-backup
 pinentry
 pinentry-mac
@@ -1563,7 +1560,6 @@ polyglot
 polyml
 ponysay
 portaudio
-portmidi
 poster
 postmark
 potrace
