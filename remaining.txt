@@ -245,7 +245,6 @@ chmlib
 chocolate-doom
 chordii
 chromaprint
-chronograf
 chuck
 cidrmerge
 cifer
@@ -608,7 +607,6 @@ geoserver
 gerbv
 get_iplayer
 getmail
-gettext
 getxbook
 gexiv2
 gf-complete
@@ -1241,7 +1239,6 @@ mfcuk
 mfoc
 mfterm
 mftrace
-mg
 mhash
 midgard2
 midicsv
@@ -1449,7 +1446,6 @@ ophcrack
 optipng
 orbit
 orc
-orc-tools
 orocos-kdl
 ortp
 osc
@@ -2154,7 +2150,6 @@ zdelta
 zelda-roth-se
 zenity
 zeromq
-zile
 zim
 zinc
 zip

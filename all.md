@@ -1,6 +1,6 @@
-3201 / 5376 (59.5%) of formulae have a valid `license` stanza as of 2020-12-11 00:02:09 UTC.
+3206 / 5376 (59.6%) of formulae have a valid `license` stanza as of 2020-12-11 12:04:31 UTC.
 
-1048 / 5376 (19.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1046 / 5376 (19.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -583,7 +583,7 @@
 - [ ] cdparanoia [[homepage](https://www.xiph.org/paranoia/)] [head] [[stable](https://downloads.xiph.org/releases/cdparanoia/cdparanoia-III-10.2.src.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdparanoia.rb)]
 - [ ] cdpr [[homepage](http://www.monkeymental.com/)] [head] [[stable](https://downloads.sourceforge.net/project/cdpr/cdpr/2.4/cdpr-2.4.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdpr.rb)]
 - [ ] cdrdao: GPL-2.0 (deprecated) [[homepage](https://cdrdao.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/cdrdao/cdrdao-1.2.4.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdrdao.rb)]
-- [ ] cdrtools [[homepage](http://cdrecord.org/)] [head] [[stable](https://downloads.sourceforge.net/project/cdrtools/cdrtools-3.01.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdrtools.rb)]
+- [ ] cdrtools [[homepage](http://cdrecord.org/)] [head] [[stable](https://downloads.sourceforge.net/project/cdrtools/alpha/cdrtools-3.02a09.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cdrtools.rb)]
 - [x] cedille: MIT
 - [x] celero: Apache-2.0
 - [ ] center-im [[homepage](https://www.centerim.org/index.php/Main_Page)] [head] [[stable](https://www.centerim.org/download/releases/centerim-4.22.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/center-im.rb)]
@@ -654,7 +654,7 @@
 - [ ] chromaprint: LGPL-2.1 (deprecated) [[homepage](https://acoustid.org/chromaprint)] [head] [[stable](https://github.com/acoustid/chromaprint/releases/download/v1.5.0/chromaprint-1.5.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chromaprint.rb)]
 - [x] chrome-cli: MIT
 - [x] chrome-export: ISC
-- [ ] chronograf: AGPL-3.0 (deprecated) [[homepage](https://docs.influxdata.com/chronograf/latest/)] [[head](https://github.com/influxdata/chronograf.git)] [[stable](https://github.com/influxdata/chronograf/archive/1.8.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/chronograf.rb)]
+- [x] chronograf: AGPL-3.0-or-later
 - [x] chrony: GPL-2.0-only
 - [x] chruby: MIT
 - [x] chruby-fish: MIT
@@ -1576,7 +1576,7 @@
 - [ ] get_iplayer: GPL-3.0 (deprecated) [[homepage](https://github.com/get-iplayer/get_iplayer)] [[head](https://github.com/get-iplayer/get_iplayer.git)] [[stable](https://github.com/get-iplayer/get_iplayer/archive/v3.26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/get_iplayer.rb)]
 - [x] getdns: BSD-3-Clause
 - [ ] getmail [[homepage](http://pyropus.ca/software/getmail/)] [head] [[stable](http://pyropus.ca/software/getmail/old-versions/getmail-5.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/getmail.rb)]
-- [ ] gettext: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gettext/)] [head] [[stable](https://ftp.gnu.org/gnu/gettext/gettext-0.21.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gettext.rb)]
+- [x] gettext: GPL-3.0-or-later
 - [ ] getxbook [[homepage](https://njw.name/getxbook)] [head] [[stable](https://njw.name/getxbook/getxbook-1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/getxbook.rb)]
 - [ ] gexiv2: GPL-2.0 (deprecated) [[homepage](https://wiki.gnome.org/Projects/gexiv2)] [head] [[stable](https://download.gnome.org/sources/gexiv2/0.12/gexiv2-0.12.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gexiv2.rb)]
 - [ ] gf-complete [[homepage](https://web.archive.org/web/20191024182742/jerasure.org/)] [head] [[stable](http://lab.jerasure.org/jerasure/gf-complete/repository/archive.tar.gz?ref=v2.0)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gf-complete.rb)]
@@ -3162,7 +3162,7 @@
 - [ ] mfoc: GPL-2.0 (deprecated) [[homepage](https://github.com/nfc-tools/mfoc)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mfoc/mfoc-0.10.7.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mfoc.rb)]
 - [ ] mfterm: GPL-3.0 (deprecated) [[homepage](https://github.com/4ZM/mfterm)] [[head](https://github.com/4ZM/mfterm.git)] [[stable](https://github.com/4ZM/mfterm/releases/download/v1.0.7/mfterm-1.0.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mfterm.rb)]
 - [ ] mftrace: GPL-2.0 (deprecated) [[homepage](https://lilypond.org/mftrace/)] [[head](https://github.com/hanwen/mftrace.git)] [[stable](https://lilypond.org/downloads/sources/mftrace/mftrace-1.2.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mftrace.rb)]
-- [ ] mg [[homepage](https://github.com/ibara/mg)] [head] [[stable](https://github.com/ibara/mg/releases/download/mg-6.7/mg-6.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mg.rb)]
+- [x] mg: `{:all_of=>[:public_domain, "ISC", :cannot_represent]}`
 - [x] mgba: MPL-2.0
 - [ ] mhash [[homepage](https://mhash.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mhash/mhash/0.9.9.9/mhash-0.9.9.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mhash.rb)]
 - [x] mhonarc: GPL-2.0-or-later
@@ -3649,7 +3649,7 @@
 - [x] or-tools: Apache-2.0
 - [ ] orbit [[homepage](https://projects.gnome.org/ORBit2)] [head] [[stable](https://download.gnome.org/sources/ORBit2/2.14/ORBit2-2.14.19.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orbit.rb)]
 - [ ] orc [[homepage](https://gstreamer.freedesktop.org/projects/orc.html)] [head] [[stable](https://gstreamer.freedesktop.org/src/orc/orc-0.4.32.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc.rb)]
-- [ ] orc-tools [[homepage](https://orc.apache.org/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=org/apache/orc/orc-tools/1.6.5/orc-tools-1.6.5-uber.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orc-tools.rb)]
+- [x] orc-tools: Apache-2.0
 - [x] orientdb: Apache-2.0
 - [x] ormolu: BSD-3-Clause
 - [ ] orocos-kdl: LGPL-2.1 (deprecated) [[homepage](https://orocos.org/)] [head] [[stable](https://github.com/orocos/orocos_kinematics_dynamics/archive/v1.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orocos-kdl.rb)]
@@ -5094,7 +5094,7 @@
 - [ ] vf [[homepage](https://github.com/glejeune/vf)] [[head](https://github.com/glejeune/vf.git)] [[stable](https://github.com/glejeune/vf/archive/0.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vf.rb)]
 - [ ] vfuse [[homepage](https://github.com/chilcote/vfuse)] [head] [[stable](https://github.com/chilcote/vfuse/archive/2.2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vfuse.rb)]
 - [x] vgmstream: ISC
-- [ ] vgrep: GPL-3.0 (deprecated) [[homepage](https://github.com/vrothberg/vgrep)] [head] [[stable](https://github.com/vrothberg/vgrep/archive/v2.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vgrep.rb)]
+- [ ] vgrep: GPL-3.0 (deprecated) [[homepage](https://github.com/vrothberg/vgrep)] [head] [[stable](https://github.com/vrothberg/vgrep/archive/v2.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vgrep.rb)]
 - [ ] vice [[homepage](https://sourceforge.net/projects/vice-emu/)] [[head](https://svn.code.sf.net/p/vice-emu/code/trunk/vice)] [[stable](https://downloads.sourceforge.net/project/vice-emu/releases/vice-3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vice.rb)]
 - [ ] viennacl [[homepage](https://viennacl.sourceforge.io/)] [[head](https://github.com/viennacl/viennacl-dev.git)] [[stable](https://downloads.sourceforge.net/project/viennacl/1.7.x/ViennaCL-1.7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/viennacl.rb)]
 - [x] viewvc: BSD-2-Clause
@@ -5412,7 +5412,7 @@
 - [x] zero-install: LGPL-2.1-or-later
 - [ ] zeromq [[homepage](https://zeromq.org/)] [[head](https://github.com/zeromq/libzmq.git)] [[stable](https://github.com/zeromq/libzmq/releases/download/v4.3.3/zeromq-4.3.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zeromq.rb)]
 - [x] zig: MIT
-- [ ] zile [[homepage](https://www.gnu.org/software/zile/)] [head] [[stable](https://ftp.gnu.org/gnu/zile/zile-2.4.15.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zile.rb)]
+- [x] zile: GPL-3.0-or-later
 - [ ] zim: GPL-2.0 (deprecated) [[homepage](https://zim-wiki.org/)] [[head](https://github.com/jaap-karssenberg/zim-desktop-wiki.git)] [[stable](https://github.com/jaap-karssenberg/zim-desktop-wiki/archive/0.73.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zim.rb)]
 - [x] zimg: WTFPL
 - [ ] zinc [[homepage](https://github.com/typesafehub/zinc)] [head] [[stable](https://downloads.typesafe.com/zinc/0.3.15/zinc-0.3.15.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/zinc.rb)]
