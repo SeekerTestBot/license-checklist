@@ -420,7 +420,6 @@ dspdfviewer
 dtach
 dtc
 dterm
-dtrx
 duc
 duff
 dumb
@@ -588,7 +587,6 @@ gcc@7
 gcc@8
 gcc@9
 gconf
-gcore
 gcutil
 gcviewer
 gdbm
@@ -606,7 +604,6 @@ geos
 geoserver
 gerbv
 get_iplayer
-getmail
 getxbook
 gexiv2
 gf-complete
@@ -1021,7 +1018,6 @@ libgsm
 libgtop
 libgweather
 libhid
-libhttpserver
 libicns
 libiconv
 libid3tag
@@ -1645,7 +1641,6 @@ rdiff-backup
 rds-command-line-tools
 rdup
 reaver
-recode
 recon-ng
 recoverjpeg
 recutils
@@ -1844,7 +1839,6 @@ style-check
 sub2srt
 subnetcalc
 suite-sparse
-superlu
 supermodel
 supervisor
 surfraw
@@ -1971,7 +1965,6 @@ unnethack
 unoconv
 unp
 unpaper
-unrar
 unrtf
 unum
 unyaffs

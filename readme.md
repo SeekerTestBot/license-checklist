@@ -1,6 +1,6 @@
-3206 / 5376 (59.6%) of formulae have a valid `license` stanza as of 2020-12-11 12:04:23 UTC.
+3211 / 5374 (59.8%) of formulae have a valid `license` stanza as of 2020-12-12 00:04:34 UTC.
 
-1046 / 5376 (19.5%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1043 / 5374 (19.4%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -1127,7 +1127,6 @@
 - [ ] dtach: GPL-2.0 (deprecated) [[homepage](https://dtach.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/dtach/dtach/0.9/dtach-0.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dtach.rb)]
 - [ ] dtc [[homepage](https://www.devicetree.org/)] [head] [[stable](https://www.kernel.org/pub/software/utils/dtc/dtc-1.6.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dtc.rb)]
 - [ ] dterm: GPL-2.0 (deprecated) [[homepage](http://www.knossos.net.nz/resources/free-software/dterm/)] [head] [[stable](http://www.knossos.net.nz/downloads/dterm-0.5.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dterm.rb)]
-- [ ] dtrx: GPL-3.0 (deprecated) [[homepage](https://brettcsmith.org/2007/dtrx/)] [head] [[stable](https://brettcsmith.org/2007/dtrx/dtrx-7.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dtrx.rb)]
 - [x] dub: MIT
 - [ ] duc: LGPL-3.0 (deprecated) [[homepage](https://duc.zevv.nl/)] [[head](https://github.com/zevv/duc.git)] [[stable](https://github.com/zevv/duc/releases/download/1.4.4/duc-1.4.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/duc.rb)]
 - [x] duck: GPL-3.0-only
@@ -1539,7 +1538,7 @@
 - [ ] gcc@8 [[homepage](https://gcc.gnu.org/)] [head] [[stable](https://ftp.gnu.org/gnu/gcc/gcc-8.4.0/gcc-8.4.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcc@8.rb)]
 - [ ] gcc@9 [[homepage](https://gcc.gnu.org/)] [head] [[stable](https://ftp.gnu.org/gnu/gcc/gcc-9.3.0/gcc-9.3.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcc@9.rb)]
 - [ ] gconf [[homepage](https://projects.gnome.org/gconf/)] [head] [[stable](https://download.gnome.org/sources/GConf/3.2/GConf-3.2.6.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gconf.rb)]
-- [ ] gcore [[homepage](https://osxbook.com/book/bonus/chapter8/core/)] [head] [[stable](https://osxbook.com/book/bonus/chapter8/core/download/gcore-1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcore.rb)]
+- [x] gcore: APSL-2.0
 - [x] gcovr: BSD-3-Clause
 - [x] gcsfuse: Apache-2.0
 - [ ] gcutil [[homepage](https://cloud.google.com/compute/docs/gcutil/)] [head] [[stable](https://dl.google.com/dl/cloudsdk/release/artifacts/gcutil-1.16.1.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gcutil.rb)]
@@ -1587,7 +1586,7 @@
 - [x] get-flash-videos: Apache-2.0
 - [ ] get_iplayer: GPL-3.0 (deprecated) [[homepage](https://github.com/get-iplayer/get_iplayer)] [[head](https://github.com/get-iplayer/get_iplayer.git)] [[stable](https://github.com/get-iplayer/get_iplayer/archive/v3.26.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/get_iplayer.rb)]
 - [x] getdns: BSD-3-Clause
-- [ ] getmail [[homepage](http://pyropus.ca/software/getmail/)] [head] [[stable](http://pyropus.ca/software/getmail/old-versions/getmail-5.14.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/getmail.rb)]
+- [x] getmail: GPL-2.0-only
 - [x] gettext: GPL-3.0-or-later
 - [ ] getxbook [[homepage](https://njw.name/getxbook)] [head] [[stable](https://njw.name/getxbook/getxbook-1.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/getxbook.rb)]
 - [ ] gexiv2: GPL-2.0 (deprecated) [[homepage](https://wiki.gnome.org/Projects/gexiv2)] [head] [[stable](https://download.gnome.org/sources/gexiv2/0.12/gexiv2-0.12.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gexiv2.rb)]
@@ -2677,7 +2676,7 @@
 - [x] libhdhomerun: LGPL-2.1-or-later
 - [x] libheif: LGPL-3.0-only
 - [ ] libhid: GPL-2.0 (deprecated) [[homepage](https://directory.fsf.org/wiki/Libhid)] [head] [[stable](https://pkg.freebsd.org/ports-distfiles/libhid-0.2.16.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libhid.rb)]
-- [ ] libhttpserver: LGPL-2.1 (deprecated) [[homepage](https://github.com/etr/libhttpserver)] [[head](https://github.com/etr/libhttpserver.git)] [[stable](https://github.com/etr/libhttpserver/archive/0.18.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libhttpserver.rb)]
+- [x] libhttpserver: LGPL-2.1-or-later
 - [x] libhttpseverywhere: LGPL-3.0-or-later
 - [x] libical: `{:any_of=>["LGPL-2.1-or-later", "MPL-2.0"]}`
 - [x] libice: MIT
@@ -3280,7 +3279,7 @@
 - [x] mongrel2: BSD-3-Clause
 - [ ] mongroup [[homepage](https://github.com/jgallen23/mongroup)] [head] [[stable](https://github.com/jgallen23/mongroup/archive/0.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mongroup.rb)]
 - [ ] monit [[homepage](https://mmonit.com/monit/)] [head] [[stable](https://mmonit.com/monit/dist/monit-5.27.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monit.rb)]
-- [ ] monitoring-plugins [[homepage](https://www.monitoring-plugins.org)] [head] [[stable](https://www.monitoring-plugins.org/download/monitoring-plugins-2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monitoring-plugins.rb)]
+- [ ] monitoring-plugins [[homepage](https://www.monitoring-plugins.org)] [head] [[stable](https://www.monitoring-plugins.org/download/monitoring-plugins-2.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monitoring-plugins.rb)]
 - [ ] monkeysphere [[homepage](http://web.monkeysphere.info/)] [[head](git://git.monkeysphere.info/monkeysphere)] [[stable](https://deb.debian.org/debian/pool/main/m/monkeysphere/monkeysphere_0.44.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/monkeysphere.rb)]
 - [x] mono: MIT
 - [x] mono-libgdiplus: MIT
@@ -4196,7 +4195,7 @@
 - [ ] reaver: GPL-2.0 (deprecated) [[homepage](https://code.google.com/archive/p/reaver-wps/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/reaver-wps/reaver-1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/reaver.rb)]
 - [x] rebar: Apache-2.0
 - [x] rebar3: Apache-2.0
-- [ ] recode: GPL-2.0 (deprecated) [[homepage](https://github.com/pinard/Recode)] [head] [[stable](https://github.com/pinard/Recode/archive/v3.7-beta2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/recode.rb)]
+- [x] recode: GPL-3.0-or-later
 - [ ] recon-ng: GPL-3.0 (deprecated) [[homepage](https://github.com/lanmaster53/recon-ng)] [head] [[stable](https://github.com/lanmaster53/recon-ng/archive/v5.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/recon-ng.rb)]
 - [ ] recoverjpeg: GPL-2.0 (deprecated) [[homepage](https://rfc1149.net/devel/recoverjpeg.html)] [head] [[stable](https://rfc1149.net/download/recoverjpeg/recoverjpeg-2.6.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/recoverjpeg.rb)]
 - [ ] recutils: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/recutils/)] [head] [[stable](https://ftp.gnu.org/gnu/recutils/recutils-1.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/recutils.rb)]
@@ -4718,7 +4717,7 @@
 - [x] suil: ISC
 - [ ] suite-sparse [[homepage](https://people.engr.tamu.edu/davis/suitesparse.html)] [head] [[stable](https://github.com/DrTimothyAldenDavis/SuiteSparse/archive/v5.8.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/suite-sparse.rb)]
 - [x] sundials: BSD-3-Clause
-- [ ] superlu [[homepage](https://portal.nersc.gov/project/sparse/superlu/)] [head] [[stable](https://portal.nersc.gov/project/sparse/superlu/superlu_5.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/superlu.rb)]
+- [x] superlu: BSD-3-Clause-LBNL
 - [ ] supermodel [[homepage](https://www.supermodel3.com/)] [[head](https://svn.code.sf.net/p/model3emu/code/trunk)] [[stable](https://www.supermodel3.com/Files/Supermodel_0.2a_Src.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/supermodel.rb)]
 - [x] supertux: GPL-3.0-or-later
 - [ ] supervisor [[homepage](http://supervisord.org/)] [head] [[stable](https://github.com/Supervisor/supervisor/archive/4.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/supervisor.rb)]
@@ -5057,7 +5056,6 @@
 - [ ] unoconv: GPL-2.0 (deprecated) [[homepage](https://github.com/unoconv/unoconv)] [[head](https://github.com/unoconv/unoconv.git)] [[stable](https://files.pythonhosted.org/packages/ab/40/b4cab1140087f3f07b2f6d7cb9ca1c14b9bdbb525d2d83a3b29c924fe9ae/unoconv-0.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unoconv.rb)]
 - [ ] unp [[homepage](https://packages.debian.org/source/stable/unp)] [head] [[stable](https://deb.debian.org/debian/pool/main/u/unp/unp_2.0~pre7+nmu1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unp.rb)]
 - [ ] unpaper [[homepage](https://www.flameeyes.com/projects/unpaper)] [[head](https://github.com/Flameeyes/unpaper.git)] [[stable](https://www.flameeyes.com/files/unpaper-6.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unpaper.rb)]
-- [ ] unrar [[homepage](https://www.rarlab.com/)] [head] [[stable](https://www.rarlab.com/rar/unrarsrc-6.0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unrar.rb)]
 - [ ] unrtf: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/unrtf/)] [[head](https://hg.savannah.gnu.org/hgweb/unrtf/)] [[stable](https://ftp.gnu.org/gnu/unrtf/unrtf-0.21.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unrtf.rb)]
 - [x] unshield: MIT
 - [ ] unum [[homepage](https://www.fourmilab.ch/webtools/unum/)] [head] [[stable](https://www.fourmilab.ch/webtools/unum/prior-releases/3.2/unum.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/unum.rb)]
