@@ -106,7 +106,6 @@ balance
 ballerburg
 baobab
 bar
-bareos-client
 baresip
 base64
 bash-completion
@@ -361,7 +360,6 @@ deark
 deja-gnu
 delta
 deployer
-depqbf
 desktop-file-utils
 devtodo
 dex
@@ -389,7 +387,6 @@ distcc
 distribution
 ditaa
 djbdns
-djview4
 djvu2pdf
 djvulibre
 dmalloc
@@ -814,7 +811,6 @@ imagesnap
 imap-uw
 inadyn
 inetutils
-innotop
 instalooter
 intercal
 intltool
@@ -1175,7 +1171,6 @@ lzlib
 lzo
 lzop
 m2c
-m4
 mac-robber
 mackup
 madplay
@@ -1944,7 +1939,6 @@ ubertooth
 ucg
 uchardet
 ucommon
-ucon64
 ucspi-tcp
 udis86
 udns
@@ -2109,7 +2103,6 @@ xmount
 xmp
 xorriso
 xpdf
-xplanet
 xqilla
 xrick
 xsane
@@ -2126,7 +2119,6 @@ yaf
 yafc
 yamcha
 yamdi
-yash
 yasm
 yaze-ag
 yconalyzer
