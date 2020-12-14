@@ -1,6 +1,6 @@
-3231 / 5376 (60.1%) of formulae have a valid `license` stanza as of 2020-12-14 00:02:15 UTC.
+3240 / 5376 (60.3%) of formulae have a valid `license` stanza as of 2020-12-14 12:10:09 UTC.
 
-1035 / 5376 (19.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1032 / 5376 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -357,7 +357,7 @@
 - [ ] bento4 [[homepage](https://www.bento4.com/)] [head] [[stable](https://www.bok.net/Bento4/source/Bento4-SRC-1-6-0-637.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bento4.rb)]
 - [x] berglas: Apache-2.0
 - [ ] berkeley-db [[homepage](https://www.oracle.com/technology/products/berkeley-db/index.html)] [head] [[stable](https://dl.bintray.com/homebrew/mirror/berkeley-db-18.1.32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/berkeley-db.rb)]
-- [ ] berkeley-db@4 [[homepage](https://www.oracle.com/technology/products/berkeley-db/index.html)] [head] [[stable](https://download.oracle.com/berkeley-db/db-4.8.30.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/berkeley-db@4.rb)]
+- [x] berkeley-db@4: Sleepycat
 - [x] bettercap: GPL-3.0-only
 - [x] betty: Apache-2.0
 - [ ] bfg [[homepage](https://rtyley.github.io/bfg-repo-cleaner/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=com/madgag/bfg/1.13.0/bfg-1.13.0.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bfg.rb)]
@@ -698,7 +698,7 @@
 - [x] click: Apache-2.0
 - [x] cliclick: BSD-3-Clause
 - [x] clinfo: CC0-1.0
-- [ ] cling: LGPL-2.1 (deprecated) [[homepage](https://root.cern.ch/cling)] [head] [[stable](https://github.com/root-project/cling.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cling.rb)]
+- [x] cling: `{:any_of=>["LGPL-2.1-only", "NCSA"]}`
 - [x] clingo: MIT
 - [x] clip: Apache-2.0
 - [x] clipper: BSD-2-Clause
@@ -1157,7 +1157,7 @@
 - [ ] dwarf: GPL-2.0 (deprecated) [[homepage](https://github.com/elboza/dwarf-ng/)] [head] [[stable](https://github.com/elboza/dwarf-ng/archive/dwarf-0.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwarf.rb)]
 - [ ] dwarfutils [[homepage](https://www.prevanders.net/dwarf.html)] [head] [[stable](https://www.prevanders.net/libdwarf-20201201.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwarfutils.rb)]
 - [ ] dwatch: GPL-2.0 (deprecated) [[homepage](https://siag.nu/dwatch/)] [head] [[stable](https://siag.nu/pub/dwatch/dwatch-0.1.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwatch.rb)]
-- [ ] dwdiff [[homepage](https://os.ghalkes.nl/dwdiff.html)] [head] [[stable](https://os.ghalkes.nl/dist/dwdiff-2.1.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dwdiff.rb)]
+- [x] dwdiff: GPL-3.0-only
 - [x] dwm: MIT
 - [ ] dxflib [[homepage](https://www.ribbonsoft.com/en/what-is-dxflib)] [head] [[stable](https://www.ribbonsoft.com/archives/dxflib/dxflib-2.5.0.0-1.src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dxflib.rb)]
 - [x] dxpy: Apache-2.0
@@ -1358,7 +1358,7 @@
 - [ ] ffmpegthumbnailer: GPL-2.0 (deprecated) [[homepage](https://github.com/dirkvdb/ffmpegthumbnailer)] [[head](https://github.com/dirkvdb/ffmpegthumbnailer.git)] [[stable](https://github.com/dirkvdb/ffmpegthumbnailer/archive/2.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffmpegthumbnailer.rb)]
 - [ ] ffms2: GPL-2.0 (deprecated) [[homepage](https://github.com/FFMS/ffms2)] [[head](https://github.com/FFMS/ffms2.git)] [[stable](https://github.com/FFMS/ffms2/archive/2.40.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ffms2.rb)]
 - [x] ffsend: GPL-3.0-only
-- [ ] fftw [[homepage](http://www.fftw.org)] [head] [[stable](http://fftw.org/fftw-3.3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fftw.rb)]
+- [x] fftw: `{:all_of=>["GPL-2.0-or-later", "BSD-2-Clause"]}`
 - [x] ffuf: MIT
 - [ ] fibjs: GPL-3.0 (deprecated) [[homepage](https://fibjs.org/)] [[head](https://github.com/fibjs/fibjs.git)] [[stable](https://github.com/fibjs/fibjs/releases/download/v0.31.0/fullsrc.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fibjs.rb)]
 - [ ] ficy: LGPL-2.1 (deprecated) [[homepage](https://www.thregr.org/~wavexx/software/fIcy/)] [[head](https://github.com/wavexx/fIcy.git)] [[stable](https://www.thregr.org/~wavexx/software/fIcy/releases/fIcy-1.0.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ficy.rb)]
@@ -1757,7 +1757,7 @@
 - [ ] gnu-getopt: GPL-2.0 (deprecated) [[homepage](https://github.com/karelzak/util-linux)] [head] [[stable](https://www.kernel.org/pub/linux/utils/util-linux/v2.36/util-linux-2.36.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-getopt.rb)]
 - [ ] gnu-go [[homepage](https://www.gnu.org/software/gnugo/gnugo.html)] [[head](https://git.savannah.gnu.org/git/gnugo.git)] [[stable](https://ftp.gnu.org/gnu/gnugo/gnugo-3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-go.rb)]
 - [ ] gnu-indent [[homepage](https://www.gnu.org/software/indent/)] [head] [[stable](https://ftp.gnu.org/gnu/indent/indent-2.2.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-indent.rb)]
-- [ ] gnu-prolog [[homepage](http://www.gprolog.org/)] [head] [[stable](http://www.gprolog.org/gprolog-1.4.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-prolog.rb)]
+- [x] gnu-prolog: `{:any_of=>["LGPL-3.0-or-later", "GPL-2.0-or-later"]}`
 - [ ] gnu-sed: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/sed/)] [head] [[stable](https://ftp.gnu.org/gnu/sed/sed-4.8.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-sed.rb)]
 - [ ] gnu-shogi: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gnushogi/)] [head] [[stable](https://ftp.gnu.org/gnu/gnushogi/gnushogi-1.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-shogi.rb)]
 - [ ] gnu-smalltalk: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/smalltalk/)] [[head](https://github.com/gnu-smalltalk/smalltalk.git)] [[stable](https://ftp.gnu.org/gnu/smalltalk/smalltalk-3.2.5.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-smalltalk.rb)]
@@ -2187,7 +2187,7 @@
 - [ ] intercal: GPL-2.0 (deprecated) [[homepage](http://catb.org/~esr/intercal/)] [[head](https://gitlab.com/esr/intercal.git)] [[stable](http://catb.org/~esr/intercal/intercal-0.31.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/intercal.rb)]
 - [x] internetarchive: AGPL-3.0-or-later
 - [ ] intltool: GPL-2.0 (deprecated) [[homepage](https://wiki.freedesktop.org/www/Software/intltool)] [head] [[stable](https://launchpad.net/intltool/trunk/0.51.0/+download/intltool-0.51.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/intltool.rb)]
-- [ ] inxi: GPL-3.0 (deprecated) [[homepage](https://smxi.org/docs/inxi.htm)] [[head](https://github.com/smxi/inxi.git)] [[stable](https://github.com/smxi/inxi/archive/3.1.09-1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/inxi.rb)]
+- [x] inxi: GPL-3.0-or-later
 - [x] io: BSD-3-Clause
 - [x] ioctl: Apache-2.0
 - [ ] ioke [[homepage](https://ioke.org/)] [head] [[stable](https://ioke.org/dist/ioke-P-ikj-0.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ioke.rb)]
@@ -3093,7 +3093,7 @@
 - [ ] malbolge [[homepage](https://esoteric.sange.fi/orphaned/malbolge/README.txt)] [head] [[stable](https://esoteric.sange.fi/orphaned/malbolge/malbolge.c)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/malbolge.rb)]
 - [ ] mallet [[homepage](http://mallet.cs.umass.edu/)] [head] [[stable](http://mallet.cs.umass.edu/dist/mallet-2.0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mallet.rb)]
 - [x] mame: GPL-2.0-or-later
-- [ ] man-db [[homepage](https://www.nongnu.org/man-db/)] [head] [[stable](https://download.savannah.gnu.org/releases/man-db/man-db-2.9.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/man-db.rb)]
+- [x] man-db: GPL-2.0-or-later
 - [ ] man2html [[homepage](https://savannah.nongnu.org/projects/man2html/)] [head] [[stable](https://www.mhonarc.org/release/misc/man2html3.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/man2html.rb)]
 - [ ] mandoc [[homepage](https://mandoc.bsd.lv/)] [[head](anoncvs@mandoc.bsd.lv:/cvs)] [[stable](https://mandoc.bsd.lv/snapshots/mandoc-1.14.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mandoc.rb)]
 - [x] mandown: MIT
@@ -3549,7 +3549,7 @@
 - [x] nyancat: NCSA
 - [x] nylon: BSD-3-Clause
 - [ ] nyx [[homepage](https://nyx.torproject.org/)] [head] [[stable](https://files.pythonhosted.org/packages/f4/da/68419425cb0f64f996e2150045c7043c2bb61f77b5928c2156c26a21db88/nyx-2.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nyx.rb)]
-- [ ] nzbget: GPL-2.0 (deprecated) [[homepage](https://nzbget.net/)] [[head](https://github.com/nzbget/nzbget.git)] [[stable](https://github.com/nzbget/nzbget/releases/download/v21.0/nzbget-21.0-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/nzbget.rb)]
+- [x] nzbget: GPL-2.0-or-later
 
 </details>
 
@@ -5085,7 +5085,7 @@
 - [ ] utimer [[homepage](https://launchpad.net/utimer)] [head] [[stable](https://launchpad.net/utimer/0.4/0.4/+download/utimer-0.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/utimer.rb)]
 - [ ] uudeview [[homepage](http://www.fpx.de/fp/Software/UUDeview/)] [head] [[stable](http://www.fpx.de/fp/Software/UUDeview/download/uudeview-0.5.20.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uudeview.rb)]
 - [x] uutils-coreutils: MIT
-- [ ] uwsgi [[homepage](https://uwsgi-docs.readthedocs.io/en/latest/)] [[head](https://github.com/unbit/uwsgi.git)] [[stable](https://projects.unbit.it/downloads/uwsgi-2.0.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/uwsgi.rb)]
+- [x] uwsgi: GPL-2.0-or-later
 
 </details>
 
