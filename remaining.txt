@@ -655,7 +655,6 @@ gnome-themes-standard
 gnu-apl
 gnu-barcode
 gnu-chess
-gnu-cobol
 gnu-complexity
 gnu-getopt
 gnu-go
@@ -878,11 +877,6 @@ kakasi
 kanif
 kawa
 kcov
-kde-extra-cmake-modules
-kde-karchive
-kde-kdoctools
-kde-ki18n
-kde-threadweaver
 keepkey-agent
 kestrel
 kettle
@@ -1016,7 +1010,6 @@ libgweather
 libhid
 libicns
 libiconv
-libid3tag
 libident
 libidl
 libidn
@@ -1438,7 +1431,6 @@ optipng
 orbit
 orc
 orocos-kdl
-ortp
 osc
 oscats
 osm-gps-map
@@ -1884,7 +1876,6 @@ texi2html
 texinfo
 texlab
 texmath
-theharvester
 theora
 thrulay
 tig
@@ -1986,7 +1977,6 @@ vbindiff
 vc4asm
 vcdimager
 vcftools
-vcprompt
 vcs
 vcsh
 vde

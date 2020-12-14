@@ -1,6 +1,6 @@
-3219 / 5374 (59.9%) of formulae have a valid `license` stanza as of 2020-12-13 12:01:42 UTC.
+3231 / 5376 (60.1%) of formulae have a valid `license` stanza as of 2020-12-14 00:02:23 UTC.
 
-1037 / 5374 (19.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1035 / 5376 (19.3%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -261,6 +261,7 @@
 - [x] aws-apigateway-importer: Apache-2.0
 - [x] aws-cdk: Apache-2.0
 - [ ] aws-cfn-tools [[homepage](https://aws.amazon.com/developertools/AWS-CloudFormation/2555753788650372)] [head] [[stable](https://cloudformation-cli.s3.amazonaws.com/AWSCloudFormation-cli.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aws-cfn-tools.rb)]
+- [x] aws-console: Apache-2.0
 - [x] aws-elasticbeanstalk: Apache-2.0
 - [x] aws-es-proxy: Apache-2.0
 - [x] aws-google-auth: MIT
@@ -1739,7 +1740,7 @@
 - [ ] gnu-apl: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/apl/)] [[head](https://svn.savannah.gnu.org/svn/apl/trunk)] [[stable](https://ftp.gnu.org/gnu/apl/apl-1.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-apl.rb)]
 - [ ] gnu-barcode: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/barcode/)] [head] [[stable](https://ftp.gnu.org/gnu/barcode/barcode-0.99.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-barcode.rb)]
 - [ ] gnu-chess: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/chess/)] [[head](https://svn.savannah.gnu.org/svn/chess/trunk)] [[stable](https://ftp.gnu.org/gnu/chess/gnuchess-6.2.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-chess.rb)]
-- [ ] gnu-cobol [[homepage](https://sourceforge.net/projects/open-cobol/)] [head] [[stable](https://downloads.sourceforge.net/project/open-cobol/gnucobol/2.2/gnucobol-2.2.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-cobol.rb)]
+- [x] gnu-cobol: GPL-3.0-or-later
 - [ ] gnu-complexity: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/complexity)] [head] [[stable](https://ftp.gnu.org/gnu/complexity/complexity-1.10.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-complexity.rb)]
 - [ ] gnu-getopt: GPL-2.0 (deprecated) [[homepage](https://github.com/karelzak/util-linux)] [head] [[stable](https://www.kernel.org/pub/linux/utils/util-linux/v2.36/util-linux-2.36.1.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-getopt.rb)]
 - [ ] gnu-go [[homepage](https://www.gnu.org/software/gnugo/gnugo.html)] [[head](https://git.savannah.gnu.org/git/gnugo.git)] [[stable](https://ftp.gnu.org/gnu/gnugo/gnugo-3.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-go.rb)]
@@ -2354,11 +2355,11 @@
 - [x] kcgi: ISC
 - [ ] kcov: GPL-2.0 (deprecated) [[homepage](https://simonkagstrom.github.io/kcov/)] [[head](https://github.com/SimonKagstrom/kcov.git)] [[stable](https://github.com/SimonKagstrom/kcov/archive/38.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kcov.rb)]
 - [x] kcptun: MIT
-- [ ] kde-extra-cmake-modules [[homepage](https://api.kde.org/frameworks/extra-cmake-modules/html/index.html)] [[head](https://invent.kde.org/frameworks/extra-cmake-modules.git)] [[stable](https://download.kde.org/stable/frameworks/5.76/extra-cmake-modules-5.76.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-extra-cmake-modules.rb)]
-- [ ] kde-karchive [[homepage](https://api.kde.org/frameworks/karchive/html/index.html)] [[head](https://invent.kde.org/frameworks/karchive.git)] [[stable](https://download.kde.org/stable/frameworks/5.76/karchive-5.76.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-karchive.rb)]
-- [ ] kde-kdoctools [[homepage](https://api.kde.org/frameworks/kdoctools/html/index.html)] [[head](https://invent.kde.org/frameworks/kdoctools.git)] [[stable](https://download.kde.org/stable/frameworks/5.76/kdoctools-5.76.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-kdoctools.rb)]
-- [ ] kde-ki18n [[homepage](https://api.kde.org/frameworks/ki18n/html/index.html)] [[head](https://invent.kde.org/frameworks/ki18n.git)] [[stable](https://download.kde.org/stable/frameworks/5.76/ki18n-5.76.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-ki18n.rb)]
-- [ ] kde-threadweaver [[homepage](https://api.kde.org/frameworks/threadweaver/html/index.html)] [[head](https://invent.kde.org/frameworks/threadweaver.git)] [[stable](https://download.kde.org/stable/frameworks/5.76/threadweaver-5.76.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kde-threadweaver.rb)]
+- [x] kde-extra-cmake-modules: `{:all_of=>["BSD-2-Clause", "BSD-3-Clause", "MIT"]}`
+- [x] kde-karchive: `{:all_of=>["BSD-2-Clause", "LGPL-2.0-only", "LGPL-2.0-or-later", {:any_of=>["LGPL-2.0-only", "LGPL-3.0-only"]}]}`
+- [x] kde-kdoctools: `{:all_of=>["BSD-3-Clause", "GPL-2.0-or-later", "LGPL-2.1-or-later", {:any_of=>["LGPL-2.1-only", "LGPL-3.0-only"]}]}`
+- [x] kde-ki18n: `{:all_of=>["BSD-3-Clause", "LGPL-2.0-or-later", {:any_of=>["LGPL-2.1-only", "LGPL-3.0-only"]}]}`
+- [x] kde-threadweaver: LGPL-2.0-or-later
 - [x] kedge: Apache-2.0
 - [x] keepassc: ISC
 - [ ] keepkey-agent: LGPL-3.0 (deprecated) [[homepage](https://github.com/romanz/trezor-agent)] [head] [[stable](https://files.pythonhosted.org/packages/65/72/4bf47a7bc8dc93d2ac21672a0db4bc58a78ec5cee3c4bcebd0b4092a9110/keepkey_agent-0.9.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/keepkey-agent.rb)]
@@ -2660,7 +2661,7 @@
 - [x] libice: MIT
 - [ ] libicns [[homepage](https://icns.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/icns/libicns-0.8.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libicns.rb)]
 - [ ] libiconv: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/libiconv/)] [head] [[stable](https://ftp.gnu.org/gnu/libiconv/libiconv-1.16.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libiconv.rb)]
-- [ ] libid3tag [[homepage](https://www.underbit.com/products/mad/)] [head] [[stable](https://downloads.sourceforge.net/project/mad/libid3tag/0.15.1b/libid3tag-0.15.1b.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libid3tag.rb)]
+- [x] libid3tag: GPL-2.0-only
 - [ ] libident [[homepage](https://www.remlab.net/libident/)] [head] [[stable](https://www.remlab.net/files/libident/libident-0.32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libident.rb)]
 - [ ] libidl [[homepage](https://ftp.acc.umu.se/pub/gnome/sources/libIDL/0.8/)] [head] [[stable](https://download.gnome.org/sources/libIDL/0.8/libIDL-0.8.14.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libidl.rb)]
 - [ ] libidn [[homepage](https://www.gnu.org/software/libidn/)] [head] [[stable](https://ftp.gnu.org/gnu/libidn/libidn-1.36.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libidn.rb)]
@@ -3526,6 +3527,7 @@
 
 ### O
 
+- [x] oakc: Apache-2.0
 - [ ] oath-toolkit [[homepage](https://www.nongnu.org/oath-toolkit/)] [head] [[stable](https://download.savannah.gnu.org/releases/oath-toolkit/oath-toolkit-2.6.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/oath-toolkit.rb)]
 - [x] oauth2_proxy: MIT
 - [x] oauth2l: Apache-2.0
@@ -3534,7 +3536,7 @@
 - [ ] objfw [[homepage](https://heap.zone/objfw/)] [head] [[stable](https://heap.zone/objfw/downloads/objfw-0.90.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/objfw.rb)]
 - [ ] ocaml: LGPL-2.1 (deprecated) [[homepage](https://ocaml.org/)] [[head](https://github.com/ocaml/ocaml.git)] [[stable](https://caml.inria.fr/pub/distrib/ocaml-4.10/ocaml-4.10.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml.rb)]
 - [ ] ocaml-findlib [[homepage](http://projects.camlcity.org/projects/findlib.html)] [head] [[stable](http://download.camlcity.org/download/findlib-1.8.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml-findlib.rb)]
-- [ ] ocaml-num: LGPL-2.1 (deprecated) [[homepage](https://github.com/ocaml/num)] [head] [[stable](https://github.com/ocaml/num/archive/v1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml-num.rb)]
+- [ ] ocaml-num: LGPL-2.1 (deprecated) [[homepage](https://github.com/ocaml/num)] [head] [[stable](https://github.com/ocaml/num/archive/v1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml-num.rb)]
 - [ ] ocamlbuild: LGPL-2.0 (deprecated) [[homepage](https://github.com/ocaml/ocamlbuild)] [[head](https://github.com/ocaml/ocamlbuild.git)] [[stable](https://github.com/ocaml/ocamlbuild/archive/0.14.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocamlbuild.rb)]
 - [x] ocamlsdl: LGPL-2.1-or-later
 - [x] oci-cli: `{:any_of=>["UPL-1.0", "Apache-2.0"]}`
@@ -3652,7 +3654,7 @@
 - [x] orientdb: Apache-2.0
 - [x] ormolu: BSD-3-Clause
 - [ ] orocos-kdl: LGPL-2.1 (deprecated) [[homepage](https://orocos.org/)] [head] [[stable](https://github.com/orocos/orocos_kinematics_dynamics/archive/v1.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/orocos-kdl.rb)]
-- [ ] ortp: GPL-3.0 (deprecated) [[homepage](https://www.linphone.org/technical-corner/ortp)] [[head](https://gitlab.linphone.org/BC/public/ortp.git)] [[stable](https://gitlab.linphone.org/BC/public/ortp/-/archive/4.3.2/ortp-4.3.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ortp.rb)]
+- [x] ortp: GPL-3.0-or-later
 - [x] ory-hydra: Apache-2.0
 - [ ] osc: GPL-2.0 (deprecated) [[homepage](https://github.com/openSUSE/osc)] [[head](https://github.com/openSUSE/osc.git)] [[stable](https://github.com/openSUSE/osc/archive/0.171.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/osc.rb)]
 - [ ] oscats [[homepage](https://code.google.com/archive/p/oscats/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/oscats/oscats-0.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/oscats.rb)]
@@ -4839,7 +4841,7 @@
 - [x] the_platinum_searcher: MIT
 - [x] the_silver_searcher: Apache-2.0
 - [x] thefuck: MIT
-- [ ] theharvester: GPL-2.0 (deprecated) [[homepage](http://www.edge-security.com/theharvester.php)] [[head](https://github.com/laramies/theHarvester.git)] [[stable](https://github.com/laramies/theHarvester/archive/V3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/theharvester.rb)]
+- [x] theharvester: GPL-2.0-only
 - [ ] theora [[homepage](https://www.theora.org/)] [[head](https://gitlab.xiph.org/xiph/theora.git)] [[stable](https://downloads.xiph.org/releases/theora/libtheora-1.1.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/theora.rb)]
 - [x] thors-serializer: MIT
 - [x] thrift: Apache-2.0
@@ -5075,7 +5077,7 @@
 - [ ] vcdimager [[homepage](https://www.gnu.org/software/vcdimager/)] [head] [[stable](https://ftp.gnu.org/gnu/vcdimager/vcdimager-2.0.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vcdimager.rb)]
 - [ ] vcftools: LGPL-3.0 (deprecated) [[homepage](https://vcftools.github.io/)] [head] [[stable](https://github.com/vcftools/vcftools/releases/download/v0.1.16/vcftools-0.1.16.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vcftools.rb)]
 - [x] vcpkg: MIT
-- [ ] vcprompt [[homepage](https://bitbucket.org/gward/vcprompt)] [[head](https://bitbucket.org/gward/vcprompt)] [[stable](https://bitbucket.org/gward/vcprompt/downloads/vcprompt-1.2.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vcprompt.rb)]
+- [x] vcprompt: GPL-2.0-or-later
 - [ ] vcs [[homepage](https://p.outlyer.net/vcs/)] [head] [[stable](https://p.outlyer.net/files/vcs/vcs-1.13.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vcs.rb)]
 - [ ] vcsh: GPL-2.0 (deprecated) [[homepage](https://github.com/RichiH/vcsh)] [head] [[stable](https://github.com/RichiH/vcsh/archive/v1.20151229-1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vcsh.rb)]
 - [ ] vde: GPL-2.0 (deprecated) [[homepage](https://vde.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/vde/vde2/2.3.2/vde2-2.3.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/vde.rb)]
