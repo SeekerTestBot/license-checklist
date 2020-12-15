@@ -1,6 +1,6 @@
-3241 / 5376 (60.3%) of formulae have a valid `license` stanza as of 2020-12-15 00:04:25 UTC.
+3242 / 5376 (60.3%) of formulae have a valid `license` stanza as of 2020-12-15 12:01:37 UTC.
 
-1032 / 5376 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1031 / 5376 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -48,7 +48,7 @@
 - [ ] afio [[homepage](https://github.com/kholtman/afio)] [[head](https://github.com/kholtman/afio.git)] [[stable](https://github.com/kholtman/afio/archive/v2.5.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/afio.rb)]
 - [x] afl-fuzz: Apache-2.0
 - [ ] afsctool: GPL-3.0 (deprecated) [[homepage](https://brkirch.wordpress.com/afsctool/)] [head] [[stable](https://dl.bintray.com/homebrew/mirror/afsctool-1.6.4.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/afsctool.rb)]
-- [ ] aften: LGPL-2.1 (deprecated) [[homepage](https://aften.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/aften/aften/0.0.8/aften-0.0.8.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aften.rb)]
+- [x] aften: LGPL-2.1-or-later
 - [ ] afuse: GPL-2.0 (deprecated) [[homepage](https://github.com/pcarrier/afuse/)] [head] [[stable](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/afuse/afuse-0.4.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/afuse.rb)]
 - [x] agda: BSD-3-Clause
 - [ ] agedu [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/agedu/)] [[head](https://git.tartarus.org/simon/agedu.git)] [[stable](https://www.chiark.greenend.org.uk/~sgtatham/agedu/agedu-20200705.2a7d4a2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/agedu.rb)]
@@ -4293,7 +4293,7 @@
 ### S
 
 - [ ] s-lang: GPL-2.0 (deprecated) [[homepage](https://www.jedsoft.org/slang/)] [head] [[stable](https://www.jedsoft.org/releases/slang/slang-2.3.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/s-lang.rb)]
-- [ ] s-nail [[homepage](https://www.sdaoden.eu/code.html)] [head] [[stable](https://www.sdaoden.eu/downloads/s-nail-14.9.19.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/s-nail.rb)]
+- [ ] s-nail [[homepage](https://www.sdaoden.eu/code.html)] [head] [[stable](https://www.sdaoden.eu/downloads/s-nail-14.9.20.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/s-nail.rb)]
 - [x] s-search: MIT
 - [x] s2geometry: Apache-2.0
 - [x] s2n: Apache-2.0

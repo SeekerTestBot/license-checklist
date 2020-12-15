@@ -15,7 +15,6 @@ aespipe
 afflib
 afio
 afsctool
-aften
 afuse
 agedu
 aggregate
