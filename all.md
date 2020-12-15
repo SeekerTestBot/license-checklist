@@ -1,4 +1,4 @@
-3240 / 5376 (60.3%) of formulae have a valid `license` stanza as of 2020-12-14 12:10:17 UTC.
+3241 / 5376 (60.3%) of formulae have a valid `license` stanza as of 2020-12-15 00:04:25 UTC.
 
 1032 / 5376 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
@@ -2375,7 +2375,7 @@
 - [x] kibana: Apache-2.0
 - [x] kibana@6: Apache-2.0
 - [x] killswitch: BSD-3-Clause
-- [ ] kim-api [[homepage](https://openkim.org)] [head] [[stable](https://s3.openkim.org/kim-api/kim-api-2.1.3.txz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kim-api.rb)]
+- [x] kim-api: CDDL-1.0
 - [ ] kimwitu++ [[homepage](https://www2.informatik.hu-berlin.de/sam/kimwitu++/)] [head] [[stable](https://download.savannah.gnu.org/releases/kimwitu-pp/kimwitu++-2.3.13.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/kimwitu++.rb)]
 - [x] kind: Apache-2.0
 - [x] kitchen-completion: MIT
