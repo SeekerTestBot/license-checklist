@@ -194,7 +194,6 @@ cairo
 calabash
 camellia
 cap-completion
-carton
 cattle
 ccal
 ccd2iso
@@ -292,7 +291,6 @@ cpanminus
 cpansearch
 cpio
 cpl
-cpm
 cppcms
 cppi
 cppman
@@ -1630,7 +1628,6 @@ redstore
 regex-opt
 regina-rexx
 regldg
-remctl
 remind
 reminiscence
 ren

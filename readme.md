@@ -1,6 +1,6 @@
-3242 / 5376 (60.3%) of formulae have a valid `license` stanza as of 2020-12-15 12:01:29 UTC.
+3248 / 5379 (60.4%) of formulae have a valid `license` stanza as of 2020-12-16 00:05:11 UTC.
 
-1031 / 5376 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1031 / 5379 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -540,7 +540,7 @@
 - [x] carla: GPL-2.0-or-later
 - [x] carrot2: Apache-2.0
 - [x] carthage: MIT
-- [ ] carton [[homepage](https://metacpan.org/pod/Carton)] [head] [[stable](https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/Carton-v1.0.34.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/carton.rb)]
+- [x] carton: `{:any_of=>["Artistic-1.0-Perl", "GPL-1.0-or-later"]}`
 - [x] cartridge-cli: BSD-2-Clause
 - [x] cash-cli: MIT
 - [x] cask: GPL-3.0-or-later
@@ -816,7 +816,7 @@
 - [ ] cpansearch [[homepage](https://github.com/c9s/cpansearch)] [[head](https://github.com/c9s/cpansearch.git)] [[stable](https://github.com/c9s/cpansearch/archive/0.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpansearch.rb)]
 - [ ] cpio [[homepage](https://www.gnu.org/software/cpio/)] [head] [[stable](https://ftp.gnu.org/gnu/cpio/cpio-2.13.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpio.rb)]
 - [ ] cpl [[homepage](https://www.eso.org/sci/software/cpl/index.html)] [head] [[stable](ftp://ftp.eso.org/pub/dfs/pipelines/libraries/cpl/cpl-7.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpl.rb)]
-- [ ] cpm [[homepage](https://metacpan.org/pod/cpm)] [head] [[stable](https://cpan.metacpan.org/authors/id/S/SK/SKAJI/App-cpm-0.993.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cpm.rb)]
+- [x] cpm: `{:any_of=>["Artistic-1.0-Perl", "GPL-1.0-or-later"]}`
 - [x] cpmtools: GPL-3.0-or-later
 - [x] cpp-gsl: MIT
 - [x] cppad: EPL-2.0
@@ -2020,6 +2020,7 @@
 - [x] helmsman: MIT
 - [x] help2man: GPL-3.0-or-later
 - [ ] henplus: GPL-2.0 (deprecated) [[homepage](https://github.com/neurolabs/henplus)] [head] [[stable](https://github.com/downloads/neurolabs/henplus/henplus-0.9.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/henplus.rb)]
+- [x] heppdt2: AFL-3.0
 - [x] hercules: QPL-1.0
 - [x] herrie: BSD-2-Clause
 - [x] hesiod: BSD-2-Clause
@@ -4221,7 +4222,7 @@
 - [x] rem: Apache-2.0
 - [x] remake: GPL-3.0-only
 - [x] remarshal: MIT
-- [ ] remctl [[homepage](https://www.eyrie.org/~eagle/software/remctl/)] [head] [[stable](https://archives.eyrie.org/software/kerberos/remctl-3.16.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/remctl.rb)]
+- [x] remctl: MIT
 - [ ] remind [[homepage](https://dianne.skoll.ca/projects/remind/)] [head] [[stable](https://dianne.skoll.ca/projects/remind/download/remind-03.03.01.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/remind.rb)]
 - [ ] reminiscence [[homepage](http://cyxdown.free.fr/reminiscence/)] [head] [[stable](http://cyxdown.free.fr/reminiscence/REminiscence-0.4.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/reminiscence.rb)]
 - [ ] ren [[homepage](https://pdb.finkproject.org/pdb/package.php/ren)] [head] [[stable](https://www.ibiblio.org/pub/Linux/utils/file/ren-1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ren.rb)]
@@ -5222,6 +5223,7 @@
 - [x] watchman: Apache-2.0
 - [x] watson: MIT
 - [x] wavpack: BSD-3-Clause
+- [x] wayland: MIT
 - [ ] wbox [[homepage](http://hping.org/wbox/)] [head] [[stable](http://www.hping.org/wbox/wbox-5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wbox.rb)]
 - [x] wcslib: GPL-3.0-or-later
 - [ ] wdc [[homepage](https://cloudpolis.github.io/webdav-client-cpp)] [head] [[stable](https://github.com/CloudPolis/webdav-client-cpp/archive/v1.1.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/wdc.rb)]
@@ -5329,6 +5331,7 @@
 - [x] xcb-proto: MIT
 - [x] xcb-util: MIT
 - [x] xcenv: MIT
+- [x] xcinfo: MIT
 - [x] xclip: GPL-2.0-or-later
 - [x] xclogparser: Apache-2.0
 - [x] xcodegen: MIT
