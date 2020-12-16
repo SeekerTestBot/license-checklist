@@ -1,6 +1,6 @@
-3248 / 5379 (60.4%) of formulae have a valid `license` stanza as of 2020-12-16 00:05:11 UTC.
+3253 / 5382 (60.4%) of formulae have a valid `license` stanza as of 2020-12-16 12:01:27 UTC.
 
-1031 / 5379 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1031 / 5382 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 <details><summary>A</summary>
 
@@ -56,6 +56,7 @@
 - [ ] aha: LGPL-2.1 (deprecated) [[homepage](https://github.com/theZiz/aha)] [[head](https://github.com/theZiz/aha.git)] [[stable](https://github.com/theZiz/aha/archive/0.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aha.rb)]
 - [x] ahcpd: MIT
 - [x] ahoy: MIT
+- [x] aida-header: LGPL-3.0-or-later
 - [x] aide: GPL-2.0-or-later
 - [ ] aircrack-ng: GPL-2.0 (deprecated) [[homepage](https://aircrack-ng.org/)] [head] [[stable](https://download.aircrack-ng.org/aircrack-ng-1.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/aircrack-ng.rb)]
 - [x] airshare: MIT
@@ -360,7 +361,7 @@
 - [x] berkeley-db@4: Sleepycat
 - [x] bettercap: GPL-3.0-only
 - [x] betty: Apache-2.0
-- [ ] bfg [[homepage](https://rtyley.github.io/bfg-repo-cleaner/)] [head] [[stable](https://search.maven.org/remotecontent?filepath=com/madgag/bfg/1.13.0/bfg-1.13.0.jar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bfg.rb)]
+- [x] bfg: GPL-3.0-or-later
 - [ ] bgpdump: GPL-2.0 (deprecated) [[homepage](https://github.com/RIPE-NCC/bgpdump/wiki)] [head] [[stable](https://github.com/RIPE-NCC/bgpdump/archive/v1.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bgpdump.rb)]
 - [x] bgpq3: BSD-2-Clause
 - [x] bgpstream: BSD-2-Clause
@@ -1037,7 +1038,7 @@
 - [x] dlib: BSL-1.0
 - [x] dlite: MIT
 - [x] dmagnetic: BSD-2-Clause
-- [ ] dmalloc [[homepage](https://dmalloc.com/)] [head] [[stable](https://dmalloc.com/releases/dmalloc-5.5.2.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dmalloc.rb)]
+- [x] dmalloc: ISC
 - [x] dmd: BSL-1.0
 - [x] dmenu: MIT
 - [ ] dmg2img [[homepage](http://vu1tur.eu.org/tools/)] [head] [[stable](http://vu1tur.eu.org/tools/dmg2img-1.6.7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dmg2img.rb)]
@@ -3352,6 +3353,7 @@
 - [x] mtools: GPL-3.0-or-later
 - [x] mtr: GPL-2.0-only
 - [x] mu: GPL-3.0-or-later
+- [x] muffet: MIT
 - [x] mujs: ISC
 - [x] multimarkdown: MIT
 - [ ] multitail: GPL-2.0 (deprecated) [[homepage](https://vanheusden.com/multitail/)] [[head](https://github.com/flok99/multitail.git)] [[stable](https://vanheusden.com/multitail/multitail-6.5.0.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/multitail.rb)]
@@ -4972,6 +4974,7 @@
 - [x] travis: MIT
 - [ ] tre [[homepage](https://laurikari.net/tre/)] [head] [[stable](https://laurikari.net/tre/tre-0.8.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tre.rb)]
 - [x] tre-command: MIT
+- [x] trec_eval: `public_domain`
 - [ ] tree: GPL-2.0 (deprecated) [[homepage](http://mama.indstate.edu/users/ice/tree/)] [head] [[stable](https://deb.debian.org/debian/pool/main/t/tree/tree_1.8.0.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tree.rb)]
 - [x] tree-sitter: MIT
 - [ ] treecc: GPL-2.0 (deprecated) [[homepage](https://gnu.org/software/dotgnu/treecc/treecc.html)] [head] [[stable](https://download.savannah.gnu.org/releases/dotgnu-pnet/treecc-0.3.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/treecc.rb)]

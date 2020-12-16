@@ -127,7 +127,6 @@ bedops
 beecrypt
 bento4
 berkeley-db
-bfg
 bgpdump
 bib-tool
 bibclean
@@ -384,7 +383,6 @@ ditaa
 djbdns
 djvu2pdf
 djvulibre
-dmalloc
 dmg2img
 dmtx-utils
 dns2tcp
