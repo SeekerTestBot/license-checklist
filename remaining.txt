@@ -1107,7 +1107,6 @@ libwpd
 libwpg
 libxdiff
 libxmi
-libxml++
 libxmp
 libxslt
 libxspf

@@ -1,6 +1,6 @@
-3253 / 5382 (60.4%) of formulae have a valid `license` stanza as of 2020-12-16 12:01:35 UTC.
+3255 / 5383 (60.5%) of formulae have a valid `license` stanza as of 2020-12-17 00:06:08 UTC.
 
-1031 / 5382 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+1031 / 5383 (19.2%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -2881,6 +2881,7 @@
 - [x] libvirt-glib: LGPL-2.1-or-later
 - [ ] libvisio [[homepage](https://wiki.documentfoundation.org/DLP/Libraries/libvisio)] [head] [[stable](https://dev-www.libreoffice.org/src/libvisio/libvisio-0.1.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libvisio.rb)]
 - [x] libvmaf: BSD-2-Clause-Patent
+- [x] libvnc: GPL-2.0-only
 - [x] libvncserver: GPL-2.0-or-later
 - [x] libvo-aacenc: Apache-2.0
 - [ ] libvoikko [[homepage](https://voikko.puimula.org/)] [head] [[stable](https://www.puimula.org/voikko-sources/libvoikko/libvoikko-4.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libvoikko.rb)]
@@ -2917,7 +2918,7 @@
 - [x] libxkbfile: MIT
 - [x] libxlsxwriter: BSD-2-Clause
 - [ ] libxmi: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/libxmi/)] [head] [[stable](https://ftp.gnu.org/gnu/libxmi/libxmi-1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libxmi.rb)]
-- [ ] libxml++ [[homepage](https://libxmlplusplus.sourceforge.io/)] [head] [[stable](https://download.gnome.org/sources/libxml++/2.42/libxml++-2.42.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libxml++.rb)]
+- [x] libxml++: LGPL-2.1-or-later
 - [x] libxml++3: LGPL-2.1-or-later
 - [x] libxml2: MIT
 - [x] libxmlsec1: MIT
