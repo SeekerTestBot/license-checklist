@@ -2,9 +2,11 @@ name: Update checklists
 
 on:
   workflow_dispatch:
-#   schedule:
-#     # Every 24 hours
-#     - cron: '0 */24 * * *'
+  schedule:
+    # Every week
+    - cron: '0 0 * * 0'
+    # Every 24 hours
+    # - cron: '0 */24 * * *'
 
 env:
   HOMEBREW_NO_AUTO_UPDATE: 1
