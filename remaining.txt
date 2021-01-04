@@ -25,7 +25,6 @@ alac
 aldo
 algol68g
 align
-allureofthestars
 alluxio
 alot
 alure
@@ -43,8 +42,6 @@ antlr4-cpp-runtime
 anttweakbar
 aoeui
 apache-ctakes
-apachetop
-apcupsd
 ape
 apm-bash-completion
 apng2gif
@@ -97,7 +94,6 @@ avra
 avrdude
 awf
 aws-cfn-tools
-b43-fwcutter
 backupninja
 bacula-fd
 badtouch
@@ -143,12 +139,10 @@ bitlbee
 bittwist
 bitwarden-cli
 bitwise
-blahtexml
 blazeblogger
 blazegraph
 blitzwave
 bnd
-bnfc
 bochs
 bogofilter
 bonnie++
@@ -167,7 +161,6 @@ bsdmake
 bsdsfv
 bsponmpi
 btparse
-buku
 bup
 burl
 burp
@@ -187,9 +180,7 @@ bzrtools
 c-kermit
 cabextract
 cabocha
-cadaver
 cafeobj
-cairo
 calabash
 camellia
 cap-completion
@@ -235,12 +226,10 @@ checkbashisms
 cheops
 chicken
 chinadns-c
-chkrootkit
 chmlib
 chocolate-doom
 chordii
 chromaprint
-chuck
 cidrmerge
 cifer
 citus
@@ -276,9 +265,7 @@ color-code
 colormake
 colorsvn
 colortail
-commandbox
 compface
-connect
 convertlit
 convmv
 corkscrew
@@ -298,7 +285,6 @@ cppunit
 cpulimit
 cracklib
 crash
-crf++
 crm114
 cronolog
 crosstool-ng
@@ -323,11 +309,9 @@ cvsync
 cweb
 cxxtest
 cypher-shell
-cython
 daemon
 daemonlogger
 daemontools
-dafny
 dante
 daq
 darkhttpd
@@ -363,7 +347,6 @@ dgen
 dhcpdump
 dhcping
 dhex
-diamond
 diceware
 dict
 diction
@@ -375,9 +358,7 @@ digitemp
 dirac
 direvent
 dirt
-discount
 dislocker
-distcc
 distribution
 ditaa
 djbdns
@@ -392,7 +373,6 @@ dnsmasq
 dnsrend
 dnstracer
 dnsviz
-docbook
 docbook2x
 docutils
 docx2txt
@@ -402,7 +382,6 @@ dosfstools
 doublecpp
 dovecot
 doxymacs
-dpkg
 dps8m
 dropbox-uploader
 dsh
@@ -415,7 +394,6 @@ duff
 dumb
 dungeon
 duo_unix
-duply
 dvanalyzer
 dvd+rw-tools
 dvd-vr
@@ -443,7 +421,6 @@ ed
 eg
 eiffelstudio
 einstein
-ejabberd
 ekg2
 ekhtml
 elb-tools
@@ -476,9 +453,6 @@ exomizer
 expect
 ext2fuse
 ext4fuse
-exult
-eye-d3
-ezstream
 faac
 faad2
 fabric-completion
@@ -491,7 +465,6 @@ fastbit
 fastjar
 fastme
 fastqc
-faust
 fb-client
 fceux
 fcitx-remote-for-osx
@@ -507,9 +480,7 @@ ffmpeg2theora
 ffmpegthumbnailer
 ffms2
 fibjs
-ficy
 fifechan
-fig2dev
 findent
 findutils
 fio
@@ -532,13 +503,11 @@ fon-flash-cli
 fondu
 fontforge
 ford
-foremost
 format-udf
 fortune
 fourstore
 fplll
 fprobe
-fragroute
 freealut
 freedink
 freeradius-server
@@ -586,7 +555,6 @@ genders
 genext2fs
 gengetopt
 genstats
-geocode-glib
 geoip
 geos
 geoserver
@@ -632,7 +600,6 @@ glktermw
 global
 globe
 gloox
-glpk
 glslang
 glyr
 gmail-backup
@@ -649,14 +616,10 @@ gnu-chess
 gnu-complexity
 gnu-getopt
 gnu-go
-gnu-indent
-gnu-sed
 gnu-shogi
 gnu-smalltalk
 gnu-tar
-gnu-time
 gnu-typist
-gnu-which
 gnupg@1.4
 gnuski
 gnustep-make
@@ -699,13 +662,11 @@ growly
 grsync
 grv
 gsar
-gsasl
 gsl
 gsmartcontrol
 gssdp
 gstreamermm
 gti
-gtk+
 gtk-chtheme
 gtk-doc
 gtk-gnutella
@@ -724,7 +685,6 @@ guichan
 guile@2
 gupnp-av
 gupnp-tools
-gwyddion
 gzip
 gzrt
 h264bitstream
@@ -736,8 +696,6 @@ harbour
 hardlink
 hardlink-osx
 hashcash
-hatari
-haxe
 hdf5
 hdf5-mpi
 hdf5@1.8
@@ -794,8 +752,6 @@ ifstat
 iftop
 ifuse
 igv
-ike-scan
-imagejs
 imagesnap
 imap-uw
 inadyn
@@ -806,7 +762,6 @@ intltool
 ioke
 ioping
 ios-class-guard
-iozone
 ip_relay
 ipbt
 ipcalc
@@ -869,7 +824,6 @@ kcov
 keepkey-agent
 kestrel
 kettle
-keychain
 keystone
 khard
 kimwitu++
@@ -882,11 +836,9 @@ kvazaar
 kyoto-cabinet
 lablgtk
 lame
-lasi
 lasso
 lastpass-cli
 laszip
-latex2html
 latexdiff
 launch4j
 launchctl-completion
@@ -903,7 +855,6 @@ ldns
 le
 ledit
 leela-zero
-lemon
 lensfun
 lesspipe
 lft
@@ -912,7 +863,6 @@ lib3ds
 libaacs
 libagg
 libao
-libarchive
 libart
 libatomic_ops
 libb64
@@ -947,7 +897,6 @@ libcsv
 libcue
 libcuefile
 libdaemon
-libdap
 libdbi
 libdc1394
 libdca
@@ -990,7 +939,6 @@ libgit2-glib
 libglade
 libgnomecanvas
 libgnt
-libgpg-error
 libgsf
 libgsm
 libgtop
@@ -1016,7 +964,6 @@ libltc
 liblunar
 liblwgeom
 liblzf
-libmaa
 libmagic
 libmatroska
 libmemcached
@@ -1056,7 +1003,6 @@ libplist
 libpointing
 libpoker-eval
 libprotoident
-libpst
 libquantum
 libquicktime
 libquvi
@@ -1090,7 +1036,6 @@ libswiftnav
 libtar
 libtasn1
 libtecla
-libtool
 libtorrent-rakshasa
 libu2f-host
 libuecc
@@ -1108,7 +1053,6 @@ libwpg
 libxdiff
 libxmi
 libxmp
-libxslt
 libxspf
 libzdb
 libzt
@@ -1152,7 +1096,6 @@ lzo
 lzop
 m2c
 mac-robber
-mackup
 madplay
 mafft
 magnetix
@@ -1171,11 +1114,9 @@ manticoresearch
 mapcrafter
 mapnik
 mapserver
-mariadb-connector-odbc
 markdown
 marst
 masscan
-mat2
 mawk
 maxima
 mboxgrep
@@ -1185,7 +1126,6 @@ md
 md5deep
 md5sha1sum
 mda-lv2
-mdbtools
 mdf2iso
 mdp
 mdr
@@ -1200,7 +1140,6 @@ mediaconch
 megatools
 memcache-top
 memcacheq
-menhir
 mergelog
 mergepbx
 metashell
@@ -1215,9 +1154,7 @@ midicsv
 midnight-commander
 mikmod
 mimic
-minbif
 minetest
-minicom
 minidjvu
 minimodem
 minipro
@@ -1243,7 +1180,6 @@ mmv
 moc
 modgit
 modules
-moe
 mongroup
 monit
 monitoring-plugins
@@ -1264,7 +1200,6 @@ mp3splt
 mp3val
 mp3wrap
 mp4v2
-mpack
 mpage
 mpc
 mpck
@@ -1272,14 +1207,10 @@ mpdscribble
 mpegdemux
 mpfi
 mpfr
-mpg123
 mpg321
 mpgtx
 mpi4py
-mpir
 mplayer
-mpop
-mps-youtube
 mpw
 mr
 mrtg
@@ -1296,15 +1227,12 @@ musepack
 mussh
 mvtools
 mycli
-mydumper
 myman
-mysql
 mysql++
 mysql-client
 mysql-client@5.7
 mysql-connector-c++
 mysql-search-replace
-mysql@5.7
 mysqltuner
 mytop
 nacl
@@ -1314,7 +1242,6 @@ namazu
 nanorc
 nauty
 nbimg
-ncmpcpp
 ncp
 ndiff
 ne
@@ -1333,11 +1260,9 @@ nettoe
 newlisp
 newt
 nfcutils
-ngircd
 ngrep
 ngs
 ngspice
-nickle
 nicovideo-dl
 nikto
 ninvaders
@@ -1349,7 +1274,6 @@ no-more-secrets
 nopoll
 normalize
 notifiers
-notmuch-mutt
 npth
 npush
 nrg2iso
@@ -1370,7 +1294,6 @@ nvc
 nvi
 nxengine
 nyx
-oath-toolkit
 objfw
 ocaml
 ocaml-findlib
@@ -1406,14 +1329,11 @@ openjazz
 openkim-models
 openlibm
 openmsx
-opensaml
 openslp
 opentsdb
 openttd
 openvpn
 ophcrack
-optipng
-orbit
 orc
 orocos-kdl
 osc
@@ -1431,19 +1351,14 @@ osxutils
 otf2
 otf2bdf
 oysttyer
-p0f
 p7zip
 pachi
 pacman4console
-pacparser
-pakchois
-pandoc
 paperkey
 paps
 par
 par2
 pass
-pass-git-helper
 pass-otp
 passwdqc
 pastebinit
@@ -1454,11 +1369,9 @@ payara
 pazpar2
 pbc
 pbc-sig
-pc6001vx
 pcal
 pcb
 pce
-pcre++
 pcsc-lite
 pdf2json
 pdf2svg
@@ -1485,7 +1398,6 @@ physfs
 pianod
 picat
 picocom
-pidgin
 pidof
 pigz
 pinboard-notes-backup
@@ -1505,7 +1417,6 @@ pktanon
 plod
 ploticus
 plotutils
-plowshare
 plplot
 plzip
 pmccabe
@@ -1516,9 +1427,7 @@ png2ico
 pngcheck
 pngcrush
 pngnq
-po4a
 pod2man
-podiff
 podofo
 polyglot
 polyml
@@ -1532,7 +1441,6 @@ powerman
 ppl
 ppss
 pqiv
-prefixsuffix
 primer3
 prips
 procmail
@@ -1572,13 +1480,10 @@ py2cairo
 pyinstaller
 pympress
 pytouhou
-qbs
 qca
-qcli
 qd
 qdae
 qdbm
-qjackctl
 qjson
 qprint
 qrupdate
@@ -1625,7 +1530,6 @@ redstore
 regex-opt
 regina-rexx
 regldg
-remind
 reminiscence
 ren
 rename
@@ -1639,7 +1543,6 @@ rfcmarkup
 rfcstrip
 riemann-client
 rig
-rinetd
 ripgrep-all
 rkflashtool
 rkhunter
@@ -1649,7 +1552,6 @@ rmcast
 rnv
 robodoc
 robotfindskitten
-rocksdb
 rofs-filtered
 rogue
 roll
@@ -1657,7 +1559,6 @@ rolldice
 rp
 rpcgen
 rpl
-rpm
 rpm2cpio
 rrdtool
 rsnapshot
@@ -1670,7 +1571,6 @@ rtmidi
 rtmpdump
 rtorrent
 rtptools
-rubberband
 runcocoa
 runit
 rush
@@ -1714,21 +1614,17 @@ sendemail
 sersniff
 servus
 sfcgal
-sfst
 sgrep
 sha2
 shadowsocks-libev
 shakespeare
 shapelib
-shared-mime-info
 shc
 shellcheck
 shellinabox
 shellz
-shibboleth-sp
 shivavg
 shmcat
-shntool
 shorten
 shtool
 siege
@@ -1749,7 +1645,6 @@ sleuthkit
 sloccount
 slurm
 smake
-smartmontools
 smartypants
 smpeg
 smpeg2
@@ -1778,14 +1673,11 @@ splint
 spring-roo
 sproxy
 sqliteodbc
-sqlmap
 sqtop
 squashfs
 squid
-sratoolkit
 srecord
 ssdeep
-ssed
 sshfs
 sshguard
 sshtrix
@@ -1811,7 +1703,6 @@ sub2srt
 subnetcalc
 suite-sparse
 supermodel
-supervisor
 surfraw
 svdlibc
 svg2pdf
@@ -1823,7 +1714,6 @@ swig
 swig@3
 switch-lan-play
 sylpheed
-synfig
 synscan
 sysbench
 sz81
@@ -1835,9 +1725,7 @@ takt
 taktuk
 tal
 talloc
-task-spooler
 tass64
-tcc
 tcpflow
 tcpreplay
 tcpsplit
@@ -1859,14 +1747,12 @@ texapp
 texi2html
 texinfo
 texlab
-texmath
 theora
 thrulay
 tig
 timedog
 timelimit
 timidity
-tin
 tiny-fugue
 tinycdb
 tinyproxy
@@ -1876,7 +1762,6 @@ tio
 titan-server
 tivodecode
 tj
-tmpreaper
 tnef
 tnftp
 tnftpd
@@ -1922,10 +1807,8 @@ udunits
 ufraw
 uggconv
 umlet
-unac
 unarj
 uni2ascii
-unibilium
 unicorn
 unifdef
 unittest
@@ -1947,7 +1830,6 @@ uru
 urweb
 usbredir
 userspace-rcu
-util-linux
 utimer
 uudeview
 v
@@ -1970,7 +1852,6 @@ vert
 vf
 vfuse
 vgrep
-vice
 viennacl
 vilistextum
 vimpager
@@ -1995,7 +1876,6 @@ voro++
 vowpal-wabbit
 vramsteg
 vrpn
-vsftpd
 vstr
 vsts-cli
 vtclock
@@ -2021,12 +1901,10 @@ webkit2png
 weboob
 when
 whitedb
-whohas
 widelands
 wifi-password
 wiggle
 wiiuse
-wimlib
 winexe
 wiredtiger
 wireguard-tools
@@ -2058,18 +1936,15 @@ xcproj
 xcv
 xdelta
 xdot
-xdotool
 xhyve
 xidel
 xlispstat
 xlslib
 xml-coreutils
-xml-tooling-c
 xml2
 xmlcatmgr
 xmlformat
 xmlrpc-c
-xmlsectool
 xmlsh
 xmltoman
 xmount
@@ -2087,7 +1962,6 @@ xtitle
 xvid
 xz
 yacas
-yadm
 yaf
 yafc
 yamcha
@@ -2097,9 +1971,7 @@ yaze-ag
 yconalyzer
 ydcv
 yetris
-ykneomgr
 yydecode
-z.lua
 z80asm
 zabbix-cli
 zbackup
@@ -2107,7 +1979,6 @@ zboy
 zdelta
 zelda-roth-se
 zenity
-zeromq
 zim
 zinc
 zip
