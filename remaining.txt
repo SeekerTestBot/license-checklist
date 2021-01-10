@@ -38,7 +38,6 @@ ansible-cmdb
 ansible@2.8
 ant-contrib
 antiword
-antlr4-cpp-runtime
 anttweakbar
 aoeui
 apache-ctakes
@@ -157,7 +156,6 @@ briss
 brogue
 browser
 bsdiff
-bsdmake
 bsdsfv
 bsponmpi
 btparse
@@ -203,7 +201,6 @@ cdpr
 cdrdao
 cdrtools
 center-im
-ceres-solver
 cern-ndiff
 ceylon
 cf
@@ -279,7 +276,6 @@ cpio
 cpl
 cppcms
 cppi
-cppman
 cppp
 cppunit
 cpulimit
@@ -372,7 +368,6 @@ dnsmap
 dnsmasq
 dnsrend
 dnstracer
-dnsviz
 docbook2x
 docutils
 docx2txt
@@ -405,7 +400,6 @@ dwarf
 dwarfutils
 dwatch
 dxflib
-dyld-headers
 dynamips
 e2fsprogs
 e2tools
@@ -466,7 +460,6 @@ fastjar
 fastme
 fastqc
 fb-client
-fceux
 fcitx-remote-for-osx
 fcrackzip
 fdclone
@@ -618,7 +611,6 @@ gnu-getopt
 gnu-go
 gnu-shogi
 gnu-smalltalk
-gnu-tar
 gnu-typist
 gnupg@1.4
 gnuski
@@ -910,7 +902,6 @@ libdvbpsi
 libdvdcss
 libdvdnav
 libdvdread
-libebml
 libedit
 libestr
 libetonyek
@@ -920,7 +911,6 @@ libexosip
 libextractor
 libfaketime
 libffcall
-libfixbuf
 libflowmanager
 libforensic1394
 libfreefare
@@ -1040,7 +1030,6 @@ libtorrent-rakshasa
 libu2f-host
 libuecc
 libunistring
-libunwind-headers
 libusb-compat
 libusbmuxd
 libvisio
@@ -1112,7 +1101,6 @@ man2html
 mandoc
 manticoresearch
 mapcrafter
-mapnik
 mapserver
 markdown
 marst
@@ -1228,7 +1216,6 @@ mussh
 mvtools
 mycli
 myman
-mysql++
 mysql-client
 mysql-client@5.7
 mysql-connector-c++
@@ -1317,12 +1304,10 @@ opam
 open-babel
 open-jtalk
 open-mesh
-open-ocd
 open-scene-graph
 open-sp
 open-tyrian
 open-zwave
-opencascade
 opencsg
 opendbx
 openjazz
@@ -1351,7 +1336,6 @@ osxutils
 otf2
 otf2bdf
 oysttyer
-p7zip
 pachi
 pacman4console
 paperkey
@@ -1396,7 +1380,6 @@ phplint
 phpmyadmin
 physfs
 pianod
-picat
 picocom
 pidof
 pigz
@@ -1471,7 +1454,6 @@ putmail
 putmail-queue
 putty
 puzzles
-pv
 pwgen
 pwnat
 pwncat
@@ -1962,7 +1944,6 @@ xtitle
 xvid
 xz
 yacas
-yaf
 yafc
 yamcha
 yamdi

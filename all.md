@@ -1,6 +1,6 @@
-3425 / 5424 (63.1%) of formulae have a valid `license` stanza as of 2021-01-04 19:54:08 UTC.
+3455 / 5435 (63.6%) of formulae have a valid `license` stanza as of 2021-01-10 00:51:14 UTC.
 
-964 / 5424 (17.8%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
+957 / 5435 (17.6%) contain a deprecated license (usually `GPL-2.0` or `GPL-3.0`).
 
 ### A
 
@@ -78,7 +78,7 @@
 - [x] alp: MIT
 - [x] alpine: Apache-2.0
 - [x] alsa-lib: LGPL-2.1-or-later
-- [ ] alure [[homepage](https://kcat.strangesoft.net/alure.html)] [head] [[stable](https://kcat.strangesoft.net/alure-releases/alure-1.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/alure.rb)]
+- [ ] alure [[homepage](https://kcat.tomasu.net/alure.html)] [head] [[stable](https://kcat.tomasu.net/alure-releases/alure-1.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/alure.rb)]
 - [ ] amap [[homepage](https://github.com/vanhauser-thc/THC-Archive)] [head] [[stable](https://github.com/vanhauser-thc/THC-Archive/raw/master/Tools/amap-5.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/amap.rb)]
 - [x] amazon-ecs-cli: Apache-2.0
 - [x] amdatu-bootstrap: Apache-2.0
@@ -108,7 +108,7 @@
 - [x] antigen: MIT
 - [ ] antiword [[homepage](http://www.winfield.demon.nl/)] [head] [[stable](http://www.winfield.demon.nl/linux/antiword-0.37.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/antiword.rb)]
 - [x] antlr: BSD-3-Clause
-- [ ] antlr4-cpp-runtime [[homepage](https://www.antlr.org/)] [head] [[stable](https://www.antlr.org/download/antlr4-cpp-runtime-4.9-source.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/antlr4-cpp-runtime.rb)]
+- [x] antlr4-cpp-runtime: BSD-3-Clause
 - [x] antlr@2: ANTLR-PD
 - [ ] anttweakbar [[homepage](https://anttweakbar.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/anttweakbar/AntTweakBar_116.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/anttweakbar.rb)]
 - [x] anycable-go: MIT
@@ -216,7 +216,7 @@
 - [x] atkmm: LGPL-2.1-or-later
 - [x] atkmm@2.28: LGPL-2.1-or-later
 - [x] atlantis: Apache-2.0
-- [ ] atlassian-cli [[homepage](https://bobswift.atlassian.net/wiki/pages/viewpage.action?pageId=1966101)] [head] [[stable](https://bobswift.atlassian.net/wiki/download/attachments/16285777/atlassian-cli-9.4.0-distribution.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/atlassian-cli.rb)]
+- [ ] atlassian-cli [[homepage](https://bobswift.atlassian.net/wiki/pages/viewpage.action?pageId=1966101)] [head] [[stable](https://bobswift.atlassian.net/wiki/download/attachments/16285777/atlassian-cli-9.5.0-distribution.zip)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/atlassian-cli.rb)]
 - [ ] atomicparsley: GPL-2.0 (deprecated) [[homepage](https://github.com/wez/atomicparsley)] [[head](https://github.com/wez/atomicparsley.git)] [[stable](https://github.com/wez/atomicparsley/archive/20201231.092811.cbecfb1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/atomicparsley.rb)]
 - [x] atomist-cli: Apache-2.0
 - [ ] atool: GPL-3.0 (deprecated) [[homepage](https://savannah.nongnu.org/projects/atool/)] [head] [[stable](https://savannah.nongnu.org/download/atool/atool-0.39.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/atool.rb)]
@@ -459,7 +459,7 @@
 - [ ] browser [[homepage](https://gist.github.com/318247/)] [head] [[stable](https://gist.github.com/defunkt/318247/raw/7720fc969d58a9bfdc74d71deaa15c1eb7582fc1/browser)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/browser.rb)]
 - [x] bsdconv: BSD-2-Clause
 - [ ] bsdiff [[homepage](https://www.daemonology.net/bsdiff/)] [head] [[stable](https://deb.debian.org/debian/pool/main/b/bsdiff/bsdiff_4.3.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bsdiff.rb)]
-- [ ] bsdmake [[homepage](https://opensource.apple.com/)] [head] [[stable](https://opensource.apple.com/tarballs/bsdmake/bsdmake-24.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bsdmake.rb)]
+- [x] bsdmake: `{:all_of=>["BSD-2-Clause", "BSD-3-Clause", "BSD-4-Clause-UC"]}`
 - [ ] bsdsfv [[homepage](https://bsdsfv.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/bsdsfv/bsdsfv/1.18/bsdsfv-1.18.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bsdsfv.rb)]
 - [ ] bsponmpi [[homepage](https://sourceforge.net/projects/bsponmpi/)] [head] [[stable](https://downloads.sourceforge.net/project/bsponmpi/bsponmpi/0.3/bsponmpi-0.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/bsponmpi.rb)]
 - [x] btfs: GPL-3.0-only
@@ -593,7 +593,7 @@
 - [x] celero: Apache-2.0
 - [ ] center-im [[homepage](https://www.centerim.org/index.php/Main_Page)] [head] [[stable](https://www.centerim.org/download/releases/centerim-4.22.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/center-im.rb)]
 - [x] cereal: BSD-3-Clause
-- [ ] ceres-solver [[homepage](http://ceres-solver.org/)] [[head](https://ceres-solver.googlesource.com/ceres-solver.git)] [[stable](http://ceres-solver.org/ceres-solver-1.14.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ceres-solver.rb)]
+- [x] ceres-solver: BSD-3-Clause
 - [ ] cern-ndiff [[homepage](https://mad.web.cern.ch/mad/)] [[head](https://github.com/MethodicalAcceleratorDesign/MAD-X.git)] [[stable](https://github.com/MethodicalAcceleratorDesign/MAD-X/archive/5.06.01.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cern-ndiff.rb)]
 - [x] certbot: Apache-2.0
 - [x] certigo: Apache-2.0
@@ -824,7 +824,7 @@
 - [x] cppcheck: GPL-3.0-or-later
 - [ ] cppcms [[homepage](http://cppcms.com/wikipp/en/page/main)] [head] [[stable](https://downloads.sourceforge.net/project/cppcms/cppcms/1.2.1/cppcms-1.2.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cppcms.rb)]
 - [ ] cppi: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/cppi/)] [head] [[stable](https://ftp.gnu.org/gnu/cppi/cppi-1.18.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cppi.rb)]
-- [ ] cppman: GPL-3.0 (deprecated) [[homepage](https://github.com/aitjcize/cppman)] [head] [[stable](https://files.pythonhosted.org/packages/e4/a0/6c8af0f95dc7fe418f2cf812a8704780f83295235c7f32b12e87e77a79e4/cppman-0.5.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cppman.rb)]
+- [x] cppman: GPL-3.0-or-later
 - [ ] cppp [[homepage](https://www.muppetlabs.com/~breadbox/software/cppp.html)] [head] [[stable](https://www.muppetlabs.com/~breadbox/pub/software/cppp-2.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/cppp.rb)]
 - [x] cpprestsdk: MIT
 - [x] cpptest: LGPL-2.1-or-later
@@ -1054,7 +1054,7 @@
 - [x] dnstop: BSD-3-Clause
 - [ ] dnstracer [[homepage](https://www.mavetju.org/unix/dnstracer.php)] [head] [[stable](https://www.mavetju.org/download/dnstracer-1.9.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dnstracer.rb)]
 - [x] dnstwist: Apache-2.0
-- [ ] dnsviz: GPL-2.0 (deprecated) [[homepage](https://github.com/dnsviz/dnsviz/)] [head] [[stable](https://files.pythonhosted.org/packages/25/d2/0ebfe23440a1adfdca403d7773570d3c05a3a8c5bcbaa0c091b5114d0224/dnsviz-0.8.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dnsviz.rb)]
+- [x] dnsviz: GPL-2.0-or-later
 - [x] dnsx: MIT
 - [x] docbook: `cannot_represent`
 - [x] docbook-xsl: MIT
@@ -1113,6 +1113,7 @@
 - [x] draco: Apache-2.0
 - [x] drafter: MIT
 - [x] drake: EPL-1.0
+- [x] driftctl: Apache-2.0
 - [x] drip: EPL-1.0
 - [x] dromeaudio: BSD-2-Clause
 - [x] drone-cli: Apache-2.0
@@ -1162,7 +1163,7 @@
 - [x] dwm: MIT
 - [ ] dxflib [[homepage](https://www.ribbonsoft.com/en/what-is-dxflib)] [head] [[stable](https://www.ribbonsoft.com/archives/dxflib/dxflib-2.5.0.0-1.src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dxflib.rb)]
 - [x] dxpy: Apache-2.0
-- [ ] dyld-headers [[homepage](https://opensource.apple.com/)] [head] [[stable](https://opensource.apple.com/tarballs/dyld/dyld-750.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dyld-headers.rb)]
+- [x] dyld-headers: APSL-2.0
 - [x] dylibbundler: MIT
 - [ ] dynamips: GPL-2.0 (deprecated) [[homepage](https://github.com/GNS3/dynamips)] [head] [[stable](https://github.com/GNS3/dynamips/archive/v0.2.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/dynamips.rb)]
 - [x] dynare: GPL-3.0-or-later
@@ -1328,7 +1329,7 @@
 - [x] fbi-servefiles: MIT
 - [x] fblog: WTFPL
 - [x] fcct: Apache-2.0
-- [ ] fceux [[homepage](https://fceux.com/)] [head] [[stable](https://downloads.sourceforge.net/project/fceultra/Source%20Code/2.2.3%20src/fceux-2.2.3.src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fceux.rb)]
+- [x] fceux: GPL-2.0-only
 - [x] fcgi: OML
 - [x] fcgiwrap: MIT
 - [ ] fcitx-remote-for-osx: GPL-3.0 (deprecated) [[homepage](https://github.com/xcodebuild/fcitx-remote-for-osx)] [head] [[stable](https://github.com/xcodebuild/fcitx-remote-for-osx/archive/0.3.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/fcitx-remote-for-osx.rb)]
@@ -1759,7 +1760,7 @@
 - [x] gnu-sed: GPL-3.0-or-later
 - [ ] gnu-shogi: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/gnushogi/)] [head] [[stable](https://ftp.gnu.org/gnu/gnushogi/gnushogi-1.4.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-shogi.rb)]
 - [ ] gnu-smalltalk: GPL-2.0 (deprecated) [[homepage](https://www.gnu.org/software/smalltalk/)] [[head](https://github.com/gnu-smalltalk/smalltalk.git)] [[stable](https://ftp.gnu.org/gnu/smalltalk/smalltalk-3.2.5.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-smalltalk.rb)]
-- [ ] gnu-tar: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/tar/)] [[head](https://git.savannah.gnu.org/git/tar.git)] [[stable](https://ftp.gnu.org/gnu/tar/tar-1.32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-tar.rb)]
+- [x] gnu-tar: GPL-3.0-or-later
 - [x] gnu-time: GPL-3.0-or-later
 - [ ] gnu-typist [[homepage](https://www.gnu.org/software/gtypist/)] [head] [[stable](https://ftp.gnu.org/gnu/gtypist/gtypist-2.9.5.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gnu-typist.rb)]
 - [x] gnu-units: GPL-3.0-or-later
@@ -1885,7 +1886,7 @@
 - [x] groff: GPL-3.0-or-later
 - [x] grok: BSD-2-Clause
 - [x] grokj2k: AGPL-3.0-or-later
-- [ ] gromacs [[homepage](http://www.gromacs.org/)] [head] [[stable](https://ftp.gromacs.org/pub/gromacs/gromacs-2020.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gromacs.rb)]
+- [ ] gromacs [[homepage](https://www.gromacs.org/)] [head] [[stable](https://ftp.gromacs.org/pub/gromacs/gromacs-2020.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gromacs.rb)]
 - [x] gron: MIT
 - [x] groonga: LGPL-2.1-or-later
 - [x] groovy: Apache-2.0
@@ -1924,12 +1925,12 @@
 - [ ] gti [[homepage](https://r-wos.org/hacks/gti)] [[head](https://github.com/rwos/gti.git)] [[stable](https://github.com/rwos/gti/archive/v1.7.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gti.rb)]
 - [x] gtk+: LGPL-2.0-or-later
 - [x] gtk+3: LGPL-2.0-or-later
-- [x] gtk+4: LGPL-2.0-or-later
 - [ ] gtk-chtheme [[homepage](http://plasmasturm.org/code/gtk-chtheme/)] [head] [[stable](http://plasmasturm.org/code/gtk-chtheme/gtk-chtheme-0.3.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtk-chtheme.rb)]
 - [ ] gtk-doc [[homepage](https://gitlab.gnome.org/GNOME/gtk-doc)] [head] [[stable](https://download.gnome.org/sources/gtk-doc/1.32/gtk-doc-1.32.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtk-doc.rb)]
 - [ ] gtk-gnutella: GPL-2.0 (deprecated) [[homepage](https://gtk-gnutella.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/gtk-gnutella/gtk-gnutella/1.2.0/gtk-gnutella-1.2.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtk-gnutella.rb)]
 - [ ] gtk-mac-integration: LGPL-2.1 (deprecated) [[homepage](https://wiki.gnome.org/Projects/GTK+/OSX/Integration)] [[head](https://github.com/jralls/gtk-mac-integration.git)] [[stable](https://download.gnome.org/sources/gtk-mac-integration/2.1/gtk-mac-integration-2.1.3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtk-mac-integration.rb)]
 - [ ] gtk-vnc [[homepage](https://wiki.gnome.org/Projects/gtk-vnc)] [head] [[stable](https://download.gnome.org/sources/gtk-vnc/1.0/gtk-vnc-1.0.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtk-vnc.rb)]
+- [x] gtk4: LGPL-2.0-or-later
 - [ ] gtkdatabox: LGPL-2.1 (deprecated) [[homepage](https://sourceforge.net/projects/gtkdatabox/)] [head] [[stable](https://downloads.sourceforge.net/project/gtkdatabox/gtkdatabox/0.9.3.1/gtkdatabox-0.9.3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkdatabox.rb)]
 - [ ] gtkextra [[homepage](https://gtkextra.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/gtkextra/3.3/gtkextra-3.3.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkextra.rb)]
 - [ ] gtkglext [[homepage](https://developer.gnome.org/gtkglext/stable/)] [head] [[stable](https://download.gnome.org/sources/gtkglext/1.2/gtkglext-1.2.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/gtkglext.rb)]
@@ -1997,6 +1998,7 @@
 - [x] haxe: `{:all_of=>["GPL-2.0-or-later", "MIT"]}`
 - [x] hayai: Apache-2.0
 - [x] hbase: Apache-2.0
+- [x] hblock: MIT
 - [x] hcloud: MIT
 - [x] hcxtools: MIT
 - [ ] hdf5 [[homepage](https://www.hdfgroup.org/HDF5)] [head] [[stable](https://support.hdfgroup.org/ftp/HDF5/releases/hdf5-1.12/hdf5-1.12.0/src/hdf5-1.12.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/hdf5.rb)]
@@ -2163,6 +2165,7 @@
 - [x] immudb: Apache-2.0
 - [ ] inadyn: GPL-2.0 (deprecated) [[homepage](https://troglobit.com/projects/inadyn/)] [head] [[stable](https://github.com/troglobit/inadyn/releases/download/v2.7/inadyn-2.7.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/inadyn.rb)]
 - [x] include-what-you-use: NCSA
+- [x] indicators: MIT
 - [ ] inetutils [[homepage](https://www.gnu.org/software/inetutils/)] [head] [[stable](https://ftp.gnu.org/gnu/inetutils/inetutils-1.9.4.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/inetutils.rb)]
 - [x] infer: MIT
 - [x] influxdb: MIT
@@ -2303,6 +2306,7 @@
 - [x] jpeg: IJG
 - [x] jpeg-archive: MIT
 - [x] jpeg-turbo: IJG
+- [x] jpeg-xl: Apache-2.0
 - [x] jpeginfo: GPL-2.0-or-later
 - [ ] jpegoptim: GPL-2.0 (deprecated) [[homepage](https://github.com/tjko/jpegoptim)] [[head](https://github.com/tjko/jpegoptim.git)] [[stable](https://github.com/tjko/jpegoptim/archive/RELEASE.1.4.6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jpegoptim.rb)]
 - [ ] jpegrescan [[homepage](https://github.com/kud/jpegrescan)] [[head](https://github.com/kud/jpegrescan.git)] [[stable](https://github.com/kud/jpegrescan/archive/1.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/jpegrescan.rb)]
@@ -2603,7 +2607,7 @@
 - [ ] libdvdcss: GPL-2.0 (deprecated) [[homepage](https://www.videolan.org/developers/libdvdcss.html)] [[head](https://code.videolan.org/videolan/libdvdcss.git)] [[stable](https://download.videolan.org/pub/videolan/libdvdcss/1.4.2/libdvdcss-1.4.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libdvdcss.rb)]
 - [ ] libdvdnav [[homepage](https://www.videolan.org/developers/libdvdnav.html)] [[head](https://code.videolan.org/videolan/libdvdnav.git)] [[stable](https://download.videolan.org/pub/videolan/libdvdnav/6.1.0/libdvdnav-6.1.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libdvdnav.rb)]
 - [ ] libdvdread: GPL-2.0 (deprecated) [[homepage](https://www.videolan.org/developers/libdvdnav.html)] [[head](https://code.videolan.org/videolan/libdvdread.git)] [[stable](https://download.videolan.org/pub/videolan/libdvdread/6.1.1/libdvdread-6.1.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libdvdread.rb)]
-- [ ] libebml: LGPL-2.1 (deprecated) [[homepage](https://www.matroska.org/)] [[head](https://github.com/Matroska-Org/libebml.git)] [[stable](https://dl.matroska.org/downloads/libebml/libebml-1.4.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libebml.rb)]
+- [x] libebml: LGPL-2.1-or-later
 - [x] libebur128: MIT
 - [ ] libedit [[homepage](https://thrysoee.dk/editline/)] [head] [[stable](https://thrysoee.dk/editline/libedit-20191231-3.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libedit.rb)]
 - [x] libelf: LGPL-2.0-or-later
@@ -2625,7 +2629,7 @@
 - [x] libffi: MIT
 - [x] libfido2: BSD-2-Clause
 - [x] libfishsound: BSD-3-Clause
-- [ ] libfixbuf [[homepage](https://tools.netsa.cert.org/fixbuf/)] [head] [[stable](https://tools.netsa.cert.org/releases/libfixbuf-2.4.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libfixbuf.rb)]
+- [x] libfixbuf: LGPL-3.0-only
 - [x] libfixposix: BSL-1.0
 - [ ] libflowmanager [[homepage](https://research.wand.net.nz/software/libflowmanager.php)] [head] [[stable](https://research.wand.net.nz/software/libflowmanager/libflowmanager-3.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libflowmanager.rb)]
 - [x] libfontenc: MIT
@@ -2884,7 +2888,7 @@
 - [ ] libuecc [[homepage](https://git.universe-factory.net/libuecc/)] [[head](https://git.universe-factory.net/libuecc)] [[stable](https://git.universe-factory.net/libuecc/snapshot/libuecc-7.tar)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libuecc.rb)]
 - [x] libuninameslist: BSD-3-Clause
 - [ ] libunistring: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/libunistring/)] [head] [[stable](https://ftp.gnu.org/gnu/libunistring/libunistring-0.9.10.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libunistring.rb)]
-- [ ] libunwind-headers [[homepage](https://opensource.apple.com/)] [head] [[stable](https://opensource.apple.com/tarballs/libunwind/libunwind-35.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libunwind-headers.rb)]
+- [x] libunwind-headers: APSL-2.0
 - [x] libupnp: BSD-3-Clause
 - [x] libusb: LGPL-2.1-or-later
 - [ ] libusb-compat [[homepage](https://libusb.info/)] [head] [[stable](https://downloads.sourceforge.net/project/libusb/libusb-compat-0.1/libusb-compat-0.1.5/libusb-compat-0.1.5.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libusb-compat.rb)]
@@ -2967,7 +2971,7 @@
 - [ ] libzdb: GPL-3.0 (deprecated) [[homepage](https://tildeslash.com/libzdb/)] [head] [[stable](https://tildeslash.com/libzdb/dist/libzdb-3.2.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libzdb.rb)]
 - [x] libzip: BSD-3-Clause
 - [ ] libzt [[homepage](https://www.zerotier.com)] [head] [[stable](https://github.com/zerotier/libzt.git)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libzt.rb)]
-- [ ] libzzip: LGPL-2.0 (deprecated) [[homepage](https://github.com/gdraheim/zziplib)] [head] [[stable](https://github.com/gdraheim/zziplib/archive/v0.13.71.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libzzip.rb)]
+- [ ] libzzip: LGPL-2.0 (deprecated) [[homepage](https://github.com/gdraheim/zziplib)] [head] [[stable](https://github.com/gdraheim/zziplib/archive/v0.13.72.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/libzzip.rb)]
 - [ ] lifelines [[homepage](https://lifelines.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lifelines/lifelines/3.0.62/lifelines-3.0.62.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lifelines.rb)]
 - [x] lightgbm: MIT
 - [ ] lightning: GPL-3.0 (deprecated) [[homepage](https://www.gnu.org/software/lightning/)] [head] [[stable](https://ftp.gnu.org/gnu/lightning/lightning-2.1.3.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lightning.rb)]
@@ -3012,9 +3016,10 @@
 - [ ] log4shib: LGPL-2.1 (deprecated) [[homepage](https://wiki.shibboleth.net/confluence/display/OpenSAML/log4shib)] [head] [[stable](https://shibboleth.net/downloads/log4shib/2.0.0/log4shib-2.0.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/log4shib.rb)]
 - [ ] logcheck: GPL-2.0 (deprecated) [[homepage](https://packages.debian.org/sid/logcheck)] [head] [[stable](https://deb.debian.org/debian/pool/main/l/logcheck/logcheck_1.3.20.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/logcheck.rb)]
 - [x] logcli: Apache-2.0
-- [ ] logrotate: GPL-2.0 (deprecated) [[homepage](https://github.com/logrotate/logrotate)] [head] [[stable](https://github.com/logrotate/logrotate/releases/download/3.17.0/logrotate-3.17.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/logrotate.rb)]
+- [ ] logrotate: GPL-2.0 (deprecated) [[homepage](https://github.com/logrotate/logrotate)] [head] [[stable](https://github.com/logrotate/logrotate/releases/download/3.18.0/logrotate-3.18.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/logrotate.rb)]
 - [ ] logstalgia: GPL-3.0 (deprecated) [[homepage](https://logstalgia.io/)] [[head](https://github.com/acaudwell/Logstalgia.git)] [[stable](https://github.com/acaudwell/Logstalgia/releases/download/logstalgia-1.1.2/logstalgia-1.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/logstalgia.rb)]
 - [x] logstash: Apache-2.0
+- [x] logswan: BSD-2-Clause
 - [x] logtalk: Apache-2.0
 - [x] loki: Apache-2.0
 - [x] lolcat: BSD-3-Clause
@@ -3022,6 +3027,7 @@
 - [x] lorem: GPL-3.0-or-later
 - [ ] loudmouth: LGPL-2.1 (deprecated) [[homepage](https://mcabber.com)] [[head](https://github.com/mcabber/loudmouth.git)] [[stable](https://mcabber.com/files/loudmouth/loudmouth-1.5.3.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/loudmouth.rb)]
 - [ ] lout: GPL-3.0 (deprecated) [[homepage](https://savannah.nongnu.org/projects/lout)] [head] [[stable](https://download.savannah.gnu.org/releases/lout/lout-3.40.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lout.rb)]
+- [x] lp_solve: LGPL-2.1-or-later
 - [ ] lpc21isp [[homepage](https://lpc21isp.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/lpc21isp/lpc21isp/1.97/lpc21isp_197.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lpc21isp.rb)]
 - [ ] lrdf: GPL-2.0 (deprecated) [[homepage](https://github.com/swh/LRDF)] [head] [[stable](https://github.com/swh/LRDF/archive/v0.6.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lrdf.rb)]
 - [ ] lrzip: GPL-2.0 (deprecated) [[homepage](http://lrzip.kolivas.org)] [head] [[stable](http://ck.kolivas.org/apps/lrzip/lrzip-0.631.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lrzip.rb)]
@@ -3056,7 +3062,7 @@
 - [x] lz4: BSD-2-Clause
 - [x] lzfse: BSD-3-Clause
 - [ ] lzip: GPL-2.0 (deprecated) [[homepage](https://www.nongnu.org/lzip/)] [head] [[stable](https://download-mirror.savannah.gnu.org/releases/lzip/lzip-1.21.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lzip.rb)]
-- [ ] lzlib [[homepage](https://www.nongnu.org/lzip/lzlib.html)] [head] [[stable](https://download.savannah.gnu.org/releases/lzip/lzlib/lzlib-1.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lzlib.rb)]
+- [ ] lzlib [[homepage](https://www.nongnu.org/lzip/lzlib.html)] [head] [[stable](https://download.savannah.gnu.org/releases/lzip/lzlib/lzlib-1.12.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lzlib.rb)]
 - [ ] lzo: GPL-2.0 (deprecated) [[homepage](https://www.oberhumer.com/opensource/lzo/)] [head] [[stable](https://www.oberhumer.com/opensource/lzo/download/lzo-2.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lzo.rb)]
 - [ ] lzop: GPL-2.0 (deprecated) [[homepage](https://www.lzop.org/)] [head] [[stable](https://dl.bintray.com/homebrew/mirror/lzop-1.04.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/lzop.rb)]
 
@@ -3099,7 +3105,7 @@
 - [x] mandown: MIT
 - [ ] manticoresearch: GPL-2.0 (deprecated) [[homepage](https://www.manticoresearch.com)] [[head](https://github.com/manticoresoftware/manticoresearch.git)] [[stable](https://repo.manticoresearch.com/repository/manticoresearch_source/release/manticore-3.5.4-201211-13f8d08-release-source.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/manticoresearch.rb)]
 - [ ] mapcrafter: GPL-3.0 (deprecated) [[homepage](https://mapcrafter.org)] [head] [[stable](https://github.com/mapcrafter/mapcrafter/archive/v.2.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mapcrafter.rb)]
-- [ ] mapnik: LGPL-2.1 (deprecated) [[homepage](https://mapnik.org/)] [[head](https://github.com/mapnik/mapnik.git)] [[stable](https://github.com/mapnik/mapnik/releases/download/v3.0.23/mapnik-v3.0.23.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mapnik.rb)]
+- [x] mapnik: LGPL-2.1-or-later
 - [ ] mapserver [[homepage](https://mapserver.org/)] [head] [[stable](https://download.osgeo.org/mapserver/mapserver-7.6.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mapserver.rb)]
 - [x] mariadb: GPL-2.0-only
 - [x] mariadb-connector-c: LGPL-2.1-or-later
@@ -3235,7 +3241,7 @@
 - [x] mitmproxy: MIT
 - [ ] mix-completion [[homepage](https://github.com/davidhq/mix-power-completion)] [[head](https://github.com/davidhq/mix-power-completion.git)] [[stable](https://github.com/davidhq/mix-power-completion/archive/0.8.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mix-completion.rb)]
 - [ ] mjpegtools [[homepage](https://mjpeg.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/mjpeg/mjpegtools/2.1.0/mjpegtools-2.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mjpegtools.rb)]
-- [ ] mk-configure [[homepage](https://github.com/cheusov/mk-configure)] [head] [[stable](https://downloads.sourceforge.net/project/mk-configure/mk-configure/mk-configure-0.35.0/mk-configure-0.35.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mk-configure.rb)]
+- [ ] mk-configure [[homepage](https://github.com/cheusov/mk-configure)] [head] [[stable](https://downloads.sourceforge.net/project/mk-configure/mk-configure/mk-configure-0.36.0/mk-configure-0.36.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mk-configure.rb)]
 - [x] mkcert: BSD-3-Clause
 - [ ] mkclean [[homepage](https://www.matroska.org/downloads/mkclean.html)] [head] [[stable](https://downloads.sourceforge.net/project/matroska/mkclean/mkclean-0.8.10.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mkclean.rb)]
 - [ ] mkcue: LGPL-2.1 (deprecated) [[homepage](https://packages.debian.org/sid/mkcue)] [head] [[stable](https://deb.debian.org/debian/pool/main/m/mkcue/mkcue_1.orig.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mkcue.rb)]
@@ -3373,7 +3379,7 @@
 - [ ] myman [[homepage](https://myman.sourceforge.io/)] [[head](:pserver:anonymous:@myman.cvs.sourceforge.net:/cvsroot/myman)] [[stable](https://downloads.sourceforge.net/project/myman/myman-cvs/myman-cvs-2009-10-30/myman-wip-2009-10-30.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/myman.rb)]
 - [x] mypy: MIT
 - [x] mysql: GPL-2.0-only
-- [ ] mysql++ [[homepage](https://tangentsoft.com/mysqlpp/home)] [head] [[stable](https://tangentsoft.com/mysqlpp/releases/mysql++-3.2.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql++.rb)]
+- [x] mysql++: LGPL-2.1-or-later
 - [ ] mysql-client [[homepage](https://dev.mysql.com/doc/refman/8.0/en/)] [head] [[stable](https://cdn.mysql.com/Downloads/MySQL-8.0/mysql-boost-8.0.22.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-client.rb)]
 - [ ] mysql-client@5.7 [[homepage](https://dev.mysql.com/doc/refman/5.7/en/)] [head] [[stable](https://cdn.mysql.com/Downloads/MySQL-5.7/mysql-boost-5.7.32.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-client@5.7.rb)]
 - [ ] mysql-connector-c++ [[homepage](https://dev.mysql.com/downloads/connector/cpp/)] [head] [[stable](https://dev.mysql.com/get/Downloads/Connector-C++/mysql-connector-c++-8.0.22-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/mysql-connector-c++.rb)]
@@ -3566,6 +3572,7 @@
 - [ ] ocaml: LGPL-2.1 (deprecated) [[homepage](https://ocaml.org/)] [[head](https://github.com/ocaml/ocaml.git)] [[stable](https://caml.inria.fr/pub/distrib/ocaml-4.10/ocaml-4.10.0.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml.rb)]
 - [ ] ocaml-findlib [[homepage](http://projects.camlcity.org/projects/findlib.html)] [head] [[stable](http://download.camlcity.org/download/findlib-1.8.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml-findlib.rb)]
 - [ ] ocaml-num: LGPL-2.1 (deprecated) [[homepage](https://github.com/ocaml/num)] [head] [[stable](https://github.com/ocaml/num/archive/v1.4.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocaml-num.rb)]
+- [x] ocaml-zarith: LGPL-2.0-only
 - [ ] ocamlbuild: LGPL-2.0 (deprecated) [[homepage](https://github.com/ocaml/ocamlbuild)] [[head](https://github.com/ocaml/ocamlbuild.git)] [[stable](https://github.com/ocaml/ocamlbuild/archive/0.14.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/ocamlbuild.rb)]
 - [x] ocamlsdl: LGPL-2.1-or-later
 - [x] oci-cli: `{:any_of=>["UPL-1.0", "Apache-2.0"]}`
@@ -3614,7 +3621,7 @@
 - [ ] open-jtalk [[homepage](https://open-jtalk.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/open-jtalk/Open%20JTalk/open_jtalk-1.11/open_jtalk-1.11.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-jtalk.rb)]
 - [ ] open-mesh [[homepage](https://openmesh.org/)] [[head](https://www.graphics.rwth-aachen.de:9000/OpenMesh/OpenMesh.git)] [[stable](https://www.openmesh.org/media/Releases/8.1/OpenMesh-8.1.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-mesh.rb)]
 - [x] open-mpi: BSD-3-Clause
-- [ ] open-ocd: GPL-2.0 (deprecated) [[homepage](http://openocd.org/)] [[head](https://git.code.sf.net/p/openocd/code.git)] [[stable](https://downloads.sourceforge.net/project/openocd/openocd/0.10.0/openocd-0.10.0.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-ocd.rb)]
+- [x] open-ocd: GPL-2.0-or-later
 - [ ] open-scene-graph [[homepage](https://github.com/openscenegraph/OpenSceneGraph)] [[head](https://github.com/openscenegraph/OpenSceneGraph.git)] [[stable](https://github.com/openscenegraph/OpenSceneGraph/archive/OpenSceneGraph-3.6.5.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-scene-graph.rb)]
 - [ ] open-sp [[homepage](https://openjade.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/openjade/opensp/1.5.2/OpenSP-1.5.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-sp.rb)]
 - [ ] open-tyrian: GPL-2.0 (deprecated) [[homepage](https://github.com/opentyrian/opentyrian)] [[head](https://github.com/opentyrian/opentyrian.git)] [[stable](https://www.camanis.net/opentyrian/releases/opentyrian-2.1.20130907-src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/open-tyrian.rb)]
@@ -3623,7 +3630,7 @@
 - [x] openalpr: AGPL-3.0-or-later
 - [x] openapi-generator: Apache-2.0
 - [x] openblas: BSD-3-Clause
-- [ ] opencascade [[homepage](https://www.opencascade.com/content/overview)] [head] [[stable](https://git.dev.opencascade.org/gitweb/?p=occt.git;a=snapshot;h=refs/tags/V7_5_0;sf=tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/opencascade.rb)]
+- [x] opencascade: LGPL-2.1-only
 - [x] opencbm: GPL-2.0-only
 - [x] opencc: Apache-2.0
 - [x] openclonk: ISC
@@ -3720,7 +3727,7 @@
 
 - [x] p0f: LGPL-2.1-only
 - [x] p11-kit: BSD-3-Clause
-- [ ] p7zip: LGPL-2.1 (deprecated) [[homepage](https://p7zip.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/p7zip/p7zip/16.02/p7zip_16.02_src_all.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/p7zip.rb)]
+- [x] p7zip: `{:all_of=>["LGPL-2.1-or-later", "GPL-2.0-or-later"]}`
 - [x] pacapt: Fair
 - [ ] pachi: GPL-2.0 (deprecated) [[homepage](https://pachi.or.cz/)] [[head](https://github.com/pasky/pachi.git)] [[stable](https://github.com/pasky/pachi/archive/pachi-12.60.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pachi.rb)]
 - [x] packer: MPL-2.0
@@ -3795,7 +3802,7 @@
 - [ ] pdfcrack: GPL-2.0 (deprecated) [[homepage](https://pdfcrack.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pdfcrack/pdfcrack/pdfcrack-0.19/pdfcrack-0.19.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdfcrack.rb)]
 - [ ] pdfgrep: GPL-2.0 (deprecated) [[homepage](https://pdfgrep.org/)] [[head](https://gitlab.com/pdfgrep/pdfgrep.git)] [[stable](https://pdfgrep.org/download/pdfgrep-2.1.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdfgrep.rb)]
 - [ ] pdflib-lite [[homepage](https://www.pdflib.com/download/free-software/pdflib-lite-7/)] [head] [[stable](https://dl.bintray.com/homebrew/mirror/pdflib-lite--7.0.5p3.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdflib-lite.rb)]
-- [x] pdfpc: GPL-2.0-or-later
+- [x] pdfpc: GPL-3.0-or-later
 - [ ] pdfsandwich [[homepage](http://www.tobias-elze.de/pdfsandwich/)] [[head](https://svn.code.sf.net/p/pdfsandwich/code/trunk/src)] [[stable](https://downloads.sourceforge.net/project/pdfsandwich/pdfsandwich%200.1.7/pdfsandwich-0.1.7.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdfsandwich.rb)]
 - [x] pdftk-java: GPL-2.0-or-later
 - [ ] pdftohtml [[homepage](https://pdftohtml.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pdftohtml/Experimental%20Versions/pdftohtml%200.40/pdftohtml-0.40a.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pdftohtml.rb)]
@@ -3859,7 +3866,7 @@
 - [x] pianobar: MIT
 - [ ] pianod [[homepage](https://deviousfish.com/pianod/)] [head] [[stable](https://deviousfish.com/Downloads/pianod2/Devel/pianod2-301.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pianod.rb)]
 - [x] picard-tools: MIT
-- [ ] picat [[homepage](http://picat-lang.org/)] [head] [[stable](http://picat-lang.org/download/picat30_3_src.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/picat.rb)]
+- [x] picat: MPL-2.0
 - [x] pick: MIT
 - [x] pickle: BSD-3-Clause
 - [x] picoc: BSD-3-Clause
@@ -4044,7 +4051,7 @@
 - [ ] putmail-queue [[homepage](https://putmail.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/putmail/putmail-queue/0.2/putmail-queue-0.2.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/putmail-queue.rb)]
 - [ ] putty [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/putty/)] [[head](https://git.tartarus.org/simon/putty.git)] [[stable](https://the.earth.li/~sgtatham/putty/0.74/putty-0.74.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/putty.rb)]
 - [ ] puzzles [[homepage](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)] [[head](https://git.tartarus.org/simon/puzzles.git)] [[stable](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/puzzles-20201208.84cb4c6.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/puzzles.rb)]
-- [ ] pv [[homepage](https://www.ivarch.com/programs/pv.shtml)] [head] [[stable](https://www.ivarch.com/programs/sources/pv-1.6.6.tar.bz2)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pv.rb)]
+- [x] pv: Artistic-2.0
 - [ ] pwgen: GPL-2.0 (deprecated) [[homepage](https://pwgen.sourceforge.io/)] [head] [[stable](https://downloads.sourceforge.net/project/pwgen/pwgen/2.08/pwgen-2.08.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pwgen.rb)]
 - [ ] pwnat: GPL-3.0 (deprecated) [[homepage](https://samy.pl/pwnat/)] [[head](https://github.com/samyk/pwnat.git)] [[stable](https://samy.pl/pwnat/pwnat-0.3-beta.tgz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pwnat.rb)]
 - [ ] pwncat [[homepage](https://pwncat.org)] [head] [[stable](https://files.pythonhosted.org/packages/31/8a/efc45ecc5e91afc76de9c56f89de99af01d575529fead6ee24331a3fddf2/pwncat-0.1.0.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/pwncat.rb)]
@@ -4810,6 +4817,7 @@
 - [ ] tcptraceroute: GPL-2.0 (deprecated) [[homepage](https://github.com/mct/tcptraceroute)] [[head](https://github.com/mct/tcptraceroute.git)] [[stable](https://github.com/mct/tcptraceroute/archive/tcptraceroute-1.5beta7.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tcptraceroute.rb)]
 - [ ] tcptunnel: GPL-2.0 (deprecated) [[homepage](http://www.vakuumverpackt.de/tcptunnel/)] [head] [[stable](https://github.com/vakuum/tcptunnel/archive/v0.8.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tcptunnel.rb)]
 - [ ] tcsh [[homepage](https://www.tcsh.org/)] [head] [[stable](https://astron.com/pub/tcsh/tcsh-6.22.03.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/tcsh.rb)]
+- [x] tctl: MIT
 - [x] td: MIT
 - [x] tdkjs: Apache-2.0
 - [x] tdlib: BSL-1.0
@@ -4871,6 +4879,7 @@
 - [x] tfenv: MIT
 - [x] tflint: MPL-2.0
 - [x] tfsec: MIT
+- [x] tgenv: MIT
 - [x] tgif: QPL-1.0
 - [x] tgui: Zlib
 - [x] thanos: Apache-2.0
@@ -5396,7 +5405,7 @@
 - [ ] yacas: LGPL-2.1 (deprecated) [[homepage](https://www.yacas.org/)] [head] [[stable](https://github.com/grzegorzmazur/yacas/archive/v1.9.1.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yacas.rb)]
 - [x] yadm: GPL-3.0-or-later
 - [x] yaegi: Apache-2.0
-- [ ] yaf [[homepage](https://tools.netsa.cert.org/yaf/)] [head] [[stable](https://tools.netsa.cert.org/releases/yaf-2.11.2.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yaf.rb)]
+- [x] yaf: GPL-2.0-only
 - [ ] yafc [[homepage](https://github.com/sebastinas/yafc)] [head] [[stable](https://deb.debian.org/debian/pool/main/y/yafc/yafc_1.3.7.orig.tar.xz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yafc.rb)]
 - [x] yajl: ISC
 - [ ] yamcha: LGPL-2.1 (deprecated) [[homepage](http://chasen.org/~taku/software/yamcha/)] [head] [[stable](http://chasen.org/~taku/software/yamcha/src/yamcha-0.33.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yamcha.rb)]
@@ -5423,6 +5432,7 @@
 - [x] yh: Apache-2.0
 - [x] yj: Apache-2.0
 - [x] ykclient: BSD-2-Clause
+- [x] ykdl: MIT
 - [x] ykman: BSD-2-Clause
 - [x] ykneomgr: LGPL-3.0-or-later
 - [x] ykpers: BSD-2-Clause
@@ -5433,6 +5443,7 @@
 - [x] youtube-dlc: Unlicense
 - [x] youtubedr: MIT
 - [x] yq: MIT
+- [x] yq@3: MIT
 - [x] yubico-piv-tool: BSD-2-Clause
 - [x] yuicompressor: BSD-3-Clause
 - [ ] yydecode: GPL-2.0 (deprecated) [[homepage](https://yydecode.sourceforge.io)] [head] [[stable](https://downloads.sourceforge.net/project/yydecode/yydecode/0.2.10/yydecode-0.2.10.tar.gz)] [[formula](https://github.com/Homebrew/homebrew-core/blob/master/Formula/yydecode.rb)]
