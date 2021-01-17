@@ -25,7 +25,6 @@ alac
 aldo
 algol68g
 align
-alluxio
 alot
 alure
 amap
@@ -95,7 +94,6 @@ awf
 aws-cfn-tools
 backupninja
 bacula-fd
-badtouch
 balance
 ballerburg
 baobab
@@ -159,12 +157,10 @@ bsdiff
 bsdsfv
 bsponmpi
 btparse
-bup
 burl
 burp
 bvi
 bwa
-bwm-ng
 byobu
 byteman
 bzr-builder
@@ -194,7 +190,6 @@ cd-discid
 cdargs
 cdb
 cdecl
-cdk
 cdlabelgen
 cdparanoia
 cdpr
@@ -214,7 +209,6 @@ cgit
 cgrep
 cgvg
 chadwick
-chafa
 charm
 charm-tools
 chcase
@@ -330,7 +324,6 @@ ddate
 ddclient
 ddgr
 ddrescue
-deark
 deja-gnu
 delta
 deployer
@@ -347,7 +340,6 @@ diceware
 dict
 diction
 dieharder
-diffstat
 diffutils
 digdag
 digitemp
@@ -411,7 +403,6 @@ ec2-api-tools
 ecasound
 ecl
 ecm
-ed
 eg
 eiffelstudio
 einstein
@@ -662,7 +653,6 @@ gti
 gtk-chtheme
 gtk-doc
 gtk-gnutella
-gtk-mac-integration
 gtk-vnc
 gtkdatabox
 gtkextra
@@ -957,7 +947,6 @@ liblzf
 libmagic
 libmatroska
 libmemcached
-libmicrohttpd
 libmikmod
 libming
 libmms
@@ -1073,13 +1062,10 @@ lsdvd
 lsyncd
 ltc-tools
 ltl2ba
-luit
 lv
-lv2
 lwtools
 lxsplit
 lynx
-lzip
 lzlib
 lzo
 lzop
@@ -1094,7 +1080,6 @@ makeicns
 makensis
 makepkg
 makepp
-makeself
 malbolge
 mallet
 man2html
@@ -1113,7 +1098,6 @@ mcrypt
 md
 md5deep
 md5sha1sum
-mda-lv2
 mdf2iso
 mdp
 mdr
@@ -1161,7 +1145,6 @@ mksh
 mktorrent
 mkvalidator
 mlkit
-mlpack
 mmix
 mmsrip
 mmv
@@ -1214,7 +1197,6 @@ mupen64plus
 musepack
 mussh
 mvtools
-mycli
 myman
 mysql-client
 mysql-client@5.7
@@ -1272,7 +1254,6 @@ ntl
 ntp
 nu-smv
 nuget
-num-utils
 nut
 nuttcp
 nuvie
@@ -1369,7 +1350,6 @@ pdsh
 perceptualdiff
 percona-server
 percona-xtrabackup
-pev
 pg_top
 pgbouncer
 pgdbf
@@ -1401,7 +1381,6 @@ plod
 ploticus
 plotutils
 plplot
-plzip
 pmccabe
 pmdmini
 pms
@@ -1429,7 +1408,6 @@ prips
 procmail
 proctools
 procyon-decompiler
-profanity
 proftpd
 progress
 proguard
@@ -1448,7 +1426,6 @@ pth
 ptunnel
 puf
 pulp
-pulseaudio
 pure-ftpd
 putmail
 putmail-queue
@@ -1459,7 +1436,6 @@ pwnat
 pwncat
 pwsafe
 py2cairo
-pyinstaller
 pympress
 pytouhou
 qca
@@ -1595,7 +1571,6 @@ sec
 sendemail
 sersniff
 servus
-sfcgal
 sgrep
 sha2
 shadowsocks-libev
@@ -1642,7 +1617,6 @@ somagic-tools
 sound-touch
 source-highlight
 sox
-spades
 spandsp
 sparse
 spatialite-gui
@@ -1775,7 +1749,6 @@ two-lame
 twoping
 txt2tags
 typespeed
-u-boot-tools
 uade
 ubertooth
 ucg
@@ -1840,7 +1813,6 @@ vimpager
 vimpc
 vip
 virtualhost.sh
-virtualpg
 virtuoso
 visionmedia-watch
 visitors
@@ -1910,7 +1882,6 @@ x11vnc
 x86_64-elf-binutils
 x86_64-elf-gcc
 xa
-xapian
 xaric
 xbee-comm
 xboard
