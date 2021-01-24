@@ -70,7 +70,6 @@ atari800
 atasm
 aterm
 atlassian-cli
-atomicparsley
 atool
 aubio
 audiofile
@@ -206,7 +205,6 @@ cflow
 cfv
 cgdb
 cgit
-cgrep
 cgvg
 chadwick
 charm
@@ -245,7 +243,6 @@ clzip
 cmatrix
 cmix
 cmuclmtk
-cmus
 cmusfm
 coccinelle
 codec2
@@ -357,7 +354,6 @@ dmtx-utils
 dns2tcp
 dnsdist
 dnsmap
-dnsmasq
 dnsrend
 dnstracer
 docbook2x
@@ -475,7 +471,6 @@ flactag
 flake
 flashrom
 flasm
-flawfinder
 flickcurl
 flif
 flow-tools
@@ -507,7 +502,6 @@ fswatch
 ftgl
 ftjam
 fuego
-funcoeszz
 fuse-emulator
 fuzzy-find
 gabedit
@@ -520,7 +514,6 @@ gawk
 gbdfed
 gcab
 gcal
-gcc
 gcc@4.9
 gcc@5
 gcc@6
@@ -611,7 +604,6 @@ gocr
 gom
 goocanvas
 google-sql-tool
-googler
 goolabs
 gor
 gource
@@ -967,7 +959,6 @@ libnova
 libntlm
 libnxml
 liboauth
-libodfgen
 libofx
 liboil
 libopendkim
@@ -1032,7 +1023,6 @@ libxdiff
 libxmi
 libxmp
 libxspf
-libzdb
 libzt
 libzzip
 lifelines
@@ -1123,13 +1113,11 @@ mftrace
 mhash
 midgard2
 midicsv
-midnight-commander
 mikmod
 mimic
 minetest
 minidjvu
 minimodem
-minipro
 miniupnpc
 minizip
 minuit2
@@ -1253,7 +1241,6 @@ ntfs-3g
 ntl
 ntp
 nu-smv
-nuget
 nut
 nuttcp
 nuvie
@@ -1354,7 +1341,6 @@ pg_top
 pgbouncer
 pgdbf
 pgpool-ii
-pgrouting
 phoon
 phplint
 phpmyadmin
@@ -1364,8 +1350,6 @@ picocom
 pidof
 pigz
 pinboard-notes-backup
-pinentry
-pinentry-mac
 pinfo
 pioneer
 pioneers
@@ -1548,7 +1532,6 @@ scalastyle
 scale2x
 scheme48
 schroedinger
-scons
 screen
 screenfetch
 scrollkeeper
@@ -1730,7 +1713,6 @@ torrentcheck
 torsocks
 tpp
 tractorgen
-trader
 trafshow
 tre
 tree
