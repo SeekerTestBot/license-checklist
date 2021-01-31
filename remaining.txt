@@ -54,7 +54,6 @@ argtable
 argus
 argus-clients
 argyll-cms
-arm-linux-gnueabihf-binutils
 arp-scan
 arp-sk
 arping
@@ -280,8 +279,6 @@ cryfs
 cscope
 cspice
 csshx
-csvkit
-ctags
 cuba
 cubelib
 cuetools
@@ -359,7 +356,6 @@ dnstracer
 docbook2x
 docutils
 docx2txt
-doitlive
 dosbox
 dosfstools
 doublecpp
@@ -385,7 +381,6 @@ dvdbackup
 dvdrtools
 dvorak7min
 dwarf
-dwarfutils
 dwatch
 dxflib
 dynamips
@@ -628,7 +623,6 @@ graph-tool
 graphene
 graphicsmagick
 graphite2
-grc
 grepcidr
 griffon
 gromacs
@@ -703,12 +697,10 @@ hyperestraier
 hyperspec
 i2p
 i2util
-i686-elf-binutils
 i686-elf-gcc
 iat
 icarus-verilog
 icbirc
-ice
 icecast
 icecream
 icemon
@@ -825,7 +817,6 @@ lcrack
 lcs
 ldapvi
 ldid
-ldns
 le
 ledit
 leela-zero
@@ -1079,12 +1070,10 @@ mapcrafter
 mapserver
 markdown
 marst
-masscan
 mawk
 maxima
 mboxgrep
 mcpp
-mcrypt
 md
 md5deep
 md5sha1sum
@@ -1169,7 +1158,6 @@ mpfr
 mpg321
 mpgtx
 mpi4py
-mplayer
 mpw
 mr
 mrtg
@@ -1289,7 +1277,6 @@ openvpn
 ophcrack
 orc
 orocos-kdl
-osc
 oscats
 osm-gps-map
 osm-pbf
@@ -1348,7 +1335,6 @@ physfs
 pianod
 picocom
 pidof
-pigz
 pinboard-notes-backup
 pinfo
 pioneer
@@ -1370,7 +1356,6 @@ pmdmini
 pms
 png++
 png2ico
-pngcheck
 pngcrush
 pngnq
 pod2man
@@ -1417,7 +1402,6 @@ putty
 puzzles
 pwgen
 pwnat
-pwncat
 pwsafe
 py2cairo
 pympress
@@ -1512,7 +1496,6 @@ rtf2latex2e
 rtmidi
 rtmpdump
 rtorrent
-rtptools
 runcocoa
 runit
 rush
@@ -1663,7 +1646,6 @@ taglib
 takt
 taktuk
 tal
-talloc
 tass64
 tcpflow
 tcpreplay
@@ -1756,7 +1738,6 @@ unp
 unpaper
 unrtf
 unum
-unyaffs
 unzip
 upx
 urdfdom
@@ -1861,7 +1842,6 @@ wwwoffle
 wxmac
 wy60
 x11vnc
-x86_64-elf-binutils
 x86_64-elf-gcc
 xa
 xaric
@@ -1929,5 +1909,4 @@ zshdb
 zssh
 zsxd
 zsync
-zyre
 zzz
