@@ -160,7 +160,6 @@ burp
 bvi
 bwa
 byobu
-byteman
 bzr-builder
 bzr-colo
 bzr-externals
@@ -335,7 +334,6 @@ dict
 diction
 dieharder
 diffutils
-digdag
 digitemp
 dirac
 direvent
@@ -357,7 +355,6 @@ docbook2x
 docutils
 docx2txt
 dosbox
-dosfstools
 doublecpp
 dovecot
 doxymacs
@@ -384,7 +381,6 @@ dwarf
 dwatch
 dxflib
 dynamips
-e2fsprogs
 e2tools
 easy-git
 easy-tag
@@ -392,7 +388,6 @@ ebook-tools
 ec2-ami-tools
 ec2-api-tools
 ecasound
-ecl
 ecm
 eg
 eiffelstudio
@@ -457,7 +452,6 @@ ffms2
 fibjs
 fifechan
 findent
-findutils
 fio
 fish
 flac
@@ -505,7 +499,6 @@ game-music-emu
 garmintools
 gauche
 gaul
-gawk
 gbdfed
 gcab
 gcal
@@ -540,7 +533,6 @@ ghex
 gibbslda
 gif2png
 giflib
-giflossy
 gifsicle
 ginac
 git-annex-remote-rclone
@@ -550,7 +542,6 @@ git-ftp
 git-gui
 git-hooks
 git-integration
-git-interactive-rebase-tool
 git-multipush
 git-now
 git-number
@@ -573,7 +564,6 @@ global
 globe
 gloox
 glslang
-glyr
 gmail-backup
 gmime
 gmsh
@@ -664,7 +654,6 @@ harbour
 hardlink
 hardlink-osx
 hashcash
-hdf5
 hdf5-mpi
 hdf5@1.8
 hdt
@@ -720,7 +709,6 @@ ifuse
 igv
 imagesnap
 imap-uw
-inadyn
 inetutils
 instalooter
 intercal
@@ -751,7 +739,6 @@ ivykis
 jags
 jailkit
 jam
-jasmin
 jbake
 jbigkit
 jboss-forge
@@ -881,7 +868,6 @@ libetonyek
 libev
 libexif
 libexosip
-libextractor
 libfaketime
 libffcall
 libflowmanager
@@ -1029,7 +1015,6 @@ lockrun
 log4c
 log4cpp
 log4shib
-logcheck
 logrotate
 logstalgia
 lolcode
@@ -1111,11 +1096,9 @@ miniupnpc
 minizip
 minuit2
 miruo
-mit-scheme
 mix-completion
 mjpegtools
 mk-configure
-mkclean
 mkcue
 mkhexgrid
 mksh
@@ -1163,7 +1146,6 @@ mr
 mrtg
 mscgen
 msdl
-msitools
 msktutil
 mspdebug
 mtoc
@@ -1218,7 +1200,6 @@ nmh
 no-more-secrets
 nopoll
 normalize
-notifiers
 npth
 npush
 nrg2iso
@@ -1280,9 +1261,7 @@ orocos-kdl
 oscats
 osm-gps-map
 osm-pbf
-osm2pgrouting
 osmfilter
-osmium-tool
 osmosis
 osslsigncode
 ossp-uuid
@@ -1406,7 +1385,6 @@ pwsafe
 py2cairo
 pympress
 pytouhou
-qca
 qd
 qdae
 qdbm
@@ -1473,10 +1451,8 @@ ripgrep-all
 rkflashtool
 rkhunter
 rlog
-rlwrap
 rmcast
 rnv
-robodoc
 robotfindskitten
 rofs-filtered
 rogue
@@ -1755,7 +1731,6 @@ v8@3.15
 valgrind
 vamp-plugin-sdk
 vassh
-vavrdiasm
 vbindiff
 vc4asm
 vcdimager
@@ -1864,7 +1839,6 @@ xmlsh
 xmltoman
 xmount
 xmp
-xorriso
 xpdf
 xqilla
 xrick
@@ -1893,7 +1867,6 @@ zboy
 zdelta
 zelda-roth-se
 zenity
-zim
 zinc
 zip
 zlog
