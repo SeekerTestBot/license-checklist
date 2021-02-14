@@ -59,7 +59,6 @@ arp-sk
 arping
 arpoison
 arss
-arx-libertatis
 asciinema
 asciiquarium
 asciitex
@@ -206,7 +205,6 @@ cgit
 cgvg
 chadwick
 charm
-charm-tools
 chcase
 check
 checkbashisms
@@ -262,7 +260,6 @@ cp2k
 cpanminus
 cpansearch
 cpio
-cpl
 cppcms
 cppi
 cppp
@@ -441,7 +438,6 @@ fcitx-remote-for-osx
 fcrackzip
 fdclone
 fdk-aac
-feedgnuplot
 fetchmail
 fex
 ffe
@@ -568,7 +564,6 @@ gmail-backup
 gmime
 gmsh
 gmt@5
-gnome-autoar
 gnome-common
 gnome-recipes
 gnome-themes-standard
@@ -576,7 +571,6 @@ gnu-apl
 gnu-barcode
 gnu-chess
 gnu-complexity
-gnu-getopt
 gnu-go
 gnu-shogi
 gnu-smalltalk
@@ -709,7 +703,6 @@ ifuse
 igv
 imagesnap
 imap-uw
-inetutils
 instalooter
 intercal
 intltool
@@ -780,7 +773,6 @@ kettle
 keystone
 khard
 kimwitu++
-kite
 knock
 known_hosts
 kstart
@@ -878,7 +870,6 @@ libftdi
 libftdi0
 libgadu
 libgaiagraphics
-libgdata
 libgee
 libgetdata
 libgfshare
@@ -981,7 +972,6 @@ libsvg-cairo
 libswiften
 libswiftnav
 libtar
-libtasn1
 libtecla
 libtorrent-rakshasa
 libu2f-host
@@ -1065,7 +1055,6 @@ md5sha1sum
 mdf2iso
 mdp
 mdr
-mdxmini
 mecab
 mecab-ipadic
 mecab-jumandic
@@ -1160,7 +1149,6 @@ mysql-client
 mysql-client@5.7
 mysql-connector-c++
 mysql-search-replace
-mysqltuner
 mytop
 nacl
 nagios
@@ -1255,7 +1243,6 @@ openslp
 opentsdb
 openttd
 openvpn
-ophcrack
 orc
 orocos-kdl
 oscats
@@ -1396,11 +1383,9 @@ qtads
 qtfaststart
 quasi88
 quazip
-quex
 quilt
 quotatool
 quvi
-qwt
 qwtpolar
 qxmpp
 ragel
@@ -1646,7 +1631,6 @@ texinfo
 texlab
 theora
 thrulay
-tig
 timedog
 timelimit
 timidity
@@ -1780,7 +1764,6 @@ walkmod
 wandio
 waon
 wasm-pack
-watch
 wbox
 wdc
 wdfs
@@ -1819,7 +1802,6 @@ wy60
 x11vnc
 x86_64-elf-gcc
 xa
-xaric
 xbee-comm
 xboard
 xcproj
