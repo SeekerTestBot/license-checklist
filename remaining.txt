@@ -33,7 +33,6 @@ amtterm
 analog
 angband
 anjuta
-ansible-cmdb
 ansible@2.8
 ant-contrib
 antiword
@@ -269,7 +268,6 @@ cracklib
 crash
 crm114
 cronolog
-crosstool-ng
 crunch
 cryfs
 cscope
@@ -401,7 +399,6 @@ enscript
 ent
 ephemeralpg
 epic5
-eprover
 epsilon
 epstool
 es
@@ -701,7 +698,6 @@ ifstat
 iftop
 ifuse
 igv
-imagesnap
 imap-uw
 instalooter
 intercal
@@ -710,7 +706,6 @@ ioke
 ioping
 ios-class-guard
 ip_relay
-ipbt
 ipcalc
 iperf
 iphotoexport
@@ -785,7 +780,6 @@ lasso
 lastpass-cli
 laszip
 latexdiff
-launch4j
 launchctl-completion
 lbzip2
 lcdf-typetools
@@ -866,7 +860,6 @@ libflowmanager
 libforensic1394
 libfreefare
 libfreehand
-libftdi
 libftdi0
 libgadu
 libgaiagraphics
@@ -898,7 +891,6 @@ libkate
 libkml
 libksba
 liblo
-liblockfile
 liblqr
 libltc
 liblunar
@@ -908,7 +900,6 @@ libmagic
 libmatroska
 libmemcached
 libmikmod
-libming
 libmms
 libmodbus
 libmodplug
@@ -933,7 +924,6 @@ libopendkim
 libopennet
 liboping
 libotr
-libowfat
 libpano
 libpcl
 libpgm
@@ -1246,7 +1236,6 @@ openvpn
 orc
 orocos-kdl
 oscats
-osm-gps-map
 osm-pbf
 osmfilter
 osmosis
@@ -1474,7 +1463,6 @@ sc68
 scala@2.11
 scalastyle
 scale2x
-scheme48
 schroedinger
 screen
 screenfetch
@@ -1577,7 +1565,6 @@ stk
 stm32flash
 stoken
 stone
-stone-soup
 stow
 streamripper
 strongswan
@@ -1650,7 +1637,6 @@ tofrodos
 tokyo-cabinet
 tokyo-dystopia
 topgit
-tor
 torrentcheck
 torsocks
 tpp
