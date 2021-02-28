@@ -3,7 +3,6 @@ abook
 abuse
 aces_container
 admesh
-adns
 adplug
 advancecomp
 advancemame
@@ -52,7 +51,6 @@ argp-standalone
 argtable
 argus
 argus-clients
-argyll-cms
 arp-scan
 arp-sk
 arping
@@ -115,7 +113,6 @@ beast
 bedops
 beecrypt
 bento4
-berkeley-db
 bgpdump
 bib-tool
 bibclean
@@ -280,7 +277,6 @@ cunit
 curlftpfs
 curseofwar
 cutter
-cvs
 cvsps
 cvsutils
 cvsync
@@ -473,8 +469,6 @@ freealut
 freedink
 freeradius-server
 freexl
-frei0r
-fribidi
 frobtads
 frotz
 fs-uae
@@ -504,10 +498,8 @@ gcc@9
 gconf
 gcutil
 gcviewer
-gdbm
 gdl
 gdmap
-geant4
 geeqie
 genders
 genext2fs
@@ -519,7 +511,6 @@ geoserver
 gerbv
 get_iplayer
 getxbook
-gexiv2
 gf-complete
 gforth
 ghex
@@ -589,7 +580,6 @@ gpcslots2
 gperf
 gplcver
 gpp
-gprof2dot
 gpsbabel
 gpsd
 gpsim
@@ -603,7 +593,6 @@ grap
 graph-tool
 graphene
 graphicsmagick
-graphite2
 grepcidr
 griffon
 gromacs
@@ -775,7 +764,6 @@ ktoblzcheck
 kvazaar
 kyoto-cabinet
 lablgtk
-lame
 lasso
 lastpass-cli
 laszip
@@ -882,14 +870,12 @@ libiconv
 libident
 libidl
 libidn
-libidn2
 libimobiledevice
 libinfinity
 libiptcdata
 libiscsi
 libkate
 libkml
-libksba
 liblo
 liblqr
 libltc
@@ -966,7 +952,6 @@ libtecla
 libtorrent-rakshasa
 libu2f-host
 libuecc
-libunistring
 libusb-compat
 libusbmuxd
 libvisio
@@ -1009,11 +994,9 @@ lsyncd
 ltc-tools
 ltl2ba
 lv
-lwtools
 lxsplit
 lynx
 lzlib
-lzo
 lzop
 m2c
 mac-robber
@@ -1120,7 +1103,6 @@ mpfr
 mpg321
 mpgtx
 mpi4py
-mpw
 mr
 mrtg
 mscgen
@@ -1178,7 +1160,6 @@ nmh
 no-more-secrets
 nopoll
 normalize
-npth
 npush
 nrg2iso
 nrpe
@@ -1192,13 +1173,10 @@ nut
 nuttcp
 nuvie
 nuxeo
-nvc
 nvi
 nxengine
 nyx
 objfw
-ocaml
-ocaml-findlib
 ocaml-num
 ocamlbuild
 ocrad
@@ -1297,7 +1275,6 @@ pioneers
 pip-completion
 pipebench
 pius
-pixman
 pjproject
 pkcrack
 pkgdiff
@@ -1444,7 +1421,6 @@ rsync
 rtags
 rtf2latex2e
 rtmidi
-rtmpdump
 rtorrent
 runcocoa
 runit
@@ -1492,15 +1468,12 @@ shadowsocks-libev
 shakespeare
 shapelib
 shc
-shellcheck
 shellinabox
-shellz
 shivavg
 shmcat
 shorten
 shtool
 siege
-sift
 silk
 simgrid
 simple-mtpfs
@@ -1516,7 +1489,6 @@ sleepwatcher
 sleuthkit
 sloccount
 slurm
-smake
 smartypants
 smpeg
 smpeg2
@@ -1768,7 +1740,6 @@ wiggle
 wiiuse
 winexe
 wiredtiger
-wireguard-tools
 wirouter_keyrec
 with-readline
 wla-dx
@@ -1816,8 +1787,6 @@ xsv
 xsw
 xtail
 xtitle
-xvid
-xz
 yacas
 yafc
 yamcha
