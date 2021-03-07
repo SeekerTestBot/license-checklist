@@ -18,7 +18,6 @@ afuse
 agedu
 aggregate
 aha
-aircrack-ng
 airspy
 alac
 aldo
@@ -135,7 +134,6 @@ blitzwave
 bnd
 bochs
 bogofilter
-bonnie++
 bookloupe
 bootloadhid
 bowtie2
@@ -163,7 +161,6 @@ bzr-rewrite
 bzr-upload
 bzr-xmloutput
 bzrtools
-c-kermit
 cabextract
 cabocha
 cafeobj
@@ -198,7 +195,6 @@ cflow
 cfv
 cgdb
 cgit
-cgvg
 chadwick
 charm
 chcase
@@ -213,7 +209,6 @@ chordii
 chromaprint
 cidrmerge
 cifer
-citus
 civl
 clamz
 classads
@@ -236,7 +231,6 @@ cmatrix
 cmix
 cmuclmtk
 cmusfm
-coccinelle
 codec2
 cogl
 collada-dom
@@ -288,7 +282,6 @@ daemonlogger
 daemontools
 dante
 daq
-darkhttpd
 darkice
 darkstat
 datamash
@@ -347,7 +340,6 @@ docutils
 docx2txt
 dosbox
 doublecpp
-dovecot
 doxymacs
 dps8m
 dropbox-uploader
@@ -433,16 +425,13 @@ fdclone
 fdk-aac
 fetchmail
 fex
-ffe
 ffind
 ffmpeg2theora
 ffmpegthumbnailer
 ffms2
 fibjs
 fifechan
-findent
 fio
-fish
 flac
 flac123
 flactag
@@ -470,7 +459,6 @@ freedink
 freeradius-server
 freexl
 frobtads
-frotz
 fs-uae
 fsh
 fsw
@@ -478,7 +466,6 @@ fswatch
 ftgl
 ftjam
 fuego
-fuse-emulator
 fuzzy-find
 gabedit
 gaffitter
@@ -550,7 +537,6 @@ gloox
 glslang
 gmail-backup
 gmime
-gmsh
 gmt@5
 gnome-common
 gnome-recipes
@@ -588,7 +574,6 @@ gputils
 gpx
 gqlplus
 gqview
-gradio
 grap
 graph-tool
 graphene
@@ -629,7 +614,6 @@ h264bitstream
 hackrf
 halibut
 handbrake
-haproxy
 harbour
 hardlink
 hardlink-osx
@@ -760,7 +744,6 @@ kimwitu++
 knock
 known_hosts
 kstart
-ktoblzcheck
 kvazaar
 kyoto-cabinet
 lablgtk
@@ -779,7 +762,6 @@ lcs
 ldapvi
 ldid
 le
-ledit
 leela-zero
 lensfun
 lesspipe
@@ -936,7 +918,6 @@ libsignal-protocol-c
 libsixel
 libsmf
 libsmi
-libspectrum
 libspiro
 libspnav
 libstatgrab
@@ -1054,7 +1035,6 @@ mimic
 minetest
 minidjvu
 minimodem
-miniupnpc
 minizip
 minuit2
 miruo
@@ -1072,7 +1052,6 @@ mmsrip
 mmv
 moc
 modgit
-modules
 mongroup
 monit
 monitoring-plugins
@@ -1210,7 +1189,6 @@ openmsx
 openslp
 opentsdb
 openttd
-openvpn
 orc
 orocos-kdl
 oscats
@@ -1242,9 +1220,7 @@ pazpar2
 pbc
 pbc-sig
 pcal
-pcb
 pce
-pcsc-lite
 pdf2json
 pdf2svg
 pdfcrack
@@ -1268,14 +1244,12 @@ physfs
 pianod
 picocom
 pidof
-pinboard-notes-backup
 pinfo
 pioneer
 pioneers
 pip-completion
 pipebench
 pius
-pjproject
 pkcrack
 pkgdiff
 pktanon
@@ -1291,7 +1265,6 @@ png2ico
 pngcrush
 pngnq
 pod2man
-podofo
 polyglot
 polyml
 ponysay
@@ -1344,11 +1317,9 @@ qdbm
 qjson
 qprint
 qrupdate
-qsoas
 qtads
 qtfaststart
 quasi88
-quazip
 quilt
 quotatool
 quvi
@@ -1444,7 +1415,6 @@ screen
 screenfetch
 scrollkeeper
 scrub
-sdcc
 sdedit
 sdf
 sdhash
@@ -1487,7 +1457,6 @@ skymaker
 slashem
 sleepwatcher
 sleuthkit
-sloccount
 slurm
 smartypants
 smpeg
@@ -1539,11 +1508,9 @@ stoken
 stone
 stow
 streamripper
-strongswan
 style-check
 sub2srt
 subnetcalc
-suite-sparse
 supermodel
 surfraw
 svdlibc
@@ -1556,7 +1523,6 @@ swig
 swig@3
 switch-lan-play
 sylpheed
-synscan
 sysbench
 sz81
 szip
@@ -1656,7 +1622,6 @@ unp
 unpaper
 unrtf
 unum
-unzip
 upx
 urdfdom
 urdfdom_headers
@@ -1707,7 +1672,6 @@ volt
 vorbis-tools
 vorbisgain
 voro++
-vowpal-wabbit
 vramsteg
 vrpn
 vstr
@@ -1766,14 +1730,12 @@ xcv
 xdelta
 xdot
 xhyve
-xidel
 xlispstat
 xlslib
 xml-coreutils
 xml2
 xmlcatmgr
 xmlformat
-xmlrpc-c
 xmlsh
 xmltoman
 xmount
