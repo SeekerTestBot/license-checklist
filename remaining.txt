@@ -8,7 +8,6 @@ advancecomp
 advancemame
 advancemenu
 advancescan
-aescrypt
 aescrypt-packetizer
 aespipe
 afflib
@@ -82,7 +81,6 @@ avfs
 aview
 avimetaedit
 avra
-avrdude
 awf
 aws-cfn-tools
 backupninja
@@ -401,9 +399,7 @@ exif
 exiftags
 exiftran
 exim
-exiv2
 exomizer
-expect
 ext2fuse
 ext4fuse
 faac
@@ -431,7 +427,6 @@ ffmpegthumbnailer
 ffms2
 fibjs
 fifechan
-fio
 flac
 flac123
 flactag
@@ -559,7 +554,6 @@ goocanvas
 google-sql-tool
 goolabs
 gor
-gource
 gpa
 gpatch
 gpcslots2
@@ -580,7 +574,6 @@ graphene
 graphicsmagick
 grepcidr
 griffon
-gromacs
 groovyserv
 growly
 grsync
@@ -690,7 +683,6 @@ ircii
 ironcli
 irrlicht
 irssi
-iso-codes
 ispell
 isync
 itex2mml
@@ -763,7 +755,6 @@ ldapvi
 ldid
 le
 leela-zero
-lensfun
 lesspipe
 lft
 lgogdownloader
@@ -824,7 +815,6 @@ libetonyek
 libev
 libexif
 libexosip
-libfaketime
 libffcall
 libflowmanager
 libforensic1394
@@ -936,7 +926,6 @@ libuecc
 libusb-compat
 libusbmuxd
 libvisio
-libvoikko
 libwandevent
 libwbxml
 libwmf
@@ -971,7 +960,6 @@ lrdf
 lrzip
 lrzsz
 lsdvd
-lsyncd
 ltc-tools
 ltl2ba
 lv
@@ -1058,7 +1046,6 @@ monitoring-plugins
 monkeysphere
 montage
 moon-buggy
-mosh
 mosml
 most
 movgrab
@@ -1113,7 +1100,6 @@ ndiff
 ne
 neatvi
 negfix8
-neon
 neopop-sdl
 nesc
 nestopia-ue
@@ -1497,9 +1483,6 @@ ssldump
 sslmate
 ssss
 sstp-client
-stanford-corenlp
-stanford-ner
-stanford-parser
 star
 stgit
 stk
@@ -1510,7 +1493,6 @@ stow
 streamripper
 style-check
 sub2srt
-subnetcalc
 supermodel
 surfraw
 svdlibc
@@ -1695,7 +1677,6 @@ webalizer
 webarchiver
 webfs
 webkit2png
-weboob
 when
 whitedb
 widelands
@@ -1776,7 +1757,6 @@ zsh
 zsh-completions
 zsh-history-substring-search
 zsh-lovers
-zsh-navigation-tools
 zshdb
 zssh
 zsxd
