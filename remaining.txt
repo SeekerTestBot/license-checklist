@@ -442,7 +442,6 @@ flvmeta
 flvstreamer
 fon-flash-cli
 fondu
-fontforge
 ford
 format-udf
 fortune
@@ -487,7 +486,6 @@ genders
 genext2fs
 gengetopt
 genstats
-geoip
 geos
 geoserver
 gerbv
@@ -505,7 +503,6 @@ git-annex-remote-rclone
 git-bug
 git-crypt
 git-ftp
-git-gui
 git-hooks
 git-integration
 git-multipush
@@ -570,7 +567,6 @@ gqlplus
 gqview
 grap
 graph-tool
-graphene
 graphicsmagick
 grepcidr
 griffon
@@ -579,7 +575,6 @@ growly
 grsync
 grv
 gsar
-gsl
 gsmartcontrol
 gssdp
 gstreamermm
@@ -601,12 +596,9 @@ guichan
 guile@2
 gupnp-av
 gupnp-tools
-gzip
 gzrt
 h264bitstream
-hackrf
 halibut
-handbrake
 harbour
 hardlink
 hardlink-osx
@@ -737,7 +729,6 @@ knock
 known_hosts
 kstart
 kvazaar
-kyoto-cabinet
 lablgtk
 lasso
 lastpass-cli
@@ -914,7 +905,6 @@ libstatgrab
 libstfl
 libstrophe
 libstxxl
-libsvg
 libsvg-cairo
 libswiften
 libswiftnav
@@ -942,7 +932,6 @@ lightning
 lincity-ng
 link-grammar
 linklint
-links
 livestreamer
 lm4tools
 locateme
@@ -1310,7 +1299,6 @@ quilt
 quotatool
 quvi
 qwtpolar
-qxmpp
 ragel
 rancid
 randomize-lines
@@ -1374,7 +1362,6 @@ rrdtool
 rsnapshot
 rssh
 rsstail
-rsync
 rtags
 rtf2latex2e
 rtmidi
@@ -1404,11 +1391,6 @@ scrub
 sdedit
 sdf
 sdhash
-sdl2_gfx
-sdl2_image
-sdl2_mixer
-sdl2_net
-sdl2_ttf
 sdl_gfx
 sdl_net
 sdl_rtf
@@ -1608,7 +1590,6 @@ upx
 urdfdom
 urdfdom_headers
 urh
-uriparser
 uru
 urweb
 usbredir
